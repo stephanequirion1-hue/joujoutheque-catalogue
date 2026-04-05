@@ -1,0 +1,11 @@
+{
+  "name": "joujoutheque-catalogue",
+  "version": "1.0.0",
+  "description": "Export du catalogue de jouets depuis Dataverse vers JSON statique",
+  "scripts": {
+    "export": "node scripts/export-catalogue.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}

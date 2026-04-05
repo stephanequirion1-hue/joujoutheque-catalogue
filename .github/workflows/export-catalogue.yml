@@ -1,0 +1,62 @@
+name: Export catalogue Joujouthèque
+
+on:
+  schedule:
+    - cron: '0 6 * * *' # Chaque jour à 6h UTC (2h du matin EST)
+  workflow_dispatch: # Permet de lancer manuellement
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - run: npm install
+
+      - name: Export catalogue depuis Dataverse
+        env:
+          TENANT_ID: ${{ secrets.TENANT_ID }}
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          DATAVERSE_URL: ${{ secrets.DATAVERSE_URL }}
+        run: npm run export
+
+      - name: Commit et push catalogue
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/
+          git diff --staged --quiet || git commit -m "Mise à jour du catalogue $(date -u +%Y-%m-%d)"
+          git push
+
+  deploy:
+    needs: export
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Pull latest changes
+        run: git pull origin main
+
+      - uses: actions/configure-pages@v4
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public/
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
