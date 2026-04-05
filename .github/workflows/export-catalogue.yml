@@ -7,18 +7,16 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 jobs:
-  export:
+  export-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '22'
 
       - run: npm install
 
@@ -30,33 +28,28 @@ jobs:
           DATAVERSE_URL: ${{ secrets.DATAVERSE_URL }}
         run: npm run export
 
-      - name: Commit et push catalogue
+      - name: Deploy vers gh-pages
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/
-          git diff --staged --quiet || git commit -m "Mise à jour du catalogue $(date -u +%Y-%m-%d)"
-          git push
 
-  deploy:
-    needs: export
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-        with:
-          ref: main
+          # Copier le contenu public
+          cp -r public /tmp/public-output
 
-      - name: Pull latest changes
-        run: git pull origin main
+          # Créer ou checkout la branche gh-pages
+          git fetch origin gh-pages || true
+          if git rev-parse --verify origin/gh-pages >/dev/null 2>&1; then
+            git checkout gh-pages
+          else
+            git checkout --orphan gh-pages
+            git rm -rf .
+          fi
 
-      - uses: actions/configure-pages@v4
+          # Remplacer le contenu
+          rm -rf *
+          cp -r /tmp/public-output/* .
 
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public/
-
-      - id: deployment
-        uses: actions/deploy-pages@v4
+          # Commit et push
+          git add -A
+          git diff --staged --quiet || git commit -m "Catalogue mis à jour $(date -u +%Y-%m-%d)"
+          git push origin gh-pages
