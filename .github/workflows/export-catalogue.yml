@@ -38,6 +38,7 @@ jobs:
 
           # Créer ou checkout la branche gh-pages
           git fetch origin gh-pages || true
+          git checkout -- .
           if git rev-parse --verify origin/gh-pages >/dev/null 2>&1; then
             git checkout gh-pages
           else
