@@ -40,6 +40,7 @@ async function fetchInventaire(token) {
     'joujou_contenudujouet',
     'joujou_etatdujouet',
     'joujou_photojeu_url',
+    'joujou_datedecreation',
   ].join(',');
 
   const filter = 'statecode eq 0';
@@ -67,6 +68,53 @@ async function fetchInventaire(token) {
   }
 
   return records;
+}
+
+async function fetchMouvementsActifs(token) {
+  const select = [
+    'joujou_mouvementid',
+    '_joujou_jouetemprunte_value',
+    'joujou_datederetour',
+    'joujou_datedelemprunt',
+  ].join(',');
+
+  // 760800001 = Emprunt (actif)
+  const filter = "statecode eq 0 and joujou_etatdumouvement eq 760800001";
+  let records = [];
+  let url = `${DATAVERSE_URL}/api/data/v9.2/joujou_mouvements?$select=${select}&$filter=${filter}`;
+
+  while (url) {
+    const res = await fetch(url, {
+      headers: {
+        Authorization: `Bearer ${token}`,
+        'OData-MaxVersion': '4.0',
+        'OData-Version': '4.0',
+        Prefer: 'odata.maxpagesize=1000',
+      },
+    });
+
+    if (!res.ok) {
+      const text = await res.text();
+      throw new Error(`Dataverse mouvements error ${res.status}: ${text}`);
+    }
+
+    const data = await res.json();
+    records = records.concat(data.value);
+    url = data['@odata.nextLink'] || null;
+  }
+
+  // Index par inventaire ID pour lookup rapide
+  const map = {};
+  for (const m of records) {
+    const jouetId = m._joujou_jouetemprunte_value;
+    if (jouetId) {
+      map[jouetId] = {
+        date_emprunt: m.joujou_datedelemprunt || null,
+        date_retour: m.joujou_datederetour || null,
+      };
+    }
+  }
+  return map;
 }
 
 async function downloadPhoto(token, id) {
@@ -107,18 +155,25 @@ function stripHtml(html) {
     .trim();
 }
 
-function mapRecord(record, photoPath) {
+function mapRecord(record, photoPath, mouvement) {
   const etat = record.joujou_etatdujouet;
   const disponible = etat === null || etat === 760800000; // Retour = disponible
 
-  return {
+  const result = {
     id: record.joujou_identifiantjouet || null,
     nom: record.joujou_nom || '',
     categorie: CATEGORIE_MAP[record.joujou_categoriedejeux] || null,
     contenu: stripHtml(record.joujou_contenudujouet),
     disponible,
     photo: photoPath,
+    date_acquisition: record.joujou_datedecreation ? record.joujou_datedecreation.split('T')[0] : null,
   };
+
+  if (!disponible && mouvement) {
+    result.date_retour_prevue = mouvement.date_retour ? mouvement.date_retour.split('T')[0] : null;
+  }
+
+  return result;
 }
 
 async function main() {
@@ -130,6 +185,9 @@ async function main() {
 
   const records = await fetchInventaire(token);
   console.log(`${records.length} jouets trouvés.`);
+
+  const mouvements = await fetchMouvementsActifs(token);
+  console.log(`${Object.keys(mouvements).length} emprunts actifs.`);
 
   // Prepare output directories
   const publicDir = path.join(__dirname, '..', 'public');
@@ -147,7 +205,8 @@ async function main() {
       photoPath = await downloadPhoto(token, r.joujou_inventaireid);
     }
 
-    jouets.push(mapRecord(r, photoPath));
+    const mouvement = mouvements[r.joujou_inventaireid] || null;
+    jouets.push(mapRecord(r, photoPath, mouvement));
 
     if ((i + 1) % 100 === 0) {
       console.log(`  ${i + 1}/${records.length} traités...`);
