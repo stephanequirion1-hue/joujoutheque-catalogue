@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-05T13:25:15.521Z",
-  "total": 995,
-  "disponibles": 772,
+  "derniere_mise_a_jour": "2026-04-10T20:00:45.373Z",
+  "total": 1006,
+  "disponibles": 782,
   "jouets": [
     {
       "id": "0085",
@@ -496,7 +496,7 @@
       "nom": "battle ship",
       "categorie": "Développement motricité fine",
       "contenu": "58 pions blanc\n38 pions rouge¸\n5 bateau gris",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -640,7 +640,7 @@
       "nom": "Blocs en fête",
       "categorie": "Développement motricité fine",
       "contenu": "- 14 cartes numérotées\n- 36 cartes indices\n- 11 cartes construction\n- 15 blocs en bois\n- 46 jetons points\n- 1 jeton premier joueur\n- règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -668,6 +668,14 @@
       "photo": null
     },
     {
+      "id": "1010",
+      "nom": "Bluffer",
+      "categorie": "Développement social",
+      "contenu": "- plateau de jeu\n\n- écran\n\n- 2 jeux de cartes\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
+      "disponible": true,
+      "photo": null
+    },
+    {
       "id": "0953",
       "nom": "Boggle",
       "categorie": "Développement cognitif",
@@ -689,6 +697,14 @@
       "categorie": "Développement motricité fine",
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
       "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1009",
+      "nom": "Bora Fruta",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
+      "disponible": false,
       "photo": null
     },
     {
@@ -800,7 +816,7 @@
       "nom": "caisse enregistreuse",
       "categorie": "Développement social",
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 15 argents de papier ( 10X 1.00$ - 3X 5.00$ - 1 X 10.00$ - 1X 20.00$ )\n\n- 1 carte de crédit\n\n- 3 légumes ( oignions ,tomate ,piments,citron)\n\n- 1 panier\n\n- 1 clef\n\n- 6 billets  (Martin Messier)",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -1020,6 +1036,14 @@
       "photo": null
     },
     {
+      "id": "1003",
+      "nom": "casse- Tête 30 morceaux",
+      "categorie": "Développement motricité fine",
+      "contenu": "30 morceaux \nimage",
+      "disponible": true,
+      "photo": null
+    },
+    {
       "id": "0567",
       "nom": "casse tête chinois",
       "categorie": "Développement motricité fine",
@@ -1136,6 +1160,14 @@
       "nom": "Casse-tête : Club Penguin",
       "categorie": "Développement motricité fine",
       "contenu": "-100 morceaux",
+      "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1004",
+      "nom": "casse-tête 100 morceaux, le système solaire",
+      "categorie": "Développement motricité fine",
+      "contenu": "100 morceaux\naffiche\nlivre explicatif",
       "disponible": true,
       "photo": null
     },
@@ -1637,7 +1669,7 @@
     },
     {
       "id": "0791",
-      "nom": "catan",
+      "nom": "Catan",
       "categorie": "Développement motricité fine",
       "contenu": "30 tuiles de terrain, foret 6, pré 6, champs 6, colline 5, montagne 5, désert 2\n6 piece de cadre avec 9 port\n95 carte de ressources (19 chaque type)\nbois, laine blé, argile, minerai\n25 carte développement, chevalier 14, progrès 6, point de victoire 5 \n4 fiche de couts de constructions, 2 fiche spécial route de commerciale et armée puissante 2 sabots, 6 boites de rangement pour figurine, 16 ville 20 colonie 60 route, 2 dées rouge et jaune 1 pions voleurs, 2 pions menhir, 84 lettre de change, 14 jetons catan 1 fiche guildes 1 plateau de jeu réversible 19 jetons pousse pousse",
       "disponible": true,
@@ -2676,6 +2708,14 @@
       "photo": null
     },
     {
+      "id": "1001",
+      "nom": "Cranium Conga",
+      "categorie": "Développement cognitif",
+      "contenu": "- 6 palettes de points\n\n- 96 marqueurs de points\n\n- cartes conga\n\n- Le conga ( besoin de 3 piles AA )",
+      "disponible": true,
+      "photo": null
+    },
+    {
       "id": "0590",
       "nom": "Cranium le summum",
       "categorie": "Développement cognitif",
@@ -2856,7 +2896,7 @@
       "nom": "Deluxe Scramble!",
       "categorie": "Développement motricité fine",
       "contenu": "-18 pièces vertes\n\n-18 pièces rouges\n\n-Plateforme de jeu\n\n-2 plaques jaunes de jeu \"Junior\"\n\n-2 tiroirs + 1 couvercle",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -3264,6 +3304,14 @@
       "nom": "Fais-moi un dessin",
       "categorie": "Développement affectif",
       "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes",
+      "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1006",
+      "nom": "Fais-moi un dessin",
+      "categorie": "Développement social",
+      "contenu": "- 150 cartes de jeu\n\n- 1 crayon à encre sèche\n\n- 1 tableau blanc\n\n- instructions",
       "disponible": true,
       "photo": null
     },
@@ -3872,7 +3920,7 @@
       "nom": "Hop-là banana",
       "categorie": "Développement motricité fine",
       "contenu": "- 1 singe sauteur\n\n- 12 bananes\n\n- 2 dés, un avec image\n\n- 1 base de jeu\n\n- instruction\n\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -4016,7 +4064,7 @@
       "nom": "Jeu de la boîte à lunch",
       "categorie": "Développement cognitif",
       "contenu": "- 4 plateaux casse-tête de 2 morceaux chaques\n\n- 24 cartes produits\n\n- instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -4384,7 +4432,7 @@
       "nom": "Kidoozie: Tumbling Tower",
       "categorie": "Développement motricité fine",
       "contenu": "-1 dessus mauve\n-1 dessous bleu\n-6 verres assemblables (rose, orange, jaune, vert foncé, vert pâle, bleu)\n-1 boule orange",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -4528,6 +4576,14 @@
       "nom": "La fabrique à sucre",
       "categorie": "Développement cognitif",
       "contenu": "- A compléter",
+      "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1005",
+      "nom": "La forêt Enchantée",
+      "categorie": "Développement social",
+      "contenu": "- 1 plateau de jeu\n\n- 13 cartes trésors \n\n- 13 arbres en plastique  / plaquettes trésors\n\n- 6 pions\n\n- 2 dés \n\n- Règles du jeu",
       "disponible": true,
       "photo": null
     },
@@ -5028,6 +5084,14 @@
       "photo": null
     },
     {
+      "id": "1011",
+      "nom": "LOL Le jeu :)",
+      "categorie": "Développement social",
+      "contenu": "- 88 Cartes Sketchs vertes et rouges\n\n- 11 Cartes concept Jaunes\n\n- 1 Carte censurée/fin noire\n\n- 4 plateaux d'équipes\n\n- instructions",
+      "disponible": true,
+      "photo": null
+    },
+    {
       "id": "0448",
       "nom": "LOL Surprise Coffret de 8 Puzzle",
       "categorie": "Développement cognitif",
@@ -5168,7 +5232,7 @@
       "nom": "Magic maze",
       "categorie": "Développement social",
       "contenu": "24 tuiles centre commerciale\n4 pions héros; jaune, vert, mauve, orange\n9 tuiles actions 5 double-face pour 2 à 8 joueur\n7 tuiles action pour 1 joueur\n1 sablier\n1 pion ‘’fais quelque chose!'' → rouge\n1 tuile vole\nrèglement",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -5344,6 +5408,14 @@
       "nom": "Memory Match Game - Paw Patrol",
       "categorie": "Développement mémoire",
       "contenu": "- 72 cartes à jouer\n\n- 1 rack bleu",
+      "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1002",
+      "nom": "Mentalogy",
+      "categorie": "Développement cognitif",
+      "contenu": "- 26 cartes bleu\n\n- 30 cartes vertes\n\n- 26 cartes jaunes\n\n- 26 cartes rouges\n\n- 4 pions cerveau\n\n- 1 flèche, 1 sablier, 1 plateau de jeu, instructions",
       "disponible": true,
       "photo": null
     },
@@ -5696,7 +5768,7 @@
       "nom": "nainporte quoi!",
       "categorie": "Développement social",
       "contenu": "150 carte de jeux\nbloc de feuille de pointage\nrègle\nun nain squishy",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -6120,7 +6192,7 @@
       "nom": "Placote: La pêche aux sons",
       "categorie": "Développement du langage",
       "contenu": "-1 canne à pêche\n\n-1 planche de jeu\n\n-6 planches à poissons\n\n-4 poissons de chaque couleurs\n(Mauve, Mauve foncé, Rose, Fushia, Vert pâle, Vert, Bleu foncé, Bleu pâle, Turquoise, Orange foncé, Orange, Jaune)\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -6168,7 +6240,7 @@
       "nom": "Placote: Le casse-phrase",
       "categorie": "Développement du langage",
       "contenu": "-4 planches de jeu\n\n-8 morceaux \"Sujet\" \n\n-8 morceaux \"Verbe\"\n\n-12 morceaux \"Complément\"\n\n-Règles du jeu\n\n \n\n*8 cartes vierges",
-      "disponible": true,
+      "disponible": false,
       "photo": null
     },
     {
@@ -7024,7 +7096,7 @@
       "nom": "Spike the fine motor Hedgehog",
       "categorie": "Développement motricité fine",
       "contenu": "-3 mauve\n-3 orange\n-3 rouge\n-3 vertes\n-1 animal\n-Règle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null
     },
     {
@@ -7892,10 +7964,26 @@
       "photo": null
     },
     {
+      "id": "1008",
+      "nom": "Yahtzee",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 Gobelet\n\n-  5 Dés\n\n-  Feuilles de scores\n\n- 1 crayon à encre sèche\n\n- règle du jeu",
+      "disponible": true,
+      "photo": null
+    },
+    {
       "id": "0674",
       "nom": "Yogi",
       "categorie": "Développement physique",
       "contenu": "-54 cartes tout terrain\n-2 porte-cartes\n-Règle du jeu",
+      "disponible": true,
+      "photo": null
+    },
+    {
+      "id": "1007",
+      "nom": "yum",
+      "categorie": "Développement cognitif",
+      "contenu": "- 5 dés\n\n- 1 gobelet\n\n- 5 feuilles de pointage\n\n- 2 crayons à encre sèche\n\n- Règle du jeu",
       "disponible": true,
       "photo": null
     },
