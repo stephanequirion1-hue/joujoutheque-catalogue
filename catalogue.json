@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-10T20:39:42.492Z",
+  "derniere_mise_a_jour": "2026-04-11T08:02:11.805Z",
   "total": 1006,
-  "disponibles": 782,
+  "disponibles": 783,
   "jouets": [
     {
       "id": "0085",
@@ -8837,10 +8837,9 @@
       "nom": "twister",
       "categorie": "Développement physique",
       "contenu": "un tourniquet + buse\nun tapis\ninstructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-08",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2025-07-08"
     },
     {
       "id": "0082",
