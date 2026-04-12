@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-11T08:02:11.805Z",
+  "derniere_mise_a_jour": "2026-04-12T08:31:50.295Z",
   "total": 1006,
-  "disponibles": 783,
+  "disponibles": 778,
   "jouets": [
     {
       "id": "0085",
@@ -1560,9 +1560,10 @@
       "nom": "Casse-tête 8*100 morceaux",
       "categorie": "Développement motricité fine",
       "contenu": "casse-tête 8*100 morceaux",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-05"
+      "date_acquisition": "2026-02-05",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0507",
@@ -1931,9 +1932,10 @@
       "nom": "Caty mini",
       "categorie": "Développement motricité fine",
       "contenu": "- 4 Planches de jeu\n\n- 4 Bobines en carton\n\n- 50 Jetons\n\n- 20 Tuiles meubles\n\n- 4 Ficelles\n\n- 1 Chat\n\n- Règles du jeu\n\n \n- NB : manque une carte tuiles, toutes les personnes qui ont emprunté ont été cntacté et personne ne l'a chez eux, se joue sans la carte. SCP",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-30"
+      "date_acquisition": "2024-10-30",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0411",
@@ -1997,9 +1999,10 @@
       "nom": "Chasseurs en herbe",
       "categorie": "Développement social",
       "contenu": "- 42 cartes papillon\n- 48 cartes abeilles\n- 4 jetons filet\n- 14 cartes herbes papillon\n- 16 cartes herbes abeille",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0694",
@@ -3778,10 +3781,9 @@
       "nom": "Fait moi un mime familial",
       "categorie": "Développement cognitif",
       "contenu": "- 2 dés\n- 45 cartes\n- * noter que les instructions ce trouve derrière la boite.",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-19",
-      "date_retour_prevue": "2026-04-12"
+      "date_acquisition": "2025-06-19"
     },
     {
       "id": "0467",
@@ -4460,9 +4462,10 @@
       "nom": "Il est où le minou?",
       "categorie": "Développement mémoire",
       "contenu": "-1 planche en bois (Tapis) \n\n-1 morceau de bois vert (Lit)\n\n-1 oreiller bleu (Carré de tissus)\n\n-1 doudou rouge (Rectangle de tissus)\n\n-1 dé\n\n-1 chat \n\n-34 cartes photos\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0144",
@@ -4505,9 +4508,10 @@
       "nom": "J'apprends à lire",
       "categorie": "Développement du langage",
       "contenu": "-15 feuilles\n\n-3 pièces par lettre d'alphabet\n\n-Plateau de jeu/rangement",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-30"
+      "date_acquisition": "2024-01-30",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0935",
@@ -4688,9 +4692,10 @@
       "nom": "Jeu de poche (1 trou)",
       "categorie": "Développement physique",
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0784",
@@ -7718,9 +7723,10 @@
       "nom": "Réponds-moi en images!",
       "categorie": "Développement cognitif",
       "contenu": "-78 tuiles images\n-2 maisons en 3D (Les deux toits étaient collés ensemble..)\n-1 sac tissu\n-1 surface de jeu\n-1 pion jaune\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0533",
@@ -7799,10 +7805,9 @@
       "nom": "Rush Hour",
       "categorie": "Développement cognitif",
       "contenu": "-40 cartes\n\n-12 voitures\n\n-4 camions\n\n-Grille de jeu\n\n-Sac de voyage\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-12"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0843",
@@ -8002,7 +8007,8 @@
       "contenu": "- 30 cartes illustrées\n- Guide à l'intention des parents.",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-05-02"
     },
     {
       "id": "0422",
