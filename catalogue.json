@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-14T10:43:14.845Z",
-  "total": 1006,
-  "disponibles": 781,
+  "derniere_mise_a_jour": "2026-04-15T10:43:11.741Z",
+  "total": 1010,
+  "disponibles": 784,
   "jouets": [
     {
       "id": "0085",
@@ -17,10 +17,9 @@
       "nom": "13 casse-tête 2 morceaux",
       "categorie": "Développement cognitif",
       "contenu": "13 casse-tête 2 morceaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-04-15"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0547",
@@ -835,9 +834,10 @@
       "nom": "Braintopia",
       "categorie": "Développement cognitif",
       "contenu": "- 90 cartes de jeu\n- 24 pièces de cerveau",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0482",
@@ -3529,7 +3529,8 @@
       "contenu": "- 1 but avec filet\n- 1 ballon de soccer\n-",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0240",
@@ -4001,13 +4002,23 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "1014",
+      "nom": "Fridas's Fruit fiesta game",
+      "categorie": "Développement motricité fine",
+      "contenu": "- 1 plateau de jeu forêt tropicale ( intégré à la boîte)\n\n- 1 Pince  Frida en forme d'oiseau\n\n- 26 bols à fruits en formes de lettres\n\n- 4 Cartes nid \n\n- 1 triple toupie",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-14"
+    },
+    {
       "id": "0709",
       "nom": "Frog steps",
       "categorie": "Développement physique",
       "contenu": "- 6 grenouilles\n- 24 cartes d'activité\n- instruction\n- 1 roulette",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-19"
+      "date_acquisition": "2025-06-19",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0246",
@@ -4358,10 +4369,9 @@
       "nom": "Hippos",
       "categorie": "Développement social",
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-03-02",
-      "date_retour_prevue": "2026-04-15"
+      "date_acquisition": "2024-03-02"
     },
     {
       "id": "0577",
@@ -5525,10 +5535,9 @@
       "nom": "Les aventuriers du rail",
       "categorie": "Développement social",
       "contenu": "1 plateau de jeu\n240 wagon ( 45 couleur: bleu, rouge, vert, jaune, et noir)\n142 cartes illustrées:\n110 cartes wagon:\n110 cartes 110 cartes wagon: ( 12 de chaque type: violet, blanc, bleu, jaune, orange, noir, rouge et vert et 14 locomotive multi color)\n30 cartes destination\nune carte de résumé, \nune carte ‘’chemin le plus long'\n5 marqueur de score ( 1 pour chaque joueur: bleu, rouge vert, jaune et noir)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-31",
-      "date_retour_prevue": "2026-04-06"
+      "date_acquisition": "2025-07-31"
     },
     {
       "id": "0365",
@@ -5789,10 +5798,9 @@
       "nom": "Lost Kitties",
       "categorie": "Développement social",
       "contenu": "-1 plateau de jeu\n\n-4 figurines\n\n-1 accessoire en plastique\n\n-12 jetons en carton\n\n-1 dé\n\n-30 cartes français\n\n-30 cartes anglais\n\n-1 pot de plastique",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-04-06"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0827",
@@ -6760,6 +6768,15 @@
       "date_acquisition": "2025-06-10"
     },
     {
+      "id": "1015",
+      "nom": "Passe Partout la boîte à devinettes",
+      "categorie": "Développement du langage",
+      "contenu": "- 60 cartes - devinettes\n\n- 1 support en bois",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-14"
+    },
+    {
       "id": "0556",
       "nom": "Passe-moi un sapin",
       "categorie": "Développement social",
@@ -6893,6 +6910,15 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2024-11-19"
+    },
+    {
+      "id": "1012",
+      "nom": "Piratologie",
+      "categorie": "Développement social",
+      "contenu": "- 5 Bateaux, 5 pirates\n\n- 1 plateau de jeu\n\n- 1 cagnotte Tête de mort\n\n- 1 roulette en forme de compas\n\n- 6 dés en tête de mort\n\n- 25 balise( Manque 1),50 pièces d'or,70 cartes Tête de mort",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-14"
     },
     {
       "id": "0267",
@@ -7471,7 +7497,8 @@
       "contenu": "complet",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-04"
+      "date_acquisition": "2025-03-04",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0108",
@@ -8179,9 +8206,10 @@
       "nom": "super skills",
       "categorie": "Développement social",
       "contenu": "120 cartes\n10 verres\n5 balles\n4 dés\n2 baguettes\n1 corde\n1 bandeau pour les yeux¸\n1 sablier (30 sec)¸\n1 marqueur, 1 tableau de scores effaçable",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0248",
@@ -8197,9 +8225,10 @@
       "nom": "Sushi go!",
       "categorie": "Développement social",
       "contenu": "-108 cartes\n\n- Règles",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-30"
+      "date_acquisition": "2024-01-30",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0640",
@@ -8243,9 +8272,10 @@
       "nom": "Taboo",
       "categorie": "Développement social",
       "contenu": "-212 cartes\n\n-L'avertisseur (Jaune)\n\n-Bloc-notes\n\n-1 Sablier\n\n-Guide du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0916",
@@ -8324,9 +8354,10 @@
       "nom": "Taxi",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau de jeu\n- 6 pions\n- 1 dé\n- 32 cartes destination\n- 8 cartes taxi\n- 7 barrières rouges\n- 5 cônes orange\n- 12 jetons sens unique",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0154",
@@ -8838,6 +8869,15 @@
       "date_acquisition": "2024-02-01"
     },
     {
+      "id": "1013",
+      "nom": "Twilight",
+      "categorie": "Développement social",
+      "contenu": "- 1 plateau\n\n- 135 cartes Twilight\n\n- 57 cartes scène\n\n- 2 dés\n\n- 8 Pions emblème de la famille Cullen\n\n- Bloc de papier \n\n- instructions",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-14"
+    },
+    {
       "id": "0724",
       "nom": "twister",
       "categorie": "Développement physique",
@@ -9007,7 +9047,8 @@
       "contenu": "Licorne",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-01-09"
+      "date_acquisition": "2025-01-09",
+      "date_retour_prevue": "2026-05-05"
     },
     {
       "id": "0778",
