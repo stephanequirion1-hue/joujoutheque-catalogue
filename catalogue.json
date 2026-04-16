@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-15T10:43:11.741Z",
-  "total": 1010,
-  "disponibles": 784,
+  "derniere_mise_a_jour": "2026-04-16T10:42:46.064Z",
+  "total": 1014,
+  "disponibles": 788,
   "jouets": [
     {
       "id": "0085",
@@ -3948,6 +3948,15 @@
       "date_acquisition": "2025-01-02"
     },
     {
+      "id": "1019",
+      "nom": "Forbidden desert thirst for survival version Anglaise",
+      "categorie": "Développement social",
+      "contenu": "49 cartes Tempête et Équipement\n48 marqueurs de sable\n24 tuiles Désert / Ruines\n6 pions aventuriers\n8 clips de niveau d'eau\n4 pièces de machine volante\n1 modèle de machine volante\n1 indicateur de tempête ( Mètre et support )\n1 livret de règles",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-15"
+    },
+    {
       "id": "0308",
       "nom": "Fort à construire",
       "categorie": "Développement physique",
@@ -4309,6 +4318,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-12"
+    },
+    {
+      "id": "1018",
+      "nom": "Hellapagos version anglaise",
+      "categorie": "Développement social",
+      "contenu": "- 1 planche de jeu\n\n- 91 cartes\n\n- 6 balles en bois\n\n- 3 marqueurs de ressources\n\n- 1 sac de tissus\n\n- 1 porte carte\n\n- règlements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-15"
     },
     {
       "id": "0293",
@@ -8305,6 +8323,15 @@
       "date_acquisition": "2025-10-06"
     },
     {
+      "id": "1016",
+      "nom": "Takenoko",
+      "categorie": "Développement social",
+      "contenu": "- 28 parcelles + 2 parcelles panda ,28 sections de Bambou vert, 26 sections de Bambou jaune, 24 sections de Bambou rose,\n\n- 19 irrigations , 9 aménagements + 3 extras grises\n\n- 46 cartes objectif, 4 plateaux individuels, \n8 jetons actions, 1 dé météo, 1 figurine Panda, 1 figurine Jardinier.\n1 livret de règles.",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-15"
+    },
+    {
       "id": "0165",
       "nom": "Tapis d'activité",
       "categorie": "Développement social",
@@ -8513,6 +8540,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-16"
+    },
+    {
+      "id": "1017",
+      "nom": "Tiny Towns version anglaise",
+      "categorie": "Développement social",
+      "contenu": "6 plateaux de ville ( grille 4X4 )\n           126 bâtiments ,90 cubes de ressources en bois ( bois ,blé, brique, verre, pierre. )\n            25 cartes Bâtiment, 15 cartes Monument, 15 cartes Ressource.\n           1 marqueur  Maître Bâtisseur ( marteau),1 bloc de score et 1 livret de règles",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-15"
     },
     {
       "id": "0715",
