@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-18T08:07:41.331Z",
+  "derniere_mise_a_jour": "2026-04-19T08:38:54.967Z",
   "total": 1015,
-  "disponibles": 789,
+  "disponibles": 787,
   "jouets": [
     {
       "id": "0085",
@@ -916,19 +916,19 @@
       "nom": "Caisse",
       "categorie": "Développement motricité fine",
       "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-05-09"
     },
     {
       "id": "0483",
       "nom": "caisse enregistreuse",
       "categorie": "Développement social",
-      "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 15 argents de papier ( 10X 1.00$ - 3X 5.00$ - 1 X 10.00$ - 1X 20.00$ )\n\n- 1 carte de crédit\n\n- 3 légumes ( oignions ,tomate ,piments,citron)\n\n- 1 panier\n\n- 1 clef\n\n- 6 billets  (Martin Messier)",
+      "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0512",
@@ -8425,9 +8425,10 @@
       "nom": "Téléphone à promener",
       "categorie": "Développement motricité fine",
       "contenu": "Téléphone à promener avec la corde",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-17"
+      "date_acquisition": "2025-04-17",
+      "date_retour_prevue": "2026-05-09"
     },
     {
       "id": "0096",
@@ -9009,7 +9010,8 @@
       "contenu": "- 1 vélo d'équilibre bleu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-05-09"
     },
     {
       "id": "0849",
