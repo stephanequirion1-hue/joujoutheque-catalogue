@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-19T08:38:54.967Z",
-  "total": 1015,
-  "disponibles": 787,
+  "derniere_mise_a_jour": "2026-04-20T11:06:30.796Z",
+  "total": 1017,
+  "disponibles": 790,
   "jouets": [
     {
       "id": "0085",
@@ -398,9 +398,10 @@
       "nom": "Ballon sauteur",
       "categorie": "Développement physique",
       "contenu": "-1 moyen ballon sauteur rouge",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-29"
+      "date_acquisition": "2024-01-29",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0800",
@@ -760,19 +761,19 @@
       "nom": "Bluffer",
       "categorie": "Développement social",
       "contenu": "- plateau de jeu\n\n- écran\n\n- 2 jeux de cartes\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0953",
       "nom": "Boggle",
       "categorie": "Développement cognitif",
       "contenu": "- 1 grille Boggle et couvercle\n- 15\n- 16 dés alphabétiques\n- 1 sablier\n- instructions\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-02",
-      "date_retour_prevue": "2026-04-12"
+      "date_acquisition": "2026-02-02"
     },
     {
       "id": "0553",
@@ -1287,9 +1288,10 @@
       "nom": "Casse-tête  Land of Dinosaurs",
       "categorie": "Développement motricité fine",
       "contenu": "36 morceaux",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-09"
+      "date_acquisition": "2026-01-09",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0230",
@@ -1557,10 +1559,9 @@
       "nom": "Casse-tête 8*100 morceaux",
       "categorie": "Développement motricité fine",
       "contenu": "casse-tête 8*100 morceaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-05",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2026-02-05"
     },
     {
       "id": "0507",
@@ -3245,10 +3246,9 @@
       "nom": "Défi Flip",
       "categorie": "Développement cognitif",
       "contenu": "- 40 cartes de défis\n- 4 cibles\n- règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-18",
-      "date_retour_prevue": "2026-04-12"
+      "date_acquisition": "2026-03-18"
     },
     {
       "id": "0861",
@@ -3863,7 +3863,8 @@
       "contenu": "- 4 paires de lunettes\n\n- 1 tapis de jeu\n\n- 11 bouts de nez\n\n- 24 cartes\n\n- instruction",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0384",
@@ -4402,6 +4403,15 @@
       "date_retour_prevue": "2026-04-27"
     },
     {
+      "id": "1021",
+      "nom": "Hitster Rock",
+      "categorie": "Développement social",
+      "contenu": "- 300 cartes de chansons Rock\n\n- 37 jetons Hitster",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-19"
+    },
+    {
       "id": "0281",
       "nom": "Hochet",
       "categorie": "Développement physique",
@@ -4460,9 +4470,10 @@
       "nom": "Hop la Banane 02",
       "categorie": "Développement motricité fine",
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0712",
@@ -4471,8 +4482,7 @@
       "contenu": "- 1 singe sauteur\n\n- 12 bananes\n\n- 2 dés, un avec image\n\n- 1 base de jeu\n\n- instruction\n\n-",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-19",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2025-06-19"
     },
     {
       "id": "0983",
@@ -4717,10 +4727,9 @@
       "nom": "Jeu de poche (1 trou)",
       "categorie": "Développement physique",
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0784",
@@ -5614,10 +5623,9 @@
       "nom": "Les têtes de noix",
       "categorie": "Développement du langage",
       "contenu": "-27 jetons feuilles\n\n-53 jetons noix\n\n-21 cartes \"Apprentis écureuils\"\n\n-21 cartes \"Écureuils aguerris\"\n\n-1 tableau correcteur\n\n-Règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-05-03"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0421",
@@ -6383,10 +6391,9 @@
       "nom": "Monsieur Gelato",
       "categorie": "Développement cognitif",
       "contenu": "-1 porte carte\n\n-48 cartes Bambini (bleues)\n\n-48 cartes Moderato (jaunes)\n\n-48 cartes fortissimo (rouges)\n\n-42 jetons M.Gelato\n\n-4 ensembles de jetons (16X4= 64 jetons)\n\n-1 chevalet (bleu)\n\n-4 cachettes( voitures Gelato)\n\n-Règlement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-05-03"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0039",
@@ -6801,6 +6808,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-04"
+    },
+    {
+      "id": "1022",
+      "nom": "Patchwork",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 plateau Chrono recto - verso, 2 plateaux couverture\n\n- 1 pion neutre, 2 pion chrono\n\n- 5 pièces de cuir\n\n- 1 tuile bonus\n\n- 33 pièces de tissu\n32 X 1 bouton, 12 X 5 boutons, 5 X 10 boutons, 1 X 20 boutons",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-19"
     },
     {
       "id": "0717",
@@ -7420,10 +7436,9 @@
       "nom": "Potato Man",
       "categorie": "Développement social",
       "contenu": "- 54 cartes : 14 rouges, 13 bleues, 12 vertes, 13 jaunes\n\n- 15 cartes Sacs",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-26",
-      "date_retour_prevue": "2026-05-03"
+      "date_acquisition": "2026-02-26"
     },
     {
       "id": "0382",
@@ -7849,9 +7864,10 @@
       "nom": "Rush Hour",
       "categorie": "Développement cognitif",
       "contenu": "-40 cartes\n\n-12 voitures\n\n-4 camions\n\n-Grille de jeu\n\n-Sac de voyage\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0843",
@@ -8086,9 +8102,10 @@
       "nom": "Soupe à la grenouille",
       "categorie": "Développement social",
       "contenu": "- 4 grenouilles ( bleue, verte, rouge, orange)\n\n- 1 sorcière\n\n- 1 livre\n\n- 1 balais\n\n- 1 chandelle\n\n- 1 potion\n\n- 1 citrouille\n\n- 1 globe\n\n- 1 chauve-souris \n\n- 4 supports\n\n- 4 maisons grenouilles\n\n- 1 chaudron\n\n- 6 jetons ingrédients\n\n- 4 cercles de protection",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-05-10"
     },
     {
       "id": "0319",
