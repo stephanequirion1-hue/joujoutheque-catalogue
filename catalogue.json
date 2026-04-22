@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-21T10:50:05.979Z",
-  "total": 1017,
-  "disponibles": 790,
+  "derniere_mise_a_jour": "2026-04-22T10:47:08.060Z",
+  "total": 1026,
+  "disponibles": 807,
   "jouets": [
     {
       "id": "0085",
@@ -189,10 +189,9 @@
       "nom": "Avalanche : Fruit Stand",
       "categorie": "Développement cognitif",
       "contenu": "-8 fraises\n\n-8 bananes\n\n-8 pommes vertes\n\n-8 oranges\n\n-8 raisins\n\n-2 pinces\n\n-1 présentoir avec affiche\n\n-1 roulette fléchée",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0170",
@@ -235,10 +234,9 @@
       "nom": "Avion patpatrouille",
       "categorie": "Développement social",
       "contenu": "- Avion pat patrouille",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-30",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2025-12-30"
     },
     {
       "id": "0962",
@@ -248,6 +246,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-06"
+    },
+    {
+      "id": "1029",
+      "nom": "Azul",
+      "categorie": "Développement social",
+      "contenu": "100 Tuiles en résine\n4 Plateaux de joueurs\n9 Fabrique\n4 Marqueurs de score\n1 Marqueur de premier joueur\n1 Sac en lin\n1 Règle de jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0634",
@@ -800,8 +807,7 @@
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-04-30"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0050",
@@ -1045,9 +1051,10 @@
       "nom": "Cariboo",
       "categorie": "Développement motricité fine",
       "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0580",
@@ -1986,10 +1993,9 @@
       "nom": "Charlie Biscuit",
       "categorie": "Développement cognitif",
       "contenu": "-1 plateau autocorrecteur\n\n- 24 tuiles de jeu\n\n- 1 livret de jeu avec règlement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0113",
@@ -2255,6 +2261,15 @@
       "date_acquisition": "2026-02-25"
     },
     {
+      "id": "1031",
+      "nom": "Citadelles",
+      "categorie": "Développement social",
+      "contenu": "27 cartes Personnage\n84 Cartes Quartier\n1 Couronne\n22 Pièces d'or\n27 Cartes Rôle\n5 Jetons Pouvoir\n8 Cartes Aide de jeu\nRèglements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0257",
       "nom": "Clé d'auto",
       "categorie": "Développement motricité fine",
@@ -2363,6 +2378,15 @@
       "date_acquisition": "2024-01-22"
     },
     {
+      "id": "1027",
+      "nom": "Colt Super Express",
+      "categorie": "Développement social",
+      "contenu": "9 cartes Train\n1 carte Premier Joueur\n28 cartes Action\n7 cartes extension Cheval\n4 cartes extra\n7 Meeples ( pions )\n \nrègles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0346",
       "nom": "Comme des bêtes 2",
       "categorie": "Développement du langage",
@@ -2379,6 +2403,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-03-23"
+    },
+    {
+      "id": "1026",
+      "nom": "Complots 2",
+      "categorie": "Développement social",
+      "contenu": "24 cartes jeux\n6 cartes les personnages\n2 cartes aide au jeu\n25 jetons argents\n6 jetons or \nrèglements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0176",
@@ -3155,10 +3188,9 @@
       "nom": "Croque-Noisette",
       "categorie": "Développement motricité fine",
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0554",
@@ -3439,6 +3471,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
+    },
+    {
+      "id": "1028",
+      "nom": "Dropple ( ker plunk) patpatrouille",
+      "categorie": "Développement motricité fine",
+      "contenu": "22 figurines de chiots\n1 dé\n1 tour ( 6 pièces)\ninstructions",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0880",
@@ -4169,19 +4210,19 @@
       "nom": "Globe terreste interractif",
       "categorie": "Développement cognitif",
       "contenu": "-Un globe avec avec avion interractif\n\n \n\n*Nécessite des piles incluses 4 fois AA",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0233",
       "nom": "Gobblet Gobblers",
       "categorie": "Développement social",
       "contenu": "4 barres constructions (2 rouge 2 vertes)\n\n6 gobelets bleus\n\n6 gobelets oranges\n\n1 carnet pour les règles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-04-24"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0272",
@@ -4265,6 +4306,15 @@
       "date_acquisition": "2025-05-22"
     },
     {
+      "id": "1030",
+      "nom": "Hanabi Grand Feux",
+      "categorie": "Développement social",
+      "contenu": "50 cartes  hanabi original\n10 cartes multicolores\n19 cartes noires\n5 porte cartes\n1 sac\n8 jetons Indice\n3 tuiles erreur\n6 tuiles bonus\n1 aide de jeu\n1 règle du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0378",
       "nom": "Happy family",
       "categorie": "Développement cognitif",
@@ -4298,8 +4348,7 @@
       "contenu": "-6 bandeaux\n-16 badge de scone\n-1 sablier\n-69 cartes illustrées\n-3 cartes de questions\n-Règles du jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0223",
@@ -4387,10 +4436,9 @@
       "nom": "Hippos",
       "categorie": "Développement social",
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-03-02",
-      "date_retour_prevue": "2026-05-07"
+      "date_acquisition": "2024-03-02"
     },
     {
       "id": "0577",
@@ -4531,6 +4579,15 @@
       "date_acquisition": "2024-01-22"
     },
     {
+      "id": "1025",
+      "nom": "Jaipur",
+      "categorie": "Développement social",
+      "contenu": "55 cartes marchandise et de chameaux\n38 jetons marchandises\n1 jeton chameau\n18 jetons bonus\n3 sceaux d'Excellence\nfeuillet de règlements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0997",
       "nom": "J'apprends à arrêter la tétine Life Skills",
       "categorie": "Développement physique",
@@ -4591,10 +4648,9 @@
       "nom": "Jenga",
       "categorie": "Développement motricité fine",
       "contenu": "54 morceaux de bois",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-13",
-      "date_retour_prevue": "2026-04-24"
+      "date_acquisition": "2025-03-13"
     },
     {
       "id": "0677",
@@ -4693,7 +4749,8 @@
       "contenu": "- 72 cartes",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-28"
+      "date_acquisition": "2025-05-28",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0455",
@@ -4985,6 +5042,15 @@
       "date_acquisition": "2024-12-18"
     },
     {
+      "id": "1023",
+      "nom": "Just One",
+      "categorie": "Développement du langage",
+      "contenu": "110 cartes\n7 chevalets\n7 chiffonnettes\n3 crayons à encre sèche\nfeuillet de règles",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0714",
       "nom": "Kabammm",
       "categorie": "Développement cognitif",
@@ -5025,10 +5091,9 @@
       "nom": "Ker Plunk",
       "categorie": "Développement motricité fine",
       "contenu": "-Base\n-2 tubes\n-28 bâtonnets \n-32 billes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2025-12-21"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0429",
@@ -5912,9 +5977,10 @@
       "nom": "Lucky Numbers",
       "categorie": "Développement cognitif",
       "contenu": "-80 tuiles de trèfles\n\n-4 plateaux\n\n-2 Règles du jeu : mode solo et 2-4 joueurs",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0423",
@@ -6670,9 +6736,10 @@
       "nom": "Opération",
       "categorie": "Développement motricité fine",
       "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces (Élastique et champignon perdu)\n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde)\n-Pince attachée",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-16"
+      "date_acquisition": "2024-07-16",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0188",
@@ -6708,7 +6775,8 @@
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0375",
@@ -6814,9 +6882,10 @@
       "nom": "Patchwork",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau Chrono recto - verso, 2 plateaux couverture\n\n- 1 pion neutre, 2 pion chrono\n\n- 5 pièces de cuir\n\n- 1 tuile bonus\n\n- 33 pièces de tissu\n32 X 1 bouton, 12 X 5 boutons, 5 X 10 boutons, 1 X 20 boutons",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-19"
+      "date_acquisition": "2026-04-19",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0717",
@@ -6996,7 +7065,8 @@
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-05-12"
     },
     {
       "id": "0125",
@@ -7067,20 +7137,18 @@
       "nom": "Placote: La montagne de la confiance",
       "categorie": "Développement affectif",
       "contenu": "-1 plateau de jeu\n\n-100 cartes-questions\n\n-5 pions Yétis\n\n-1 dé \n\n-Guide d'accompagnement /  Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-24"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0123",
       "nom": "Placote: La pêche aux sons",
       "categorie": "Développement du langage",
       "contenu": "-1 canne à pêche\n\n-1 planche de jeu\n\n-6 planches à poissons\n\n-4 poissons de chaque couleurs\n(Mauve, Mauve foncé, Rose, Fushia, Vert pâle, Vert, Bleu foncé, Bleu pâle, Turquoise, Orange foncé, Orange, Jaune)\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-04-30"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0054",
@@ -7132,10 +7200,9 @@
       "nom": "Placote: Le casse-phrase",
       "categorie": "Développement du langage",
       "contenu": "-4 planches de jeu\n\n-8 morceaux \"Sujet\" \n\n-8 morceaux \"Verbe\"\n\n-12 morceaux \"Complément\"\n\n-Règles du jeu\n\n \n\n*8 cartes vierges",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-04-30"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0189",
@@ -8034,6 +8101,15 @@
       "date_acquisition": "2025-03-21"
     },
     {
+      "id": "1024",
+      "nom": "Skyjo",
+      "categorie": "Développement cognitif",
+      "contenu": "150 cartes de jeu\nfeuilles de pointages + 8 feuilles plastifiée\n1 crayon à encre sèche",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-21"
+    },
+    {
       "id": "0244",
       "nom": "SmartMax magnetic mes premiers sons et sens",
       "categorie": "Développement cognitif",
@@ -8175,10 +8251,9 @@
       "nom": "Star Links",
       "categorie": "Développement physique",
       "contenu": "- 2 boules mauves\n\n- 2 boules vertes\n\n- 2 boules oranges\n\n- 5 étoiles rouges\n\n- 5 fleurs jaunes\n\n- 5 lunes bleues",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-24"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0647",
@@ -9107,10 +9182,9 @@
       "nom": "Vtech Myla L a licorne magique",
       "categorie": "Développement affectif",
       "contenu": "Licorne",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-09",
-      "date_retour_prevue": "2026-05-05"
+      "date_acquisition": "2025-01-09"
     },
     {
       "id": "0778",
