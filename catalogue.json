@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-22T10:47:08.060Z",
+  "derniere_mise_a_jour": "2026-04-23T10:54:11.662Z",
   "total": 1026,
-  "disponibles": 807,
+  "disponibles": 811,
   "jouets": [
     {
       "id": "0085",
@@ -758,10 +758,9 @@
       "nom": "Blokus",
       "categorie": "Développement cognitif",
       "contenu": "-21 pièces rouges\n-21 pièces bleus\n-21 pièces jaunes\n-21 pièces vertes\n-1 plateau\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-22"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "1010",
@@ -796,9 +795,10 @@
       "nom": "Bop & drop",
       "categorie": "Développement motricité fine",
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "1009",
@@ -935,7 +935,8 @@
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "0512",
@@ -978,9 +979,10 @@
       "nom": "Camion pat patrouille Accessoires ranger dans l'armoire sac # 0867",
       "categorie": "Développement social",
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-03"
+      "date_acquisition": "2025-11-03",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "0608",
@@ -1821,7 +1823,8 @@
       "contenu": "500 puzzle \n1 affiche de macaron",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "0967",
@@ -1891,10 +1894,9 @@
       "nom": "Cat Lady",
       "categorie": "Développement cognitif",
       "contenu": "- 102 cartes “la pioche”\n- 13 cartes “chat errant”\n- 6 jetons coeur\n- 1 chat en bois\n- 60 cubes nourriture: 20 bleus, 20 rouges, 15 blancs, 5 mauves\n- règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-04-30",
-      "date_retour_prevue": "2026-04-14"
+      "date_acquisition": "2024-04-30"
     },
     {
       "id": "0791",
@@ -3458,10 +3460,9 @@
       "nom": "Dragomino",
       "categorie": "Développement cognitif",
       "contenu": "- 4 dominos de départ\n- 28 dominos d'exploration\n\n- 1 pion\n\n- 69 jetons oeuf",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-04-19"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0503",
@@ -5354,10 +5355,9 @@
       "nom": "La matinée des monstres",
       "categorie": "Développement cognitif",
       "contenu": "-4 planches Labo-dortoir\n\n-1 lavoir des monstres\n\n-3 dés\n\n-1 contenant de 120 céréales\n\n-1 contenant supplémentaire de 140 céréales\n\n-90 jetons\n\n-20 monstres\n\n-60 cartes de jeu\n\n-8 supports à cartes\n\n-Règles du jeu (français et anglais)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-05-07"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0489",
@@ -7011,7 +7011,8 @@
       "contenu": "55 cartes\n \nrègles",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-19"
+      "date_acquisition": "2024-11-19",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "1012",
@@ -7970,7 +7971,8 @@
       "contenu": "- 90 dés        1 règle de jeu\n- 4 plateaux joueur\n- 12 cartes motif de vitrail\n- 12 cartes outil\n- 15 cartes objectif\n- 1 sac de dés\n- 1 piste de manches \n- 4 jetons 50\n- 24 jetons Faveur",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-05-13"
     },
     {
       "id": "0631",
@@ -8609,10 +8611,9 @@
       "nom": "Timeline Twist",
       "categorie": "Développement social",
       "contenu": "- Règle du jeu\n- - 100 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-04-22"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0988",
@@ -8764,10 +8765,9 @@
       "nom": "Tour Pat Patrouille ( accessoires dans l'armoire blanche sac # 0947 )",
       "categorie": "Développement social",
       "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 , Claw.\n\n- Accessoires dans l'armoire blanche sac # 0947",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-26",
-      "date_retour_prevue": "2026-04-19"
+      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0588",
