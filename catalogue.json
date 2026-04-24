@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-23T10:54:11.662Z",
+  "derniere_mise_a_jour": "2026-04-24T10:51:36.168Z",
   "total": 1026,
-  "disponibles": 811,
+  "disponibles": 809,
   "jouets": [
     {
       "id": "0085",
@@ -433,9 +433,10 @@
       "nom": "Barbecue Party",
       "categorie": "Développement motricité fine",
       "contenu": "-Bonhomme Barbecue\n-Planche avec flèche\n-Grille à Barbecue\n-1 pince\n-8 aliments en 2 pièces\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-05-14"
     },
     {
       "id": "0794",
@@ -4221,9 +4222,10 @@
       "nom": "Gobblet Gobblers",
       "categorie": "Développement social",
       "contenu": "4 barres constructions (2 rouge 2 vertes)\n\n6 gobelets bleus\n\n6 gobelets oranges\n\n1 carnet pour les règles",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-05-14"
     },
     {
       "id": "0272",
