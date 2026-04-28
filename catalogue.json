@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-27T12:06:23.545Z",
-  "total": 1026,
-  "disponibles": 802,
+  "derniere_mise_a_jour": "2026-04-28T12:12:34.899Z",
+  "total": 1027,
+  "disponibles": 801,
   "jouets": [
     {
       "id": "0085",
@@ -1155,9 +1155,10 @@
       "nom": "Casque bleu",
       "categorie": "Développement physique",
       "contenu": "Casque bleu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-15"
+      "date_acquisition": "2025-06-15",
+      "date_retour_prevue": "2026-05-18"
     },
     {
       "id": "0595",
@@ -2697,8 +2698,7 @@
       "contenu": "-1 costume lion\n-1 chapeau lion",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-19",
-      "date_retour_prevue": "2026-04-13"
+      "date_acquisition": "2024-07-19"
     },
     {
       "id": "0893",
@@ -2806,8 +2806,7 @@
       "contenu": "-1 manteau pompier\n-1 pantalon\n-1 talki-walki\n-1 chapeau pompier noir",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-03",
-      "date_retour_prevue": "2026-04-13"
+      "date_acquisition": "2024-12-03"
     },
     {
       "id": "0143",
@@ -5635,10 +5634,9 @@
       "nom": "Les aventuriers du rail",
       "categorie": "Développement social",
       "contenu": "1 plateau de jeu\n240 wagon ( 45 couleur: bleu, rouge, vert, jaune, et noir)\n142 cartes illustrées:\n110 cartes wagon:\n110 cartes 110 cartes wagon: ( 12 de chaque type: violet, blanc, bleu, jaune, orange, noir, rouge et vert et 14 locomotive multi color)\n30 cartes destination\nune carte de résumé, \nune carte ‘’chemin le plus long'\n5 marqueur de score ( 1 pour chaque joueur: bleu, rouge vert, jaune et noir)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-31",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2025-07-31"
     },
     {
       "id": "0365",
@@ -7416,7 +7414,8 @@
       "contenu": "1 planche avec 4 roulettes",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-05-18"
     },
     {
       "id": "0700",
@@ -7609,6 +7608,16 @@
       "photo": null,
       "date_acquisition": "2025-03-04",
       "date_retour_prevue": "2026-05-05"
+    },
+    {
+      "id": "1032",
+      "nom": "Push and Ride:  Lion 2",
+      "categorie": "Développement physique",
+      "contenu": "trotteur",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-04-27",
+      "date_retour_prevue": "2026-05-18"
     },
     {
       "id": "0108",
@@ -8376,8 +8385,7 @@
       "contenu": "-1 table d'activité\n\n-1 petit téléphone rouge",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-29",
-      "date_retour_prevue": "2026-04-13"
+      "date_acquisition": "2024-01-29"
     },
     {
       "id": "0534",
@@ -8928,9 +8936,10 @@
       "nom": "trottinette Hulk",
       "categorie": "Développement physique",
       "contenu": "Trottinette Hulk",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-02"
+      "date_acquisition": "2026-04-02",
+      "date_retour_prevue": "2026-05-18"
     },
     {
       "id": "0656",
@@ -8949,8 +8958,7 @@
       "contenu": "- 1 trottinette rose\n-",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-04-13"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0495",
