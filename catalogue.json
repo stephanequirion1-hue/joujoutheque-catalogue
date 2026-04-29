@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-28T12:12:34.899Z",
-  "total": 1027,
-  "disponibles": 801,
+  "derniere_mise_a_jour": "2026-04-29T11:20:36.295Z",
+  "total": 1028,
+  "disponibles": 803,
   "jouets": [
     {
       "id": "0085",
@@ -762,6 +762,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
+    },
+    {
+      "id": "1033",
+      "nom": "Blokus Duo",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 plateau \n\n- 42 pièces de jeu 2 couleurs\n\n- 1 règle de jeu détaillée\n\n- 2 range-pièces",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-28"
     },
     {
       "id": "1010",
@@ -2008,10 +2017,9 @@
       "nom": "Chasseurs en herbe",
       "categorie": "Développement social",
       "contenu": "- 42 cartes papillon\n- 48 cartes abeilles\n- 4 jetons filet\n- 14 cartes herbes papillon\n- 16 cartes herbes abeille",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0694",
@@ -4608,10 +4616,9 @@
       "nom": "J'apprends à lire",
       "categorie": "Développement du langage",
       "contenu": "-15 feuilles\n\n-3 pièces par lettre d'alphabet\n\n-Plateau de jeu/rangement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-30",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2024-01-30"
     },
     {
       "id": "0935",
@@ -7844,8 +7851,7 @@
       "contenu": "1 paires de raquettes rouge",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-19",
-      "date_retour_prevue": "2026-03-22"
+      "date_acquisition": "2026-02-19"
     },
     {
       "id": "0501",
@@ -9128,9 +9134,10 @@
       "nom": "vélo d'équilibre en bois",
       "categorie": "Développement physique",
       "contenu": "1 vélo d'équilibre en bois",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-28"
+      "date_acquisition": "2025-09-28",
+      "date_retour_prevue": "2026-05-19"
     },
     {
       "id": "0666",
