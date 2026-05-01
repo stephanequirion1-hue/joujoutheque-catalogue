@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-04-30T11:20:30.068Z",
-  "total": 1028,
-  "disponibles": 803,
+  "derniere_mise_a_jour": "2026-05-01T10:53:47.481Z",
+  "total": 1029,
+  "disponibles": 804,
   "jouets": [
     {
       "id": "0085",
@@ -3489,9 +3489,10 @@
       "nom": "Dropple ( ker plunk) patpatrouille",
       "categorie": "Développement motricité fine",
       "contenu": "22 figurines de chiots\n1 dé\n1 tour ( 6 pièces)\ninstructions",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-21"
+      "date_acquisition": "2026-04-21",
+      "date_retour_prevue": "2026-05-21"
     },
     {
       "id": "0880",
@@ -5993,10 +5994,9 @@
       "nom": "Lucky Numbers",
       "categorie": "Développement cognitif",
       "contenu": "-80 tuiles de trèfles\n\n-4 plateaux\n\n-2 Règles du jeu : mode solo et 2-4 joueurs",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0423",
@@ -6898,10 +6898,9 @@
       "nom": "Patchwork",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau Chrono recto - verso, 2 plateaux couverture\n\n- 1 pion neutre, 2 pion chrono\n\n- 5 pièces de cuir\n\n- 1 tuile bonus\n\n- 33 pièces de tissu\n32 X 1 bouton, 12 X 5 boutons, 5 X 10 boutons, 1 X 20 boutons",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-19",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2026-04-19"
     },
     {
       "id": "0717",
@@ -7429,9 +7428,10 @@
       "nom": "Planche d'équilibre et cartes de yoga",
       "categorie": "Développement physique",
       "contenu": "- 1 planche d'équilibre 99.99$\n- 12 cartes de yoga en bois 29.97$\n- 1 feutre ( collé sur la planche) 14.99",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-17"
+      "date_acquisition": "2025-06-17",
+      "date_retour_prevue": "2026-05-21"
     },
     {
       "id": "0641",
@@ -8228,6 +8228,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-03-01"
+    },
+    {
+      "id": "1034",
+      "nom": "Splendor",
+      "categorie": "Développement social",
+      "contenu": "40 jetons \n - 7 blancs, 7 bleus, 7 rouges, 7 verts, 7 noirs, 5 jaunes\n90 cartes\n- 40 niveau 1, 30 niveau 2, 20 niveau 3\n10 tuiles Nobles\n1 marqueur diamant\n2 livrets de règles (français et anglais)",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-30"
     },
     {
       "id": "0216",
