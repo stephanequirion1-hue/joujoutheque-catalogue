@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-05-03T09:56:36.214Z",
+  "derniere_mise_a_jour": "2026-05-04T12:10:46.592Z",
   "total": 1029,
   "disponibles": 809,
   "jouets": [
@@ -777,10 +777,9 @@
       "nom": "Bluffer",
       "categorie": "Développement social",
       "contenu": "- plateau de jeu\n\n- écran\n\n- 2 jeux de cartes\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-05-10"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0953",
@@ -817,7 +816,8 @@
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0050",
@@ -1951,10 +1951,9 @@
       "nom": "Caty mini",
       "categorie": "Développement motricité fine",
       "contenu": "- 4 Planches de jeu\n\n- 4 Bobines en carton\n\n- 50 Jetons\n\n- 20 Tuiles meubles\n\n- 4 Ficelles\n\n- 1 Chat\n\n- Règles du jeu\n\n \n- NB : manque une carte tuiles, toutes les personnes qui ont emprunté ont été cntacté et personne ne l'a chez eux, se joue sans la carte. SCP",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-30",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2024-10-30"
     },
     {
       "id": "0411",
@@ -2006,9 +2005,10 @@
       "nom": "Charlie Biscuit",
       "categorie": "Développement cognitif",
       "contenu": "-1 plateau autocorrecteur\n\n- 24 tuiles de jeu\n\n- 1 livret de jeu avec règlement",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0113",
@@ -3179,10 +3179,9 @@
       "nom": "Croque-Carotte",
       "categorie": "Développement social",
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0982",
@@ -3917,8 +3916,7 @@
       "contenu": "- 4 paires de lunettes\n\n- 1 tapis de jeu\n\n- 11 bouts de nez\n\n- 24 cartes\n\n- instruction",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-05-10"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0384",
@@ -4561,10 +4559,9 @@
       "nom": "Il est où le minou?",
       "categorie": "Développement mémoire",
       "contenu": "-1 planche en bois (Tapis) \n\n-1 morceau de bois vert (Lit)\n\n-1 oreiller bleu (Carré de tissus)\n\n-1 doudou rouge (Rectangle de tissus)\n\n-1 dé\n\n-1 chat \n\n-34 cartes photos\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-05-02"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0144",
@@ -7510,9 +7507,10 @@
       "nom": "Pop-up pirate",
       "categorie": "Développement physique",
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0792",
@@ -8075,9 +8073,10 @@
       "nom": "Serpents et Échelles 3D",
       "categorie": "Développement social",
       "contenu": "- 1 plateau de jeu\n- 2 rampes\n \n8 billes\n \ninstructions",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-13"
+      "date_acquisition": "2026-03-13",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0852",
@@ -8630,9 +8629,10 @@
       "nom": "Tic Tac Boum JUNIOR",
       "categorie": "Développement social",
       "contenu": "-55 cartes\n\n-1 bombe noire\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0870",
@@ -9121,7 +9121,8 @@
       "contenu": "- Planche de jeu (7 casse-tête)\n- 4 jetons Vikins (+8 bonus)\n- 1 personnage en caton\n- 4 pions\n- 1 boule\n- 24 pièces d'or\n- 4 voiles\n- 4 bateau\n- règles du jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-08-13"
+      "date_acquisition": "2024-08-13",
+      "date_retour_prevue": "2026-05-24"
     },
     {
       "id": "0664",
