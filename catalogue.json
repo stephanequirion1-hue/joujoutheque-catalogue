@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-06T12:16:47.774Z",
-  "total": 1031,
-  "disponibles": 804,
+  "derniere_mise_a_jour": "2026-05-07T08:08:13.196Z",
+  "total": 1033,
+  "disponibles": 809,
   "jouets": [
     {
       "id": "0085",
@@ -862,10 +862,9 @@
       "nom": "Braintopia",
       "categorie": "Développement cognitif",
       "contenu": "- 90 cartes de jeu\n- 24 pièces de cerveau",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-25",
-      "date_retour_prevue": "2026-05-05"
+      "date_acquisition": "2026-02-25"
     },
     {
       "id": "0482",
@@ -5929,6 +5928,15 @@
       "date_acquisition": "2024-01-12"
     },
     {
+      "id": "1037",
+      "nom": "L'osti d'jeu ( 18+ )",
+      "categorie": "Développement social",
+      "contenu": "80 cartes noires\n399 cartes rouges",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-06"
+    },
+    {
       "id": "0827",
       "nom": "L'osti d'jeux de marde",
       "categorie": "Développement social",
@@ -7633,11 +7641,10 @@
       "id": "0558",
       "nom": "puissance 4",
       "categorie": "Développement social",
-      "contenu": "complet",
-      "disponible": false,
+      "contenu": "- 1 plateau de jeu\n\n- 21 jetons rouges\n\n- 21 jetons verts",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-04",
-      "date_retour_prevue": "2026-05-05"
+      "date_acquisition": "2025-03-04"
     },
     {
       "id": "1032",
@@ -8012,6 +8019,15 @@
       "date_acquisition": "2025-02-27"
     },
     {
+      "id": "1038",
+      "nom": "Saboteur, Les mines perdues",
+      "categorie": "Développement social",
+      "contenu": "- Cartes : 48 Chemin, 23 Action, 2 Départ, 10 Nain\n\n- 4 Mines, 12 Trésors, 10 Nains avec base\n\n- Jetons : 10 Nains, 32 Points de victoire, 14 Forêt,1 Dragon\n\n- 1 Plateau de jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-06"
+    },
+    {
       "id": "0873",
       "nom": "Sagrada",
       "categorie": "Développement cognitif",
@@ -8383,8 +8399,7 @@
       "contenu": "120 cartes\n10 verres\n5 balles\n4 dés\n2 baguettes\n1 corde\n1 bandeau pour les yeux¸\n1 sablier (30 sec)¸\n1 marqueur, 1 tableau de scores effaçable",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-05-05"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0248",
@@ -9345,10 +9360,9 @@
       "nom": "Zombie TEENZ",
       "categorie": "Développement social",
       "contenu": "-1 plateau\n\n-Règles du jeu\n\n-4 pions Héros\n\n-4 tuiles bâtiments envahis\n\n-4 pions horde de zombies\n\n-4 caisses d'ingrédients\n\n-1 dé blanc\n\n-1 dé noir\n\n-6 cartes d'événements\n\n-10 enveloppes Évolution\n\n-4 enveloppes Accomplissement\n\n-11 supports en plastique",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-05-07"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0141",
