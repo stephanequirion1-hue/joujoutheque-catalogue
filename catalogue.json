@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-07T08:08:13.196Z",
-  "total": 1033,
-  "disponibles": 809,
+  "derniere_mise_a_jour": "2026-05-08T07:11:29.814Z",
+  "total": 1035,
+  "disponibles": 815,
   "jouets": [
     {
       "id": "0085",
@@ -66,6 +66,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "xx",
+      "nom": "a supprimer",
+      "categorie": "Développement physique",
+      "contenu": "a supprimer",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-07"
     },
     {
       "id": "0232",
@@ -743,8 +752,7 @@
       "contenu": "- 14 cartes numérotées\n- 36 cartes indices\n- 11 cartes construction\n- 15 blocs en bois\n- 46 jetons points\n- 1 jeton premier joueur\n- règles du jeu",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-08",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2025-04-08"
     },
     {
       "id": "0325",
@@ -2044,7 +2052,7 @@
       "nom": "Château fisher price (vintage) ( accessoires dans l'armoire blanche sac# 0018 )",
       "categorie": "Développement social",
       "contenu": "3 personnages ; 1 bébé, un homme, un roi\n1 dragon\n1 carrosse\n1 poussette \nAccessoires dans l'armoire blanche sac # 0018",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-02"
     },
@@ -3803,7 +3811,7 @@
       "date_acquisition": "2025-06-10"
     },
     {
-      "id": "0274",
+      "id": "1043",
       "nom": "Fais-moi un dessin",
       "categorie": "Développement affectif",
       "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes",
@@ -4474,14 +4482,13 @@
       "date_acquisition": "2024-03-02"
     },
     {
-      "id": "0577",
+      "id": "1041",
       "nom": "Hitster",
       "categorie": "Développement affectif",
       "contenu": "-Jeu hitster",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-13",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2025-04-13"
     },
     {
       "id": "1021",
@@ -4921,7 +4928,7 @@
       "date_acquisition": "2026-01-29"
     },
     {
-      "id": "0393",
+      "id": "1042",
       "nom": "Joe Connaissant",
       "categorie": "Développement cognitif",
       "contenu": "384 cartes\n1 plateau\n1 sablier\n2 pions\nrèglements",
@@ -5774,6 +5781,15 @@
       "date_acquisition": "2025-07-11"
     },
     {
+      "id": "1039",
+      "nom": "Lîle Interdite",
+      "categorie": "Développement social",
+      "contenu": "58 Cartes réparties comme suit ;\n- 28 cartes au Trésor ( dos orange) : 5 pour chacun des 4 trésors, 3 cartes Montée des eux, 3 cartes Hélicoptère, 2 cartes sac de sable.\n\n- 24 cartes Inondation ( dos bleu) \n\n- 6 Cartes Aventurier\n24 tuiles Île réversibles\n6 pions en bois,4 Figurines Trésor,1 Échelle Graduée avec marqueur de niveau rouge.",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-07"
+    },
+    {
       "id": "0586",
       "nom": "Linge de poupée",
       "categorie": "Développement motricité fine",
@@ -6416,15 +6432,6 @@
       "date_acquisition": "2025-01-09"
     },
     {
-      "id": "00676",
-      "nom": "Mollky",
-      "categorie": "Développement physique",
-      "contenu": "12 quilles avec  un morceau de bois pour lancer dessus (pas trouvé le vrai nom)\n dans une caisse de bois",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-06-21"
-    },
-    {
       "id": "0266",
       "nom": "Mon Stylo Interactif",
       "categorie": "Développement du langage",
@@ -7009,7 +7016,7 @@
       "nom": "Pictureka!",
       "categorie": "Développement cognitif",
       "contenu": "-9 tuiles de jeu\n\n-25 cartes bleues classiques\n\n-5 cartes bleus <->\n\n-5 cartes bleus (*\n\n-6 cartes vertes classiques\n\n-2 cartes vertes <->\n\n-2 cartes vertes (*\n\n-10 cartes rouges classiques\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -7824,7 +7831,7 @@
       "nom": "Quilles finlandaises",
       "categorie": "Développement physique",
       "contenu": "-1 caisse en bois\n-12 quilles numérotées\n-1 quille lanceur\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-11"
     },
@@ -8316,7 +8323,7 @@
       "nom": "Squigz",
       "categorie": "Développement physique",
       "contenu": "-12 pièces vertes\n\n-14 pièces bleues pâles\n\n-4 pièces jaunes\n\n-6 pièces mauves\n\n-6 pièces oranges\n\n-3 pièces rouges\n\n-2 pièces blanches\n\n-2 pièces bleues foncées",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-01"
     },
@@ -8433,7 +8440,7 @@
       "nom": "Table d'activité",
       "categorie": "Développement social",
       "contenu": "-1 table d'activité\n\n-1 petit téléphone rouge",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-29"
     },
@@ -8478,9 +8485,10 @@
       "nom": "Taco Chat Poulet Poutine Pizza",
       "categorie": "Développement social",
       "contenu": "64 carte\nrèglement",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-05-28"
     },
     {
       "id": "0864",
@@ -8660,7 +8668,7 @@
       "nom": "The Sneaky, Snacky Squirrel Game!",
       "categorie": "Développement motricité fine",
       "contenu": "1 pince écureuil\n\n20 glands de couleur\n\n- 4 jaunes\n\n- 4 vert\n\n- 4 rouge \n\n- 4 bleu\n\n- 4 mauve\n\n4 rondins\n\n1 règles de jeu\n\n1 roulette de jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-27"
     },
@@ -8697,9 +8705,10 @@
       "nom": "Time's up Family",
       "categorie": "Développement physique",
       "contenu": "- 1 sablier\n- 1 sac de rangement\n- un carnet de résultats\n- Règle de jeu \n- 220 cartes",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-05-28"
     },
     {
       "id": "0316",
@@ -9266,6 +9275,15 @@
       "date_acquisition": "2026-02-25"
     },
     {
+      "id": "1040",
+      "nom": "Wonder Woods",
+      "categorie": "Développement social",
+      "contenu": "35 panier en bois ( 7 X chaque couleurs)\n56 Champignons en bois ( 14 X Chaque variétés) \n1 jeton premier joueur\n4 plateaux Coin à champignons\n16 cartes d'information\nlivret d'instructions",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-07"
+    },
+    {
       "id": "0390",
       "nom": "Xylophone tigre",
       "categorie": "Développement motricité fine",
@@ -9320,7 +9338,7 @@
       "date_acquisition": "2024-04-30"
     },
     {
-      "id": "0616",
+      "id": "1044",
       "nom": "Zèbre",
       "categorie": "Développement affectif",
       "contenu": "1 onepiece zèbre",
