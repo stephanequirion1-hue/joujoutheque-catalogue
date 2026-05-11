@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-10T07:50:15.634Z",
+  "derniere_mise_a_jour": "2026-05-11T08:50:53.743Z",
   "total": 1035,
-  "disponibles": 814,
+  "disponibles": 805,
   "jouets": [
     {
       "id": "0085",
@@ -1445,9 +1445,10 @@
       "nom": "Casse-tête 1000 morceaux",
       "categorie": "Développement cognitif",
       "contenu": "1000 morceaux",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0469",
@@ -3589,9 +3590,10 @@
       "nom": "ensemble Bâtons de Hockey",
       "categorie": "Développement physique",
       "contenu": "- 2 bâtons de hockey\n- 2 balles\n- 1 rondelle\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0646",
@@ -3600,7 +3602,8 @@
       "contenu": "- 1 but avec filet\n- 1 ballon de soccer\n-",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0240",
@@ -4086,9 +4089,10 @@
       "nom": "Fridas's Fruit fiesta game",
       "categorie": "Développement motricité fine",
       "contenu": "- 1 plateau de jeu forêt tropicale ( intégré à la boîte)\n\n- 1 Pince  Frida en forme d'oiseau\n\n- 26 bols à fruits en formes de lettres\n\n- 4 Cartes nid \n\n- 1 triple toupie",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-14"
+      "date_acquisition": "2026-04-14",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0709",
@@ -4896,9 +4900,10 @@
       "nom": "Jeux d'Écriture",
       "categorie": "Développement du langage",
       "contenu": "9 fiches",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0517",
@@ -5722,9 +5727,10 @@
       "nom": "les petits pompier",
       "categorie": "Développement affectif",
       "contenu": "-4 pions (1 feu, 3 pompiers)\n-49 cartes\n-1 plateau\n-Règlements",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-09"
+      "date_acquisition": "2025-09-09",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0192",
@@ -6780,9 +6786,10 @@
       "nom": "Ooops!",
       "categorie": "Développement social",
       "contenu": "-Plateau de jeu\n-45 cartes (5 chacune, sauf 6 de la carte 1)\n-16 pions (4 de chaque, vert/bleu/orange/rose)\n-Règlements",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-12"
+      "date_acquisition": "2024-07-12",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0317",
@@ -8559,9 +8566,10 @@
       "nom": "Taxi",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau de jeu\n- 6 pions\n- 1 dé\n- 32 cartes destination\n- 8 cartes taxi\n- 7 barrières rouges\n- 5 cônes orange\n- 12 jetons sens unique",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0154",
@@ -8668,9 +8676,10 @@
       "nom": "The Sneaky, Snacky Squirrel Game!",
       "categorie": "Développement motricité fine",
       "contenu": "1 pince écureuil\n\n20 glands de couleur\n\n- 4 jaunes\n\n- 4 vert\n\n- 4 rouge \n\n- 4 bleu\n\n- 4 mauve\n\n4 rondins\n\n1 règles de jeu\n\n1 roulette de jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0199",
@@ -8754,7 +8763,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-05-07"
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0937",
@@ -8932,9 +8941,10 @@
       "nom": "Transformeur Optimus prime",
       "categorie": "Développement social",
       "contenu": "1 transformer",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-01-17"
+      "date_acquisition": "2025-01-17",
+      "date_retour_prevue": "2026-05-31"
     },
     {
       "id": "0972",
