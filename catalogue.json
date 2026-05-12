@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-11T08:50:53.743Z",
-  "total": 1035,
-  "disponibles": 805,
+  "derniere_mise_a_jour": "2026-05-12T08:15:39.420Z",
+  "total": 1037,
+  "disponibles": 813,
   "jouets": [
     {
       "id": "0085",
@@ -68,15 +68,6 @@
       "date_acquisition": "2024-12-18"
     },
     {
-      "id": "xx",
-      "nom": "a supprimer",
-      "categorie": "Développement physique",
-      "contenu": "a supprimer",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-05-07"
-    },
-    {
       "id": "0232",
       "nom": "Agent Secret",
       "categorie": "Développement cognitif",
@@ -108,9 +99,10 @@
       "nom": "ah ouin?",
       "categorie": "Développement motricité fine",
       "contenu": "17 carte ‘’10''\n16 carte ‘’1''\n15 carte ‘’20''\n6 carte main, 6 carte point , 6 carte bombe, 6 carte carré, 6 carte espace, 6 carte oeil, 6 carte bouteille, 6 carte hibou, 110 carte sujet, règle",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0164",
@@ -1115,6 +1107,15 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "1045",
+      "nom": "Carte du monde interactive",
+      "categorie": "Développement physique",
+      "contenu": "carte du monde + crayon",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-07"
+    },
+    {
       "id": "0562",
       "nom": "CARTE POKEMON",
       "categorie": "Développement social",
@@ -1327,10 +1328,9 @@
       "nom": "Casse-tête  Land of Dinosaurs",
       "categorie": "Développement motricité fine",
       "contenu": "36 morceaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-09",
-      "date_retour_prevue": "2026-05-10"
+      "date_acquisition": "2026-01-09"
     },
     {
       "id": "0230",
@@ -1852,10 +1852,9 @@
       "nom": "casse-tête macaron",
       "categorie": "Développement motricité fine",
       "contenu": "500 puzzle \n1 affiche de macaron",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0967",
@@ -2064,7 +2063,8 @@
       "contenu": "- 9 princesses\n\n- 1 château\n\n- Accessoires ( princesses) dans l'armoire blanche",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0091",
@@ -3262,10 +3262,9 @@
       "nom": "Cubeez",
       "categorie": "Développement social",
       "contenu": "- 48 cartes\n- 12 cubes\n- instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-23",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2026-02-23"
     },
     {
       "id": "0307",
@@ -4562,10 +4561,9 @@
       "nom": "Hop la Banane 02",
       "categorie": "Développement motricité fine",
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-15",
-      "date_retour_prevue": "2026-05-10"
+      "date_acquisition": "2025-12-15"
     },
     {
       "id": "0712",
@@ -4761,10 +4759,9 @@
       "nom": "Jeu de l'oeuf qui roule",
       "categorie": "Développement cognitif",
       "contenu": "- 1 Piste\n- 1 dé\n- Instructions\n- 4 oiseaux\n- 1 oeuf",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0485",
@@ -5601,9 +5598,10 @@
       "nom": "Le seau de la mort ( 18 + )",
       "categorie": "Développement social",
       "contenu": "- 288 cartes objets\n- 72 cartes scénarios\n- 1 guide de survie",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-02"
+      "date_acquisition": "2026-02-02",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0670",
@@ -6615,9 +6613,10 @@
       "nom": "moron ou génie ?",
       "categorie": "Développement du langage",
       "contenu": "règle\n12 pion\n110 carte\n12 carte plastifier",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-19"
+      "date_acquisition": "2025-07-19",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0787",
@@ -6795,11 +6794,10 @@
       "id": "0317",
       "nom": "Opération",
       "categorie": "Développement motricité fine",
-      "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces (Élastique et champignon perdu)\n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde)\n-Pince attachée",
-      "disponible": false,
+      "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces \n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde\n-Pince attachée",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-16",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2024-07-16"
     },
     {
       "id": "0188",
@@ -6869,9 +6867,10 @@
       "nom": "Pancake Pile-Up!",
       "categorie": "Développement motricité fine",
       "contenu": "-2 spatules\n\n-2 assiettes\n\n-2 beurres\n\n-10 crêpes\n\n-10 cartes",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-03"
+      "date_acquisition": "2024-02-03",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0992",
@@ -6908,6 +6907,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-19"
+    },
+    {
+      "id": "1046",
+      "nom": "Parc' Ours en forêt",
+      "categorie": "Développement cognitif",
+      "contenu": "- 9 pièce d'arbres \n\n- 6 pièces figurines\n\n- 1 planche de jeux\n\n- Livre de défis",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-11"
     },
     {
       "id": "0671",
@@ -7123,10 +7131,9 @@
       "nom": "Placote: Cherche et trouve les émotions",
       "categorie": "Développement affectif",
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0125",
@@ -8046,10 +8053,9 @@
       "nom": "Sagrada",
       "categorie": "Développement cognitif",
       "contenu": "- 90 dés        1 règle de jeu\n- 4 plateaux joueur\n- 12 cartes motif de vitrail\n- 12 cartes outil\n- 15 cartes objectif\n- 1 sac de dés\n- 1 piste de manches \n- 4 jetons 50\n- 24 jetons Faveur",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0631",
@@ -8130,10 +8136,9 @@
       "nom": "Serpents et Échelles 3D",
       "categorie": "Développement social",
       "contenu": "- 1 plateau de jeu\n- 2 rampes\n \n8 billes\n \ninstructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-13",
-      "date_retour_prevue": "2026-05-24"
+      "date_acquisition": "2026-03-13"
     },
     {
       "id": "0852",
@@ -8248,19 +8253,19 @@
       "nom": "souk",
       "categorie": "Développement social",
       "contenu": "20 poivre noir\n19 pavot bleu\n18 anis étoilées\n17 curcumas\n16 cardamones\n15 piments fort\n5 carte aide mémoires\n1 pion premier joueur\n1 plateau représentant le souk",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-15"
+      "date_acquisition": "2025-08-15",
+      "date_retour_prevue": "2026-06-01"
     },
     {
       "id": "0087",
       "nom": "Soupe à la grenouille",
       "categorie": "Développement social",
       "contenu": "- 4 grenouilles ( bleue, verte, rouge, orange)\n\n- 1 sorcière\n\n- 1 livre\n\n- 1 balais\n\n- 1 chandelle\n\n- 1 potion\n\n- 1 citrouille\n\n- 1 globe\n\n- 1 chauve-souris \n\n- 4 supports\n\n- 4 maisons grenouilles\n\n- 1 chaudron\n\n- 6 jetons ingrédients\n\n- 4 cercles de protection",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-05-10"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0319",
@@ -8507,6 +8512,15 @@
       "date_acquisition": "2025-10-06"
     },
     {
+      "id": "1047",
+      "nom": "TAKE TIME",
+      "categorie": "Développement social",
+      "contenu": "2 LIVRETS DE RÈGLES, \n12 CARTES SOLAIRES ET 12 CARTES LUNAIRES\n3 JETONS RAPPEL ET 3 JETONS BONUS \n10 ÉTUIS CHAPITRE CONTENANT CHACUN 4 HORLOGES ET 1 FEUILLE DE RÈGLES (NUMÉROTÉ EN CHIFFRE ROMAIN)\n1 AIGUILLE \n1 ÉTUI REGRET (VIDE)\n1 ÉTUI RENAISSANCE ( 1 HORLOGE RENAISSANCE, 1 AIGUILLE DE SECONDES ET 6 JETONS)",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-11"
+    },
+    {
       "id": "1016",
       "nom": "Takenoko",
       "categorie": "Développement social",
@@ -8686,10 +8700,9 @@
       "nom": "Tic Tac Boum JUNIOR",
       "categorie": "Développement social",
       "contenu": "-55 cartes\n\n-1 bombe noire\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-05-24"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0870",
