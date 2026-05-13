@@ -1,14 +1,14 @@
 {
-  "derniere_mise_a_jour": "2026-05-12T08:15:39.420Z",
+  "derniere_mise_a_jour": "2026-05-13T08:27:03.426Z",
   "total": 1037,
-  "disponibles": 813,
+  "disponibles": 923,
   "jouets": [
     {
       "id": "0085",
       "nom": "1,2,3",
       "categorie": "Développement du langage",
       "contenu": "-2 pièces \"Je compte de ...\"\n\n-10 morceaux \"Mains\"\n\n-10 morceaux \"Chiffres\"\n\n-10 morceaux \"Dés\"\n\n-10 pièces \"Animaux\"\n\n-10 morceaux \"Nourriture\"\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
     },
@@ -81,7 +81,7 @@
       "nom": "Agent trouble",
       "categorie": "Développement cognitif",
       "contenu": "240 cartes ( 31 sac de 8 cartes)\n1 livret de règles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-02"
     },
@@ -90,7 +90,7 @@
       "nom": "Agil'up",
       "categorie": "Développement motricité fine",
       "contenu": "- 28 pièces",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
     },
@@ -109,7 +109,7 @@
       "nom": "Ah ouinnn?",
       "categorie": "Développement social",
       "contenu": "-100 cartes Sujet\n-48 cartes Point\n-48 cartes joueur\n-Règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-23"
     },
@@ -154,7 +154,7 @@
       "nom": "Architecto",
       "categorie": "Développement cognitif",
       "contenu": "-1 livret de jeu\n\n-4 carrés\n\n-4 rectangles\n\n-2 triangles\n\n-1 pont\n\n-2 cylindres\n\n-1 demi-lune\n\n-4 trapèzes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -217,7 +217,7 @@
       "nom": "avion armée",
       "categorie": "Développement physique",
       "contenu": "avion",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-02"
     },
@@ -454,7 +454,7 @@
       "nom": "Barbie ballerine X3 ( dans l'armoire blanche )",
       "categorie": "Développement affectif",
       "contenu": "2 barbie bleu\n1 barbie rose\n1 tutu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-17"
     },
@@ -490,7 +490,7 @@
       "nom": "Batapuzzle",
       "categorie": "Développement cognitif",
       "contenu": "42 cartes\n \nrègles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-11-19"
     },
@@ -526,7 +526,7 @@
       "nom": "Bateau Pat Patrouille ( Accessoire Armoire blanche)",
       "categorie": "Développement social",
       "contenu": "- Bateau Pat Patrouille\n\n- 6 personnages : Marcus, Chase, Ruben, Zuma, Rocky, Everest\n\n- Accessoires dans l'armoire blanche",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-26"
     },
@@ -598,7 +598,7 @@
       "nom": "BattleShip",
       "categorie": "Développement cognitif",
       "contenu": "-73 torpilles Rouges\n\n-168 torpilles Vertes\n\n-10 vaisseaux\n\n-2 planches de jeux\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-12"
     },
@@ -815,10 +815,9 @@
       "nom": "Bop & drop",
       "categorie": "Développement motricité fine",
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "1009",
@@ -871,7 +870,7 @@
       "nom": "Bravo Bravo",
       "categorie": "Développement social",
       "contenu": "- 60 cartes jeu\n- 5 cartes de twist\n- Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-01"
     },
@@ -954,10 +953,9 @@
       "nom": "caisse enregistreuse",
       "categorie": "Développement social",
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0512",
@@ -991,7 +989,7 @@
       "nom": "camion log ( accessoires dans l'armoire blanche, sac # 0926 )",
       "categorie": "Développement social",
       "contenu": "- 44 morceaux de bois\n\n- accessoires dans l'armoire, sac # 0926",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-18"
     },
@@ -1010,7 +1008,7 @@
       "nom": "Camion remorque",
       "categorie": "Développement affectif",
       "contenu": "Camion remorque",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
     },
@@ -1019,7 +1017,7 @@
       "nom": "Camion Vert",
       "categorie": "Développement social",
       "contenu": "- 1 camion vert",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-01"
     },
@@ -1074,10 +1072,9 @@
       "nom": "Cariboo",
       "categorie": "Développement motricité fine",
       "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0580",
@@ -1482,7 +1479,7 @@
       "nom": "Casse-tête 1000 morceaux",
       "categorie": "Développement motricité fine",
       "contenu": "-1 Casse-tête 1000 morceaux avec montagnes et lac",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-13"
     },
@@ -1491,7 +1488,7 @@
       "nom": "Casse-tête 1000 morceaux",
       "categorie": "Développement motricité fine",
       "contenu": "-1 casse tête de 1000 morceaux avec bateaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-13"
     },
@@ -1581,7 +1578,7 @@
       "nom": "Casse-tête 70 morceaux",
       "categorie": "Développement motricité fine",
       "contenu": "70 morceaux\n1 affiche",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-02-19"
     },
@@ -1762,7 +1759,7 @@
       "nom": "Casse-tête en bois (3)",
       "categorie": "Développement motricité fine",
       "contenu": "Animaux texturés:\nChat, oiseau, lapin, chat\nAnimaux imaginaire : 4 animaux\nAnimaux domestique : 4 animaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-26"
     },
@@ -1771,7 +1768,7 @@
       "nom": "Casse-tête en bois (4)",
       "categorie": "Développement motricité fine",
       "contenu": "Texturés : \nChat, oiseau, lapin, chien\nJungle : 4 animaux\nChiffres : 1 à 9 + Lettres : A à Z",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -1897,7 +1894,7 @@
       "nom": "Casse-Tête Toppie et Binou",
       "categorie": "Développement cognitif",
       "contenu": "24 morceaux de casse-tête.",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-16"
     },
@@ -1996,7 +1993,7 @@
       "nom": "chapeau noir orange rouge",
       "categorie": "Développement physique",
       "contenu": "un chapeau",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-23"
     },
@@ -2071,7 +2068,7 @@
       "nom": "Château Logique",
       "categorie": "Développement motricité fine",
       "contenu": "- 4 blocs : 1 vert, 1 rouge, 1 bleu, 1 orange.\n\n- 3 tours : 1 petite, 1 moyenne, 1 longue.\n\n- 1 règle du jeu\n\n- 1 cahier de défi",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -2080,7 +2077,7 @@
       "nom": "Chateau Peach  Donjon et bateau Bowser accessoires dans l'armoire blanche",
       "categorie": "Développement affectif",
       "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-08"
     },
@@ -2215,7 +2212,7 @@
       "nom": "Cheval à bascule",
       "categorie": "Développement physique",
       "contenu": "-Cheval de bois à bascule avec deux poignées pour les mains",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-24"
     },
@@ -2332,7 +2329,7 @@
       "nom": "Clue  conspiration",
       "categorie": "Développement social",
       "contenu": "a faire",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-02-12"
     },
@@ -2386,7 +2383,7 @@
       "nom": "Code Names !",
       "categorie": "Développement cognitif",
       "contenu": "-8 tuiles équipe bleue\n-8 tuiles équipe rouge\n-1 tuile EXTRA\n-7 tuiles Neutre\n-1 tuiles Assassin\n-200 cartes Nom de Code\n-40 cartes CLÉ\n-1 support de carte CLÉ\n-1 livret de règles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-16"
     },
@@ -2449,7 +2446,7 @@
       "nom": "Concept",
       "categorie": "Développement cognitif",
       "contenu": "-110 cartes\n\n-4 fiches d'aides de jeu\n\n-1 plateau\n\n-10 cubes verts\n\n-8 cubes rouges\n\n-8 cubes jaunes\n\n-8 cubes noirs\n\n-8 cubes bleus\n\n-1 bol\n\n-4 pions exclamation et 1 pion interrogation\n\n-Règles du jeu\n- 12 ampoules doubles\n- 27 ampoules simples",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -2496,7 +2493,7 @@
       "nom": "Constellation Smart games",
       "categorie": "Développement cognitif",
       "contenu": "- 4 cubes\n- livret de défis\n- instructions\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-28"
     },
@@ -3117,7 +3114,7 @@
       "nom": "Cranium : Cadoo",
       "categorie": "Développement social",
       "contenu": "-150 cartes vertes et 150 cartes oranges\n\n-10 pions de chaque couleurs (Verts, Jaunes, Bleus)\n\n-8 pions rouges (2 manquants)\n\n-1 plateau\n\n-Feuillets\n\n-2 crayons\n\n-1 dé\n\n-1 sablier\n\n-1 pâte à modeler\n\n-Lunette rouge et verte",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -3126,7 +3123,7 @@
       "nom": "Cranium : Édition famille",
       "categorie": "Développement du langage",
       "contenu": "1 plateau\n1 pad\n1 crayon\n1 grenouille\n1 sablier\n2 bonhommes\n1 dé\n100 cartes bleues, 100 vertes, 100 jaunes, 100 rouges",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
     },
@@ -3153,7 +3150,7 @@
       "nom": "Cranium L'iloballon",
       "categorie": "Développement motricité fine",
       "contenu": "- 1 plateau de jeu\n- 1 manège chronomètre musical ( 2 pièces)\n- 4 stand de jeux\n- 10 lettres\n- 1 canne à pêche\n- 4 grenouilles\n- 6 dés friandise\n- 4 flotteurs\n- 72 points ballons avec sac \n- instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-25"
     },
@@ -3397,7 +3394,7 @@
       "nom": "dixit",
       "categorie": "Développement cognitif",
       "contenu": "24 attache avec tige→ transparent\n20 attache avec trou→ transparent\n2x12 molette de vote\n12 pions lapin en bois; vert pale, vert foncé, blanc, noir, orange, jaune, rose, gris, rouge, brun, bleu, violet\n84 cartes\n2x12 engrenage\n12 pion de couleur\ninstruction de construction\n1 plateau de jeu, règlement en français et en anglais",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-02"
     },
@@ -3507,8 +3504,7 @@
       "contenu": "22 figurines de chiots\n1 dé\n1 tour ( 6 pièces)\ninstructions",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-21",
-      "date_retour_prevue": "2026-05-21"
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0880",
@@ -3524,7 +3520,7 @@
       "nom": "Dynamite",
       "categorie": "Développement social",
       "contenu": "- 16 trottoir jaune\n- 1 clé jaune\n- 1 dé\n- 4 pions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-18"
     },
@@ -3580,7 +3576,7 @@
       "nom": "Ensemble badminton",
       "categorie": "Développement physique",
       "contenu": "- 4 raquettes\n- 3 moineaux\n- 1 filet : filet, 1 corde de tension et 4 piquet\n- 6 poteau\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-06"
     },
@@ -3599,10 +3595,9 @@
       "nom": "Ensemble but/ballon de soccer",
       "categorie": "Développement physique",
       "contenu": "- 1 but avec filet\n- 1 ballon de soccer\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0240",
@@ -3618,7 +3613,7 @@
       "nom": "ensemble de course à relais",
       "categorie": "Développement physique",
       "contenu": "- 4 sac à patates\n- 4 œufs en bois\n- 4 cuillères en bois\n- 4 bâtons de relais\n- 12 médailles\n- 4 sangles attache cheville\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-19"
     },
@@ -3645,7 +3640,7 @@
       "nom": "ensemble de ménage Melissa & Doug",
       "categorie": "Développement motricité fine",
       "contenu": "- un support avec : \n\n- 1 balais\n\n- 1 vadrouille\n\n- 1 porte-poussière\n\n- 1 plumeau\n\n- Raclette pour fenêtre",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-26"
     },
@@ -3690,7 +3685,7 @@
       "nom": "Ensemble de volleyball",
       "categorie": "Développement physique",
       "contenu": "- 1 sac de transport\n\n- 4 sac de sable\n\n- 6 Pickett ( il en reste seulement 2) 11 septembre 2025 CD\n\n- 4pickett en U\n\n- 1 ballon de volley\n\n- 2 pieds\n\n- 14 tiges de différente longueur\n\n- instruction de montage (instruction manquantes, 12 sept 2025)\n\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-17"
     },
@@ -3699,7 +3694,7 @@
       "nom": "Ensemble gant de baseball et balle (adulte)",
       "categorie": "Développement physique",
       "contenu": "- Gant de baseball adulte noir, main gauche\n\n- Vrai balle de baseball molle",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-16"
     },
@@ -3835,7 +3830,7 @@
       "nom": "Fais-moi un Dessin et Mime",
       "categorie": "Développement cognitif",
       "contenu": "- 1 Crayon de plomb\n- 1 Dé rouge \n- 1 Dé vert\n- 1 Règle du jeu\n- 100 Cartes de jeu\n- 1 Carnet",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-16"
     },
@@ -3862,7 +3857,7 @@
       "nom": "Family Feud",
       "categorie": "Développement social",
       "contenu": "- Règlements\n- 150 cartes Face-À-Face\n- 50 cartes Argent Comptant\n- 1 Tableau d'affichage\n- 1 feutre à sec effaçable",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-27"
     },
@@ -3871,7 +3866,7 @@
       "nom": "Fanta Color Baby",
       "categorie": "Développement cognitif",
       "contenu": "-1 planche de jeu (2 morceaux)\n\n-6 cartes modèles\n\n-4 jetons \"Bonhomme sourire\"\n\n-8 jetons Rouges\n\n-4 jetons jaunes\n\n-8 jetons bleus",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-26"
     },
@@ -3925,7 +3920,7 @@
       "nom": "Fermette Fisher-Price ( accessoires dans l'armoire ) sac # 0705",
       "categorie": "Développement motricité fine",
       "contenu": "5 animaux \n1 foin\n1 tomates\nAccessoires dans l'armoires blanche",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-18"
     },
@@ -4326,7 +4321,7 @@
       "nom": "Guess Who? Disney Junior",
       "categorie": "Développement social",
       "contenu": "-2 plateaux de jeu\n\n-4 feuilles de personnages recto-verso\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
     },
@@ -4344,7 +4339,7 @@
       "nom": "Guess Who? Trolls",
       "categorie": "Développement du langage",
       "contenu": "- 2 plateaux de jeu\n- 2 feuilles de personnages recto verso\n- instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-22"
     },
@@ -4380,7 +4375,7 @@
       "nom": "Haute tour en bois",
       "categorie": "Développement motricité fine",
       "contenu": "- 1 sac de transport\n- 60 blocs en bois\n- 1 dé\n- instructions\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-05"
     },
@@ -4399,7 +4394,7 @@
       "nom": "Hedbanz Junior",
       "categorie": "Développement social",
       "contenu": "- 4 bandeaux\n\n- 24 cartes d'animaux\n\n- 32 cartes d'indice\n\n- 4 tapis d'indices\n\n- 1 guide des animaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -4444,7 +4439,7 @@
       "nom": "Hibachi",
       "categorie": "Développement social",
       "contenu": "- 54 cartes ingrédient\n- 10 cartes chili\n- 18 cartes recette\n- 24 jetons à lancer\n- 42 billets Yens\n- 1 plateau de jeu 4 morceaux\n- 2 X instructions\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-09"
     },
@@ -4572,7 +4567,8 @@
       "contenu": "- 1 singe sauteur\n\n- 12 bananes\n\n- 2 dés, un avec image\n\n- 1 base de jeu\n\n- instruction\n\n-",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-19"
+      "date_acquisition": "2025-06-19",
+      "date_retour_prevue": "2026-06-02"
     },
     {
       "id": "0983",
@@ -4615,7 +4611,7 @@
       "nom": "Invente-moi une histoire storytime",
       "categorie": "Développement social",
       "contenu": "-120 pastilles\n\n-1 tapis de jeu\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -4696,7 +4692,7 @@
       "nom": "Jeu de balles en échelle",
       "categorie": "Développement physique",
       "contenu": "-2 échelles\n-4 pattes + 4 boutons à boulon\n-6 ensemble de 2 balles avec corde (3 jaunes et 3 rouges)\n-Règle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-11"
     },
@@ -4787,10 +4783,9 @@
       "nom": "jeu de mémoire paw patrol",
       "categorie": "Développement mémoire",
       "contenu": "- 72 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-28",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2025-05-28"
     },
     {
       "id": "0455",
@@ -4879,7 +4874,7 @@
       "nom": "Jeux de pêche",
       "categorie": "Développement motricité fine",
       "contenu": "1 plaquette\n3 cannes à pêche: la rose est brisée\n14 poissons",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-17"
     },
@@ -4943,7 +4938,7 @@
       "nom": "Joe Connaissant",
       "categorie": "Développement affectif",
       "contenu": "768 énigmes\n1 sablier\n1 planche de jeu\n2 pions\n1 fiche des règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
     },
@@ -5145,7 +5140,7 @@
       "nom": "Kid Connection",
       "categorie": "Développement motricité fine",
       "contenu": "- 50 pièces",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
     },
@@ -5210,7 +5205,7 @@
       "nom": "Kingdomino",
       "categorie": "Développement cognitif",
       "contenu": "- 48 cartes\n- 8 pions\n- 4 cartes couronne\n- 4 chateaux (4 morceaux chacun)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-10-24"
     },
@@ -5310,7 +5305,7 @@
       "nom": "La classe de 5e",
       "categorie": "Développement social",
       "contenu": "-2 planches de jeu\n\n-4 pions\n\n-40 jetons Pomme\n\n-12 jetons Triche\n\n-1000 questions\n\n-1 aide-mémoire Français\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
     },
@@ -5409,7 +5404,7 @@
       "nom": "La pagaille en Egypte",
       "categorie": "Développement social",
       "contenu": "- 52 cartes Pierre de Rosette\n- 7 cartes Hiéroglyphes \n- 1 cartes zéro/Duo\n- 1 livret de règles du jeu.",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-08"
     },
@@ -5418,7 +5413,7 @@
       "nom": "La pêche aux sons",
       "categorie": "Développement du langage",
       "contenu": "- 48 poissons en bois aimantés\n- 1 canne à pêche\n- 1 planche ­* cours d'eau*\n- 6 planches de jeu recto verso\n- 1 feuillet explicatif\n- les règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-19"
     },
@@ -5472,7 +5467,7 @@
       "nom": "Labyrinthe Star Wars",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau de jeu\n- 34 plaques Labyrinthe carrées\n- 20 jetons personnage\n- 4 pions\n- Règlements\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-11-13"
     },
@@ -5698,7 +5693,7 @@
       "nom": "Les DRAGONS 100 flammes",
       "categorie": "Développement cognitif",
       "contenu": "-7 pièces vertes foncées   \n-7 pièces vertes pâles\n-5 pièces orange\n-8 œufs rouges *manque 1 remplacer\n-1 plateau\n-Règle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -5716,7 +5711,7 @@
       "nom": "Les formes et les couleurs",
       "categorie": "Développement cognitif",
       "contenu": "4 plateaux de jeu\n4 fiches bleus\n4 fiches verts\n4 fiches rouges\n4 fiches jaunes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-05-28"
     },
@@ -5744,7 +5739,7 @@
       "nom": "Les vêtements de Léa",
       "categorie": "Développement motricité fine",
       "contenu": "- 30 morceaux - manque chaussure blanche.",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
     },
@@ -5780,7 +5775,7 @@
       "nom": "licorne qui se balance",
       "categorie": "Développement physique",
       "contenu": "licorne en bois qui se balance",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-11"
     },
@@ -5817,7 +5812,7 @@
       "nom": "little people",
       "categorie": "Développement cognitif",
       "contenu": "1 lion\n1 phoque\n1 gorille\n1 tours",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-13"
     },
@@ -5934,7 +5929,7 @@
       "nom": "LOL Surprise Coffret de 8 Puzzle",
       "categorie": "Développement cognitif",
       "contenu": "9 X 100 puzzles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
     },
@@ -6033,7 +6028,7 @@
       "nom": "loup-garous",
       "categorie": "Développement social",
       "contenu": "5 loup-garou\n12 villageois\n1 voleur\n1 cupidon\n1 sorcière\n1 joueur flute\n1 chasseur\n1 petite fille\n1 voyante, 1 salvateur, 1 idiot du village, 1 bouc emissaire, 1 ancien, règlement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-15"
     },
@@ -6078,7 +6073,7 @@
       "nom": "Mad Gab",
       "categorie": "Développement mémoire",
       "contenu": "298 cartes\n1 minuterie \n1 présentoir a bascule",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-04"
     },
@@ -6114,7 +6109,7 @@
       "nom": "Magnetix animaux rigolos",
       "categorie": "Développement motricité fine",
       "contenu": "43 aimants\n6 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-24"
     },
@@ -6231,7 +6226,7 @@
       "nom": "Mc Wiz 2000",
       "categorie": "Développement mémoire",
       "contenu": "135 cartes temps et lieux\n138 cartes sciences\n139 sports\n139 cartes poubelle\n138 cartes Arts\n1 X bloc pointage",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-02"
     },
@@ -6285,7 +6280,7 @@
       "nom": "mémoire tonic",
       "categorie": "Développement physique",
       "contenu": "indication du jeux\n40 petite carte\n3 grande carte",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-08"
     },
@@ -6358,7 +6353,7 @@
       "nom": "mille bornes",
       "categorie": "Développement social",
       "contenu": "110 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-30"
     },
@@ -6458,7 +6453,7 @@
       "nom": "Monopoly Classique",
       "categorie": "Développement social",
       "contenu": "2 dés, 11 pions, 13 hôtels, 34 maisons, 28 cartes villes, 16 cartes chance, 16 cartes Community, 48 X 20$\n40 X 10$\n40 X 5$\n23 X 500$\n65 X 1$\n23 X 100$\n23 X 50$",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-02"
     },
@@ -6485,7 +6480,7 @@
       "nom": "Monopoly Junior",
       "categorie": "Développement social",
       "contenu": "- 1 planche de jeu\n- 16 cartes de fête\n- 16 cartes Chance\n- 32 jetons cadeau\n- 1 boite-cadeau\n- 70 billets de 1 M\n- 4 pions Gâteau\n- 1 dé",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-16"
     },
@@ -6595,7 +6590,7 @@
       "nom": "Mont-à-mots Pictos",
       "categorie": "Développement mémoire",
       "contenu": "-règlements\n- 40 jetons\n- 4 planches de jeu\n- 1 roulette\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-27"
     },
@@ -6604,7 +6599,7 @@
       "nom": "Moon Balances",
       "categorie": "Développement motricité fine",
       "contenu": "Manque un morceau se joue pareil",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
     },
@@ -6659,7 +6654,7 @@
       "nom": "Mr. Luko",
       "categorie": "Développement social",
       "contenu": "-1 plateau\n\n-12 agneaux\n\n-1 brebis\n\n-1 Mr. Luko\n\n-2 supports à carte\n\n-1 dé",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
     },
@@ -6686,7 +6681,7 @@
       "nom": "Mysterium",
       "categorie": "Développement social",
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-09"
     },
@@ -6713,7 +6708,7 @@
       "nom": "Nomme-moi...",
       "categorie": "Développement du langage",
       "contenu": "-108 pastilles\n\n-1 dé\n\n-1 tapis de jeu\n\n-Règle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -6722,7 +6717,7 @@
       "nom": "Nonsense Family",
       "categorie": "Développement social",
       "contenu": "-6 grille de scone\n\n-6 pions\n\n-1 sablier\n\n-80 cartes mots illustrés\n\n-80 cartes de situation\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-13"
     },
@@ -6822,7 +6817,7 @@
       "nom": "Otrio",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau de jeu\n- 36 cercles \n- Règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-10-24"
     },
@@ -7013,7 +7008,7 @@
       "nom": "pickleball",
       "categorie": "Développement physique",
       "contenu": "2 paquette en bois\n2 balle jaune\nensemble de filet de 12 pI\netui de transport\nrègle de jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-17"
     },
@@ -7104,7 +7099,7 @@
       "nom": "Placote : L'école des monstres",
       "categorie": "Développement social",
       "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -7149,7 +7144,7 @@
       "nom": "Placote: Dompteur de mémoire",
       "categorie": "Développement cognitif",
       "contenu": "-32 cartes créatures\n\n-4 planches aide-mémoires recto-verso\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -7186,7 +7181,7 @@
       "nom": "Placote: La maison des actions",
       "categorie": "Développement du langage",
       "contenu": "- maison rouge et orange = 4 morceaux\n\n- maison verte et jaune = 4 morceaux\n\n- fenêtre bleues = 9 morceaux\n\n- cartes d'action = 9 rouges, 9 oranges,9 jaunes, 9 vertes\n\n- Règles du jeu et guide d'accompagnement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
     },
@@ -7195,7 +7190,7 @@
       "nom": "Placote: La maison des actions",
       "categorie": "Développement du langage",
       "contenu": "-8 pieds de casse-tête (maison 2)\n\n-9 cartes fenêtres\n\n-9 cartes d'actions vertes\n\n-9 cartes d'actions jaunes\n\n-9 cartes d'actions oranges\n\n-9 cartes d'actions rouges\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -7343,7 +7338,7 @@
       "nom": "Placote: Les héros supersoniques",
       "categorie": "Développement du langage",
       "contenu": "-1 planche de jeu (9 casse-tête)\n\n-4 pions super héros\n\n-1 pion super vilain\n\n-4 cartes super héros \n\n-1 roue de jeu\n\n-72 cartes-mots\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -7361,7 +7356,7 @@
       "nom": "Placote: Loto des petites phrases",
       "categorie": "Développement du langage",
       "contenu": "-8 planches de jeu\n\n-16 cartes-images\n\n-1 gabarit pour insérer la planche de jeu\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
     },
@@ -7452,7 +7447,7 @@
       "nom": "Placote: Singes en fuite",
       "categorie": "Développement cognitif",
       "contenu": "-1 planche de jeu (9 morceaux de casse-tête)\n\n-11 jetons \"Singe\"\n\n-1 jeton \"Gardien\"\n\n-1 dé \n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-07"
     },
@@ -7618,7 +7613,7 @@
       "nom": "Poupée Bleu",
       "categorie": "Développement social",
       "contenu": "- 1 poupée\n- 1 pousette rose et blanche en plastique\n- 1 paire de soulier,1 pyjamas bleu, 1 bavette bleu, 1 collier avec médaille argent, 1 chapeau bleu.\n- 1 couche, 1 paire de lunette, 1 suce bleu, 1 biberon bleu,\n- 1 salopette jeans avec t-shirt et chapeau\n- 1 jean\n- 1 pyjamas à carreaux rouge",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-13"
     },
@@ -7636,7 +7631,7 @@
       "nom": "poussette Rose",
       "categorie": "Développement physique",
       "contenu": "Poussette rose",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-08"
     },
@@ -7746,7 +7741,7 @@
       "nom": "puzzle Frozen 48",
       "categorie": "Développement motricité fine",
       "contenu": "48 pieces",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-13"
     },
@@ -7809,7 +7804,7 @@
       "nom": "Québecopoly",
       "categorie": "Développement social",
       "contenu": "1 planche                   15 X 500$  23 X100$   24 X 50$   40 X 20$  35 X 10$  43 X 5$  34 X 1$\n2 X dés\n6 pions\n28 cartes propriétés\n12 maisons bleues\n14 cartes va au dépanneur\n13 cartes va à la pêche\n30 maisons blanches\ninstructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-02"
     },
@@ -7944,7 +7939,7 @@
       "nom": "Risk",
       "categorie": "Développement social",
       "contenu": "- Planche de jeu\n- 5 armée avec chacune 40 troupes (petits pions)\n- 12 cavaleries (moyens pions)\n- 5 dés\n- 8 artilleries (grands pions)\n- 43 cartes\n- 2 cartes de références\n- Les règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
     },
@@ -8163,7 +8158,7 @@
       "nom": "Singe roulant",
       "categorie": "Développement physique",
       "contenu": "1 singe",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-17"
     },
@@ -8208,7 +8203,7 @@
       "nom": "Smash Ball",
       "categorie": "Développement physique",
       "contenu": "- Monture ; 5 pieds vert, 5 tubes noir,1 filet\n- 3 ballons\n- 1 sac de transport\n- Instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-05"
     },
@@ -8398,7 +8393,7 @@
       "nom": "Super 4 Tock",
       "categorie": "Développement social",
       "contenu": "-Plateau de jeu\n-16 billes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-24"
     },
@@ -8407,7 +8402,7 @@
       "nom": "super comics",
       "categorie": "Développement motricité fine",
       "contenu": "34 carte rouge\n57 carte verte\n11 carte bleu\n4 carte jaune\n4 carte de situation danger",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-19"
     },
@@ -8571,7 +8566,7 @@
       "nom": "Taverna",
       "categorie": "Développement social",
       "contenu": "- Plateau de jeu\n\n- 34 cartes client\n\n- 64 cartes sort\n\n- 5 cartes aides du jeu\n\n- 25 cubes titre de propriété de 5 couleurs\n\n- 25 marqueurs score de 5 couleurs\n\n- 4 figurines notable\n\n- 45 pièces de monnaie\n\n- 36 tuiles clients,18 tuiles faveur royal,15 jetons privilège,12 jetons guilde,1 jeton Roy,1 jeton Reine,Livre de règle\n\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-30"
     },
@@ -8755,7 +8750,7 @@
       "nom": "Tipsy",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plateau de jeu\n- 1 socle en bois\n- 13 palets ( 6 rouges, 6 bleu, 1 noir)\n- 1 dé \n- Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-19"
     },
@@ -8945,7 +8940,7 @@
       "nom": "Trampoline",
       "categorie": "Développement physique",
       "contenu": "Trampoline",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-14"
     },
@@ -9018,7 +9013,7 @@
       "nom": "trottinette Hulk",
       "categorie": "Développement physique",
       "contenu": "Trottinette Hulk",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-04-02"
     },
@@ -9037,7 +9032,7 @@
       "nom": "Trottinette rose",
       "categorie": "Développement physique",
       "contenu": "- 1 trottinette rose\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-06"
     },
@@ -9046,7 +9041,7 @@
       "nom": "Trouble",
       "categorie": "Développement cognitif",
       "contenu": "- 1 plaque de jeu\n- 16 pions : 4 bleu, 4 verts, 4 jaunes, 4 rouges\n- instructions sur la boite",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-08"
     },
@@ -9163,7 +9158,7 @@
       "nom": "Une saison au zoo",
       "categorie": "Développement social",
       "contenu": "220 Cartes \n10 Cartes missions \n142 Cartes empreintes \n20 Cartes chance\n48 Cartes enclos \n1 Plateau \n6 Points\n12 Jetons \n1 Dé\nRègle du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
     },
@@ -9181,7 +9176,7 @@
       "nom": "Unlock ! heroic adventure ( 10 + )",
       "categorie": "Développement social",
       "contenu": "- 3 Jeux : Jeu num.1 : 60 cartes de jeu+ 10 cartes tutoriel\n \nJeu num. 2 : 60 cartes de jeu\n \nJeu num. 3 : 60 cartes de jeu.\n \n \n- 1 feuillet \n \n- 1 carnet\n \n- 1 instruction",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-03"
     },
@@ -9384,7 +9379,7 @@
       "nom": "zombie kids",
       "categorie": "Développement social",
       "contenu": "1 plateau de jeu\n4 pion aventurier\n8 jeton zombie \n1 de de couleur\n4 jeton cadenas\nrègle",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-11"
     },
@@ -9393,7 +9388,7 @@
       "nom": "Zombie Kidz",
       "categorie": "Développement cognitif",
       "contenu": "1 plateau\n\n1 Livret de règlement\n\n13 enveloppes\n\n4 pions cadenas\n\n1 dé zombie\n\n8 pions zombie\n\n4 pions héros\n\n8 supports",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-20"
     },
