@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-13T08:27:03.426Z",
-  "total": 1037,
-  "disponibles": 923,
+  "derniere_mise_a_jour": "2026-05-14T08:21:24.433Z",
+  "total": 1039,
+  "disponibles": 936,
   "jouets": [
     {
       "id": "0085",
@@ -44,10 +44,9 @@
       "nom": "5211",
       "categorie": "Développement social",
       "contenu": "- 100 cartes\n\n- 2 livrets instructions (anglais et francais)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-26",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2026-03-26"
     },
     {
       "id": "0795",
@@ -1181,7 +1180,7 @@
       "nom": "Casque bleu",
       "categorie": "Développement physique",
       "contenu": "Casque bleu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-15"
     },
@@ -2592,7 +2591,7 @@
       "nom": "Costume : Citrouille 1pièce (bras/jambes)",
       "categorie": "Développement social",
       "contenu": "-1 une pièce citrouille \n-1 un chapeau rond orange",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-26"
     },
@@ -2673,7 +2672,7 @@
       "nom": "Costume : Ironman",
       "categorie": "Développement mémoire",
       "contenu": "1 Ironman (1 morceau)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
     },
@@ -2718,7 +2717,7 @@
       "nom": "Costume : Lion",
       "categorie": "Développement social",
       "contenu": "-1 costume lion\n-1 chapeau lion",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-19"
     },
@@ -2826,7 +2825,7 @@
       "nom": "Costume : Pompier beige",
       "categorie": "Développement social",
       "contenu": "-1 manteau pompier\n-1 pantalon\n-1 talki-walki\n-1 chapeau pompier noir",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-03"
     },
@@ -3015,7 +3014,7 @@
       "nom": "Costume: Hulk",
       "categorie": "Développement social",
       "contenu": "- 1 une pièce hulk",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
     },
@@ -3502,7 +3501,7 @@
       "nom": "Dropple ( ker plunk) patpatrouille",
       "categorie": "Développement motricité fine",
       "contenu": "22 figurines de chiots\n1 dé\n1 tour ( 6 pièces)\ninstructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-04-21"
     },
@@ -4238,10 +4237,9 @@
       "nom": "Globe terreste interractif",
       "categorie": "Développement cognitif",
       "contenu": "-Un globe avec avec avion interractif\n\n \n\n*Nécessite des piles incluses 4 fois AA",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-05-12"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0233",
@@ -4484,7 +4482,7 @@
       "nom": "Hitster",
       "categorie": "Développement affectif",
       "contenu": "-Jeu hitster",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-13"
     },
@@ -5085,10 +5083,9 @@
       "nom": "Just One",
       "categorie": "Développement du langage",
       "contenu": "110 cartes\n7 chevalets\n7 chiffonnettes\n3 crayons à encre sèche\nfeuillet de règles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-21",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0714",
@@ -5977,6 +5974,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-18"
+    },
+    {
+      "id": "1048",
+      "nom": "lot de Poupée cry baby",
+      "categorie": "Développement affectif",
+      "contenu": "- Lot de 2 poupées\n\n- 2 suces\n\n- 2 bouchons pour la tête",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-13"
     },
     {
       "id": "0155",
@@ -7347,9 +7353,10 @@
       "nom": "Placote: Loto des émotions",
       "categorie": "Développement affectif",
       "contenu": "- 1 gabarit\n\n- 6 planches de jeu recto-verso\n\n- 4 cartes-émotions rose/mauve\n\n- 4 cartes-émotions vert/jaune\n\n- 4 cartes-émotions orange/bleu\n\n- 4 cartes-émotions vert/beige\n\n- 1 règle de jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-06-03"
     },
     {
       "id": "0120",
@@ -7885,7 +7892,7 @@
       "nom": "Raquettes adulte rose",
       "categorie": "Développement physique",
       "contenu": "1 paires de raquettes rose",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-19"
     },
@@ -7894,7 +7901,7 @@
       "nom": "Raquettes enfants rouge",
       "categorie": "Développement physique",
       "contenu": "1 paires de raquettes rouge",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-19"
     },
@@ -8212,9 +8219,10 @@
       "nom": "Smash Ball",
       "categorie": "Développement physique",
       "contenu": "- sac de transport\n- 3 ballons\n- cadre rond avec pieds\n- filet",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-17"
+      "date_acquisition": "2025-06-17",
+      "date_retour_prevue": "2026-06-03"
     },
     {
       "id": "0396",
@@ -8411,7 +8419,7 @@
       "nom": "super skills",
       "categorie": "Développement social",
       "contenu": "120 cartes\n10 verres\n5 balles\n4 dés\n2 baguettes\n1 corde\n1 bandeau pour les yeux¸\n1 sablier (30 sec)¸\n1 marqueur, 1 tableau de scores effaçable",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-10"
     },
@@ -8447,9 +8455,10 @@
       "nom": "Table d'activité",
       "categorie": "Développement social",
       "contenu": "-1 table d'activité\n\n-1 petit téléphone rouge",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-29"
+      "date_acquisition": "2024-01-29",
+      "date_retour_prevue": "2026-06-03"
     },
     {
       "id": "0534",
@@ -8956,10 +8965,10 @@
     },
     {
       "id": "0972",
-      "nom": "Transpoteur Monstre Hot Weels (Accessoires dans l'armoire, sac # 0972 )",
+      "nom": "Transporteur Monster Truck Hot Wheels (Accessoires dans l'armoire, sac #0972)",
       "categorie": "Développement social",
       "contenu": "- 5 Voiture :1 grise,1 verte,1 mauve et jaune,1 rouge,1 bleu, rouge et blanc\n \n- Accessoires dans l'armoire blanche, sac # 0972",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-13"
     },
@@ -8998,6 +9007,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-07"
+    },
+    {
+      "id": "1049",
+      "nom": "tricycle rouge et blanc",
+      "categorie": "Développement physique",
+      "contenu": "1 tricycle rouge et blanc",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-13"
     },
     {
       "id": "0871",
@@ -9049,10 +9067,11 @@
       "id": "0444",
       "nom": "trousse de médecin",
       "categorie": "Développement motricité fine",
-      "contenu": "- 4 stéthoscope\n\n- 2 seringue\n\n- 3 marteaux de réflex\n\n- 4 thermomètre\n\n- 2 paire de ciseaux\n\n- 3 pinces\n\n- 1 petit miroir\n\n- tensiomètre\n\n- 2 otoscope",
-      "disponible": true,
+      "contenu": "4 stéthoscope\n2 seringue\n3 marteaux de réflexes\n4 thermomètre\n1 paire de ciseau\n3 pinces\n1 petit miroir\ntensiomètre\n2 otoscope",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-08"
+      "date_acquisition": "2025-09-08",
+      "date_retour_prevue": "2026-06-03"
     },
     {
       "id": "0099",
