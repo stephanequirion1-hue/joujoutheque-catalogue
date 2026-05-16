@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-15T08:33:33.112Z",
-  "total": 1039,
-  "disponibles": 941,
+  "derniere_mise_a_jour": "2026-05-16T07:43:51.428Z",
+  "total": 1042,
+  "disponibles": 946,
   "jouets": [
     {
       "id": "0085",
@@ -251,7 +251,7 @@
       "id": "0962",
       "nom": "Avion Shopkins ( accessoires dans l'armoire sac # 0962)",
       "categorie": "Développement social",
-      "contenu": "- 1 avion\n\n- 1 chariot\n\n- 2 poupée\n\n- 1 perruque\n\n- 24 shopkins\n\n- 1 popsicle",
+      "contenu": "- 1 avion\n\n- 1 chariot\n\n- 2 poupée\n\n- 1 perruque\n\n- 17 shopkins",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-06"
@@ -533,7 +533,7 @@
       "id": "0963",
       "nom": "Bateau Shopkins ( Accessoires dans l'armoire Blanche sac # 0963 )",
       "categorie": "Développement social",
-      "contenu": "- Accessoires dans l'armoire blanche\n \nBateau, 1 dauphin rose avec 1 petit bateau et 1 harnais, 1 table avec 2 chaises, 1 glissade, 3 poupées et 1 perruque, 1 boite en plastique rose, \n \n25 shopkins, 2 armoires, 1 chaise suspendu avec bâton (pôle) 2 lits",
+      "contenu": "- Accessoires dans l'armoire blanche\n \nBateau, 1 dauphin rose avec 1 petit bateau et 1 harnais, 1 table avec 2 chaises, 1 glissade, 3 poupées et 1 perruque, 1 boite en plastique rose, \n \n16 shopkins, 2 armoires, 1 chaise suspendu avec bâton (pôle) 2 lits",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-06"
@@ -1664,13 +1664,12 @@
     },
     {
       "id": "0238",
-      "nom": "Casse-tête Chien",
+      "nom": "Casse-tête Chien Playful Paws 300 pièces",
       "categorie": "Développement motricité fine",
-      "contenu": "-300 morceaux",
-      "disponible": false,
+      "contenu": "Playful Paws 300 pièces",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0145",
@@ -3263,6 +3262,15 @@
       "date_acquisition": "2026-02-23"
     },
     {
+      "id": "1052",
+      "nom": "cuisine shopkins",
+      "categorie": "Développement social",
+      "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau\n1 grosse carotte 2 pièces\n18 petits shopkins\n1 petit pop-sicle rose",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-15"
+    },
+    {
       "id": "0307",
       "nom": "Cuisinière + Accessoires ( dans l'armoire bac de plastic # 0307",
       "categorie": "Développement social",
@@ -3644,6 +3652,15 @@
       "date_acquisition": "2026-01-26"
     },
     {
+      "id": "1050",
+      "nom": "ensemble de pâte à modeler",
+      "categorie": "Développement motricité fine",
+      "contenu": "1 valise verte\n1 grand plateau orange\n2 petite tablette jaune\n8 moule dino et plante\n2 presse pâte 2 pièces chaque ( un ensemble rouge, 1 ensemble orange) \n2 pièces jaunes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-15"
+    },
+    {
       "id": "0725",
       "nom": "ensemble de petit baton de hockey",
       "categorie": "Développement physique",
@@ -3761,14 +3778,22 @@
       "date_acquisition": "2024-01-18"
     },
     {
+      "id": "1051",
+      "nom": "ensemble pâte à modeler ( dentiste)",
+      "categorie": "Développement motricité fine",
+      "contenu": "1 tête\n1 moule dents\n1 poignée et 2 rouleaux ( 1 jaune 1 vert)\n5 outils de découpage\n2 outils de dentiste\n1 paire de ciseau\n1 pelle rouge\n1 rouleau\n1 presse à pâte bleu et rouge\n6 emporte pièces",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-15"
+    },
+    {
       "id": "0999",
       "nom": "Escape Game pocket",
       "categorie": "Développement cognitif",
       "contenu": "- 30 cartes\n\n- 10 objets\n\n- instructions",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2026-03-31"
     },
     {
       "id": "0941",
@@ -4600,7 +4625,7 @@
       "nom": "instruments pour pâte a modeler",
       "categorie": "Développement motricité fine",
       "contenu": "32 pièces",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-04"
     },
@@ -5437,7 +5462,7 @@
       "nom": "Labyrinthe",
       "categorie": "Développement social",
       "contenu": "-1 plateau de jeu\n\n-34 plaques Couloir\n\n-24 cartes Trésor\n\n-4 pions Personnage\n\n-Règle du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2024-01-12"
     },
@@ -6394,7 +6419,7 @@
       "id": "0985",
       "nom": "Mini Market",
       "categorie": "Développement social",
-      "contenu": "- 4 pions ( rouge, orange ,vert, mauve )\n- 4 pions mini-brands (  Kool- Aid, Mentos, Icee drink, Babybel )\n- 25 cartes actions\n- 1 dé\n- 32 vugnettes\n- 15 cartes Liste de courses\n- 1 règles du jeu\n-",
+      "contenu": "- 4 pions ( rouge, orange ,vert, mauve )\n\n- 4 pions mini-brands (  Kool- Aid, Mentos, Icee drink, Babybel )\n\n- 25 cartes actions\n\n- 1 dé\n\n- 32 vignettes\n\n- 15 cartes Liste de courses\n\n- 1 règles du jeu\n\n-",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-03-13"
@@ -6659,7 +6684,7 @@
       "id": "0173",
       "nom": "Mr. Luko",
       "categorie": "Développement social",
-      "contenu": "-1 plateau\n\n-12 agneaux\n\n-1 brebis\n\n-1 Mr. Luko\n\n-2 supports à carte\n\n-1 dé",
+      "contenu": "-1 plateau\n-12 agneaux\n-1 brebis\n-1 Mr. Luko\n-2 supports à carte\n-1 dé\n-instructions",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
@@ -8991,15 +9016,6 @@
       "date_acquisition": "2026-03-18"
     },
     {
-      "id": "0376",
-      "nom": "Tricycle",
-      "categorie": "Développement motricité fine",
-      "contenu": "Tricycle",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-11-16"
-    },
-    {
       "id": "0767",
       "nom": "Tricycle",
       "categorie": "Développement physique",
@@ -9012,10 +9028,19 @@
       "id": "1049",
       "nom": "tricycle rouge et blanc",
       "categorie": "Développement physique",
-      "contenu": "1 tricycle rouge et blanc",
+      "contenu": "1 tricycle rouge et blanc en métal, \"Precision made in Canada\"",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-13"
+    },
+    {
+      "id": "0376",
+      "nom": "Tricycle vert et bleu",
+      "categorie": "Développement motricité fine",
+      "contenu": "Tricycle vert et bleu en plastique et métal “My 1st Huffy”",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-11-16"
     },
     {
       "id": "0871",
