@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-19T08:52:16.039Z",
+  "derniere_mise_a_jour": "2026-05-20T08:47:45.141Z",
   "total": 1044,
-  "disponibles": 943,
+  "disponibles": 945,
   "jouets": [
     {
       "id": "0085",
@@ -942,10 +942,9 @@
       "nom": "Caisse",
       "categorie": "Développement motricité fine",
       "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-05-09"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0483",
@@ -8661,10 +8660,9 @@
       "nom": "Téléphone à promener",
       "categorie": "Développement motricité fine",
       "contenu": "Téléphone à promener avec la corde",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-17",
-      "date_retour_prevue": "2026-05-09"
+      "date_acquisition": "2025-04-17"
     },
     {
       "id": "0096",
