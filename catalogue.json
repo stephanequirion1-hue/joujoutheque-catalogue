@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-20T08:47:45.141Z",
-  "total": 1044,
-  "disponibles": 945,
+  "derniere_mise_a_jour": "2026-05-21T08:49:47.379Z",
+  "total": 1045,
+  "disponibles": 949,
   "jouets": [
     {
       "id": "0085",
@@ -1046,15 +1046,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-22"
-    },
-    {
-      "id": "0312",
-      "nom": "Caravane de Barbie et accessoires",
-      "categorie": "Développement physique",
-      "contenu": "1 Caravane, 3 Barbie,1 table, 2 chaises, 1 nape à carreaux,1 assiettes, 1 bol, 6 bouteilles : 2 jaune, 1 bleu, 1 bleu translucide, 1 rouge, 1 mauve.2 poêlons, 1 spatule, 1 bouilloire, 1 chaudière, 1 dentifrice + brosse à dents,\n- 1 lanterne, 2 oreillers, 3 support à vêtements.2 verres à boire(1mauve,1 bleu)\nVêtements : 2 robes longues,7 robes courtes,9 gilets, 2 pantalon 5 paires de bottes/souliers, 1 veste bleu, 2 marshmallows\n\n- Accessoire dans l'armoire sac # 0312",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-05-14"
     },
     {
       "id": "0599",
@@ -2219,9 +2210,10 @@
       "nom": "cherche et trouve: toupie et binou",
       "categorie": "Développement motricité fine",
       "contenu": "1 carte de règle \n3 planche de jeux\n25 carte de chose a trouver",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-08"
+      "date_acquisition": "2025-07-08",
+      "date_retour_prevue": "2026-06-10"
     },
     {
       "id": "0157",
@@ -3379,6 +3371,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-13"
+    },
+    {
+      "id": "1055",
+      "nom": "Diamant",
+      "categorie": "Développement social",
+      "contenu": "35 cartes expédition\n1 plateau de jeu\n16 cartes décision\n100 pierres précieuses\n5 tuiles Entrée de grotte\n8 pions\n8 coffres\nrègles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-20"
     },
     {
       "id": "0379",
@@ -4718,6 +4719,15 @@
       "date_acquisition": "2024-01-17"
     },
     {
+      "id": "0312",
+      "nom": "Jeep de Barbie et accessoires",
+      "categorie": "Développement physique",
+      "contenu": "1 Jeep 3 Barbie,1 table, 2 chaises, 1 nape à carreaux,3 assiettes, 1 bol, 6 bouteilles : 2 jaune, 1 bleu, 1 bleu translucide, 1 rouge, 1 mauve.2 poêlons, 1 spatule, 1 bouilloire, 1 chaudière, 1 dentifrice + brosse à dents,\n- 1 lanterne, 2 oreillers, 2 support à vêtements.2 verres à boire(1mauve,1 bleu)\nVêtements : 2 robes longues,7 robes courtes, 8 gilets, 2 pantalon 5 paires de bottes/souliers, 1 veste bleu, 2 marshmallows, 1 peigne,1 cape rose\n\n- Accessoire dans l'armoire sac # 0312",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-05-14"
+    },
+    {
       "id": "0451",
       "nom": "Jenga",
       "categorie": "Développement motricité fine",
@@ -5060,10 +5070,9 @@
       "nom": "Jumanji",
       "categorie": "Développement social",
       "contenu": "- 1 plateau de jeu\n\n- 1 dôme décodeur\n\n- 100 cartes défi\n\n- 4 pions rhino\n\n- 20 jetons santé\n\n- 2 dés classiques\n\n- 4 dés défi\n\n- 1 sablier\n\n- instruction et feuille de réponse possible ( indices à l'endos)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-25",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2025-04-25"
     },
     {
       "id": "0084",
@@ -5114,11 +5123,10 @@
       "id": "0428",
       "nom": "Junior Pictolino",
       "categorie": "Développement mémoire",
-      "contenu": "- 4 planches de jeu\n- 24 pitons - Manque 1 mouton",
-      "disponible": false,
+      "contenu": "- 4 planches de jeu\n\n- 24 pitons - Manque 1 mouton",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-05-25"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "1023",
@@ -6336,10 +6344,9 @@
       "nom": "Memory Match Game - Paw Patrol",
       "categorie": "Développement mémoire",
       "contenu": "- 72 cartes à jouer\n\n- 1 rack bleu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-05-25"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "1002",
@@ -6873,9 +6880,10 @@
       "nom": "Où est passé mon éléphant ?",
       "categorie": "Développement du langage",
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-06-10"
     },
     {
       "id": "0375",
@@ -7394,10 +7402,9 @@
       "nom": "Placote: Loto des émotions",
       "categorie": "Développement affectif",
       "contenu": "- 1 gabarit\n\n- 6 planches de jeu recto-verso\n\n- 4 cartes-émotions rose/mauve\n\n- 4 cartes-émotions vert/jaune\n\n- 4 cartes-émotions orange/bleu\n\n- 4 cartes-émotions vert/beige\n\n- 1 règle de jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-06-03"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0120",
@@ -9115,10 +9122,9 @@
       "nom": "trousse de médecin",
       "categorie": "Développement motricité fine",
       "contenu": "4 stéthoscope\n2 seringue\n3 marteaux de réflexes\n4 thermomètre\n1 paire de ciseau\n3 pinces\n1 petit miroir\ntensiomètre\n2 otoscope",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-09-08",
-      "date_retour_prevue": "2026-06-03"
+      "date_acquisition": "2025-09-08"
     },
     {
       "id": "0099",
