@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-21T08:49:47.379Z",
-  "total": 1045,
-  "disponibles": 949,
+  "derniere_mise_a_jour": "2026-05-22T08:43:41.619Z",
+  "total": 1047,
+  "disponibles": 951,
   "jouets": [
     {
       "id": "0085",
@@ -965,6 +965,15 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "1056",
+      "nom": "Camel Up",
+      "categorie": "Développement social",
+      "contenu": "-Règle du jeu (Anglais et français)\n-un plateau de jeu\n-20 tuiles pari-manche\n-5 tuiles pyramide\n-52 pièces 1\n-30 pièces 5\n-40 cartes pari-course\n-8 tuiles spectateur\n-8 cartes partenariat\n-5 Chameaux de course\n-5 dés de course\n-2 chameaux fous\n-1 dés gris\n-1 marqueur premier joueur\n-1 pyramide (2morceaux)",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-21"
+    },
+    {
       "id": "0604",
       "nom": "Camion jaune",
       "categorie": "Développement affectif",
@@ -996,10 +1005,9 @@
       "nom": "Camion pat patrouille Accessoires ranger dans l'armoire sac # 0867",
       "categorie": "Développement social",
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-03",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2025-11-03"
     },
     {
       "id": "0608",
@@ -4148,6 +4156,15 @@
       "date_retour_prevue": "2026-05-26"
     },
     {
+      "id": "1057",
+      "nom": "Fromage - Ben Rosset & Matthew O'Malley",
+      "categorie": "Développement social",
+      "contenu": "-4 quadrants de plateau\n-1 tuile ressources\n-12 inserts\n-4 plateaux joueur\n-2 bacs à ressources\n-12 ouvriers\n-60 pions fromage\n-36 cartes commande\n-36 pions Bâtiment\n-36 pions Bétail\n-36 pions Fruit\n-32 tuiles Bâtiment\n-6 pions Client\n-8 pions avec chiffres\n-1 carnet de score (2 feuilles plastifiées)\n-1 guide (16 pages)\n-crayon dry erase",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-21"
+    },
+    {
       "id": "0246",
       "nom": "Frustration",
       "categorie": "Développement social",
@@ -5604,9 +5621,10 @@
       "nom": "Le labyrinthe magique",
       "categorie": "Développement cognitif",
       "contenu": "-1 planche de jeu\n\n-24 \"Murs\"\n\n-24 jetons\n\n-1 sac en toile\n\n-1 dé\n\n-4 figurines (rouge, bleu, vert, jaune)\n\n-4 billes \"Métallique\"\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-03-01"
+      "date_acquisition": "2024-03-01",
+      "date_retour_prevue": "2026-06-11"
     },
     {
       "id": "0142",
@@ -7125,10 +7143,9 @@
       "nom": "Piratatak",
       "categorie": "Développement cognitif",
       "contenu": "55 cartes\n \nrègles",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-19",
-      "date_retour_prevue": "2026-05-13"
+      "date_acquisition": "2024-11-19"
     },
     {
       "id": "1012",
@@ -8411,9 +8428,10 @@
       "nom": "Station spatiale NASA",
       "categorie": "Développement motricité fine",
       "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-16"
+      "date_acquisition": "2026-04-16",
+      "date_retour_prevue": "2026-06-11"
     },
     {
       "id": "0563",
