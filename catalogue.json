@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-22T08:43:41.619Z",
-  "total": 1047,
-  "disponibles": 951,
+  "derniere_mise_a_jour": "2026-05-23T07:59:49.878Z",
+  "total": 1049,
+  "disponibles": 955,
   "jouets": [
     {
       "id": "0085",
@@ -593,15 +593,6 @@
       "date_acquisition": "2025-07-11"
     },
     {
-      "id": "0205",
-      "nom": "BattleShip",
-      "categorie": "Développement cognitif",
-      "contenu": "-73 torpilles Rouges\n\n-168 torpilles Vertes\n\n-10 vaisseaux\n\n-2 planches de jeux\n\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-12"
-    },
-    {
       "id": "0318",
       "nom": "Battleship",
       "categorie": "Développement cognitif",
@@ -1036,15 +1027,6 @@
       "photo": null,
       "date_acquisition": "2024-01-16",
       "date_retour_prevue": "2026-04-22"
-    },
-    {
-      "id": "0076",
-      "nom": "Candy Land",
-      "categorie": "Développement social",
-      "contenu": "- 4 pions\n- 1 plateau de jeu\n- 1 tourniquet\n- règlements",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0620",
@@ -1760,24 +1742,6 @@
       "date_acquisition": "2024-01-22"
     },
     {
-      "id": "0752",
-      "nom": "Casse-tête en bois (avion)",
-      "categorie": "Développement motricité fine",
-      "contenu": "10 pièces",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-11"
-    },
-    {
-      "id": "0751",
-      "nom": "Casse-tête en bois (fusée)",
-      "categorie": "Développement motricité fine",
-      "contenu": "10 pièces",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-11"
-    },
-    {
       "id": "0434",
       "nom": "Casse-tête en bois chaussure à lacer",
       "categorie": "Développement motricité fine",
@@ -2106,15 +2070,6 @@
       "date_acquisition": "2024-01-24"
     },
     {
-      "id": "0407",
-      "nom": "Cherche et trouve - Autour du monde",
-      "categorie": "Développement mémoire",
-      "contenu": "- 4 planches de jeu \n- 50 cartes de jeu\n- un feuillet de règlement",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "0399",
       "nom": "Cherche et trouve - Aventure",
       "categorie": "Développement cognitif",
@@ -2140,15 +2095,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-22"
-    },
-    {
-      "id": "0241",
-      "nom": "Cherche et Trouve : Autour du monde",
-      "categorie": "Développement cognitif",
-      "contenu": "-4 plateaux de recherche recto-verso\n-49 cartes “Images”",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-07-19"
     },
     {
       "id": "0044",
@@ -2194,15 +2140,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-15"
-    },
-    {
-      "id": "0575",
-      "nom": "Cherche et trouve: Le monde enchanté",
-      "categorie": "Développement cognitif",
-      "contenu": "3 planches réversibles\n25 cartes\nrègles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-04-09"
     },
     {
       "id": "0576",
@@ -2253,24 +2190,6 @@
       "date_retour_prevue": "2026-06-07"
     },
     {
-      "id": "0269",
-      "nom": "Chutes and Ladders",
-      "categorie": "Développement social",
-      "contenu": "-1 planche de jeu\n\n-1 planche avec flèche\n\n-3 pions et leur base de plastique\n\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-18"
-    },
-    {
-      "id": "0416",
-      "nom": "Chutes and Ladders",
-      "categorie": "Développement social",
-      "contenu": "- Planche de jeu\n- Roulette\n- 4 pions (Dora, Babouche, Diego, Sac à dos)\n- Règle du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "0478",
       "nom": "Chutes and Ladders",
       "categorie": "Développement social",
@@ -2278,15 +2197,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-31"
-    },
-    {
-      "id": "0693",
-      "nom": "Chutes and ladders princesses",
-      "categorie": "Développement cognitif",
-      "contenu": "-4 princesses\n-1 roulette\n-1 plateau",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-17"
     },
     {
       "id": "0260",
@@ -2495,15 +2405,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-19"
-    },
-    {
-      "id": "0628",
-      "nom": "Connect4",
-      "categorie": "Développement cognitif",
-      "contenu": "- 21 jetons rouges\n- 21 jetons verts\n- une planche de jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-28"
     },
     {
       "id": "0851",
@@ -3499,6 +3400,15 @@
       "date_acquisition": "2024-12-18"
     },
     {
+      "id": "1059",
+      "nom": "Double Action",
+      "categorie": "Développement social",
+      "contenu": "50 jetons bleu\n50 jetons rouges\n1 planche de jeu\n1 jeu de 54 cartes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-22"
+    },
+    {
       "id": "0766",
       "nom": "Double sens 2",
       "categorie": "Développement social",
@@ -3856,24 +3766,6 @@
       "date_acquisition": "2026-03-23"
     },
     {
-      "id": "0669",
-      "nom": "Expressio",
-      "categorie": "Développement physique",
-      "contenu": "- 270 cartes\n- 1 sablier\n- 1 pot de pâte à modeler\n- 2 fils à sculpter\n- 1 bloc de feuilles de pointage\n- 1 bloc de feuilles à dessin\n- 2 crayons",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-06-10"
-    },
-    {
-      "id": "1043",
-      "nom": "Fais-moi un dessin",
-      "categorie": "Développement affectif",
-      "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
       "id": "1006",
       "nom": "Fais-moi un dessin",
       "categorie": "Développement social",
@@ -3908,15 +3800,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-19"
-    },
-    {
-      "id": "0467",
-      "nom": "Family Feud",
-      "categorie": "Développement social",
-      "contenu": "- Règlements\n- 150 cartes Face-À-Face\n- 50 cartes Argent Comptant\n- 1 Tableau d'affichage\n- 1 feutre à sec effaçable",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0064",
@@ -4246,15 +4129,6 @@
       "photo": null,
       "date_acquisition": "2025-07-11",
       "date_retour_prevue": "2026-06-08"
-    },
-    {
-      "id": "0951",
-      "nom": "Génies en herbes",
-      "categorie": "Développement mémoire",
-      "contenu": "- 10 livrets de partie ( Questions)\n\n- 10 feuilles de pointage plastifié\n\n- 11 feuilles de notes\n\n- Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-01-30"
     },
     {
       "id": "0253",
@@ -4819,15 +4693,6 @@
       "date_acquisition": "2024-12-18"
     },
     {
-      "id": "0001",
-      "nom": "Jeu de l'oeuf qui roule",
-      "categorie": "Développement cognitif",
-      "contenu": "- 1 Piste\n- 1 dé\n- Instructions\n- 4 oiseaux\n- 1 oeuf",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-12"
-    },
-    {
       "id": "0485",
       "nom": "jeu de mémoire Frozen",
       "categorie": "Développement mémoire",
@@ -4992,24 +4857,6 @@
       "date_acquisition": "2026-01-29"
     },
     {
-      "id": "1042",
-      "nom": "Joe Connaissant",
-      "categorie": "Développement cognitif",
-      "contenu": "384 cartes\n1 plateau\n1 sablier\n2 pions\nrèglements",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
-      "id": "0606",
-      "nom": "Joe Connaissant",
-      "categorie": "Développement affectif",
-      "contenu": "768 énigmes\n1 sablier\n1 planche de jeu\n2 pions\n1 fiche des règlements",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
       "id": "0959",
       "nom": "Joke de papa 8 +",
       "categorie": "Développement social",
@@ -5045,15 +4892,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-02"
-    },
-    {
-      "id": "0056",
-      "nom": "JOK-R-UMMY JR",
-      "categorie": "Développement cognitif",
-      "contenu": "- 92 cartes Jok-R-Ummy\n-38 cartes Mission\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-07-13"
     },
     {
       "id": "0749",
@@ -5231,10 +5069,9 @@
       "nom": "Kidoozie: Tumbling Tower",
       "categorie": "Développement motricité fine",
       "contenu": "-1 dessus mauve\n-1 dessous bleu\n-6 verres assemblables (rose, orange, jaune, vert foncé, vert pâle, bleu)\n-1 boule orange",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-04-27"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0284",
@@ -5363,15 +5200,6 @@
       "photo": null,
       "date_acquisition": "2026-03-23",
       "date_retour_prevue": "2026-05-26"
-    },
-    {
-      "id": "0258",
-      "nom": "La classe de 5e",
-      "categorie": "Développement social",
-      "contenu": "-2 planches de jeu\n\n-4 pions\n\n-40 jetons Pomme\n\n-12 jetons Triche\n\n-1000 questions\n\n-1 aide-mémoire Français\n\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0728",
@@ -5579,24 +5407,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-22"
-    },
-    {
-      "id": "0726",
-      "nom": "le cercle",
-      "categorie": "Développement social",
-      "contenu": "cartes: 540\n1 crayons + 1 crayons effacable\n1 planche de jeux\n1 minuteri\n1 feuillet de règlement\n1 chèque\n 6 jetons caméra\n66 jetons",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-08"
-    },
-    {
-      "id": "0755",
-      "nom": "le cercle",
-      "categorie": "Développement motricité fine",
-      "contenu": "540 cartes\n1 crayon effacable \n1 planche de jeux\n1 minuteur\n1 feuille de règlement\n1 chèque\n6 jeton caméra\n66 jetons",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0160",
@@ -6061,24 +5871,6 @@
       "date_acquisition": "2024-01-20"
     },
     {
-      "id": "0369",
-      "nom": "Loto des petites phrases",
-      "categorie": "Développement du langage",
-      "contenu": "- 16 Cartes\n- 8 Feuilles\n- 1 planches de jeu\n- 1 feuillet explicatif\n- Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-10-30"
-    },
-    {
-      "id": "0048",
-      "nom": "Lotto : La ferme de foin-foin",
-      "categorie": "Développement cognitif",
-      "contenu": "- 6 plateau de jeu\n-54 cartes",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-07-12"
-    },
-    {
       "id": "0500",
       "nom": "LOTTO La ferme de Foin-Foin",
       "categorie": "Développement cognitif",
@@ -6214,15 +6006,6 @@
       "date_acquisition": "2025-01-08"
     },
     {
-      "id": "0433",
-      "nom": "Malarky",
-      "categorie": "Développement social",
-      "contenu": "-320 cartes\n-42 jetons :\n6 bleus\n6 rouges\n6 verts \n6 jaunes\n6 oranges\n6 mauves\n6 noirs\n-6 porte-cartes dissimulateurs\n-1 dé\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "0401",
       "nom": "Marionnettes",
       "categorie": "Développement social",
@@ -6230,15 +6013,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
-    },
-    {
-      "id": "0680",
-      "nom": "Master Mind",
-      "categorie": "Développement cognitif",
-      "contenu": "- 1 tableau de décodage\n\n- 1 cachette en plastique pour cacher le code\n\n- 30 clefs noir\n\n- 30 clefs blanches\n\n- pions: 25 Jaunes, 23 rouges, 22 blancs, 25 bleu, 25 oranges, 21 brun,26 verts,23 noirs",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-06-11"
     },
     {
       "id": "0732",
@@ -6295,15 +6069,6 @@
       "date_acquisition": "2025-01-08"
     },
     {
-      "id": "0327",
-      "nom": "Mc Wiz 2000",
-      "categorie": "Développement mémoire",
-      "contenu": "135 cartes temps et lieux\n138 cartes sciences\n139 sports\n139 cartes poubelle\n138 cartes Arts\n1 X bloc pointage",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-02"
-    },
-    {
       "id": "0311",
       "nom": "Méchanlou",
       "categorie": "Développement cognitif",
@@ -6358,15 +6123,6 @@
       "date_acquisition": "2025-07-08"
     },
     {
-      "id": "0402",
-      "nom": "Memory Match Game - Paw Patrol",
-      "categorie": "Développement mémoire",
-      "contenu": "- 72 cartes à jouer\n\n- 1 rack bleu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "1002",
       "nom": "Mentalogy",
       "categorie": "Développement cognitif",
@@ -6410,6 +6166,15 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-02-23"
+    },
+    {
+      "id": "1058",
+      "nom": "mighty blocks",
+      "categorie": "Développement cognitif",
+      "contenu": "94 formes\n19 cartes à jouer\ninstructions",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-22"
     },
     {
       "id": "0626",
@@ -6530,15 +6295,6 @@
       "date_acquisition": "2025-05-02"
     },
     {
-      "id": "0412",
-      "nom": "Monopoly Empire",
-      "categorie": "Développement social",
-      "contenu": "- 36 morceaux \n- 28 cartes chances\n- 28 cartes empires\n- Argents\n- 2 dés \n- Règles du jeu\n- 4 tours",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "0405",
       "nom": "Monopoly Junior",
       "categorie": "Développement social",
@@ -6555,15 +6311,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-16"
-    },
-    {
-      "id": "0733",
-      "nom": "monopoly monde",
-      "categorie": "Développement social",
-      "contenu": "32 maison verte \n12 batise rouge\n6 pion\n2 dé\nguichet électronique (batterie non n=intégré)\nplaque de jeux\n6 carte de crédit\n3 discard\n59 carte de jeux\ncarte du monde",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-08"
     },
     {
       "id": "0385",
@@ -7085,15 +6832,6 @@
       "date_acquisition": "2025-07-17"
     },
     {
-      "id": "0874",
-      "nom": "Pictionary",
-      "categorie": "Développement cognitif",
-      "contenu": "- 1 Dé\n- 4 dés de couleur\n- 4 crayons de plomb\n- 1 sablier\n- 3 carnet blanc\n- 1 plateau de jeu\n- 1 Règle de jeu\n- 500 cartes de jeu\n- 4 cartes Catégories",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-18"
-    },
-    {
       "id": "0086",
       "nom": "Pictureka!",
       "categorie": "Développement cognitif",
@@ -7161,15 +6899,6 @@
       "nom": "Pixel Disy",
       "categorie": "Développement motricité fine",
       "contenu": "- 29 jetons rose pâle\n\n- 36 jetons mauve\n\n- 32 jetons jaune\n\n- 34 jetons bleu\n\n- 33 jetons orange\n\n- 30jetons rose foncé\n\n- 1 planche de jeu avec compartiment\n\n- 1 bâton de bois",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
-    },
-    {
-      "id": "0114",
-      "nom": "Placote : L'école des monstres",
-      "categorie": "Développement social",
-      "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
@@ -7249,15 +6978,6 @@
       "date_acquisition": "2024-01-12"
     },
     {
-      "id": "0119",
-      "nom": "Placote: La maison des actions",
-      "categorie": "Développement du langage",
-      "contenu": "- maison rouge et orange = 4 morceaux\n\n- maison verte et jaune = 4 morceaux\n\n- fenêtre bleues = 9 morceaux\n\n- cartes d'action = 9 rouges, 9 oranges,9 jaunes, 9 vertes\n\n- Règles du jeu et guide d'accompagnement",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
-    },
-    {
       "id": "0282",
       "nom": "Placote: La maison des actions",
       "categorie": "Développement du langage",
@@ -7326,15 +7046,6 @@
       "nom": "Placote: Le casse-phrase",
       "categorie": "Développement du langage",
       "contenu": "-4 plateaux de jeu (Jaune, vert, mauve, bleu)\n\n-9 morceaux Verts\n\n-9 morceaux Jaunes\n\n-9 morceaux Bleus\n\n-9 morceaux Mauves\n\n-Règles du jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-22"
-    },
-    {
-      "id": "0171",
-      "nom": "Placote: Le casse-phrase",
-      "categorie": "Développement du langage",
-      "contenu": "-4 planches de jeu\n\n-8 morceaux \"Sujet\" \n\n-8 morceaux \"Verbe\"\n\n-12 morceaux \"Complément\"\n\n-Règles du jeu\n\n \n\n*8 cartes vierges",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
@@ -7431,15 +7142,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
-    },
-    {
-      "id": "0299",
-      "nom": "Placote: Loto des petites phrases",
-      "categorie": "Développement du langage",
-      "contenu": "4 cartes lapins\n\n4 cartes chats\n\n4 cartes chiens\n\n4 cartes souris\n\n1 planche de jeu\n\n8 planches images à insérer",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0124",
@@ -7869,15 +7571,6 @@
       "date_acquisition": "2025-08-02"
     },
     {
-      "id": "0566",
-      "nom": "Québecopoly",
-      "categorie": "Développement social",
-      "contenu": "1 planche                   15 X 500$  23 X100$   24 X 50$   40 X 20$  35 X 10$  43 X 5$  34 X 1$\n2 X dés\n6 pions\n28 cartes propriétés\n12 maisons bleues\n14 cartes va au dépanneur\n13 cartes va à la pêche\n30 maisons blanches\ninstructions",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-02"
-    },
-    {
       "id": "0515",
       "nom": "Quelle Histoire",
       "categorie": "Développement cognitif",
@@ -7885,15 +7578,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
-    },
-    {
-      "id": "0786",
-      "nom": "qui cherche quoi ou?",
-      "categorie": "Développement du langage",
-      "contenu": "4 planche de jeu\n15 carte de question ‘’où est…?''\n15 carte de question ‘’c'est quoi?''\n10 carte de question ‘’c'est qui''\n10 carte de question ‘’quest-ce qu'il ou elle fait''\n4 série de 5 cartes ‘’cherche partout''\n1 feuille explication\nles règle de jeu",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-13"
     },
     {
       "id": "0351",
@@ -8553,15 +8237,6 @@
       "date_acquisition": "2024-01-13"
     },
     {
-      "id": "0916",
-      "nom": "Taboo",
-      "categorie": "Développement cognitif",
-      "contenu": "- 400 cartes\n- 1Avertisseur\n- 1sablier",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-12-16"
-    },
-    {
       "id": "0473",
       "nom": "Taco Chat Poulet Poutine Pizza",
       "categorie": "Développement social",
@@ -9037,42 +8712,6 @@
       "date_acquisition": "2026-02-13"
     },
     {
-      "id": "0452",
-      "nom": "Tribond",
-      "categorie": "Développement cognitif",
-      "contenu": "- 15 pions\n- 2 dés\n- 1 plateau\n- règlements\n- 300 cartes",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-03-13"
-    },
-    {
-      "id": "0986",
-      "nom": "Tribond",
-      "categorie": "Développement social",
-      "contenu": "- 3 plateaux de pointage\n- 48 jetons\n- 3 cartes guides\n- 325 ( approximatif ) cartes énigmes\n- boite à cartes\n- pas de feuillet de règlements, à voir en ligne.",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-03-18"
-    },
-    {
-      "id": "0767",
-      "nom": "Tricycle",
-      "categorie": "Développement physique",
-      "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-01-07"
-    },
-    {
-      "id": "1049",
-      "nom": "tricycle rouge et blanc",
-      "categorie": "Développement physique",
-      "contenu": "1 tricycle rouge et blanc en métal, \"Precision made in Canada\"",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-05-13"
-    },
-    {
       "id": "0376",
       "nom": "Tricycle vert et bleu",
       "categorie": "Développement motricité fine",
@@ -9235,15 +8874,6 @@
       "date_acquisition": "2024-09-20"
     },
     {
-      "id": "0783",
-      "nom": "une question de hockey",
-      "categorie": "Développement motricité fine",
-      "contenu": "environ 750 cartes",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-11"
-    },
-    {
       "id": "0445",
       "nom": "Une saison au zoo",
       "categorie": "Développement social",
@@ -9285,10 +8915,9 @@
       "nom": "vélo d'équilibre",
       "categorie": "Développement physique",
       "contenu": "- 1 vélo d'équilibre bleu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-05-09"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0849",
@@ -9390,6 +9019,393 @@
       "photo": null,
       "date_acquisition": "2026-05-07",
       "date_retour_prevue": "2026-05-30"
+    },
+    {
+      "id": "0327",
+      "nom": "xx",
+      "categorie": "Développement mémoire",
+      "contenu": "135 cartes temps et lieux\n138 cartes sciences\n139 sports\n139 cartes poubelle\n138 cartes Arts\n1 X bloc pointage",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-02"
+    },
+    {
+      "id": "xxxx",
+      "nom": "xxx",
+      "categorie": "Développement social",
+      "contenu": "- 4 pions\n- 1 plateau de jeu\n- 1 tourniquet\n- règlements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-17"
+    },
+    {
+      "id": "0269",
+      "nom": "xxx",
+      "categorie": "Développement social",
+      "contenu": "-1 planche de jeu\n\n-1 planche avec flèche\n\n-3 pions et leur base de plastique\n\n-Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-18"
+    },
+    {
+      "id": "0171",
+      "nom": "xxx",
+      "categorie": "Développement du langage",
+      "contenu": "-4 planches de jeu\n\n-8 morceaux \"Sujet\" \n\n-8 morceaux \"Verbe\"\n\n-12 morceaux \"Complément\"\n\n-Règles du jeu\n\n \n\n*8 cartes vierges",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-22"
+    },
+    {
+      "id": "0205",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "-73 torpilles Rouges\n\n-168 torpilles Vertes\n\n-10 vaisseaux\n\n-2 planches de jeux\n\n-Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-12"
+    },
+    {
+      "id": "xxx",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 92 cartes Jok-R-Ummy\n-38 cartes Mission\n-Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-07-13"
+    },
+    {
+      "id": "0241",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "-4 plateaux de recherche recto-verso\n-49 cartes “Images”",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-07-19"
+    },
+    {
+      "id": "0402",
+      "nom": "xxx",
+      "categorie": "Développement mémoire",
+      "contenu": "- 72 cartes à jouer\n\n- 1 rack bleu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "0416",
+      "nom": "xxx",
+      "categorie": "Développement social",
+      "contenu": "- Planche de jeu\n- Roulette\n- 4 pions (Dora, Babouche, Diego, Sac à dos)\n- Règle du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "0433",
+      "nom": "xxx",
+      "categorie": "Développement social",
+      "contenu": "-320 cartes\n-42 jetons :\n6 bleus\n6 rouges\n6 verts \n6 jaunes\n6 oranges\n6 mauves\n6 noirs\n-6 porte-cartes dissimulateurs\n-1 dé\n-Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "0874",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 Dé\n- 4 dés de couleur\n- 4 crayons de plomb\n- 1 sablier\n- 3 carnet blanc\n- 1 plateau de jeu\n- 1 Règle de jeu\n- 500 cartes de jeu\n- 4 cartes Catégories",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-18"
+    },
+    {
+      "id": "0680",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 tableau de décodage\n\n- 1 cachette en plastique pour cacher le code\n\n- 30 clefs noir\n\n- 30 clefs blanches\n\n- pions: 25 Jaunes, 23 rouges, 22 blancs, 25 bleu, 25 oranges, 21 brun,26 verts,23 noirs",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-06-11"
+    },
+    {
+      "id": "0628",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 21 jetons rouges\n- 21 jetons verts\n- une planche de jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-28"
+    },
+    {
+      "id": "1043",
+      "nom": "xxx",
+      "categorie": "Développement affectif",
+      "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0606",
+      "nom": "xxx",
+      "categorie": "Développement affectif",
+      "contenu": "768 énigmes\n1 sablier\n1 planche de jeu\n2 pions\n1 fiche des règlements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0575",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "3 planches réversibles\n25 cartes\nrègles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-04-09"
+    },
+    {
+      "id": "0467",
+      "nom": "xxx",
+      "categorie": "Développement social",
+      "contenu": "- Règlements\n- 150 cartes Face-À-Face\n- 50 cartes Argent Comptant\n- 1 Tableau d'affichage\n- 1 feutre à sec effaçable",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-03-27"
+    },
+    {
+      "id": "0452",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 15 pions\n- 2 dés\n- 1 plateau\n- règlements\n- 300 cartes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-03-13"
+    },
+    {
+      "id": "0751",
+      "nom": "xxx",
+      "categorie": "Développement motricité fine",
+      "contenu": "10 pièces",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-11"
+    },
+    {
+      "id": "0752",
+      "nom": "xxx",
+      "categorie": "Développement motricité fine",
+      "contenu": "10 pièces",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-11"
+    },
+    {
+      "id": "0783",
+      "nom": "xxx",
+      "categorie": "Développement motricité fine",
+      "contenu": "environ 750 cartes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-11"
+    },
+    {
+      "id": "0786",
+      "nom": "xxx",
+      "categorie": "Développement du langage",
+      "contenu": "4 planche de jeu\n15 carte de question ‘’où est…?''\n15 carte de question ‘’c'est quoi?''\n10 carte de question ‘’c'est qui''\n10 carte de question ‘’quest-ce qu'il ou elle fait''\n4 série de 5 cartes ‘’cherche partout''\n1 feuille explication\nles règle de jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-13"
+    },
+    {
+      "id": "0693",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "-4 princesses\n-1 roulette\n-1 plateau",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-17"
+    },
+    {
+      "id": "0951",
+      "nom": "xxx",
+      "categorie": "Développement mémoire",
+      "contenu": "- 10 livrets de partie ( Questions)\n\n- 10 feuilles de pointage plastifié\n\n- 11 feuilles de notes\n\n- Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-01-30"
+    },
+    {
+      "id": "0916",
+      "nom": "xxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 400 cartes\n- 1Avertisseur\n- 1sablier",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-12-16"
+    },
+    {
+      "id": "1049",
+      "nom": "xxx",
+      "categorie": "Développement physique",
+      "contenu": "1 tricycle rouge et blanc en métal, \"Precision made in Canada\"",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-13"
+    },
+    {
+      "id": "0119",
+      "nom": "xxxx",
+      "categorie": "Développement du langage",
+      "contenu": "- maison rouge et orange = 4 morceaux\n\n- maison verte et jaune = 4 morceaux\n\n- fenêtre bleues = 9 morceaux\n\n- cartes d'action = 9 rouges, 9 oranges,9 jaunes, 9 vertes\n\n- Règles du jeu et guide d'accompagnement",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-17"
+    },
+    {
+      "id": "0114",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-17"
+    },
+    {
+      "id": "0258",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "-2 planches de jeu\n\n-4 pions\n\n-40 jetons Pomme\n\n-12 jetons Triche\n\n-1000 questions\n\n-1 aide-mémoire Français\n\n-Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-18"
+    },
+    {
+      "id": "0299",
+      "nom": "xxxx",
+      "categorie": "Développement du langage",
+      "contenu": "4 cartes lapins\n\n4 cartes chats\n\n4 cartes chiens\n\n4 cartes souris\n\n1 planche de jeu\n\n8 planches images à insérer",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-27"
+    },
+    {
+      "id": "0001",
+      "nom": "xxxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 1 Piste\n- 1 dé\n- Instructions\n- 4 oiseaux\n- 1 oeuf",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-12"
+    },
+    {
+      "id": "0048",
+      "nom": "xxxx",
+      "categorie": "Développement cognitif",
+      "contenu": "- 6 plateau de jeu\n-54 cartes",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-07-12"
+    },
+    {
+      "id": "0407",
+      "nom": "xxxx",
+      "categorie": "Développement mémoire",
+      "contenu": "- 4 planches de jeu \n- 50 cartes de jeu\n- un feuillet de règlement",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "0412",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "- 36 morceaux \n- 28 cartes chances\n- 28 cartes empires\n- Argents\n- 2 dés \n- Règles du jeu\n- 4 tours",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "0369",
+      "nom": "xxxx",
+      "categorie": "Développement du langage",
+      "contenu": "- 16 Cartes\n- 8 Feuilles\n- 1 planches de jeu\n- 1 feuillet explicatif\n- Règles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-10-30"
+    },
+    {
+      "id": "0669",
+      "nom": "xxxx",
+      "categorie": "Développement physique",
+      "contenu": "- 270 cartes\n- 1 sablier\n- 1 pot de pâte à modeler\n- 2 fils à sculpter\n- 1 bloc de feuilles de pointage\n- 1 bloc de feuilles à dessin\n- 2 crayons",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-06-10"
+    },
+    {
+      "id": "0726",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "cartes: 540\n1 crayons + 1 crayons effacable\n1 planche de jeux\n1 minuteri\n1 feuillet de règlement\n1 chèque\n 6 jetons caméra\n66 jetons",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-08"
+    },
+    {
+      "id": "0733",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "32 maison verte \n12 batise rouge\n6 pion\n2 dé\nguichet électronique (batterie non n=intégré)\nplaque de jeux\n6 carte de crédit\n3 discard\n59 carte de jeux\ncarte du monde",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-08"
+    },
+    {
+      "id": "1042",
+      "nom": "xxxx",
+      "categorie": "Développement cognitif",
+      "contenu": "384 cartes\n1 plateau\n1 sablier\n2 pions\nrèglements",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0566",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "1 planche                   15 X 500$  23 X100$   24 X 50$   40 X 20$  35 X 10$  43 X 5$  34 X 1$\n2 X dés\n6 pions\n28 cartes propriétés\n12 maisons bleues\n14 cartes va au dépanneur\n13 cartes va à la pêche\n30 maisons blanches\ninstructions",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-02"
+    },
+    {
+      "id": "0755",
+      "nom": "xxxx",
+      "categorie": "Développement motricité fine",
+      "contenu": "540 cartes\n1 crayon effacable \n1 planche de jeux\n1 minuteur\n1 feuille de règlement\n1 chèque\n6 jeton caméra\n66 jetons",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-11"
+    },
+    {
+      "id": "0986",
+      "nom": "xxxx",
+      "categorie": "Développement social",
+      "contenu": "- 3 plateaux de pointage\n- 48 jetons\n- 3 cartes guides\n- 325 ( approximatif ) cartes énigmes\n- boite à cartes\n- pas de feuillet de règlements, à voir en ligne.",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-03-18"
+    },
+    {
+      "id": "0767",
+      "nom": "xxxx",
+      "categorie": "Développement physique",
+      "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-01-07"
     },
     {
       "id": "0390",
