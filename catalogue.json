@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-24T08:11:12.090Z",
+  "derniere_mise_a_jour": "2026-05-25T09:41:15.268Z",
   "total": 1049,
-  "disponibles": 955,
+  "disponibles": 950,
   "jouets": [
     {
       "id": "0085",
@@ -253,9 +253,10 @@
       "nom": "Avion Shopkins ( accessoires dans l'armoire sac # 0962)",
       "categorie": "Développement social",
       "contenu": "- 1 avion\n\n- 1 chariot\n\n- 2 poupée\n\n- 1 perruque\n\n- 17 shopkins",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "1029",
@@ -1412,10 +1413,9 @@
       "nom": "Casse-tête 1000 morceaux",
       "categorie": "Développement cognitif",
       "contenu": "1000 morceaux",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-27",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0469",
@@ -3105,9 +3105,10 @@
       "nom": "Croque-Carotte",
       "categorie": "Développement social",
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu\n\n*Clôture brisée",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0063",
@@ -4135,9 +4136,10 @@
       "nom": "GeoSmart : Geo Space Station",
       "categorie": "Développement motricité fine",
       "contenu": "-4 trapèzes\n\n-6 rectangles\n\n-12 petits triangles\n\n-8 grands triangles\n\n-36 carrés\n\n-2 blocs spinner\n\n-2 blocs LED-light\n\n-Guide d'accompagnement",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0191",
@@ -4824,10 +4826,9 @@
       "nom": "Jeux d'Écriture",
       "categorie": "Développement du langage",
       "contenu": "9 fiches",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0517",
@@ -6373,9 +6374,10 @@
       "nom": "Mont à mots - DINOS",
       "categorie": "Développement cognitif",
       "contenu": "- 2 jetons (dinos)\n- 1 dé\n- 120 questions (60 cartes)\n- 18 pierres\n- 2 rives \n- Instruction + règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0917",
@@ -7130,9 +7132,10 @@
       "nom": "Placote: Loto des émotions",
       "categorie": "Développement affectif",
       "contenu": "- 1 gabarit\n\n- 6 planches de jeu recto-verso\n\n- 4 cartes-émotions rose/mauve\n\n- 4 cartes-émotions vert/jaune\n\n- 4 cartes-émotions orange/bleu\n\n- 4 cartes-émotions vert/beige\n\n- 1 règle de jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0120",
@@ -7258,9 +7261,10 @@
       "nom": "Plasma Car",
       "categorie": "Développement physique",
       "contenu": "- 1 plasma car\n- * Livret d'assemblage et clé hexagonale dans notre armoire *",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0476",
@@ -7330,10 +7334,9 @@
       "nom": "Pop-up pirate",
       "categorie": "Développement physique",
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-05-24"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0792",
@@ -8067,9 +8070,10 @@
       "nom": "Spot it! : Disney",
       "categorie": "Développement social",
       "contenu": "-90 cartes\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0687",
@@ -8414,9 +8418,10 @@
       "nom": "Tetris",
       "categorie": "Développement motricité fine",
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0928",
@@ -8515,10 +8520,9 @@
       "nom": "Tordu de rire",
       "categorie": "Développement physique",
       "contenu": "- 1 plateau de jeu\n\n- 1cadran avec 1 aiguille géante\n\n- 11 rouleaux en mousse\n\n- 11 cartes actions\n\n- 12 cartes trophée\n\n- Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2026-03-31"
     },
     {
       "id": "0937",
@@ -8761,9 +8765,10 @@
       "nom": "Trottinette rose",
       "categorie": "Développement physique",
       "contenu": "- 1 trottinette rose\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-06-14"
     },
     {
       "id": "0495",
