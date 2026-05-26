@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-25T09:41:15.268Z",
-  "total": 1049,
-  "disponibles": 950,
+  "derniere_mise_a_jour": "2026-05-26T09:00:01.409Z",
+  "total": 1052,
+  "disponibles": 953,
   "jouets": [
     {
       "id": "0085",
@@ -99,10 +99,9 @@
       "nom": "ah ouin?",
       "categorie": "Développement motricité fine",
       "contenu": "17 carte ‘’10''\n16 carte ‘’1''\n15 carte ‘’20''\n6 carte main, 6 carte point , 6 carte bombe, 6 carte carré, 6 carte espace, 6 carte oeil, 6 carte bouteille, 6 carte hibou, 110 carte sujet, règle",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-02",
-      "date_retour_prevue": "2026-06-01"
+      "date_acquisition": "2025-08-02"
     },
     {
       "id": "0164",
@@ -344,10 +343,9 @@
       "nom": "Balle sensorielle aqua lumineuse",
       "categorie": "Développement physique",
       "contenu": "-1 balle sensorielle aqua avec balle lumineuse à l'intérieur",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0007",
@@ -793,6 +791,16 @@
       "date_acquisition": "2026-02-02"
     },
     {
+      "id": "1060",
+      "nom": "Boite à Musique",
+      "categorie": "Développement social",
+      "contenu": "Boite à bijoux\ncollier jaune",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-05-25",
+      "date_retour_prevue": "2026-06-14"
+    },
+    {
       "id": "0553",
       "nom": "Bombes de bain Montoy",
       "categorie": "Développement physique",
@@ -1052,9 +1060,10 @@
       "nom": "Cariboo",
       "categorie": "Développement motricité fine",
       "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0580",
@@ -1124,10 +1133,9 @@
       "nom": "Cartes Des mots tout simples",
       "categorie": "Développement du langage",
       "contenu": "- 52 cartes séparées en 2\n\nJeu usagé, quelques cartes abimées",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-21",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-11-21"
     },
     {
       "id": "0368",
@@ -1638,9 +1646,10 @@
       "nom": "Casse-tête Chien Playful Paws 300 pièces",
       "categorie": "Développement motricité fine",
       "contenu": "Playful Paws 300 pièces",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0145",
@@ -1818,9 +1827,10 @@
       "nom": "casse-tête macaron",
       "categorie": "Développement motricité fine",
       "contenu": "500 puzzle \n1 affiche de macaron",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0967",
@@ -3133,10 +3143,9 @@
       "nom": "Croque-Noisette",
       "categorie": "Développement motricité fine",
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0554",
@@ -5197,10 +5206,9 @@
       "nom": "La chasse aux pirates",
       "categorie": "Développement cognitif",
       "contenu": "- 40 cartes pirates\n\n- 1 île aux pirates\n\n- 10 îles au trésor\n\n- 4 cachettes\n\n- règlement recto verso",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-23",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2026-03-23"
     },
     {
       "id": "0728",
@@ -5469,10 +5477,9 @@
       "nom": "Le seau de la mort ( 18 + )",
       "categorie": "Développement social",
       "contenu": "- 288 cartes objets\n- 72 cartes scénarios\n- 1 guide de survie",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-02",
-      "date_retour_prevue": "2026-06-01"
+      "date_acquisition": "2026-02-02"
     },
     {
       "id": "0670",
@@ -6209,9 +6216,10 @@
       "nom": "milles pattes et glissades",
       "categorie": "Développement motricité fine",
       "contenu": "4 pion, 1 vert, 1 jaune, 1 bleu et 1 rouge\n1 plateau\nrèglement \n1 dé rouge",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-25"
+      "date_acquisition": "2025-07-25",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0748",
@@ -6328,10 +6336,9 @@
       "nom": "Monsieur Gelato",
       "categorie": "Développement cognitif",
       "contenu": "-1 porte carte\n\n-48 cartes Bambini (bleues)\n\n-48 cartes Moderato (jaunes)\n\n-48 cartes fortissimo (rouges)\n\n-42 jetons M.Gelato\n\n-4 ensembles de jetons (16X4= 64 jetons)\n\n-1 chevalet (bleu)\n\n-4 cachettes( voitures Gelato)\n\n-Règlement",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0039",
@@ -7002,10 +7009,9 @@
       "nom": "Placote: La pêche aux sons",
       "categorie": "Développement du langage",
       "contenu": "-1 canne à pêche\n\n-1 planche de jeu\n\n-6 planches à poissons\n\n-4 poissons de chaque couleurs\n(Mauve, Mauve foncé, Rose, Fushia, Vert pâle, Vert, Bleu foncé, Bleu pâle, Turquoise, Orange foncé, Orange, Jaune)\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0054",
@@ -7411,6 +7417,15 @@
       "date_acquisition": "2025-01-08"
     },
     {
+      "id": "1062",
+      "nom": "prépare ton hamburger",
+      "categorie": "Développement cognitif",
+      "contenu": "1 plateau de jeux \n32 pieces ingrédients\n1 feuillet d'instruction\n4 pions \n1 dé",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-25"
+    },
+    {
       "id": "0073",
       "nom": "Prépare ton hamburgeur",
       "categorie": "Développement social",
@@ -7506,9 +7521,10 @@
       "nom": "Puzzle éducatif le corps humain",
       "categorie": "Développement motricité fine",
       "contenu": "4 puzzles\n- 1 garçon 50 morceaux / 1 fillette 50 morceaux\n- 1 organes 75 morceaux\n- 1 squelette 100 morceaux\n- 12 cartes (plusieurs langues)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-16"
+      "date_acquisition": "2026-01-16",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0908",
@@ -7915,9 +7931,10 @@
       "nom": "Singe roulant",
       "categorie": "Développement physique",
       "contenu": "1 singe",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-17"
+      "date_acquisition": "2025-04-17",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0197",
@@ -8520,9 +8537,10 @@
       "nom": "Tordu de rire",
       "categorie": "Développement physique",
       "contenu": "- 1 plateau de jeu\n\n- 1cadran avec 1 aiguille géante\n\n- 11 rouleaux en mousse\n\n- 11 cartes actions\n\n- 12 cartes trophée\n\n- Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-31"
+      "date_acquisition": "2026-03-31",
+      "date_retour_prevue": "2026-06-15"
     },
     {
       "id": "0937",
@@ -8951,6 +8969,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-06"
+    },
+    {
+      "id": "1061",
+      "nom": "Véritech",
+      "categorie": "Développement cognitif",
+      "contenu": "1 boitier véritech avec 12 jetons\n 2 livrets d'activités (moi je m'habille de la tête aux pieds, l'alphabet muet. )",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-25"
     },
     {
       "id": "0994",
