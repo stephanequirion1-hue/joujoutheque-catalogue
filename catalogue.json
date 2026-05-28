@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-27T08:54:32.243Z",
-  "total": 1052,
-  "disponibles": 953,
+  "derniere_mise_a_jour": "2026-05-28T09:37:30.835Z",
+  "total": 1056,
+  "disponibles": 958,
   "jouets": [
     {
       "id": "0085",
@@ -3111,6 +3111,15 @@
       "date_acquisition": "2025-03-27"
     },
     {
+      "id": "1065",
+      "nom": "Croque - Noisette",
+      "categorie": "Développement motricité fine",
+      "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-27"
+    },
+    {
       "id": "0182",
       "nom": "Croque-Carotte",
       "categorie": "Développement social",
@@ -5436,6 +5445,15 @@
       "date_acquisition": "2024-09-04"
     },
     {
+      "id": "1064",
+      "nom": "Le jeu du marchand de sable",
+      "categorie": "Développement affectif",
+      "contenu": "2 planches de jeu\n14 jetons\n12 cartes\n1 dé",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-27"
+    },
+    {
       "id": "0195",
       "nom": "Le labyrinthe magique",
       "categorie": "Développement cognitif",
@@ -6222,6 +6240,15 @@
       "date_retour_prevue": "2026-06-15"
     },
     {
+      "id": "1063",
+      "nom": "Mim Too Famille",
+      "categorie": "Développement social",
+      "contenu": "50 cartes\n1 sablier\n1 règle du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-27"
+    },
+    {
       "id": "0748",
       "nom": "mini hockey",
       "categorie": "Développement physique",
@@ -6608,10 +6635,9 @@
       "nom": "Ooops!",
       "categorie": "Développement social",
       "contenu": "-Plateau de jeu\n-45 cartes (5 chacune, sauf 6 de la carte 1)\n-16 pions (4 de chaque, vert/bleu/orange/rose)\n-Règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-12",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2024-07-12"
     },
     {
       "id": "0317",
@@ -8231,6 +8257,15 @@
       "date_retour_prevue": "2026-06-03"
     },
     {
+      "id": "1066",
+      "nom": "Table de billard",
+      "categorie": "Développement motricité fine",
+      "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-05-27"
+    },
+    {
       "id": "0534",
       "nom": "Table de cribbage",
       "categorie": "Développement social",
@@ -8544,9 +8579,9 @@
     },
     {
       "id": "0937",
-      "nom": "Toss Across ( les poches et instructions dans l'armoire blanche, sac # 0937 )",
+      "nom": "Toss Across ( Armoire blanche, sac # 0937  poches et instructions )",
       "categorie": "Développement physique",
-      "contenu": "- jeu\n- 3 poches bleu\n- Les poches sont rangé dans l'armoire sac # 0937",
+      "contenu": "- jeu\n\n- 3 poches bleu\n\n- Les poches sont rangé dans l'armoire sac # 0937",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-01-16"
