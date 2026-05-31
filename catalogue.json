@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-30T08:11:21.640Z",
-  "total": 1056,
-  "disponibles": 960,
+  "derniere_mise_a_jour": "2026-05-31T08:30:38.617Z",
+  "total": 1057,
+  "disponibles": 951,
   "jouets": [
     {
       "id": "0085",
@@ -280,9 +280,10 @@
       "nom": "Badaboule",
       "categorie": "Développement motricité fine",
       "contenu": "-1 base,1 bras, 1 crochet bleu, 1 anneau\n-2 plates-formes\n-4 bâtons blancs MANQUE 2 BATON SE JOUE PAREIL\n-7 bâtons\n-24 boules blanches\n-14 boules couleurs\n-Règles",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-03"
+      "date_acquisition": "2024-02-03",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0003",
@@ -942,9 +943,10 @@
       "nom": "Camion pat patrouille Accessoires ranger dans l'armoire sac # 0867",
       "categorie": "Développement social",
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-03"
+      "date_acquisition": "2025-11-03",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0608",
@@ -2101,10 +2103,9 @@
       "nom": "Choco",
       "categorie": "Développement mémoire",
       "contenu": "-16 chocolat (7 arachides, 8 cerises, 1 chenille)\n\n-1 bloc dé\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0910",
@@ -3052,9 +3053,10 @@
       "nom": "Croque-Carotte",
       "categorie": "Développement social",
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0982",
@@ -3659,7 +3661,7 @@
     },
     {
       "id": "1051",
-      "nom": "ensemble pâte à modeler ( dentiste)",
+      "nom": "ensemble pâte à modeler (dentiste)",
       "categorie": "Développement motricité fine",
       "contenu": "1 tête\n1 moule dents\n1 poignée et 2 rouleaux ( 1 jaune 1 vert)\n5 outils de découpage\n2 outils de dentiste\n1 paire de ciseau\n1 pelle rouge\n1 rouleau\n1 presse à pâte bleu et rouge\n6 emporte pièces",
       "disponible": true,
@@ -3685,13 +3687,24 @@
       "date_acquisition": "2026-01-19"
     },
     {
+      "id": "1067",
+      "nom": "Everdell Silverfrost",
+      "categorie": "Développement cognitif",
+      "contenu": "- A compléter, sinon voir page 3",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-05-30",
+      "date_retour_prevue": "2026-06-20"
+    },
+    {
       "id": "0961",
       "nom": "Exploding Kittens",
       "categorie": "Développement social",
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0991",
@@ -3959,10 +3972,9 @@
       "nom": "Fridas's Fruit fiesta game",
       "categorie": "Développement motricité fine",
       "contenu": "- 1 plateau de jeu forêt tropicale ( intégré à la boîte)\n\n- 1 Pince  Frida en forme d'oiseau\n\n- 26 bols à fruits en formes de lettres\n\n- 4 Cartes nid \n\n- 1 triple toupie",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-14",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2026-04-14"
     },
     {
       "id": "0709",
@@ -4470,9 +4482,10 @@
       "nom": "J'apprends à lire",
       "categorie": "Développement cognitif",
       "contenu": "- 1 coffret\n- 15 cartes\n- 90 lettres de l'alphabète",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-14"
+      "date_acquisition": "2026-01-14",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0252",
@@ -5051,9 +5064,10 @@
       "nom": "La course aux fromages",
       "categorie": "Développement social",
       "contenu": "-1 plateau de jeu avec fromage géants\n\n-3 échelles\n\n-17 morceaux de fromage\n\n-1 chat\n\n-4 souris (mauve, bleue, verte, orange)\n\n-1 dé",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0229",
@@ -5267,9 +5281,10 @@
       "nom": "Le jeu du marchand de sable",
       "categorie": "Développement affectif",
       "contenu": "2 planches de jeu\n14 jetons\n12 cartes\n1 dé",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0195",
@@ -5602,9 +5617,10 @@
       "nom": "Livre Reine des neiges",
       "categorie": "Développement cognitif",
       "contenu": "- 1 Livre\n- 1 Affiche\n- 10 Figurines\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-20"
+      "date_acquisition": "2024-11-20",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0845",
@@ -6344,9 +6360,10 @@
       "nom": "Mysterium",
       "categorie": "Développement social",
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-09"
+      "date_acquisition": "2025-12-09",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0741",
@@ -6443,9 +6460,10 @@
       "nom": "Opération",
       "categorie": "Développement motricité fine",
       "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces \n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde\n-Pince attachée",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-16"
+      "date_acquisition": "2024-07-16",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0188",
@@ -6461,9 +6479,10 @@
       "nom": "opération reine des neiges",
       "categorie": "Développement cognitif",
       "contenu": "11 petit bonhomme de neige\n1 plateau de jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-15"
+      "date_acquisition": "2025-08-15",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0363",
@@ -7096,7 +7115,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-14"
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0476",
@@ -7510,9 +7529,10 @@
       "nom": "Réponds-moi en images!",
       "categorie": "Développement cognitif",
       "contenu": "-78 tuiles images\n-2 maisons en 3D (Les deux toits étaient collés ensemble..)\n-1 sac tissu\n-1 surface de jeu\n-1 pion jaune\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0533",
@@ -7540,6 +7560,15 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-25"
+    },
+    {
+      "id": "0103",
+      "nom": "Rocking ring stacker",
+      "categorie": "Développement motricité fine",
+      "contenu": "6 anneaux empilables (rouge, bleu, transparent, orange, vert, jaune)",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0190",
@@ -7794,10 +7823,9 @@
       "nom": "Smash Ball",
       "categorie": "Développement physique",
       "contenu": "- sac de transport\n- 3 ballons\n- cadre rond avec pieds\n- filet",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-17",
-      "date_retour_prevue": "2026-06-03"
+      "date_acquisition": "2025-06-17"
     },
     {
       "id": "0396",
@@ -7931,9 +7959,10 @@
       "nom": "Station de Boxe",
       "categorie": "Développement physique",
       "contenu": "- 1 station avec sac de frappe\n- 1 paire de gants de boxe\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "1020",
@@ -8262,19 +8291,19 @@
       "nom": "The Sneaky, Snacky Squirrel Game!",
       "categorie": "Développement motricité fine",
       "contenu": "1 pince écureuil\n\n20 glands de couleur\n\n- 4 jaunes\n\n- 4 vert\n\n- 4 rouge \n\n- 4 bleu\n\n- 4 mauve\n\n4 rondins\n\n1 règles de jeu\n\n1 roulette de jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0199",
       "nom": "Tic Tac Boum JUNIOR",
       "categorie": "Développement social",
       "contenu": "-55 cartes\n\n-1 bombe noire\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "0870",
@@ -8491,10 +8520,9 @@
       "nom": "Transformeur Optimus prime",
       "categorie": "Développement social",
       "contenu": "1 transformer",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-17",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2025-01-17"
     },
     {
       "id": "0972",
@@ -8555,10 +8583,9 @@
       "nom": "Trottinette rose",
       "categorie": "Développement physique",
       "contenu": "- 1 trottinette rose\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0495",
@@ -8810,9 +8837,10 @@
       "nom": "Wazabi",
       "categorie": "Développement cognitif",
       "contenu": "- 36 cartes de jeux\n- 24 dés\n- 2 cartes d'instructions",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-06-20"
     },
     {
       "id": "1040",
@@ -8834,7 +8862,7 @@
       "date_acquisition": "2025-05-02"
     },
     {
-      "id": "xxxx",
+      "id": "0076",
       "nom": "xxx",
       "categorie": "Développement social",
       "contenu": "- 4 pions\n- 1 plateau de jeu\n- 1 tourniquet\n- règlements",
@@ -8924,15 +8952,6 @@
       "date_acquisition": "2024-01-24"
     },
     {
-      "id": "0103",
-      "nom": "xxx",
-      "categorie": "Développement motricité fine",
-      "contenu": "xxx",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
-    },
-    {
       "id": "0038",
       "nom": "xxx",
       "categorie": "Développement motricité fine",
@@ -9014,7 +9033,7 @@
       "date_acquisition": "2024-01-12"
     },
     {
-      "id": "xxx",
+      "id": "0056",
       "nom": "xxx",
       "categorie": "Développement cognitif",
       "contenu": "- 92 cartes Jok-R-Ummy\n-38 cartes Mission\n-Règles du jeu",
