@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-05-31T08:30:38.617Z",
+  "derniere_mise_a_jour": "2026-06-01T11:01:01.087Z",
   "total": 1057,
-  "disponibles": 951,
+  "disponibles": 948,
   "jouets": [
     {
       "id": "0085",
@@ -879,18 +879,20 @@
       "nom": "Caisse",
       "categorie": "Développement motricité fine",
       "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0483",
       "nom": "caisse enregistreuse",
       "categorie": "Développement social",
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0512",
@@ -1939,9 +1941,10 @@
       "nom": "Chasseurs en herbe",
       "categorie": "Développement social",
       "contenu": "- 42 cartes papillon\n- 48 cartes abeilles\n- 4 jetons filet\n- 14 cartes herbes papillon\n- 16 cartes herbes abeille",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0694",
@@ -3473,10 +3476,9 @@
       "nom": "ensemble Bâtons de Hockey",
       "categorie": "Développement physique",
       "contenu": "- 2 bâtons de hockey\n- 2 balles\n- 1 rondelle\n-",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0646",
@@ -5173,9 +5175,10 @@
       "nom": "La planète des émotions",
       "categorie": "Développement affectif",
       "contenu": "- 8 pièces de casse-tête\n\n- 4 vaisseaux\n\n- 1 règles du jeu\n\n- 8 cartes émotions\n\n- 1  carte aide mémoire des émotions\n\n- 80 cartes de situations /émotions\n\n- 1 Dé",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0226",
@@ -5310,9 +5313,10 @@
       "nom": "Le petit chaperon rouge DELUXE",
       "categorie": "Développement cognitif",
       "contenu": "-1 plateau de jeu\n\n-5 tuiles de jeu avec fleur\n\n-2 figurines\n\n-3 sapins\n\n-1 maison\n\n-1 livret de 48 défis\n\n-1 bande dessinée\n\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0261",
@@ -5454,10 +5458,9 @@
       "nom": "les petits pompier",
       "categorie": "Développement affectif",
       "contenu": "-4 pions (1 feu, 3 pompiers)\n-49 cartes\n-1 plateau\n-Règlements",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-09-09",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2025-09-09"
     },
     {
       "id": "0192",
@@ -6161,9 +6164,10 @@
       "nom": "Monopoly Classique",
       "categorie": "Développement social",
       "contenu": "2 dés, 11 pions, 13 hôtels, 34 maisons, 28 cartes villes, 16 cartes chance, 16 cartes Community, 48 X 20$\n40 X 10$\n40 X 5$\n23 X 500$\n65 X 1$\n23 X 100$\n23 X 50$",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-02"
+      "date_acquisition": "2025-05-02",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0405",
@@ -6816,10 +6820,9 @@
       "nom": "Placote: Fais-moi une devinette",
       "categorie": "Développement du langage",
       "contenu": "-1 carte aide-mémoire\n\n-12 cartes bleues \"Aliments\"\n\n-12 cartes oranges \"Animaux\"\n\n-12 cartes vertes \"Objets de la maison\"\n\n-12 cartes mauves \"Moyens de transport\"\n\n-12 cartes jaunes \"Vêtements\"\n\n-5 dés (orange, bleu, vert, mauve, jaune)\n\n-Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0184",
@@ -6954,10 +6957,9 @@
       "nom": "Placote: L'école des monstres",
       "categorie": "Développement social",
       "contenu": "- 9 Morceaux / Casse- tête\n\n- 4 Pions\n\n- 5 Diplômes plastifié\n\n- 79 cartes\n\n- 1 feuillet explicatif\n\n- Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-30",
-      "date_retour_prevue": "2026-04-23"
+      "date_acquisition": "2024-10-30"
     },
     {
       "id": "0186",
@@ -7048,9 +7050,10 @@
       "nom": "Placote: Raconte-moi",
       "categorie": "Développement du langage",
       "contenu": "-10 paquets de 6 cartes (Classées par couleur)\n\n-2 cartes flèche\n\n-1 carte coeur\n\n-1 planche de jeu\n\n-Règle du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-06-21"
     },
     {
       "id": "0110",
