@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-01T11:01:01.087Z",
+  "derniere_mise_a_jour": "2026-06-02T09:54:29.100Z",
   "total": 1057,
-  "disponibles": 948,
+  "disponibles": 950,
   "jouets": [
     {
       "id": "0085",
@@ -3446,10 +3446,9 @@
       "nom": "Emporte-pièces et empreintes",
       "categorie": "Développement motricité fine",
       "contenu": "-1 poisson\n-1 tortue\n-vache ( manque la vache)\n-1 lapin\n-1 chien\n-1 oiseau",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-05-23"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0601",
@@ -7678,10 +7677,9 @@
       "nom": "sardines",
       "categorie": "Développement motricité fine",
       "contenu": "40 cartes sardines\nrèglements\n10 grandes carte sardines",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-23",
-      "date_retour_prevue": "2026-05-23"
+      "date_acquisition": "2025-07-23"
     },
     {
       "id": "0215",
