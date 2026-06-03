@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-02T09:54:29.100Z",
+  "derniere_mise_a_jour": "2026-06-03T10:26:20.290Z",
   "total": 1057,
-  "disponibles": 950,
+  "disponibles": 951,
   "jouets": [
     {
       "id": "0085",
@@ -1000,10 +1000,9 @@
       "nom": "Cariboo",
       "categorie": "Développement motricité fine",
       "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0580",
@@ -1951,10 +1950,9 @@
       "nom": "Chat et chien à promener",
       "categorie": "Développement social",
       "contenu": "-1 chat avec laisse 2 morceaux de plastique\n-1 chien avec laisse 2 morceaux de plastique \n-1 bol (manque le bol 12 sept.2025)\n-1 os",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-17",
-      "date_retour_prevue": "2026-05-25"
+      "date_acquisition": "2025-07-17"
     },
     {
       "id": "0018",
@@ -3075,9 +3073,10 @@
       "nom": "Croque-Noisette",
       "categorie": "Développement motricité fine",
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-06-23"
     },
     {
       "id": "0554",
@@ -3717,6 +3716,15 @@
       "date_acquisition": "2026-03-23"
     },
     {
+      "id": "1043",
+      "nom": "Fais-moi un dessin",
+      "categorie": "Développement affectif",
+      "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes\n \nÉlagué le 31 mai.",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
       "id": "1006",
       "nom": "Fais-moi un dessin",
       "categorie": "Développement social",
@@ -4111,9 +4119,10 @@
       "nom": "Girafe tordue",
       "categorie": "Développement cognitif",
       "contenu": "36 Tuiles de jeu\n\n \n\n1 Livret de jeu\n\n \n\n1 Autocorrecteur",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-06-23"
     },
     {
       "id": "0255",
@@ -5303,9 +5312,10 @@
       "nom": "Le Lynx",
       "categorie": "Développement cognitif",
       "contenu": "-4 planches de jeu \"Casse-tête\"\n\n-35 images (Manque 1 chat)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-06-23"
     },
     {
       "id": "0214",
@@ -5583,9 +5593,10 @@
       "nom": "Living Forest",
       "categorie": "Développement social",
       "contenu": "- 14 cartes Animal gardien de départ\n- 23 cartes Varan de feu\n- 23 cartes Animal gardien niv.1\n- 16 cartes Animal gardien niv.2\n- 12 cartes Animal gardien niv.3\n- 4 silhouettes Esprit de la nature\n- 4 tuiles Arbre protecteur de départ\n- 12 tuiles Victoire( 3 par esprit)\n- 4 plateaux individuels Forêt\n- 39 tuiles Arbre protecteur\n- 1 plateau central cercle des esprits\n- 58 tuiles de Feu 3 valeurs\n- 1 plateau Animal gardien,1 plateau Varan de feu, 1 silhouette Arbre sacré,20 tuiles Fragment 2 présentoirs pour les arbres protecteur",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-02"
+      "date_acquisition": "2026-02-02",
+      "date_retour_prevue": "2026-06-23"
     },
     {
       "id": "0262",
@@ -7095,10 +7106,9 @@
       "nom": "planche à roulette",
       "categorie": "Développement physique",
       "contenu": "1 planche avec 4 roulettes",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-05-18"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0700",
@@ -7187,9 +7197,10 @@
       "nom": "Pop-up pirate",
       "categorie": "Développement physique",
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-06-23"
     },
     {
       "id": "0792",
@@ -7268,7 +7279,7 @@
       "nom": "Prépare ton hamburgeur",
       "categorie": "Développement social",
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-16"
     },
@@ -7295,10 +7306,9 @@
       "nom": "Push and Ride:  Lion 2",
       "categorie": "Développement physique",
       "contenu": "trotteur",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-27",
-      "date_retour_prevue": "2026-05-18"
+      "date_acquisition": "2026-04-27"
     },
     {
       "id": "0108",
@@ -8053,10 +8063,9 @@
       "nom": "Table d'activité",
       "categorie": "Développement social",
       "contenu": "-1 table d'activité\n\n-1 petit téléphone rouge",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-29",
-      "date_retour_prevue": "2026-06-03"
+      "date_acquisition": "2024-01-29"
     },
     {
       "id": "1066",
@@ -8375,10 +8384,9 @@
       "nom": "Tordu de rire",
       "categorie": "Développement physique",
       "contenu": "- 1 plateau de jeu\n\n- 1cadran avec 1 aiguille géante\n\n- 11 rouleaux en mousse\n\n- 11 cartes actions\n\n- 12 cartes trophée\n\n- Règles du jeu",
-      "disponible": false,
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2026-03-31"
     },
     {
       "id": "0937",
@@ -9194,15 +9202,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-28"
-    },
-    {
-      "id": "1043",
-      "nom": "xxx",
-      "categorie": "Développement affectif",
-      "contenu": "24 pions de couleur (6 bleus, 6 mauves, 6 rouges, 6 oranges) + 1 blanc\n1 dé\n1 sablier\n1 bloc-notes\n1 planche de jeu\n1 boîte de cartes",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0606",
