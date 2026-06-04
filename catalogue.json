@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-03T10:26:20.290Z",
+  "derniere_mise_a_jour": "2026-06-04T09:36:54.691Z",
   "total": 1057,
-  "disponibles": 951,
+  "disponibles": 945,
   "jouets": [
     {
       "id": "0085",
@@ -534,9 +534,10 @@
       "nom": "Batte de baseball",
       "categorie": "Développement physique",
       "contenu": "- 1 batte de baseball\n- 2 balles de plastique\n- 1 support de plastique",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0750",
@@ -778,9 +779,10 @@
       "nom": "Bop & drop",
       "categorie": "Développement motricité fine",
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "1009",
@@ -3483,9 +3485,10 @@
       "nom": "Ensemble but/ballon de soccer",
       "categorie": "Développement physique",
       "contenu": "- 1 but avec filet\n- 1 ballon de soccer\n-",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0240",
@@ -4072,9 +4075,10 @@
       "nom": "Garage little people",
       "categorie": "Développement social",
       "contenu": "-1 garage Fisher Price / Little People",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0746",
@@ -6930,9 +6934,10 @@
       "nom": "Placote: Le dé des premiers mots",
       "categorie": "Développement du langage",
       "contenu": "-1 gros dé mou\n-60 images\n-Règles du jeu",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0279",
@@ -9487,9 +9492,10 @@
       "nom": "xxxx",
       "categorie": "Développement physique",
       "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
-      "disponible": true,
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-07"
+      "date_acquisition": "2026-01-07",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0390",
