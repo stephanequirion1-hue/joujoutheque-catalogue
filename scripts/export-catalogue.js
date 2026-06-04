@@ -14,6 +14,14 @@ const CATEGORIE_MAP = {
   760800006: 'Développement affectif',
 };
 
+const STATUT_MAP = {
+  null: 'Disponible',
+  760800000: 'Disponible',     // Retour
+  760800001: 'Emprunté',       // Emprunt
+  760800002: 'En réparation',
+  760800005: 'Remisé',
+};
+
 async function getToken() {
   const url = `https://login.microsoftonline.com/${TENANT_ID}/oauth2/v2.0/token`;
   const body = new URLSearchParams({
@@ -35,15 +43,19 @@ async function fetchInventaire(token) {
   const select = [
     'joujou_inventaireid',
     'joujou_identifiantjouet',
+    'joujou_idauto',
     'joujou_nom',
     'joujou_categoriedejeux',
+    'joujou_categoriesdejeux',
     'joujou_contenudujouet',
     'joujou_etatdujouet',
     'joujou_photojeu_url',
     'joujou_datedecreation',
+    'createdon',
   ].join(',');
 
-  const filter = 'statecode eq 0';
+  // Exclure Perdu (760800003) et Elague (760800004). Remise (760800005) inclus avec mention statut.
+  const filter = 'statecode eq 0 and (joujou_etatdujouet eq null or (joujou_etatdujouet ne 760800003 and joujou_etatdujouet ne 760800004))';
   let records = [];
   let url = `${DATAVERSE_URL}/api/data/v9.2/joujou_inventaires?$select=${select}&$filter=${filter}&$orderby=joujou_nom asc`;
 
@@ -157,19 +169,34 @@ function stripHtml(html) {
 
 function mapRecord(record, photoPath, mouvement) {
   const etat = record.joujou_etatdujouet;
-  const disponible = etat === null || etat === 760800000; // Retour = disponible
+  const statut = STATUT_MAP[etat] || 'Disponible';
+  const disponible = statut === 'Disponible';
+
+  const dateAcq = record.joujou_datedecreation || record.createdon;
+
+  // Categories : multi-select CSV en priorite, fallback sur le legacy single picklist.
+  const catRaw = record.joujou_categoriesdejeux;
+  let categories;
+  if (catRaw) {
+    categories = String(catRaw).split(',').map(v => CATEGORIE_MAP[parseInt(v, 10)]).filter(Boolean);
+  } else if (record.joujou_categoriedejeux != null) {
+    categories = [CATEGORIE_MAP[record.joujou_categoriedejeux]].filter(Boolean);
+  } else {
+    categories = [];
+  }
 
   const result = {
-    id: record.joujou_identifiantjouet || null,
+    id: record.joujou_idauto || record.joujou_identifiantjouet || null,
     nom: record.joujou_nom || '',
-    categorie: CATEGORIE_MAP[record.joujou_categoriedejeux] || null,
+    categories,
     contenu: stripHtml(record.joujou_contenudujouet),
+    statut,
     disponible,
     photo: photoPath,
-    date_acquisition: record.joujou_datedecreation ? record.joujou_datedecreation.split('T')[0] : null,
+    date_acquisition: dateAcq ? dateAcq.split('T')[0] : null,
   };
 
-  if (!disponible && mouvement) {
+  if (statut === 'Emprunté' && mouvement) {
     result.date_retour_prevue = mouvement.date_retour ? mouvement.date_retour.split('T')[0] : null;
   }
 
