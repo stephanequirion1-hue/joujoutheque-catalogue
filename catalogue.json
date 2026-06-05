@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-06-04T13:57:17.627Z",
+  "derniere_mise_a_jour": "2026-06-05T08:58:25.585Z",
   "total": 1056,
   "disponibles": 945,
   "jouets": [
@@ -8471,11 +8471,10 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2025-12-09"
     },
     {
       "id": "0741",
@@ -10752,10 +10751,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 grande table eau usagé\n-1 petite table eau avec un petit module de jeu sur le dessus amovible\n-1 sceau, 1 arrosoir, 1 rateau, 1 pelle, 3 moules (hyppocampe, baleine, pieuvre), 1 pieuvre orange, 1 pelle/sceau",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-06-25"
     },
     {
       "id": "0206",
