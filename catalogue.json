@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-05T08:58:25.585Z",
+  "derniere_mise_a_jour": "2026-06-06T08:18:25.962Z",
   "total": 1056,
-  "disponibles": 945,
+  "disponibles": 949,
   "jouets": [
     {
       "id": "0085",
@@ -1049,11 +1049,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-05-24"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0050",
@@ -2111,11 +2110,10 @@
         "Développement motricité fine"
       ],
       "contenu": "Playful Paws 300 pièces",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0145",
@@ -2352,11 +2350,10 @@
         "Développement motricité fine"
       ],
       "contenu": "500 puzzle \n1 affiche de macaron",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0967",
@@ -4188,10 +4185,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 24 jetons\n- Règlements\n- Plateau",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-30"
+      "date_acquisition": "2025-12-30",
+      "date_retour_prevue": "2026-06-26"
     },
     {
       "id": "0829",
@@ -5859,11 +5857,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 singe sauteur\n\n- 12 bananes\n\n- 2 dés, un avec image\n\n- 1 base de jeu\n\n- instruction\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-19",
-      "date_retour_prevue": "2026-06-02"
+      "date_acquisition": "2025-06-19"
     },
     {
       "id": "0983",
@@ -10095,10 +10092,11 @@
         "Développement social"
       ],
       "contenu": "- 150 billets\n- 2 dés\n- 11 jetons bonus\n- 7 jetons départage\n- 1 livret de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-06-26"
     },
     {
       "id": "0059",
@@ -10592,11 +10590,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 station avec sac de frappe\n- 1 paire de gants de boxe\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "1020",
@@ -11611,11 +11608,10 @@
         "Développement cognitif"
       ],
       "contenu": "- Planche de jeu (7 casse-tête)\n- 4 jetons Vikins (+8 bonus)\n- 1 personnage en caton\n- 4 pions\n- 1 boule\n- 24 pièces d'or\n- 4 voiles\n- 4 bateau\n- règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-08-13",
-      "date_retour_prevue": "2026-05-24"
+      "date_acquisition": "2024-08-13"
     },
     {
       "id": "0664",
