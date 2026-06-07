@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-06T08:18:25.962Z",
+  "derniere_mise_a_jour": "2026-06-07T08:40:26.045Z",
   "total": 1056,
-  "disponibles": 949,
+  "disponibles": 951,
   "jouets": [
     {
       "id": "0085",
@@ -710,11 +710,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 batte de baseball\n- 2 balles de plastique\n- 1 support de plastique",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0750",
@@ -4634,11 +4633,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 but avec filet\n- 1 ballon de soccer\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0240",
