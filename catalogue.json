@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-07T08:40:26.045Z",
+  "derniere_mise_a_jour": "2026-06-08T10:08:53.148Z",
   "total": 1056,
-  "disponibles": 951,
+  "disponibles": 950,
   "jouets": [
     {
       "id": "0085",
@@ -974,10 +974,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau \n\n- 42 pièces de jeu 2 couleurs\n\n- 1 règle de jeu détaillée\n\n- 2 range-pièces",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-28"
+      "date_acquisition": "2026-04-28",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "1010",
@@ -2797,10 +2798,11 @@
         "Développement mémoire"
       ],
       "contenu": "-16 chocolat (7 arachides, 8 cerises, 1 chenille)\n\n-1 bloc dé\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0910",
@@ -2809,11 +2811,10 @@
         "Développement mémoire"
       ],
       "contenu": "16 chocolat\n1 dé sous bulle\ninstructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-15",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2025-12-15"
     },
     {
       "id": "0478",
@@ -4065,8 +4066,7 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0982",
@@ -4595,11 +4595,10 @@
         "Développement cognitif"
       ],
       "contenu": "-199 cartes énigmes\n-1 bloc-notes\n-1 sablier\n-1 crayon\n-Règlements boite",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-08",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-05-08"
     },
     {
       "id": "0661",
@@ -5360,7 +5359,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-06-08"
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0881",
@@ -5418,11 +5417,10 @@
         "Développement motricité fine"
       ],
       "contenu": "168 cartes\n40 jetons\nsablier\n1 dé\nrègle",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-11",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0253",
@@ -5431,11 +5429,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 trapèzes\n\n-6 rectangles\n\n-12 petits triangles\n\n-8 grands triangles\n\n-36 carrés\n\n-2 blocs spinner\n\n-2 blocs LED-light\n\n-Guide d'accompagnement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0191",
@@ -6737,11 +6734,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu avec fromage géants\n\n-3 échelles\n\n-17 morceaux de fromage\n\n-1 chat\n\n-4 souris (mauve, bleue, verte, orange)\n\n-1 dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0229",
@@ -7753,10 +7749,11 @@
         "Développement motricité fine"
       ],
       "contenu": "6 cartes costumes recto-verso¸\n59 aimants",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0532",
@@ -8406,10 +8403,11 @@
         "Développement physique"
       ],
       "contenu": "1 moto",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-10"
+      "date_acquisition": "2025-11-10",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0320",
@@ -9290,11 +9288,10 @@
         "Développement affectif"
       ],
       "contenu": "- 1 gabarit\n\n- 6 planches de jeu recto-verso\n\n- 4 cartes-émotions rose/mauve\n\n- 4 cartes-émotions vert/jaune\n\n- 4 cartes-émotions orange/bleu\n\n- 4 cartes-émotions vert/beige\n\n- 1 règle de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0120",
@@ -9303,10 +9300,11 @@
         "Développement du langage"
       ],
       "contenu": "-8 planches de jeu\n\n-16 cartes-images\n\n-1 gabarit pour insérer la planche de jeu\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0124",
@@ -10224,10 +10222,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 6 chemises\n\n- 1 dé à 20 faces\n\n- 1 bloc note\n\n- 48 cartes\n\n- 1 sablier\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-29"
+      "date_acquisition": "2024-02-29",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0683",
@@ -10697,11 +10696,10 @@
         "Développement physique"
       ],
       "contenu": "- base/coffret de rangement\n\n- 2 raquettes\n\n- Balle de tennis\n\n- 1 mât ajustable (4 section) avec 3 embouts d'assemblages\n\n- mode d'emploi\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0069",
@@ -11414,10 +11412,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette rose\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0495",
@@ -11679,10 +11678,11 @@
         "Développement du langage"
       ],
       "contenu": "- 6 planches images\n\n- 6 liste de mots\n\n- cartes ; 20 bleus, 20 vertes, 20 rouge, 20 oranges, 19 mauves, 19 brunes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-24"
+      "date_acquisition": "2026-03-24",
+      "date_retour_prevue": "2026-06-28"
     },
     {
       "id": "0522",
