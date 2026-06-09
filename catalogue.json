@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-08T10:08:53.148Z",
-  "total": 1056,
-  "disponibles": 950,
+  "derniere_mise_a_jour": "2026-06-09T08:53:09.331Z",
+  "total": 1057,
+  "disponibles": 948,
   "jouets": [
     {
       "id": "0085",
@@ -2458,11 +2458,10 @@
         "Développement physique"
       ],
       "contenu": "2 catch ball velcro\n1 balle",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-15",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-06-15"
     },
     {
       "id": "0685",
@@ -4559,10 +4558,11 @@
         "Développement physique"
       ],
       "contenu": "4 Cuillères\n4 œufs (coquille)\n4 poches d'œufs",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-06-29"
     },
     {
       "id": "0587",
@@ -5259,10 +5259,11 @@
         "Développement motricité fine"
       ],
       "contenu": "fruits en 2 morceaux\n1 banane,1 kiwi,1 orange,1 citron,1 poire,1 pomme,1 couteau",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-06-29"
     },
     {
       "id": "0442",
@@ -5809,6 +5810,18 @@
       "date_acquisition": "2025-04-13"
     },
     {
+      "id": "1069",
+      "nom": "Hitster 100% franco",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 308 Cartes\n\n- 37 Jetons",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-08"
+    },
+    {
       "id": "1021",
       "nom": "Hitster Rock",
       "categories": [
@@ -6191,10 +6204,11 @@
         "Développement physique"
       ],
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-06-29"
     },
     {
       "id": "0784",
@@ -6939,10 +6953,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 sac de voyage\n\n- 8 rondelles en acier\n\n- 2 cibles\n\n- livret de règlements du jeu\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-06-29"
     },
     {
       "id": "0046",
@@ -9696,42 +9711,6 @@
       "date_acquisition": "2025-03-04"
     },
     {
-      "id": "1032",
-      "nom": "Push and Ride:  Lion 2",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "trotteur",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-04-27"
-    },
-    {
-      "id": "0108",
-      "nom": "Push and Ride: Lion",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "-1 lion dont le siège se lève pour devenir un trotteur",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-29"
-    },
-    {
-      "id": "0105",
-      "nom": "Push and Ride: Train",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "-1 train avec siège qui s'ouvre pour rangement",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-29"
-    },
-    {
       "id": "0408",
       "nom": "Puzzle - The Art of James Christensen",
       "categories": [
@@ -11380,6 +11359,42 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-18"
+    },
+    {
+      "id": "1032",
+      "nom": "Trotteur  Lion 2",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "trotteur",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-04-27"
+    },
+    {
+      "id": "0108",
+      "nom": "Trotteur Lion",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "-1 lion dont le siège se lève pour devenir un trotteur",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-29"
+    },
+    {
+      "id": "0105",
+      "nom": "Trotteur Train",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "-1 train avec siège qui s'ouvre pour rangement",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-29"
     },
     {
       "id": "1000",
