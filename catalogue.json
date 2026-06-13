@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-12T09:49:04.097Z",
-  "total": 1059,
-  "disponibles": 953,
+  "derniere_mise_a_jour": "2026-06-13T08:41:15.196Z",
+  "total": 1063,
+  "disponibles": 955,
   "jouets": [
     {
       "id": "0085",
@@ -70,11 +70,10 @@
         "Développement motricité fine"
       ],
       "contenu": "7 plateau merveilles\n148 cartes 49 ages 1, 49 cartes ages 2, et 50 cartes ages 3\n78 pieces 54 pieces de valeur 1 et 24 pieces de valeur 3\n48 jetons conflit militaire 24 defaites et 24 victoires\n1 carnet de score\n3 feuilles descriptions des effets\n1 feuille listes des cartes et chainages\nrègle",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-17",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2025-07-17"
     },
     {
       "id": "0413",
@@ -131,10 +130,11 @@
         "Développement motricité fine"
       ],
       "contenu": "17 carte ‘’10''\n16 carte ‘’1''\n15 carte ‘’20''\n6 carte main, 6 carte point , 6 carte bombe, 6 carte carré, 6 carte espace, 6 carte oeil, 6 carte bouteille, 6 carte hibou, 110 carte sujet, règle",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "0164",
@@ -1078,6 +1078,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-16"
+    },
+    {
+      "id": "1074",
+      "nom": "brainbox des tout petits",
+      "categories": [
+        "Développement mémoire"
+      ],
+      "contenu": "1 dé\n1 sablier\n55 cartes\nregle du jeu (carte)",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-12"
     },
     {
       "id": "0777",
@@ -5381,10 +5393,11 @@
         "Développement social"
       ],
       "contenu": "-1 grand garage fisher price\n- 4 grosse voiture : 1 jaune, 1 verte, 1 pompier, 1 police",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "0236",
@@ -5816,10 +5829,11 @@
         "Développement affectif"
       ],
       "contenu": "-Jeu hitster",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-13"
+      "date_acquisition": "2025-04-13",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "1069",
@@ -6132,11 +6146,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 4 plateaux casse-tête de 2 morceaux chaques\n\n- 24 cartes produits\n\n- instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-09-11",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2024-09-11"
     },
     {
       "id": "0414",
@@ -7334,6 +7347,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-15"
+    },
+    {
+      "id": "1073",
+      "nom": "Let's feed",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "4 pions chenille\n1 plateau\n38 cartes\n20 pièces de casse-tête\nrègle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-12"
     },
     {
       "id": "0834",
@@ -9058,11 +9083,10 @@
         "Développement affectif"
       ],
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0125",
@@ -9450,10 +9474,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu (9 morceaux de casse-tête)\n\n-11 jetons \"Singe\"\n\n-1 jeton \"Gardien\"\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-07"
+      "date_acquisition": "2024-02-07",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "0167",
@@ -9873,10 +9898,11 @@
         "Développement social"
       ],
       "contenu": "220 cartes blanche (questions)\n56 carte orange\nrèglement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "0515",
@@ -10862,6 +10888,18 @@
       "date_acquisition": "2024-02-02"
     },
     {
+      "id": "1072",
+      "nom": "Tasso safari",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "1 plateau\n36 bâtonnets\n4 élément de décor\n2 règle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-12"
+    },
+    {
       "id": "0929",
       "nom": "Taverna",
       "categories": [
@@ -11232,10 +11270,11 @@
         "Développement social"
       ],
       "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 , Claw.\n\n- Accessoires dans l'armoire blanche sac # 0947",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-26"
+      "date_acquisition": "2026-01-26",
+      "date_retour_prevue": "2026-07-03"
     },
     {
       "id": "0588",
@@ -11304,11 +11343,10 @@
         "Développement physique"
       ],
       "contenu": "-1 trampoline avec contour vert",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-08-17",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2024-08-17"
     },
     {
       "id": "0395",
@@ -11793,6 +11831,18 @@
       "photo": null,
       "date_acquisition": "2026-02-25",
       "date_retour_prevue": "2026-06-20"
+    },
+    {
+      "id": "1075",
+      "nom": "wizard jeu de carte",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "60 cartes\n8 cartes de score\n1 crayon effaçable\nrègle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-12"
     },
     {
       "id": "1040",
