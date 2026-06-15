@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-14T08:57:09.324Z",
+  "derniere_mise_a_jour": "2026-06-15T11:37:00.666Z",
   "total": 1063,
-  "disponibles": 955,
+  "disponibles": 950,
   "jouets": [
     {
       "id": "0085",
@@ -602,10 +602,11 @@
         "Développement cognitif"
       ],
       "contenu": "42 cartes\n \nrègles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-19"
+      "date_acquisition": "2024-11-19",
+      "date_retour_prevue": "2026-07-05"
     },
     {
       "id": "0371",
@@ -1307,10 +1308,11 @@
         "Développement du langage"
       ],
       "contenu": "- 4 planches de jeu\n\n- 1 grande tasse\n\n-1 plaque à biscuits\n\n- 1 panier de pique-nique\n\n- 30 cartes de chocolat chaud\n\n- 30 cartes de s,mores\n\n- 18 noix\n\n- 18 pièces de s,mores\n\n- 8 morceraux de tasse\n\n- 2 dés\n\n- 60 guimauves\n\n- 1 sablier\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-07-05"
     },
     {
       "id": "0620",
@@ -6906,10 +6908,11 @@
         "Développement du langage"
       ],
       "contenu": "- 48 poissons en bois aimantés\n- 1 canne à pêche\n- 1 planche ­* cours d'eau*\n- 6 planches de jeu recto verso\n- 1 feuillet explicatif\n- les règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-19"
+      "date_acquisition": "2025-06-19",
+      "date_retour_prevue": "2026-07-05"
     },
     {
       "id": "0089",
@@ -6918,10 +6921,11 @@
         "Développement du langage"
       ],
       "contenu": "- 6 cartes de mots\n\n- 7 sacs contenant : 16 lettres, 3X18 lettres, 2X19 lettres, 2X cartons vierges",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-05"
     },
     {
       "id": "0112",
@@ -9729,10 +9733,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-07-05"
     },
     {
       "id": "0915",
