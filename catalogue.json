@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-15T11:37:00.666Z",
-  "total": 1063,
-  "disponibles": 950,
+  "derniere_mise_a_jour": "2026-06-16T10:46:50.465Z",
+  "total": 1065,
+  "disponibles": 954,
   "jouets": [
     {
       "id": "0085",
@@ -1345,10 +1345,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-07-06"
     },
     {
       "id": "0580",
@@ -3022,6 +3023,18 @@
       "date_acquisition": "2024-01-22"
     },
     {
+      "id": "1077",
+      "nom": "colt express",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "6 wagons\n1 locomotive\n10 éléments de décor\n25 jetons\n7 pions\n17 carte manche\n13 cartes Balle neutres\nrègle du jeu\n6 cartes Personnage\n60 cartes Action\n36 carte Balle\n6 affiches",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-15"
+    },
+    {
       "id": "1027",
       "nom": "Colt Super Express",
       "categories": [
@@ -4100,11 +4113,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-06-23"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0554",
@@ -4403,10 +4415,11 @@
         "Développement mémoire"
       ],
       "contenu": "- 18 aliments de plastique\n- 9 cartes-aliments \n- 1 cartes Franky le chien\n- 1 sacs ( Doggy Bags)\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-06"
     },
     {
       "id": "0133",
@@ -5481,11 +5494,10 @@
         "Développement cognitif"
       ],
       "contenu": "36 Tuiles de jeu\n\n \n\n1 Livret de jeu\n\n \n\n1 Autocorrecteur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-06-23"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0255",
@@ -7105,11 +7117,10 @@
         "Développement cognitif"
       ],
       "contenu": "-4 planches de jeu \"Casse-tête\"\n\n-35 images (Manque 1 chat)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-06-23"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0214",
@@ -7957,6 +7968,18 @@
       "date_retour_prevue": "2026-06-18"
     },
     {
+      "id": "1076",
+      "nom": "McWiz junior",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "400 cartes \n36 pièces de casse-tête \nregle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-15"
+    },
+    {
       "id": "0311",
       "nom": "Méchanlou",
       "categories": [
@@ -8664,11 +8687,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces \n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde\n-Pince attachée",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-16",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-07-16"
     },
     {
       "id": "0188",
@@ -8714,10 +8736,11 @@
         "Développement du langage"
       ],
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-07-06"
     },
     {
       "id": "0375",
@@ -9624,11 +9647,10 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-23"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0792",
@@ -10499,10 +10521,11 @@
         "Développement social"
       ],
       "contenu": "- 4 grenouilles ( bleue, verte, rouge, orange)\n\n- 1 sorcière\n\n- 1 livre\n\n- 1 balais\n\n- 1 chandelle\n\n- 1 potion\n\n- 1 citrouille\n\n- 1 globe\n\n- 1 chauve-souris \n\n- 4 supports\n\n- 4 maisons grenouilles\n\n- 1 chaudron\n\n- 6 jetons ingrédients\n\n- 4 cercles de protection",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-06"
     },
     {
       "id": "0319",
@@ -10571,11 +10594,10 @@
         "Développement social"
       ],
       "contenu": "-90 cartes\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0687",
@@ -11044,11 +11066,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0928",
@@ -11468,10 +11489,11 @@
         "Développement physique"
       ],
       "contenu": "Trottinette Hulk",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-02"
+      "date_acquisition": "2026-04-02",
+      "date_retour_prevue": "2026-07-06"
     },
     {
       "id": "0656",
