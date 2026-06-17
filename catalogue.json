@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-16T10:46:50.465Z",
-  "total": 1065,
-  "disponibles": 954,
+  "derniere_mise_a_jour": "2026-06-17T10:19:41.415Z",
+  "total": 1066,
+  "disponibles": 953,
   "jouets": [
     {
       "id": "0085",
@@ -1284,10 +1284,11 @@
         "Développement affectif"
       ],
       "contenu": "Camion remorque",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-07-07"
     },
     {
       "id": "0905",
@@ -2370,6 +2371,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-10"
+    },
+    {
+      "id": "1078",
+      "nom": "casse-tête multiple",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "3 casse-tête (1 Flash Mcqueen, 2 princesses)\n48 pièces de casse-tête x3\n1 base de casse-tête x3",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-16"
     },
     {
       "id": "0967",
@@ -7346,10 +7359,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 30 morceaux - manque chaussure blanche.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-07-07"
     },
     {
       "id": "0822",
@@ -10302,11 +10316,10 @@
         "Développement physique"
       ],
       "contenu": "2 balles plastiques\n2 scoops",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-15",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-06-15"
     },
     {
       "id": "0518",
@@ -11381,10 +11394,11 @@
         "Développement physique"
       ],
       "contenu": "Trampoline",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-14"
+      "date_acquisition": "2024-12-14",
+      "date_retour_prevue": "2026-07-07"
     },
     {
       "id": "0526",
