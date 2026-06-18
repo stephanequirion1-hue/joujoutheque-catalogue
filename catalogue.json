@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-17T10:19:41.415Z",
+  "derniere_mise_a_jour": "2026-06-18T09:59:34.228Z",
   "total": 1066,
-  "disponibles": 953,
+  "disponibles": 954,
   "jouets": [
     {
       "id": "0085",
@@ -143,10 +143,11 @@
         "Développement social"
       ],
       "contenu": "-100 cartes Sujet\n-48 cartes Point\n-48 cartes joueur\n-Règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-23"
+      "date_acquisition": "2025-07-23",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "0462",
@@ -1037,11 +1038,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "1009",
@@ -3595,10 +3595,11 @@
         "Développement social"
       ],
       "contenu": "-1 manteau pompier\n-1 pantalon\n-1 talki-walki\n-1 chapeau pompier noir",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-03"
+      "date_acquisition": "2024-12-03",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "0143",
@@ -4549,11 +4550,10 @@
         "Développement motricité fine"
       ],
       "contenu": "22 figurines de chiots\n1 dé\n1 tour ( 6 pièces)\ninstructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-21",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0880",
@@ -4647,11 +4647,10 @@
         "Développement physique"
       ],
       "contenu": "- 4 raquettes\n- 3 moineaux\n- 1 filet : filet, 1 corde de tension et 4 piquet\n- 6 poteau\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0645",
@@ -5384,10 +5383,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 Règle du jeu\n- 54 cartes d'affaires\n-  6 aides du jeu\n- 6 socles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "0740",
@@ -8180,11 +8180,10 @@
         "Développement motricité fine"
       ],
       "contenu": "4 pion, 1 vert, 1 jaune, 1 bleu et 1 rouge\n1 plateau\nrèglement \n1 dé rouge",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-25",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2025-07-25"
     },
     {
       "id": "1063",
@@ -8229,10 +8228,11 @@
         "Développement cognitif"
       ],
       "contenu": "Miroir pour placer au sol pour bébé avec des animaux de la mer à toucher autour et des étiquettes amusantes.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "0510",
@@ -9305,11 +9305,10 @@
         "Développement du langage"
       ],
       "contenu": "-1 gros dé mou\n-60 images\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-20",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2024-01-20"
     },
     {
       "id": "0279",
@@ -9854,11 +9853,10 @@
         "Développement motricité fine"
       ],
       "contenu": "4 puzzles\n- 1 garçon 50 morceaux / 1 fillette 50 morceaux\n- 1 organes 75 morceaux\n- 1 squelette 100 morceaux\n- 12 cartes (plusieurs langues)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-16",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2026-01-16"
     },
     {
       "id": "0908",
@@ -10401,11 +10399,10 @@
         "Développement physique"
       ],
       "contenu": "1 singe",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-17",
-      "date_retour_prevue": "2026-06-15"
+      "date_acquisition": "2025-04-17"
     },
     {
       "id": "0197",
@@ -10667,10 +10664,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-16"
+      "date_acquisition": "2026-04-16",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "0563",
@@ -10849,10 +10847,11 @@
         "Développement social"
       ],
       "contenu": "- 120 cartes combat\n- 12 cartes sélection\n- 12 plateaux Combattant\n- 40 cubes de puissance ( violets)\n- 6 marqueurs de points ( verts)\n- 4 marqueurs spéciaux ( jaunes)\n- 1 jeton Shérif, \n1 jeton Golem, \n1 jeton Serpent, 2 jetons Concentration, 5 jetons Flamme, 11 jetons Intrigue\n \n- 1 guides des Combattants et Livret des règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-07-08"
     },
     {
       "id": "1047",
