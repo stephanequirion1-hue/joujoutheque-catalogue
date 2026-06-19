@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-06-18T09:59:34.228Z",
+  "derniere_mise_a_jour": "2026-06-19T10:06:12.352Z",
   "total": 1066,
   "disponibles": 954,
   "jouets": [
@@ -4948,11 +4948,10 @@
         "Développement cognitif"
       ],
       "contenu": "- A compléter, sinon voir page 3",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-30",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2026-05-30"
     },
     {
       "id": "0961",
@@ -4961,11 +4960,10 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0991",
@@ -5784,10 +5782,11 @@
         "Développement social"
       ],
       "contenu": "- 54 cartes ingrédient\n- 10 cartes chili\n- 18 cartes recette\n- 24 jetons à lancer\n- 42 billets Yens\n- 1 plateau de jeu 4 morceaux\n- 2 X instructions\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-09"
+      "date_acquisition": "2025-12-09",
+      "date_retour_prevue": "2026-07-09"
     },
     {
       "id": "1070",
@@ -10217,10 +10216,11 @@
         "Développement social"
       ],
       "contenu": "- règle du jeu ( 4 X )\n- 17 dés ; 12 dés héros et 5 dés sorcier\n- 94 cartes\n- 1 plateau de jeu\n- 1 pion dragon en bois\n- 31 éléments en carton\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-01"
+      "date_acquisition": "2025-12-01",
+      "date_retour_prevue": "2026-07-09"
     },
     {
       "id": "0545",
