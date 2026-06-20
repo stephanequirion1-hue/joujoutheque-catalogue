@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-19T10:06:12.352Z",
+  "derniere_mise_a_jour": "2026-06-20T08:36:02.201Z",
   "total": 1066,
-  "disponibles": 954,
+  "disponibles": 952,
   "jouets": [
     {
       "id": "0085",
@@ -336,11 +336,10 @@
         "Développement social"
       ],
       "contenu": "- 1 avion\n\n- 1 chariot\n\n- 2 poupée\n\n- 1 perruque\n\n- 17 shopkins",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "1029",
@@ -1013,11 +1012,10 @@
         "Développement social"
       ],
       "contenu": "Boite à bijoux\ncollier jaune",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-25",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2026-05-25"
     },
     {
       "id": "0553",
@@ -1050,11 +1048,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-07-02"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0050",
@@ -1184,11 +1181,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0483",
@@ -1197,11 +1193,10 @@
         "Développement social"
       ],
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0512",
@@ -1563,10 +1558,11 @@
         "Développement motricité fine"
       ],
       "contenu": "25 puzzles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0769",
@@ -2669,10 +2665,11 @@
         "Développement affectif"
       ],
       "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-08"
+      "date_acquisition": "2025-05-08",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0102",
@@ -5868,11 +5865,10 @@
         "Développement social"
       ],
       "contenu": "- 308 Cartes\n\n- 37 Jetons",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-08",
-      "date_retour_prevue": "2026-07-02"
+      "date_acquisition": "2026-06-08"
     },
     {
       "id": "1021",
@@ -6499,10 +6495,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 sac\n\n-2 morceaux de bois (base)\n\n-2 bâtons\n\n-Bonhomme de 1 à 12\n\n-1 corde\n\n-5 pièces rouges\n\n-4 pièces jaunes\n\n-3 pièces roses\n\n-3 pièces mauves\n\n-3 pièces oranges\n\n-3 pièces bleues\n\n-3 pièces visages",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0970",
@@ -6812,10 +6809,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu avec fromage géants\n\n-3 échelles\n\n-17 morceaux de fromage\n\n-1 chat\n\n-4 souris (mauve, bleue, verte, orange)\n\n-1 dé",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0229",
@@ -8568,10 +8566,11 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-09"
+      "date_acquisition": "2025-12-09",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0741",
@@ -8859,10 +8858,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 9 pièce d'arbres \n\n- 6 pièces figurines\n\n- 1 planche de jeux\n\n- Livre de défis",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-11"
+      "date_acquisition": "2026-05-11",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0671",
@@ -9489,10 +9489,11 @@
         "Développement du langage"
       ],
       "contenu": "-9 morceaux casse-tête (Planche de jeu)\n\n-4 pions Personnages\n\n-90 cartes questions \n(15 brunes, 15 oranges, 15 vertes, 15 rouges, 15 bleues, 15 jaunes)\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0121",
@@ -11078,10 +11079,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-07-10"
     },
     {
       "id": "0928",
