@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-20T08:36:02.201Z",
+  "derniere_mise_a_jour": "2026-06-21T09:30:22.735Z",
   "total": 1066,
-  "disponibles": 952,
+  "disponibles": 948,
   "jouets": [
     {
       "id": "0085",
@@ -5490,10 +5490,11 @@
         "Développement social"
       ],
       "contenu": "- 1 livre géant\n- 1 dé\n- 4 personnages\n\nprend des batteries mais se joue sans avec le dé",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-17"
+      "date_acquisition": "2025-07-17",
+      "date_retour_prevue": "2026-07-11"
     },
     {
       "id": "0208",
@@ -5610,10 +5611,11 @@
         "Développement social"
       ],
       "contenu": "- 2 plateaux de jeu\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-08"
+      "date_acquisition": "2025-04-08",
+      "date_retour_prevue": "2026-07-11"
     },
     {
       "id": "0270",
@@ -5673,7 +5675,8 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-19"
+      "date_acquisition": "2024-11-19",
+      "date_retour_prevue": "2026-07-11"
     },
     {
       "id": "0322",
@@ -6047,10 +6050,11 @@
         "Développement affectif"
       ],
       "contenu": "-1 planche de jeu (4 casse-tête)\n\n-4 personnages + bases\n\n-4 pions \"Fantômes\"\n\n-17 pions \"Clé\"\n\n-1 Planche avec une flèche\n\n-72 tuiles \n\n2 Trous\n\n29 porte ouverte\n\n12 porte ouverte avec fantôme\n\n23 porte fermée\n\n6 porte fermée avec cadenas\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-07"
+      "date_acquisition": "2024-02-07",
+      "date_retour_prevue": "2026-07-11"
     },
     {
       "id": "0221",
@@ -11650,10 +11654,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 chenille corps et tête\n\n-Base du jeu\n\n-7 billes chaque couleurs (Mauves, bleues, rouges, jaunes)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-07-11"
     },
     {
       "id": "0431",
