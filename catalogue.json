@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-06-22T11:25:34.617Z",
+  "derniere_mise_a_jour": "2026-06-23T08:51:36.118Z",
   "total": 1066,
   "disponibles": 948,
   "jouets": [
@@ -3219,11 +3219,23 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "1 costume\n1 casque en tissu\n1 paire de bottes en tissu",
+      "contenu": "- 1 costume astronaute\n\n- 1 chapeau astronaute\n\n- 2 gants\n\n- 2 couvre chaussures",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-30"
+    },
+    {
+      "id": "0617",
+      "nom": "Costume : Autochtone",
+      "categories": [
+        "Développement cognitif"
+      ],
+      "contenu": "1 robe autochtone",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0616",
@@ -3236,6 +3248,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0885",
+      "nom": "Costume : Cape de Batman/Superman/Spiderman",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Cape recto/verso<\n\n- cape de Spiderman\n\n- 1 Gilet",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0900",
@@ -3260,6 +3284,42 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0611",
+      "nom": "Costume : Capitaine América",
+      "categories": [
+        "Développement affectif"
+      ],
+      "contenu": "1 haut de Capitaine America",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0837",
+      "nom": "Costume : Capitaine América + masque",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- un costume \n- un masque demi visage rigide",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "0889",
+      "nom": "Costume : Chat/Léopard",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume de chat Brun et Blanc",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0345",
@@ -3310,6 +3370,30 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "0015",
+      "nom": "Costume : Dinosaure vert forêt",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "-1 Costume/pyjama vert forêt",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-26"
+    },
+    {
+      "id": "0336",
+      "nom": "Costume : Dinosaure vert forêt, gros yeux",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "-1 costume/pyjama dragon vert forêt avec gros yeux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-09-04"
+    },
+    {
       "id": "0366",
       "nom": "Costume : Doris",
       "categories": [
@@ -3322,20 +3406,32 @@
       "date_acquisition": "2024-10-30"
     },
     {
-      "id": "0330",
-      "nom": "Costume : Dragon",
+      "id": "0372",
+      "nom": "Costume : dragon",
       "categories": [
-        "Développement cognitif"
+        "Développement du langage"
       ],
-      "contenu": "-1 costume/dragon vert pastel",
+      "contenu": "Un costume à fermeture éclair (one piece) de dragon vert taille 4-5 ans environ",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-08-13"
+      "date_acquisition": "2024-11-07"
+    },
+    {
+      "id": "0856",
+      "nom": "Costume : dragon 24M",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "ensemble 2 pièces ( pantalon/veste) de dragon",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "0894",
-      "nom": "Costume : Dragon",
+      "nom": "Costume : Dragon avec ailes",
       "categories": [
         "Développement social"
       ],
@@ -3344,30 +3440,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0015",
-      "nom": "Costume : Dragon vert forêt",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-1 Costume/pyjama vert forêt",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
-    },
-    {
-      "id": "0336",
-      "nom": "Costume : Dragon vert forêt, gros yeux",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-1 costume/pyjama dragon vert forêt avec gros yeux",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-09-04"
     },
     {
       "id": "0689",
@@ -3380,6 +3452,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0838",
+      "nom": "Costume : Hulk",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 une pièce hulk",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-09-06"
     },
     {
       "id": "0610",
@@ -3442,16 +3526,16 @@
       "date_acquisition": "2024-07-26"
     },
     {
-      "id": "0168",
-      "nom": "Costume : Lion",
+      "id": "0330",
+      "nom": "Costume : Licorne",
       "categories": [
-        "Développement social"
+        "Développement cognitif"
       ],
-      "contenu": "-1 costume lion\n-1 chapeau lion",
+      "contenu": "-1 costume/dragon vert pastel",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-19"
+      "date_acquisition": "2024-08-13"
     },
     {
       "id": "0893",
@@ -3464,6 +3548,54 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "0890",
+      "nom": "Costume : Lion 18M",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "costume lion",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "0168",
+      "nom": "Costume : Lion 6-12MO",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "-1 costume lion\n-1 chapeau lion",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-07-19"
+    },
+    {
+      "id": "0789",
+      "nom": "Costume : masque de plume rouge et noir",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "masque de plue rouge et noir",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-07-13"
+    },
+    {
+      "id": "0836",
+      "nom": "Costume : Minion",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 chandail/robe \n- 1 chapeau",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-09-06"
     },
     {
       "id": "0243",
@@ -3586,6 +3718,18 @@
       "date_acquisition": "2024-01-26"
     },
     {
+      "id": "0350",
+      "nom": "Costume : pompier",
+      "categories": [
+        "Développement du langage"
+      ],
+      "contenu": "Casque de pompier\nVeste de pompier avec radio cousu dessus\npentalon de pompier",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-10-10"
+    },
+    {
       "id": "0391",
       "nom": "Costume : Pompier beige",
       "categories": [
@@ -3599,6 +3743,66 @@
       "date_retour_prevue": "2026-07-08"
     },
     {
+      "id": "0602",
+      "nom": "Costume : Pompom girl",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "-Robe \n-2 pompons",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-08"
+    },
+    {
+      "id": "0857",
+      "nom": "costume : princesse robe mauve",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "robe mauve et noir",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-10-06"
+    },
+    {
+      "id": "0612",
+      "nom": "Costume : princesse velours rouge et mauve",
+      "categories": [
+        "Développement affectif"
+      ],
+      "contenu": "1 robe\n1 bandeau",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0884",
+      "nom": "Costume : Robe fleurie",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Robe avec fleur",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "0788",
+      "nom": "costume : Robe mauve chauve-souris",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 Robe mauve\n\n- 1 serre tête oreilles",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
+    },
+    {
       "id": "0143",
       "nom": "Costume : Robe princesse bleue",
       "categories": [
@@ -3609,6 +3813,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
+    },
+    {
+      "id": "0883",
+      "nom": "costume : Robe rose et mauve",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "1 robe",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0134",
@@ -3647,6 +3863,19 @@
       "date_acquisition": "2025-03-31"
     },
     {
+      "id": "0855",
+      "nom": "Costume : sirène",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "costume de sirère avec bandeau étoile",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-06-08"
+    },
+    {
       "id": "0615",
       "nom": "Costume : sorcière noire et gris froissé",
       "categories": [
@@ -3683,6 +3912,30 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "0887",
+      "nom": "Costume : squelette",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- costume/pyjama squelette \n\n- 1 tuque/bonnet",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "0651",
+      "nom": "Costume : Superman",
+      "categories": [
+        "Développement cognitif"
+      ],
+      "contenu": "1 onepiece de superman avec cape",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
       "id": "0619",
       "nom": "Costume : Woody Toys story",
       "categories": [
@@ -3695,81 +3948,8 @@
       "date_acquisition": "2025-05-10"
     },
     {
-      "id": "0856",
-      "nom": "costume de dragon",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "ensemble 2 pièces ( pantalon/veste) de dragon",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-10-06"
-    },
-    {
-      "id": "0857",
-      "nom": "costume de princesse robe mauve",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "robe mauve et noir",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-10-06"
-    },
-    {
-      "id": "0855",
-      "nom": "Costume de sirène",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "costume de sirère avec bandeau étoile",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-06-08"
-    },
-    {
-      "id": "0372",
-      "nom": "Costume dragon",
-      "categories": [
-        "Développement du langage"
-      ],
-      "contenu": "Un costume à fermeture éclair (one piece) de dragon vert taille 4-5 ans environ",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-11-07"
-    },
-    {
-      "id": "0350",
-      "nom": "Costume pompier",
-      "categories": [
-        "Développement du langage"
-      ],
-      "contenu": "Casque de pompier\nVeste de pompier avec radio cousu dessus\npentalon de pompier",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-10-10"
-    },
-    {
-      "id": "0612",
-      "nom": "Costume princesse velours rouge et mauve",
-      "categories": [
-        "Développement affectif"
-      ],
-      "contenu": "1 robe\n1 bandeau",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
       "id": "0853",
-      "nom": "Costume Yoda",
+      "nom": "Costume : Yoda",
       "categories": [
         "Développement social"
       ],
@@ -3780,180 +3960,12 @@
       "date_acquisition": "2025-10-06"
     },
     {
-      "id": "0617",
-      "nom": "Costume: Autochtone",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "1 robe autochtone",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
-      "id": "0885",
-      "nom": "Costume: Cape de Batman/Superman/Spiderman",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- Cape recto/verso<\n\n- cape de Spiderman\n\n- 1 Gilet",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0611",
-      "nom": "Costume: Capitaine América",
+      "id": "1044",
+      "nom": "Costume : Zèbre",
       "categories": [
         "Développement affectif"
       ],
-      "contenu": "1 haut de Capitaine America",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
-    },
-    {
-      "id": "0837",
-      "nom": "Costume: Capitaine América + masque",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- un costume \n- un masque demi visage rigide",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-09-06"
-    },
-    {
-      "id": "0889",
-      "nom": "Costume: Chat  Léopard",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "Costume de chat Brun et Blanc",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0838",
-      "nom": "Costume: Hulk",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 1 une pièce hulk",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-09-06"
-    },
-    {
-      "id": "0890",
-      "nom": "Costume: Lion",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "costume lion",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0789",
-      "nom": "Costume: masque de plume rouge et noir",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "masque de plue rouge et noir",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-07-13"
-    },
-    {
-      "id": "0836",
-      "nom": "Costume: Minion",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 1 chandail/robe \n- 1 chapeau",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-09-06"
-    },
-    {
-      "id": "0602",
-      "nom": "Costume: Pompom girl",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-Robe \n-2 pompons",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-08"
-    },
-    {
-      "id": "0887",
-      "nom": "Costume: pyjama squelette",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 1 costume\n- 1 chapeau",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0884",
-      "nom": "Costume: Robe fleurie",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- Robe avec fleur",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0788",
-      "nom": "costume: Robe mauve chauve-souris",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 1 Robe mauve\n\n- 1 serre tête oreilles",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0883",
-      "nom": "costume: Robe rose et mauve",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "1 robe",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0651",
-      "nom": "Costume: Superman",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "1 onepiece de superman avec cape",
+      "contenu": "1 onepiece zèbre",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -4026,10 +4038,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 plateau de jeu\n- 1 manège chronomètre musical ( 2 pièces)\n- 4 stand de jeux\n- 10 lettres\n- 1 canne à pêche\n- 4 grenouilles\n- 6 dés friandise\n- 4 flotteurs\n- 72 points ballons avec sac \n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-25"
+      "date_acquisition": "2025-04-25",
+      "date_retour_prevue": "2026-07-13"
     },
     {
       "id": "0681",
@@ -4087,11 +4100,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu\n\n*Clôture brisée",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0063",
@@ -5917,10 +5929,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 singe sauteur\n\n- 12 bananes\n\n- 2 dés, un avec image\n\n- 1 base de jeu\n\n- instruction\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-19"
+      "date_acquisition": "2025-06-19",
+      "date_retour_prevue": "2026-07-13"
     },
     {
       "id": "1071",
@@ -8400,11 +8413,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 2 jetons (dinos)\n- 1 dé\n- 120 questions (60 cartes)\n- 18 pierres\n- 2 rives \n- Instruction + règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-06-14"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0917",
@@ -12815,18 +12827,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-04-30"
-    },
-    {
-      "id": "1044",
-      "nom": "Zèbre",
-      "categories": [
-        "Développement affectif"
-      ],
-      "contenu": "1 onepiece zèbre",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0259",
