@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-23T08:51:36.118Z",
-  "total": 1066,
-  "disponibles": 948,
+  "derniere_mise_a_jour": "2026-06-24T08:47:19.569Z",
+  "total": 1068,
+  "disponibles": 946,
   "jouets": [
     {
       "id": "0085",
@@ -663,10 +663,11 @@
         "Développement social"
       ],
       "contenu": "- Accessoires dans l'armoire blanche\n \nBateau, 1 dauphin rose avec 1 petit bateau et 1 harnais, 1 table avec 2 chaises, 1 glissade, 3 poupées et 1 perruque, 1 boite en plastique rose, \n \n16 shopkins, 2 armoires, 1 chaise suspendu avec bâton (pôle) 2 lits",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0691",
@@ -1595,10 +1596,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 morceaux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0051",
@@ -2604,11 +2606,10 @@
         "Développement social"
       ],
       "contenu": "- 42 cartes papillon\n- 48 cartes abeilles\n- 4 jetons filet\n- 14 cartes herbes papillon\n- 16 cartes herbes abeille",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0694",
@@ -3274,6 +3275,18 @@
       "date_acquisition": "2025-11-28"
     },
     {
+      "id": "1080",
+      "nom": "Costume : Cape dragon",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Cape noir avec dragon rouge",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-23"
+    },
+    {
       "id": "0613",
       "nom": "Costume : Cape vampire noire",
       "categories": [
@@ -3368,6 +3381,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
+    },
+    {
+      "id": "1079",
+      "nom": "Costume : Diable 12-18M",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "costume diable avec ailes velcro \nchapeau",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-06-23"
     },
     {
       "id": "0015",
@@ -3739,8 +3764,7 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-03",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2024-12-03"
     },
     {
       "id": "0602",
@@ -3755,6 +3779,18 @@
       "date_acquisition": "2025-05-08"
     },
     {
+      "id": "0612",
+      "nom": "Costume : princesse renaissance",
+      "categories": [
+        "Développement affectif"
+      ],
+      "contenu": "1 robe\n1 bandeau",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-05-10"
+    },
+    {
       "id": "0857",
       "nom": "costume : princesse robe mauve",
       "categories": [
@@ -3767,16 +3803,28 @@
       "date_acquisition": "2025-10-06"
     },
     {
-      "id": "0612",
-      "nom": "Costume : princesse velours rouge et mauve",
+      "id": "0883",
+      "nom": "costume : Princesse rose diamant",
       "categories": [
-        "Développement affectif"
+        "Développement social"
       ],
-      "contenu": "1 robe\n1 bandeau",
+      "contenu": "1 robe",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "0143",
+      "nom": "Costume : Robe bleue 80s",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "-Robe princesse bleue",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0884",
@@ -3797,30 +3845,6 @@
         "Développement social"
       ],
       "contenu": "- 1 Robe mauve\n\n- 1 serre tête oreilles",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-28"
-    },
-    {
-      "id": "0143",
-      "nom": "Costume : Robe princesse bleue",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-Robe princesse bleue",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-22"
-    },
-    {
-      "id": "0883",
-      "nom": "costume : Robe rose et mauve",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "1 robe",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -5053,10 +5077,11 @@
         "Développement physique"
       ],
       "contenu": "-15 jetons bleus\n\n- 12 jetons rouges\n\n- 13 jetons jaunes\n\n- 13 jetons verts\n\n- 1 plateau troué transparent\n\n- 8 cartes modèles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0743",
@@ -5305,11 +5330,10 @@
         "Développement motricité fine"
       ],
       "contenu": "fruits en 2 morceaux\n1 banane,1 kiwi,1 orange,1 citron,1 poire,1 pomme,1 couteau",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-06-29"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0442",
@@ -5478,10 +5502,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 trapèzes\n\n-6 rectangles\n\n-12 petits triangles\n\n-8 grands triangles\n\n-36 carrés\n\n-2 blocs spinner\n\n-2 blocs LED-light\n\n-Guide d'accompagnement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0191",
@@ -5527,10 +5552,11 @@
         "Développement cognitif"
       ],
       "contenu": "-Un globe avec avec avion interractif\n\n \n\n*Nécessite des piles incluses 4 fois AA",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0233",
@@ -6050,11 +6076,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 coffret\n- 15 cartes\n- 90 lettres de l'alphabète",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-14",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2026-01-14"
     },
     {
       "id": "0252",
@@ -6573,10 +6598,11 @@
         "Développement du langage"
       ],
       "contenu": "110 cartes\n7 chevalets\n7 chiffonnettes\n3 crayons à encre sèche\nfeuillet de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-21"
+      "date_acquisition": "2026-04-21",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0714",
@@ -6973,11 +6999,10 @@
         "Développement affectif"
       ],
       "contenu": "- 8 pièces de casse-tête\n\n- 4 vaisseaux\n\n- 1 règles du jeu\n\n- 8 cartes émotions\n\n- 1  carte aide mémoire des émotions\n\n- 80 cartes de situations /émotions\n\n- 1 Dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0226",
@@ -7119,11 +7144,10 @@
         "Développement affectif"
       ],
       "contenu": "2 planches de jeu\n14 jetons\n12 cartes\n1 dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0195",
@@ -9748,10 +9772,11 @@
         "Développement social"
       ],
       "contenu": "- 1 poupée\n- 1 pousette rose et blanche en plastique\n- 1 paire de soulier,1 pyjamas bleu, 1 bavette bleu, 1 collier avec médaille argent, 1 chapeau bleu.\n- 1 couche, 1 paire de lunette, 1 suce bleu, 1 biberon bleu,\n- 1 salopette jeans avec t-shirt et chapeau\n- 1 jean\n- 1 pyjamas à carreaux rouge",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-13"
+      "date_acquisition": "2026-01-13",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0256",
@@ -10476,10 +10501,11 @@
         "Développement physique"
       ],
       "contenu": "- Monture ; 5 pieds vert, 5 tubes noir,1 filet\n- 3 ballons\n- 1 sac de transport\n- Instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0702",
@@ -11290,10 +11316,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 tête de girafe\n\n-1 support\n\n-6 anneaux (Verte foncée, bleu foncée, rouge, orange, verte pâle, bleu pâle)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-07-14"
     },
     {
       "id": "0131",
