@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-25T08:42:18.243Z",
+  "derniere_mise_a_jour": "2026-06-26T08:43:55.704Z",
   "total": 1068,
-  "disponibles": 946,
+  "disponibles": 942,
   "jouets": [
     {
       "id": "0085",
@@ -1293,10 +1293,11 @@
         "Développement social"
       ],
       "contenu": "- 1 camion vert",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-01"
+      "date_acquisition": "2025-12-01",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0180",
@@ -2823,11 +2824,10 @@
         "Développement mémoire"
       ],
       "contenu": "-16 chocolat (7 arachides, 8 cerises, 1 chenille)\n\n-1 bloc dé\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0910",
@@ -3004,10 +3004,11 @@
         "Développement cognitif"
       ],
       "contenu": "-8 tuiles équipe bleue\n-8 tuiles équipe rouge\n-1 tuile EXTRA\n-7 tuiles Neutre\n-1 tuiles Assassin\n-200 cartes Nom de Code\n-40 cartes CLÉ\n-1 support de carte CLÉ\n-1 livret de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-16"
+      "date_acquisition": "2024-07-16",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0034",
@@ -4160,10 +4161,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0554",
@@ -4232,10 +4234,11 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau\n1 grosse carotte 2 pièces\n18 petits shopkins\n1 petit pop-sicle rose",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-15"
+      "date_acquisition": "2026-05-15",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0307",
@@ -4449,11 +4452,10 @@
         "Développement motricité fine"
       ],
       "contenu": "9 pilules recto verso, 1 plateau pilulier, 2 tuiles seringue ( tête et piston), 15 cartes Produits, 1 coeur,1 plateau corps du patient,18 cartes électrode, 1 tableau pharma recto verso, 10 cartes charge du défibrillateur, 25 cartes téléphone/ charge du défibrillateur. 1 plateau de suture( avec un fil, une aiguille et une bobine), 1 loupe, 4 pinces, 2 tuiles scanner,24 cartes instrument, 12 cartes patient, 18 cartes épreuve instrument.8 cartes épreuve injection, 10 cartes épreuves radiographie, 10 cartes épreuves examen, 10 cartes épreuve prescription, 10 cartes épreuve suture, 10 cartes électrode, 8 cartes épreuve scanneur. règle\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-06-07"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0275",
@@ -5009,6 +5011,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-03-23"
+    },
+    {
+      "id": "0669",
+      "nom": "Expressio",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "- 270 cartes\n\n- 1 sablier\n\n- 1 pot de pâte à modeler\n\n- 2 fils à sculpter\n\n- 8 feuilles de pointage\n\n- 1 bloc de feuilles à dessin\n\n- 2 crayons",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "1006",
@@ -7271,6 +7285,18 @@
       "date_acquisition": "2024-02-03"
     },
     {
+      "id": "0114",
+      "nom": "l'école des monstres",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-17"
+    },
+    {
       "id": "0398",
       "nom": "Légo à assembler",
       "categories": [
@@ -8230,10 +8256,11 @@
         "Développement social"
       ],
       "contenu": "50 cartes\n1 sablier\n1 règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0748",
@@ -9163,10 +9190,11 @@
         "Développement affectif"
       ],
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0125",
@@ -10828,10 +10856,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-07-16"
     },
     {
       "id": "0534",
@@ -11839,11 +11868,10 @@
         "Développement du langage"
       ],
       "contenu": "- 6 planches images\n\n- 6 liste de mots\n\n- cartes ; 20 bleus, 20 vertes, 20 rouge, 20 oranges, 19 mauves, 19 brunes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-24",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2026-03-24"
     },
     {
       "id": "0522",
@@ -12579,18 +12607,6 @@
       "date_acquisition": "2024-01-17"
     },
     {
-      "id": "0114",
-      "nom": "xxxx",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
-    },
-    {
       "id": "0258",
       "nom": "xxxx",
       "categories": [
@@ -12685,18 +12701,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-10-30"
-    },
-    {
-      "id": "0669",
-      "nom": "xxxx",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "- 270 cartes\n- 1 sablier\n- 1 pot de pâte à modeler\n- 2 fils à sculpter\n- 1 bloc de feuilles de pointage\n- 1 bloc de feuilles à dessin\n- 2 crayons",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0726",
