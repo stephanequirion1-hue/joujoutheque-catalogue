@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-26T08:43:55.704Z",
+  "derniere_mise_a_jour": "2026-06-27T08:20:40.661Z",
   "total": 1068,
-  "disponibles": 942,
+  "disponibles": 944,
   "jouets": [
     {
       "id": "0085",
@@ -989,10 +989,11 @@
         "Développement social"
       ],
       "contenu": "- plateau de jeu\n\n- écran\n\n- 2 jeux de cartes\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-07-17"
     },
     {
       "id": "0953",
@@ -4428,10 +4429,11 @@
         "Développement cognitif"
       ],
       "contenu": "24 attache avec tige→ transparent\n20 attache avec trou→ transparent\n2x12 molette de vote\n12 pions lapin en bois; vert pale, vert foncé, blanc, noir, orange, jaune, rose, gris, rouge, brun, bleu, violet\n84 cartes\n2x12 engrenage\n12 pion de couleur\ninstruction de construction\n1 plateau de jeu, règlement en français et en anglais",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-07-17"
     },
     {
       "id": "0858",
@@ -5724,11 +5726,10 @@
         "Développement cognitif"
       ],
       "contenu": "42 cartes\n \nrègles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-19",
-      "date_retour_prevue": "2026-07-11"
+      "date_acquisition": "2024-11-19"
     },
     {
       "id": "0322",
@@ -5920,10 +5921,11 @@
         "Développement social"
       ],
       "contenu": "- 308 Cartes\n\n- 37 Jetons",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-06-08"
+      "date_acquisition": "2026-06-08",
+      "date_retour_prevue": "2026-07-17"
     },
     {
       "id": "1021",
@@ -6102,11 +6104,10 @@
         "Développement affectif"
       ],
       "contenu": "-1 planche de jeu (4 casse-tête)\n\n-4 personnages + bases\n\n-4 pions \"Fantômes\"\n\n-17 pions \"Clé\"\n\n-1 Planche avec une flèche\n\n-72 tuiles \n\n2 Trous\n\n29 porte ouverte\n\n12 porte ouverte avec fantôme\n\n23 porte fermée\n\n6 porte fermée avec cadenas\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-07",
-      "date_retour_prevue": "2026-07-11"
+      "date_acquisition": "2024-02-07"
     },
     {
       "id": "0221",
@@ -10881,11 +10882,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 grande table eau usagé\n-1 petite table eau avec un petit module de jeu sur le dessus amovible\n-1 sceau, 1 arrosoir, 1 rateau, 1 pelle, 3 moules (hyppocampe, baleine, pieuvre), 1 pieuvre orange, 1 pelle/sceau",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-25"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0206",
@@ -11722,11 +11722,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 chenille corps et tête\n\n-Base du jeu\n\n-7 billes chaque couleurs (Mauves, bleues, rouges, jaunes)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-07-11"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0431",
@@ -11940,11 +11939,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 36 cartes de jeux\n- 24 dés\n- 2 cartes d'instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-25",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2026-02-25"
     },
     {
       "id": "1075",
