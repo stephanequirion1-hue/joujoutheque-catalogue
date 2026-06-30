@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-06-29T10:14:02.580Z",
+  "derniere_mise_a_jour": "2026-06-30T08:49:31.718Z",
   "total": 1068,
-  "disponibles": 944,
+  "disponibles": 942,
   "jouets": [
     {
       "id": "0085",
@@ -2656,10 +2656,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 4 blocs : 1 vert, 1 rouge, 1 bleu, 1 orange.\n\n- 3 tours : 1 petite, 1 moyenne, 1 longue.\n\n- 1 règle du jeu\n\n- 1 cahier de défi",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-20"
     },
     {
       "id": "0598",
@@ -9729,10 +9730,11 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-20"
     },
     {
       "id": "0792",
