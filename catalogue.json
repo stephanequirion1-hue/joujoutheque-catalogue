@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-06-30T08:49:31.718Z",
+  "derniere_mise_a_jour": "2026-07-01T09:22:47.758Z",
   "total": 1068,
   "disponibles": 942,
   "jouets": [
@@ -1219,11 +1219,10 @@
         "Développement social"
       ],
       "contenu": "-Règle du jeu (Anglais et français)\n-un plateau de jeu\n-20 tuiles pari-manche\n-5 tuiles pyramide\n-52 pièces 1\n-30 pièces 5\n-40 cartes pari-course\n-8 tuiles spectateur\n-8 cartes partenariat\n-5 Chameaux de course\n-5 dés de course\n-2 chameaux fous\n-1 dés gris\n-1 marqueur premier joueur\n-1 pyramide (2morceaux)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-21",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2026-05-21"
     },
     {
       "id": "0604",
@@ -4636,11 +4635,10 @@
         "Développement physique"
       ],
       "contenu": "4 Cuillères\n4 œufs (coquille)\n4 poches d'œufs",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-06-29"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0587",
@@ -4673,10 +4671,11 @@
         "Développement cognitif"
       ],
       "contenu": "-199 cartes énigmes\n-1 bloc-notes\n-1 sablier\n-1 crayon\n-Règlements boite",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-08"
+      "date_acquisition": "2025-05-08",
+      "date_retour_prevue": "2026-07-21"
     },
     {
       "id": "0661",
@@ -6322,11 +6321,10 @@
         "Développement physique"
       ],
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-06-29"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0784",
@@ -7075,11 +7073,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 sac de voyage\n\n- 8 rondelles en acier\n\n- 2 cibles\n\n- livret de règlements du jeu\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-29"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0046",
@@ -8963,7 +8960,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "complet",
+      "contenu": "56 Cartes sapin\n20 cartes surprise",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -9694,10 +9691,11 @@
         "Développement social"
       ],
       "contenu": "- 3 Decks complets du JCC pokémon de 60 cartes chacun\n- 2 Guides d'apprentissage\n- 1 Livret de règles\n- 1 Grande pièce métallisée\n- 1 lot de marqueurs de dégâts : 4X100, 12X50, 28X10",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-13"
+      "date_acquisition": "2024-11-13",
+      "date_retour_prevue": "2026-07-21"
     },
     {
       "id": "0040",
@@ -9816,10 +9814,11 @@
         "Développement social"
       ],
       "contenu": "1 chaise haute en bois\n1 poupée\n1salopette bleu, 1 chapeau, 1 chandail blanc et gris, 1 bavoir blanc et gris,\n1 matelas bleu, 1 verre avec bec bleu ,1 suce rose\n \nAccessoires dans l'armoire Blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-07-21"
     },
     {
       "id": "0439",
@@ -10240,10 +10239,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-3 morceaux cheval orange\n*Brisé: la tige décolle de la tête\n\n-3 morceaux lapin bleu\n\n-3 morceaux canard vert",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-07-21"
     },
     {
       "id": "0035",
@@ -10934,11 +10934,10 @@
         "Développement social"
       ],
       "contenu": "2 LIVRETS DE RÈGLES, \n12 CARTES SOLAIRES ET 12 CARTES LUNAIRES\n3 JETONS RAPPEL ET 3 JETONS BONUS \n10 ÉTUIS CHAPITRE CONTENANT CHACUN 4 HORLOGES ET 1 FEUILLE DE RÈGLES (NUMÉROTÉ EN CHIFFRE ROMAIN)\n1 AIGUILLE \n1 ÉTUI REGRET (VIDE)\n1 ÉTUI RENAISSANCE ( 1 HORLOGE RENAISSANCE, 1 AIGUILLE DE SECONDES ET 6 JETONS)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-11",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2026-05-11"
     },
     {
       "id": "1016",
@@ -11056,10 +11055,11 @@
         "Développement motricité fine"
       ],
       "contenu": "10 vis bleues\n\n10 vis rouges\n\n10 vis jaunes\n\n10 vis vertes\n\n4 équerres rouges\n\n12 écrous jaunes\n\n6 rondelles rouges\n\n2 longues barres bleues\n\n2 courtes barres rouges\n\n2 L vertes\n\n1 rectangle jaune\n\n2 triangles jaunes\n\n2 carrés verts\n\n1 clé grise\n\n1 clé bleue\n\n2 tournevis\n\n1 livre de modèles\n\n1 plateau rouge\n\n1 couvercle troué gris",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-07-21"
     },
     {
       "id": "0807",
