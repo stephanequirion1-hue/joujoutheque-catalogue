@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-07-02T08:36:09.736Z",
+  "derniere_mise_a_jour": "2026-07-03T08:41:16.293Z",
   "total": 1068,
   "disponibles": 942,
   "jouets": [
@@ -2473,7 +2473,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- Note : Chaque sac contient une carte avec la liste de matériel : 16 figurines, 36 Unités, 12 bateaux, 12 marqueurs, 4 bateaux de pirates.\n76 pièces d'or\n12 pièces de cadre\n34 tuiles\n6 jetons repaire de pirates\n10 fiches\n* liste plus détaillés dans le manuel page 2",
+      "contenu": "- 16 colonies portuaires (4x4)\n\n- 36 unités (4x9)\n\n- 12 bateaux (4x3)\n\n- 8 colons (4x2)\n\n- 12 marqueurs (4x3)\n\n- 4 bateaux pirates (4x1)\n\n- 6 bancs de poissons\n\n- 24 sacs d'épices\n\n- 76 pièces d'or (40x1, 36x3)\n\n- Pièces de cadre → 1x : A1, A2, C1, C2, D1, D2, E, F, G           2x : B1, B2, B3\n\n- 6 tuiles Rivière d'or \n\n- 6 tuiles Banc de poissons\n\n- 6 tuiles Village d'épices\n\n- 8 tuiles et 6 jetons vert en dessous\n\n- 8 tuiles et 6 jetons orange en dessous\n\n- 6 jetons repaire de pirates \n\n- 3 fiches Mission\n\n- 3 fiches Point de Victoire (PV)\n\n- 4 fiches Coûts de construction",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -4984,7 +4984,7 @@
       "categories": [
         "Développement cognitif"
       ],
-      "contenu": "- A compléter, sinon voir page 3",
+      "contenu": "- 1 plateau de jeu\n\n- 1 livret de règles\n\n- 1 plateau Montagne en 3D\n\n- 1 plateau Montagne en 2D\n\n- 4 balises\n\n- 123 cartes de la pile principale\n\n- 27 cartes Grosse Créature\n\n- 28 cartes Quêtes en plaine\n\n- 14 cartes Quête en montagne \n\n- 24 cartes Tempête de neige\n\n- 1 tuile Récompense de déblaiement\n\n- 1 tuile Fureur de l'hiver\n\n- 24 ouvriers (6 Pandas roux, 6 Pingouins, 6 Faucons, 6 Lièvres)\n\n- 4 Raquettes\n\n- 8 cheminées \n\n- 56 Jetons Neige\n\n- 36 Jetons Feu\n\n- 100 Jetons Ressource (25 Bouleau, 25 Mousse, 25 Cuivre, 25 Gland)\n\n- 46 Jetons Point (36 Jetons 1, 10 Jetons 5)\n\n- 8 cartes Plan \n\n- 20 cartes Complot\n\n- 10 jetons Pat\n\n- 1 carte Tactiques\n\n- 3 aides de jeu",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -5394,10 +5394,11 @@
         "Développement social"
       ],
       "contenu": "-4 quadrants de plateau\n-1 tuile ressources\n-12 inserts\n-4 plateaux joueur\n-2 bacs à ressources\n-12 ouvriers\n-60 pions fromage\n-36 cartes commande\n-36 pions Bâtiment\n-36 pions Bétail\n-36 pions Fruit\n-32 tuiles Bâtiment\n-6 pions Client\n-8 pions avec chiffres\n-1 carnet de score (2 feuilles plastifiées)\n-1 guide (16 pages)\n-crayon dry erase",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-21"
+      "date_acquisition": "2026-05-21",
+      "date_retour_prevue": "2026-07-23"
     },
     {
       "id": "0246",
@@ -7253,7 +7254,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 50 cartes de l'animateur\n- 56 cartes tricheur\n- 4 crayons à encre sèches\n- 8 feuilles réponses plastifié. <\n- règle du jeu.",
+      "contenu": "- 50 cartes de l'animateur\n\n- 56 cartes tricheur\n\n- 1 crayon effaçable\n\n- 8 feuilles réponses plastifié. \n\n- règle du jeu.",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -7578,12 +7579,11 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 14 cartes Animal gardien de départ\n- 23 cartes Varan de feu\n- 23 cartes Animal gardien niv.1\n- 16 cartes Animal gardien niv.2\n- 12 cartes Animal gardien niv.3\n- 4 silhouettes Esprit de la nature\n- 4 tuiles Arbre protecteur de départ\n- 12 tuiles Victoire( 3 par esprit)\n- 4 plateaux individuels Forêt\n- 39 tuiles Arbre protecteur\n- 1 plateau central cercle des esprits\n- 58 tuiles de Feu 3 valeurs\n- 1 plateau Animal gardien,1 plateau Varan de feu, 1 silhouette Arbre sacré,20 tuiles Fragment 2 présentoirs pour les arbres protecteur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 56 cartes Animal Gardien de départ (14 par 4 esprit)\n\n- 23 cartes Varan de feu\n\n- 23 cartes Animal gardien niv.1\n\n- 16 cartes Animal gardien niv.2\n\n- 12 cartes Animal gardien niv.3\n\n- 4 silhouettes Esprit de la nature\n\n- 4 tuiles Arbre protecteur de départ\n\n- 12 tuiles Victoire( 3 par esprit)\n\n- 4 plateaux individuels Forêt\n\n- 39 tuiles Arbre protecteur\n\n- 1 plateau central cercle des esprits\n\n- 58 tuiles de Feu 3 valeurs\n\n- 1 plateau Animal gardien\n\n- 1 plateau Varan de feu\n\n- 1 silhouette Arbre sacré\n\n- 20 tuiles Fragment\n\n- 2 présentoirs pour les arbres protecteur",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-02",
-      "date_retour_prevue": "2026-06-23"
+      "date_acquisition": "2026-02-02"
     },
     {
       "id": "0262",
@@ -11591,10 +11591,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette noir",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-07-23"
     },
     {
       "id": "0657",
@@ -11603,11 +11604,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette rose\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0495",
