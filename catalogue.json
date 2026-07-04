@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-03T08:41:16.293Z",
-  "total": 1068,
-  "disponibles": 942,
+  "derniere_mise_a_jour": "2026-07-04T08:15:26.335Z",
+  "total": 1070,
+  "disponibles": 946,
   "jouets": [
     {
       "id": "0085",
@@ -69,7 +69,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "7 plateau merveilles\n148 cartes 49 ages 1, 49 cartes ages 2, et 50 cartes ages 3\n78 pieces 54 pieces de valeur 1 et 24 pieces de valeur 3\n48 jetons conflit militaire 24 defaites et 24 victoires\n1 carnet de score\n3 feuilles descriptions des effets\n1 feuille listes des cartes et chainages\nrègle",
+      "contenu": "7 plateau merveilles\n148 cartes: 49 âges 1, 49 cartes âges 2, et 50 cartes âges 3\n78 pièces: 54 pièces de valeur 1 et 24 pièces de valeur 3\n48 jetons conflit militaire 24 défaites et 24 victoires\n7 feuilles plastifiés de score\n1 crayon effaçable\n3 feuilles descriptions des effets\n1 feuille listes des cartes et chainages\n1 livret de règle",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -364,6 +364,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-29"
+    },
+    {
+      "id": "1081",
+      "nom": "Babyfoot",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Une table de babyfoot\n\n- Un ballon de soccer",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-03"
     },
     {
       "id": "0234",
@@ -1974,6 +1986,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-27"
+    },
+    {
+      "id": "1082",
+      "nom": "Casse-Tête 550",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "Casse-tête de chien avec 550 pièces",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-03"
     },
     {
       "id": "0471",
@@ -6710,11 +6734,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 sac de sable\n- 3 moules à briques\n- 1 marteau de démolition\n- 1 camion construction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-03-25"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0362",
@@ -8146,7 +8169,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 6 Bracelet V.I.P\n- 9 enveloppe, donc 1 avec ka clef de l'énigme\n- 8 cartes nom\n- 1 lettre à Juan\n- 8 carnets ( 1 à chaque personnages)\n- 8 invitations\n- Livret de l'organisateur.\n-",
+      "contenu": "- 6 Bracelets\n\n- 8 étiquettes d'identification\n\n- 8 carnets de personnages\n\n- 8 invitations\n\n- 8 enveloppes\n\n- Clé de l'énigme\n\n- 1 livret de l'organisateur\n\n- 1 pièce à conviction (mémo)\n\n- 1 crayon effaçable",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -8522,7 +8545,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "Manque un morceau se joue pareil",
+      "contenu": "Manque un morceau se joue pareil\n18 pièces",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -10399,11 +10422,10 @@
         "Développement du langage"
       ],
       "contenu": "1 plateau\n4 supports\n100 lettres\n2 jokers",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-02",
-      "date_retour_prevue": "2026-03-25"
+      "date_acquisition": "2025-05-02"
     },
     {
       "id": "0847",
@@ -11663,7 +11685,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "règle\n20 carte brune\n116 carte rouge\n65 carte bleu pale\n85 carte mauve\n85 carte verte\n84 carte jaune\n85 carte bleu\n \n \n \n \n \n \n47\n8",
+      "contenu": "Total de 540 cartes:\n- 85 cartes Improbable (Mauve)\n\n- 85 cartes Plaisir (Orange)\n\n- 85 cartes Mature (Bleu)\n\n- 85 cartes Scolaire (Vert)\n\n- 115 cartes Challenge (Rouge)\n\n- 10 cartes C'est Superbe/Ça va pas du tout (Jaune sur le recto, blanc et noir sur le verso)\n\n- 10 cartes Hésite Pas À Débuter (Brune)\n\n- 65 cartes Hésite Pas À Gagner",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
