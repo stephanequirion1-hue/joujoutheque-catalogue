@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-07-04T08:15:26.335Z",
+  "derniere_mise_a_jour": "2026-07-05T08:33:56.564Z",
   "total": 1070,
   "disponibles": 946,
   "jouets": [
@@ -10943,11 +10943,10 @@
         "Développement social"
       ],
       "contenu": "- 120 cartes combat\n- 12 cartes sélection\n- 12 plateaux Combattant\n- 40 cubes de puissance ( violets)\n- 6 marqueurs de points ( verts)\n- 4 marqueurs spéciaux ( jaunes)\n- 1 jeton Shérif, \n1 jeton Golem, \n1 jeton Serpent, 2 jetons Concentration, 5 jetons Flamme, 11 jetons Intrigue\n \n- 1 guides des Combattants et Livret des règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "1047",
@@ -11818,10 +11817,11 @@
         "Développement cognitif"
       ],
       "contenu": "- Planche de jeu (7 casse-tête)\n- 4 jetons Vikins (+8 bonus)\n- 1 personnage en caton\n- 4 pions\n- 1 boule\n- 24 pièces d'or\n- 4 voiles\n- 4 bateau\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-08-13"
+      "date_acquisition": "2024-08-13",
+      "date_retour_prevue": "2026-07-25"
     },
     {
       "id": "0664",
