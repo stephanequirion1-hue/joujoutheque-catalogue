@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-06T09:46:31.637Z",
-  "total": 1070,
-  "disponibles": 946,
+  "derniere_mise_a_jour": "2026-07-07T08:58:18.971Z",
+  "total": 1081,
+  "disponibles": 958,
   "jouets": [
     {
       "id": "0085",
@@ -216,10 +216,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 assiette\n\n- 1 coupe pizza\n\n- 1 spatule\n\n- 6 morceaux de pizza\n\n- 14 tranches de peppéroni\n\n- 14 morceaux de poivrons\n\n- 12 tranches de champignons",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-25"
+      "date_acquisition": "2025-04-25",
+      "date_retour_prevue": "2026-07-27"
     },
     {
       "id": "0271",
@@ -397,10 +398,11 @@
         "Développement cognitif"
       ],
       "contenu": "-3 camions\n\n-10 pièces\n\n-1 livret\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-07-27"
     },
     {
       "id": "0734",
@@ -3217,6 +3219,18 @@
       "date_acquisition": "2025-10-06"
     },
     {
+      "id": "1086",
+      "nom": "Costume : Abeille",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume d'abeille",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
       "id": "0896",
       "nom": "Costume : accessoires pirates",
       "categories": [
@@ -3263,6 +3277,30 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "1088",
+      "nom": "Costume : Batman",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume de Batman avec une paires de gants",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
+      "id": "1091",
+      "nom": "Costume : Bumblebee",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume de Bumblebee",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
     },
     {
       "id": "0616",
@@ -3347,6 +3385,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "1087",
+      "nom": "Costume : Chat noir",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume de chat noir avec capuchon",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
     },
     {
       "id": "0889",
@@ -3505,6 +3555,18 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "1089",
+      "nom": "Costume : Hulk",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Costume de Hulk avec une paires de gants rembourrés",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
       "id": "0838",
       "nom": "Costume : Hulk",
       "categories": [
@@ -3515,6 +3577,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "1092",
+      "nom": "Costume : Ironman",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "costume ironman",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
     },
     {
       "id": "0610",
@@ -3733,6 +3807,18 @@
       "date_acquisition": "2025-11-28"
     },
     {
+      "id": "1093",
+      "nom": "Costume : Pirate",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Chandail, pantalon noir et blanc, oeil de pirate, crochet pour main, épée",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
       "id": "0618",
       "nom": "Costume : Policier homme",
       "categories": [
@@ -3948,6 +4034,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-28"
+    },
+    {
+      "id": "1090",
+      "nom": "Costume : Spiderman",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "costume de Spiderman avec masque",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
     },
     {
       "id": "0650",
@@ -4239,6 +4337,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-28"
+    },
+    {
+      "id": "1084",
+      "nom": "cube rubiks",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "cube rubiks original 3x3",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
     },
     {
       "id": "0979",
@@ -4864,11 +4974,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 sac de transport\n\n- 4 sac de sable\n\n- 6 Pickett ( il en reste seulement 2) 11 septembre 2025 CD\n\n- 4pickett en U\n\n- 1 ballon de volley\n\n- 2 pieds\n\n- 14 tiges de différente longueur\n\n- instruction de montage (instruction manquantes, 12 sept 2025)\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-17",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-06-17"
     },
     {
       "id": "0649",
@@ -5262,10 +5371,11 @@
         "Développement social"
       ],
       "contenu": "- maison\n\n- 3 bébés\n\n- 1 cheval à bascule jaune\n\n- 1 table à manger verte à 3 places\n\n- 1 lit mauve\n\n- 1 parc\n\n- 1 Biberon\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-07-27"
     },
     {
       "id": "0865",
@@ -6009,10 +6119,11 @@
         "Développement social"
       ],
       "contenu": "Base de jeu\n4 hippos\n14 billes \nRègle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-06-11"
+      "date_acquisition": "2026-06-11",
+      "date_retour_prevue": "2026-07-27"
     },
     {
       "id": "0983",
@@ -7784,10 +7895,11 @@
         "Développement affectif"
       ],
       "contenu": "- Lot de 2 poupées\n\n- 2 suces\n\n- 2 bouchons pour la tête",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-13"
+      "date_acquisition": "2026-05-13",
+      "date_retour_prevue": "2026-07-27"
     },
     {
       "id": "0155",
@@ -8812,11 +8924,10 @@
         "Développement cognitif"
       ],
       "contenu": "11 petit bonhomme de neige\n1 plateau de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-15",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2025-08-15"
     },
     {
       "id": "0363",
@@ -9751,11 +9862,10 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-20"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0792",
@@ -9824,11 +9934,10 @@
         "Développement social"
       ],
       "contenu": "- 1 poupée\n- 1 pousette rose et blanche en plastique\n- 1 paire de soulier,1 pyjamas bleu, 1 bavette bleu, 1 collier avec médaille argent, 1 chapeau bleu.\n- 1 couche, 1 paire de lunette, 1 suce bleu, 1 biberon bleu,\n- 1 salopette jeans avec t-shirt et chapeau\n- 1 jean\n- 1 pyjamas à carreaux rouge",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-13",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2026-01-13"
     },
     {
       "id": "0256",
@@ -10262,11 +10371,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-3 morceaux cheval orange\n*Brisé: la tige décolle de la tête\n\n-3 morceaux lapin bleu\n\n-3 morceaux canard vert",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-07-21"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0035",
@@ -10634,6 +10742,18 @@
       "date_retour_prevue": "2026-07-06"
     },
     {
+      "id": "1085",
+      "nom": "speedcubes",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "cube Rubik aussi appeler speedcube, conçus pour la vitesse avec une rotation plus fluide",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
       "id": "0319",
       "nom": "Spike the fine motor Hedgehog",
       "categories": [
@@ -10997,6 +11117,18 @@
       "date_acquisition": "2024-03-05"
     },
     {
+      "id": "1083",
+      "nom": "tapis de casse-tête",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "tapis de casse-tête",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-06"
+    },
+    {
       "id": "0636",
       "nom": "Tapis interactif Leap Frog",
       "categories": [
@@ -11210,11 +11342,10 @@
         "Développement social"
       ],
       "contenu": "-55 cartes\n\n-1 bombe noire\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0870",
