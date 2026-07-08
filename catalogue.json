@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-07T08:58:18.971Z",
-  "total": 1081,
-  "disponibles": 958,
+  "derniere_mise_a_jour": "2026-07-08T08:01:34.002Z",
+  "total": 1083,
+  "disponibles": 960,
   "jouets": [
     {
       "id": "0085",
@@ -216,11 +216,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 assiette\n\n- 1 coupe pizza\n\n- 1 spatule\n\n- 6 morceaux de pizza\n\n- 14 tranches de peppéroni\n\n- 14 morceaux de poivrons\n\n- 12 tranches de champignons",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-25",
-      "date_retour_prevue": "2026-07-27"
+      "date_acquisition": "2025-04-25"
     },
     {
       "id": "0271",
@@ -978,10 +977,11 @@
         "Développement cognitif"
       ],
       "contenu": "-21 pièces rouges\n-21 pièces bleus\n-21 pièces jaunes\n-21 pièces vertes\n-1 plateau\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-28"
     },
     {
       "id": "1033",
@@ -990,11 +990,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau \n\n- 42 pièces de jeu 2 couleurs\n\n- 1 règle de jeu détaillée\n\n- 2 range-pièces",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-28",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2026-04-28"
     },
     {
       "id": "1010",
@@ -4751,6 +4750,18 @@
       "date_acquisition": "2025-12-18"
     },
     {
+      "id": "1095",
+      "nom": "Earth",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 Plateau Faune\n\n- 5 Plateau Joueur\n\n- 150 cubes Germe (Vert)\n\n- 105 jetons Sol (78 jetons “1”, 18 jetons “5”, 9 jetons “10”\n\n- 90 Pions Tronc\n\n- 76 Pions Canopée (17 rouge, 17 jaune, 17 bleu, 25 vert)\n\n- 283 cartes Terre (179 Flore, 66 Terrain, 38 Événement\n\n- 23 cartes Faune\n\n- 32 cartes Écosystèmes\n\n- 10 cartes Île\n\n- 10 cartes Climat\n\n- 6 cartes Mode solo\n\n- 1 jeton Premier Joueur\n\n- 1 jeton Joueur Actif\n\n- 25 jetons Feuilles\n\n- 39 jetons Germe (vert)",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-07"
+    },
+    {
       "id": "0955",
       "nom": "Efface et rejoue lettres et les chiffres",
       "categories": [
@@ -4830,10 +4841,11 @@
         "Développement physique"
       ],
       "contenu": "- 2 bâtons de hockey\n- 2 balles\n- 1 rondelle\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-07-28"
     },
     {
       "id": "0646",
@@ -5578,11 +5590,10 @@
         "Développement social"
       ],
       "contenu": "un plateau de jeu (le quartier)\n10 cartes personnages \n6 pions \n3 dés\ndes billets de banque ( 49 de 100$ 49 de 500$ 49 de 1000$ 25 de 5000$ 27 de 10 000$)\n372 carte a jouer: Automobile 18, Aventure70, banque 24, boxe 20, collecte 28, commerce 24, diamant 25, dossier 12, investissement 20, justice 24, mission 31, perle 25, protection 12, recrutement 39\nles règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0881",
@@ -6457,10 +6468,11 @@
         "Développement physique"
       ],
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-07-28"
     },
     {
       "id": "0784",
@@ -6821,10 +6833,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-5 formes géométriques\n\n-1 tête de giraffe\n\n-10 verres\n\n-2 chaudières",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-07-28"
     },
     {
       "id": "0045",
@@ -10493,11 +10506,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 6 chemises\n\n- 1 dé à 20 faces\n\n- 1 bloc note\n\n- 48 cartes\n\n- 1 sablier\n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-29",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2024-02-29"
     },
     {
       "id": "0683",
@@ -11285,6 +11297,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "1094",
+      "nom": "Terraforming Mars",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 livret de règles\n\n- 1 plateau de jeu \n\n- 5 plateaux individuels\n\n- 17 cartes Corporation\n\n- 208 cartes Projet\n\n- 8 cartes Aide de jeu\n\n- 202 cubes Ressources (45 or, 30 argent, 127 bronze)\n\n- 200 cubes Joueur (40 de chaque couleurs)\n\n- 3 marqueurs pour le plateau (3 cubes blanc)\n\n- 9 tuiles Océan\n\n- 60 tuiles Cité/Forêt\n\n- 11 tuiles Spéciales\n\n- 1 marqueur premier joueur",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-07"
     },
     {
       "id": "0582",
