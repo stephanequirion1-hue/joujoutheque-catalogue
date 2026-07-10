@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-08T08:01:34.002Z",
-  "total": 1083,
-  "disponibles": 960,
+  "derniere_mise_a_jour": "2026-07-10T08:53:36.196Z",
+  "total": 1089,
+  "disponibles": 965,
   "jouets": [
     {
       "id": "0085",
@@ -143,11 +143,10 @@
         "Développement social"
       ],
       "contenu": "-100 cartes Sujet\n-48 cartes Point\n-48 cartes joueur\n-Règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-23",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2025-07-23"
     },
     {
       "id": "0462",
@@ -288,10 +287,11 @@
         "Développement physique"
       ],
       "contenu": "avion",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-02"
+      "date_acquisition": "2026-01-02",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0578",
@@ -1001,12 +1001,11 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- plateau de jeu\n\n- écran\n\n- 2 jeux de cartes\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- plateau de jeu\n\n- écran\n\n- 100 cartes jeu (50 par paquet)\n\n- 8 cartes bluffer (4 par couleurs)\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-07-17"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0953",
@@ -1122,7 +1121,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 60 cartes jeu\n- 5 cartes de twist\n- Règles du jeu",
+      "contenu": "- 60 cartes jeu\n\n- 6 cartes de twist\n\n- Règles du jeu",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -1338,6 +1337,18 @@
       "date_acquisition": "2025-05-22"
     },
     {
+      "id": "1098",
+      "nom": "Candy Land",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 4 Pions\n\n- 1 Plateau de jeu\n\n- 1 Tourniquet\n\n- Règles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
+    },
+    {
       "id": "0599",
       "nom": "Carcassonne",
       "categories": [
@@ -1453,10 +1464,11 @@
         "Développement du langage"
       ],
       "contenu": "- 52 cartes séparées en 2\n\nJeu usagé, quelques cartes abimées",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-21"
+      "date_acquisition": "2024-11-21",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0368",
@@ -2546,7 +2558,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "- 18 chaises",
+      "contenu": "- 18 chaises (6 chaises jaune, 4 chaises rouge, 4 chaises verte, 4 chaises bleu",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -2607,10 +2619,11 @@
         "Développement social"
       ],
       "contenu": "1 livret recettes,  1 livret instructions\n12 livres d'ingrédients, 24 cartes divinatoires , 4 sac\n4 bouteilles , 4 tuiles , 20 rubis , 1 dé bonus , 1 flammes , 8 gouttes , 4 marqueurs de points , 4 jetons rats \n3 jetons réserve, 219 jetons d'ingrédients, 1 plateau pour marquer les points, 4 chaudrons (tableau des joueurs )",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-18"
+      "date_acquisition": "2026-05-18",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0213",
@@ -3824,10 +3837,11 @@
         "Développement affectif"
       ],
       "contenu": "1 onepiece policier\n1 veste pare-balle\n1 casque",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0898",
@@ -4234,11 +4248,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0182",
@@ -4561,12 +4574,11 @@
       "categories": [
         "Développement cognitif"
       ],
-      "contenu": "24 attache avec tige→ transparent\n20 attache avec trou→ transparent\n2x12 molette de vote\n12 pions lapin en bois; vert pale, vert foncé, blanc, noir, orange, jaune, rose, gris, rouge, brun, bleu, violet\n84 cartes\n2x12 engrenage\n12 pion de couleur\ninstruction de construction\n1 plateau de jeu, règlement en français et en anglais",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 2x12 molette/engrenage de vote (24 au total, 2 de chaque couleur)\n\n- 12 pions lapin en bois\n\n- 84 cartes\n\n- instruction de construction\n\n- 1 plateau de jeu\n\n- règlement en français et en anglais",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-02",
-      "date_retour_prevue": "2026-07-17"
+      "date_acquisition": "2025-08-02"
     },
     {
       "id": "0858",
@@ -4586,7 +4598,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "9 pilules recto verso, 1 plateau pilulier, 2 tuiles seringue ( tête et piston), 15 cartes Produits, 1 coeur,1 plateau corps du patient,18 cartes électrode, 1 tableau pharma recto verso, 10 cartes charge du défibrillateur, 25 cartes téléphone/ charge du défibrillateur. 1 plateau de suture( avec un fil, une aiguille et une bobine), 1 loupe, 4 pinces, 2 tuiles scanner,24 cartes instrument, 12 cartes patient, 18 cartes épreuve instrument.8 cartes épreuve injection, 10 cartes épreuves radiographie, 10 cartes épreuves examen, 10 cartes épreuve prescription, 10 cartes épreuve suture, 10 cartes électrode, 8 cartes épreuve scanneur. règle\n-",
+      "contenu": "- 9 pilules recto verso\n\n- 1 plateau pilulier\n\n- 2 tuiles seringue ( tête et piston)\n\n- 15 cartes Produits (5 par couleurs/produit)\n\n- 1 cœur du patient (coussin péteur)\n\n- 1 plateau corps du patient\n\n- 18 cartes électrode (couleur peau)\n\n- 1 tableau pharma recto verso\n\n- 10 cartes charge du défibrillateur (vert)\n\n- 25 cartes téléphone/ charge du défibrillateur (rouge/vert)\n\n- 1 plateau de suture (avec un fil, une aiguille et une bobine)\n\n- 1 loupe\n\n- 4 pinces\n\n- 2 tuiles scanner\n\n- 24 cartes instrument\n\n- 12 cartes patient\n\n- 18 cartes épreuve instrument (gris)\n\n- 8 cartes épreuve injection (mauve)\n\n- 10 cartes épreuves radiographie (orange)\n\n- 10 cartes épreuves examen (bleu foncé)\n\n- 10 cartes épreuve prescription (rose)\n\n- 10 cartes épreuve suture (vert)\n\n- 10 cartes électrode (bleu pâle)\n\n- 8 cartes épreuve scanneur (jaune)",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -4647,7 +4659,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 55 dominos",
+      "contenu": "- 55 dominos\n\n- 1 pièce de base \n\n- règles du jeu",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -4821,6 +4833,18 @@
       "photo": null,
       "date_acquisition": "2025-05-08",
       "date_retour_prevue": "2026-07-21"
+    },
+    {
+      "id": "1096",
+      "nom": "Énigmes Malicieuses en famille",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 2 jeux (1 normal/noir, 1 junior/blanc)\n\n- Normal: 125 cartes → 15 rose, 15 mauve, 20 rouge, 25 bleu foncé, 20 jaune, 15 vert, 15 bleu pâle\n\n- Junior: 125 cartes → 35 rose, 20 mauve, 10 rouge, 20 bleu foncé, 10 jaune, 15 vert, 15 bleu pâle\n\n- Règles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "0661",
@@ -5082,10 +5106,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 gros contenant M. Patate avec ses accessoires\n(1 casquette verte, 1 nez, 1 yeux, 1 bouche, 2 oreilles)\n-2 grosse patates et accessoires\n(2 bottes-pantalons bleues, 1 cheveu blond, 1 casquette verte, 1 casquette verte fleur, 2 yeux, 4 oreilles, 2 lunettes, 1 moustache, 2 bouches, 4 mains, 2 nez)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "1051",
@@ -5170,6 +5195,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-10"
+    },
+    {
+      "id": "1101",
+      "nom": "Fais moi confiance jr",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Règles du jeu\n\n- 1 Buzzer\n\n- 396 cartes → 258 cartes Énoncés, 138 cartes Appel à tous",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "1006",
@@ -5577,11 +5614,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 Règle du jeu\n- 54 cartes d'affaires\n-  6 aides du jeu\n- 6 socles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0740",
@@ -5775,10 +5811,11 @@
         "Développement physique"
       ],
       "contenu": "1 grosse auto rouge, batteries ne fonctionnent pas",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-19"
+      "date_acquisition": "2024-12-19",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0329",
@@ -5931,12 +5968,11 @@
       "categories": [
         "Développement du langage"
       ],
-      "contenu": "100 carte hein?\n4 carte joueur\n17 carte plastifier\n1 sablier\n48 jeton",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 100 cartes \"hein?\"\n\n- 11 cartes “paquet promotionnel”\n\n- 4 cartes joueur\n\n- 17 carte plastifier\n\n- crayon effaçable\n\n- 1 sablier\n\n- 48 jetons\n\n- 1 carte aide jeu\n\n- règles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-12",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2025-07-12"
     },
     {
       "id": "1018",
@@ -5985,7 +6021,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-07-09"
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "1070",
@@ -6006,10 +6042,11 @@
         "Développement social"
       ],
       "contenu": "- le Jeu principale: 65.00,$:13 Norse Gods 13 Greek Gods, 24 cartes Norse Panthéon, 24 cartes Greek Panthéon, 2 marqueurs (1 mont Olympus et 1 Asgard) 3 jetons marqueurs de points., 2 jetons santé, 100 anneaux de 6 couleurs différentes  1 tapis de jeu,  instruction\n- extension *Bloodied :15.25$ 12 cartes Norse Bloodied, 12 cartes Greek Bloodied 1 instructions\n- extension Valkyrie & Médusa : 25.40$ 1 carte et 1 figurine Valkyrie, 1 carte et 1 figurine Médusa\n- extension Égyptien: 117.12 $ 12 figurines, 24 cartes \n- NB: tout les extension sont inclus dans la boite du jeu principale",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-24"
+      "date_acquisition": "2025-11-24",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0006",
@@ -6067,11 +6104,10 @@
         "Développement social"
       ],
       "contenu": "- 308 Cartes\n\n- 37 Jetons",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-08",
-      "date_retour_prevue": "2026-07-17"
+      "date_acquisition": "2026-06-08"
     },
     {
       "id": "1021",
@@ -6614,7 +6650,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 77 cartes\n-",
+      "contenu": "- 63 cartes “Jokes\"\n\n- 15 cartes “Dis la joke”\n\n- 1 cartes règles",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -7365,11 +7401,12 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 288 cartes objets\n- 72 cartes scénarios\n- 1 guide de survie",
-      "statut": "Disponible",
-      "disponible": true,
+      "contenu": "- 288 objets (144 cartes recto/verso objets)\n\n- 72 cartes scénarios\n\n- 1 guide de survie",
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-02"
+      "date_acquisition": "2026-02-02",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0670",
@@ -7595,10 +7632,11 @@
         "Développement social"
       ],
       "contenu": "4 pions chenille\n1 plateau\n38 cartes\n20 pièces de casse-tête\nrègle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-06-12"
+      "date_acquisition": "2026-06-12",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0834",
@@ -7933,10 +7971,11 @@
         "Développement cognitif"
       ],
       "contenu": "5 Plateaux de jeux \n54 Cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-01-09"
+      "date_acquisition": "2025-01-09",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0723",
@@ -8023,28 +8062,17 @@
       "date_acquisition": "2025-03-04"
     },
     {
-      "id": "0564",
-      "nom": "MAGA BLOKS",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "273 PIECE MAGA bloks",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-03-04"
-    },
-    {
       "id": "0818",
       "nom": "Magic maze",
       "categories": [
         "Développement social"
       ],
       "contenu": "24 tuiles centre commerciale\n4 pions héros; jaune, vert, mauve, orange\n9 tuiles actions 5 double-face pour 2 à 8 joueur\n7 tuiles action pour 1 joueur\n1 sablier\n1 pion ‘’fais quelque chose!'' → rouge\n1 tuile vole\nrèglement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0461",
@@ -8053,11 +8081,10 @@
         "Développement motricité fine"
       ],
       "contenu": "6 cartes costumes recto-verso¸\n59 aimants",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-27",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0532",
@@ -8354,7 +8381,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "- 26 bâtonnets de Mikado\n- feuillet d'instructions\n-",
+      "contenu": "- 26 bâtonnets de Mikado\n\n- feuillet d'instructions",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -8428,10 +8455,11 @@
         "Développement social"
       ],
       "contenu": "- 4 pions ( rouge, orange ,vert, mauve )\n\n- 4 pions mini-brands (  Kool- Aid, Mentos, Icee drink, Babybel )\n\n- 25 cartes actions\n\n- 1 dé\n\n- 32 vignettes\n\n- 15 cartes Liste de courses\n\n- 1 règles du jeu\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-13"
+      "date_acquisition": "2026-03-13",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0355",
@@ -8440,11 +8468,10 @@
         "Développement cognitif"
       ],
       "contenu": "Miroir pour placer au sol pour bébé avec des animaux de la mer à toucher autour et des étiquettes amusantes.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-24",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2024-10-24"
     },
     {
       "id": "0510",
@@ -8466,10 +8493,11 @@
         "Développement physique"
       ],
       "contenu": "8 chaise verte\n8 chaise rouge\n8 chaise bleu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0516",
@@ -8563,10 +8591,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 porte carte\n\n-48 cartes Bambini (bleues)\n\n-48 cartes Moderato (jaunes)\n\n-48 cartes fortissimo (rouges)\n\n-42 jetons M.Gelato\n\n-4 ensembles de jetons (16X4= 64 jetons)\n\n-1 chevalet (bleu)\n\n-4 cachettes( voitures Gelato)\n\n-Règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0039",
@@ -8719,11 +8748,10 @@
         "Développement physique"
       ],
       "contenu": "1 moto",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-10",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2025-11-10"
     },
     {
       "id": "0320",
@@ -8780,11 +8808,10 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2025-12-09"
     },
     {
       "id": "0741",
@@ -9010,11 +9037,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-2 spatules\n\n-2 assiettes\n\n-2 beurres\n\n-10 crêpes\n\n-10 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-03",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2024-02-03"
     },
     {
       "id": "0992",
@@ -9493,10 +9519,11 @@
         "Développement du langage"
       ],
       "contenu": "-4 plateaux de jeu (Jaune, vert, mauve, bleu)\n\n-9 morceaux Verts\n\n-9 morceaux Jaunes\n\n-9 morceaux Bleus\n\n-9 morceaux Mauves\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0189",
@@ -9615,11 +9642,10 @@
         "Développement du langage"
       ],
       "contenu": "-8 planches de jeu\n\n-16 cartes-images\n\n-1 gabarit pour insérer la planche de jeu\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-06-28"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0124",
@@ -9665,11 +9691,10 @@
         "Développement du langage"
       ],
       "contenu": "-4 plateaux de jeu\n\n-10  cartes bleues \"C'est qui?\"\n\n-15 cartes vertes \"C'est quoi?\"\n\n-10 cartes rouges \"Qu'est-ce qu'il fait?\"\n\n-15 cartes mauves \"Où est?\"\n\n-5 cartes bleues \"Cherche partout\"\n\n-5 cartes vertes \"Cherche partout\"\n\n-5 cartes rouges \"Cherche partout\"\n\n-5 cartes mauves \"Cherche partout\"\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-29",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2024-01-29"
     },
     {
       "id": "0111",
@@ -9997,10 +10022,11 @@
         "Développement social"
       ],
       "contenu": "- 1 boîte/urne ( avec couvert fente)\n- 12 disques de vote\n- 12 enveloppes réponse\n- 70 cartes\n- 1 bloc score\n- 1 crayon\n- 1 règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0558",
@@ -10194,6 +10220,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-11"
+    },
+    {
+      "id": "1097",
+      "nom": "Quiz Dessins Animés",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Règles du jeu\n\n- 20 cartes Disney (Bleu)\n\n- 20 cartes Girls (Rose)\n\n- 20 cartes Action Man (Rouge)\n\n- 20 cartes Z'Animaux (Jaune)\n\n- 20 cartes Antihéros (vert)\n\n- 20 cartes Culte et Inclassable (Mauve)\n\n- 6 séparateurs de catégorie",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "0713",
@@ -10432,12 +10470,11 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- règle du jeu ( 4 X )\n- 17 dés ; 12 dés héros et 5 dés sorcier\n- 94 cartes\n- 1 plateau de jeu\n- 1 pion dragon en bois\n- 31 éléments en carton\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- Règles du jeu x4 (Français, Anglais, Allemand, Néerlandais)\n\n- 17 dés → 12 dés Héros (3 vert, 3 bleu, 3 brun, 3 blanc), 5 dés Sorcier (noir)\n\n- 47 cartes Sortilège → 8 confusion (gris/blanc), 7 Invocation (bleu), 7 Dracologie (rouge), 6 Dissipation (mauve), 6 Malédiction (noir/blanc), 7 Damnation (jaune), 6 Régression (vert)\n\n- 29 cartes Épreuve (brun/noir)\n\n- 8 cartes Parchemin (vert/bleu)\n\n- 10 cartes Coffre/Équipement (bleu/mauve)\n\n- 1 Plateau de jeu\n\n- 1 pion Dragon\n\n- 4 Tuiles Personnage\n\n- 4 Jetons Joueur\n\n- 1 Tuile Dragon\n\n- 3 Jetons Trophée\n\n- 1 Jeton Pièce d'or\n\n- 8 Jetons Âme (bleu/mauve)\n\n- 6 Jetons Vie (vert)\n\n- 4 Tuiles Faculté",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-07-09"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0545",
@@ -10892,11 +10929,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-16",
-      "date_retour_prevue": "2026-07-08"
+      "date_acquisition": "2026-04-16"
     },
     {
       "id": "0563",
@@ -11329,11 +11365,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0928",
@@ -11342,10 +11377,11 @@
         "Développement social"
       ],
       "contenu": "- 231 cartes français/anglais\n- 8 crayons de plomb\n- Bloc-Notes\n- Bloc-notes de pointage\n- instructions français/anglais",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-30"
+      "date_acquisition": "2025-12-30",
+      "date_retour_prevue": "2026-07-30"
     },
     {
       "id": "0066",
@@ -11385,11 +11421,11 @@
     },
     {
       "id": "0988",
-      "nom": "Times Up !",
+      "nom": "Time's Up !",
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 218 cartes\n\n- 4 feuilles de résultats plastifié\n\n- instructions\n\n- Guide Biographies\n\n- 1 sablier",
+      "contenu": "- 218 cartes\n\n- 4 feuilles de résultats plastifié\n\n- instructions\n\n- Guide Biographies\n\n- 1 sablier\n\n- 1 crayon effaçable",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -11414,7 +11450,7 @@
       "categories": [
         "Développement cognitif"
       ],
-      "contenu": "-219 cartes Time's Up!\n-1 sablier\n-Feuilles de points",
+      "contenu": "- 219 cartes Time's Up!\n\n- 1 sablier\n\n- 4 Feuilles de points\n\n- 1 crayon effaçable",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -12112,6 +12148,20 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "1099",
+      "nom": "Wanted!",
+      "categories": [
+        "Développement mémoire",
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "- Règles du jeu\n\n- 72 cartes",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
+    },
+    {
       "id": "0778",
       "nom": "Wazabi",
       "categories": [
@@ -12122,6 +12172,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-25"
+    },
+    {
+      "id": "1100",
+      "nom": "Wazabi - Attention, c'est fort!",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- Règles du jeu\n\n- 36 cartes\n\n- 24 dés",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "1075",
@@ -12142,10 +12204,11 @@
         "Développement social"
       ],
       "contenu": "35 panier en bois ( 7 X chaque couleurs)\n56 Champignons en bois ( 14 X Chaque variétés) \n1 jeton premier joueur\n4 plateaux Coin à champignons\n16 cartes d'information\nlivret d'instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-07"
+      "date_acquisition": "2026-05-07",
+      "date_retour_prevue": "2026-07-29"
     },
     {
       "id": "0327",
@@ -12914,6 +12977,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0564",
+      "nom": "xxxx",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "273 PIECE MAGA bloks",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-03-04"
     },
     {
       "id": "0566",
