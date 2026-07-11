@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-10T08:53:36.196Z",
-  "total": 1089,
-  "disponibles": 965,
+  "derniere_mise_a_jour": "2026-07-11T07:27:17.120Z",
+  "total": 1090,
+  "disponibles": 962,
   "jouets": [
     {
       "id": "0085",
@@ -360,10 +360,11 @@
         "Développement social"
       ],
       "contenu": "- chaise haute rose et banc d'auto rose et bleu en plastique,1 poupée.\n \nun ensemble :  pantalon orange, camisole rose fleurie à bordure rose, chapeau rose et orange\n.\n1 bavoir flamant rose\n\n- 1 culotte blanche, \n1 camisole blanche avec petite fleur et bordure rose et blanc\n\n- 1 biberon,\n1 robe fleuri Blanche/ Rouge,\n1 pantalon rose avec gilet manche rose,\n1 robe de chambre",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-29"
+      "date_acquisition": "2025-05-29",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "1081",
@@ -462,6 +463,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-02"
+    },
+    {
+      "id": "1102",
+      "nom": "ballon basket",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "ballon basket",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-07-10",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0654",
@@ -1279,11 +1293,10 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-03",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2025-11-03"
     },
     {
       "id": "0608",
@@ -1366,12 +1379,11 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "- 6 boules\n\n- 1 diamant\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 82 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 6 balles\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 83 cartes",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-07-06"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0580",
@@ -1440,10 +1452,11 @@
         "Développement du langage"
       ],
       "contenu": "- 52 cartes lettres d'alphabet et chiffres et petites phrases\nJeu usagé, quelques cartes abimées",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-21"
+      "date_acquisition": "2024-11-21",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0136",
@@ -2706,11 +2719,10 @@
         "Développement affectif"
       ],
       "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-08",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2025-05-08"
     },
     {
       "id": "0102",
@@ -4611,11 +4623,10 @@
         "Développement mémoire"
       ],
       "contenu": "- 18 aliments de plastique\n- 9 cartes-aliments \n- 1 cartes Franky le chien\n- 1 sacs ( Doggy Bags)\n- règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-06"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0133",
@@ -4792,10 +4803,11 @@
         "Développement physique"
       ],
       "contenu": "4 Cuillères\n4 œufs (coquille)\n4 poches d'œufs",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0587",
@@ -5119,10 +5131,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 tête\n1 moule dents\n1 poignée et 2 rouleaux ( 1 jaune 1 vert)\n5 outils de découpage\n2 outils de dentiste\n1 paire de ciseau\n1 pelle rouge\n1 rouleau\n1 presse à pâte bleu et rouge\n6 emporte pièces",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-15"
+      "date_acquisition": "2026-05-15",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0999",
@@ -5481,10 +5494,11 @@
         "Développement physique"
       ],
       "contenu": "45 tiges\n27 pièces jaunes/oranges",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-04-09"
+      "date_acquisition": "2024-04-09",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0315",
@@ -5725,11 +5739,10 @@
         "Développement social"
       ],
       "contenu": "- 1 livre géant\n- 1 dé\n- 4 personnages\n\nprend des batteries mais se joue sans avec le dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-17",
-      "date_retour_prevue": "2026-07-11"
+      "date_acquisition": "2025-07-17"
     },
     {
       "id": "0208",
@@ -5848,11 +5861,10 @@
         "Développement social"
       ],
       "contenu": "- 2 plateaux de jeu\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-08",
-      "date_retour_prevue": "2026-07-11"
+      "date_acquisition": "2025-04-08"
     },
     {
       "id": "0270",
@@ -5945,10 +5957,11 @@
         "Développement social"
       ],
       "contenu": "-6 bandeaux\n-16 badge de scone\n-1 sablier\n-69 cartes illustrées\n-3 cartes de questions\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0223",
@@ -6723,10 +6736,11 @@
         "Développement social"
       ],
       "contenu": "- 1 plateau de jeu\n\n- 1 dôme décodeur\n\n- 100 cartes défi\n\n- 4 pions rhino\n\n- 20 jetons santé\n\n- 2 dés classiques\n\n- 4 dés défi\n\n- 1 sablier\n\n- instruction et feuille de réponse possible ( indices à l'endos)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-25"
+      "date_acquisition": "2025-04-25",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0084",
@@ -7026,10 +7040,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 40 cartes pirates\n\n- 1 île aux pirates\n\n- 10 îles au trésor\n\n- 4 cachettes\n\n- règlement recto verso",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-23"
+      "date_acquisition": "2026-03-23",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0728",
@@ -7171,11 +7186,10 @@
         "Développement du langage"
       ],
       "contenu": "- 48 poissons en bois aimantés\n- 1 canne à pêche\n- 1 planche ­* cours d'eau*\n- 6 planches de jeu recto verso\n- 1 feuillet explicatif\n- les règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-19",
-      "date_retour_prevue": "2026-07-05"
+      "date_acquisition": "2025-06-19"
     },
     {
       "id": "0089",
@@ -7571,10 +7585,11 @@
         "Développement cognitif"
       ],
       "contenu": "4 plateaux de jeu\n4 fiches bleus\n4 fiches verts\n4 fiches rouges\n4 fiches jaunes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-05-28"
+      "date_acquisition": "2024-05-28",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0761",
@@ -7620,10 +7635,11 @@
         "Développement cognitif"
       ],
       "contenu": "1 étoile(avec 3 aimant)\n1 corde a linge\n2 support en bois\n12 long filament muni d'un anneau métallique\n20 long filament sans anneau métallique\n18 petit filament\n1 plateau de jeu\nrèglement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-15"
+      "date_acquisition": "2025-08-15",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "1073",
@@ -7813,11 +7829,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 Livre\n- 1 Affiche\n- 10 Figurines\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-20",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-11-20"
     },
     {
       "id": "0845",
@@ -8988,11 +9003,10 @@
         "Développement du langage"
       ],
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-07-06"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0375",
@@ -9097,11 +9111,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 9 pièce d'arbres \n\n- 6 pièces figurines\n\n- 1 planche de jeux\n\n- Livre de défis",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-11",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2026-05-11"
     },
     {
       "id": "0671",
@@ -9411,10 +9424,11 @@
         "Développement du langage"
       ],
       "contenu": "-1 carte aide-mémoire\n\n-12 cartes bleues \"Aliments\"\n\n-12 cartes oranges \"Animaux\"\n\n-12 cartes vertes \"Objets de la maison\"\n\n-12 cartes mauves \"Moyens de transport\"\n\n-12 cartes jaunes \"Vêtements\"\n\n-5 dés (orange, bleu, vert, mauve, jaune)\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0184",
@@ -9900,10 +9914,11 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0792",
@@ -10736,10 +10751,11 @@
         "Développement mémoire"
       ],
       "contenu": "- 30 cartes illustrées\n- Guide à l'intention des parents.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0422",
@@ -10784,11 +10800,10 @@
         "Développement social"
       ],
       "contenu": "- 4 grenouilles ( bleue, verte, rouge, orange)\n\n- 1 sorcière\n\n- 1 livre\n\n- 1 balais\n\n- 1 chandelle\n\n- 1 potion\n\n- 1 citrouille\n\n- 1 globe\n\n- 1 chauve-souris \n\n- 4 supports\n\n- 4 maisons grenouilles\n\n- 1 chaudron\n\n- 6 jetons ingrédients\n\n- 4 cercles de protection",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-06"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "1085",
@@ -11135,10 +11150,11 @@
         "Développement social"
       ],
       "contenu": "- 28 parcelles + 2 parcelles panda ,28 sections de Bambou vert, 26 sections de Bambou jaune, 24 sections de Bambou rose,\n\n- 19 irrigations , 9 aménagements + 3 extras grises\n\n- 46 cartes objectif, 4 plateaux individuels, \n8 jetons actions, 1 dé météo, 1 figurine Panda, 1 figurine Jardinier.\n1 livret de règles.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-15"
+      "date_acquisition": "2026-04-15",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "0165",
@@ -11790,11 +11806,10 @@
         "Développement physique"
       ],
       "contenu": "Trottinette Hulk",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-02",
-      "date_retour_prevue": "2026-07-06"
+      "date_acquisition": "2026-04-02"
     },
     {
       "id": "0656",
@@ -12058,10 +12073,11 @@
         "Développement physique"
       ],
       "contenu": "- Un vélo vert flash et bleu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-07-31"
     },
     {
       "id": "1061",
