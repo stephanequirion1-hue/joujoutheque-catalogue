@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-07-13T08:38:04.491Z",
+  "derniere_mise_a_jour": "2026-07-14T07:30:18.763Z",
   "total": 1090,
   "disponibles": 962,
   "jouets": [
@@ -143,10 +143,11 @@
         "Développement social"
       ],
       "contenu": "-100 cartes Sujet\n-48 cartes Point\n-48 cartes joueur\n-Règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-23"
+      "date_acquisition": "2025-07-23",
+      "date_retour_prevue": "2026-08-03"
     },
     {
       "id": "0462",
@@ -5180,10 +5181,11 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-08-03"
     },
     {
       "id": "0991",
@@ -5640,10 +5642,11 @@
         "Développement social"
       ],
       "contenu": "un plateau de jeu (le quartier)\n10 cartes personnages \n6 pions \n3 dés\ndes billets de banque ( 49 de 100$ 49 de 500$ 49 de 1000$ 25 de 5000$ 27 de 10 000$)\n372 carte a jouer: Automobile 18, Aventure70, banque 24, boxe 20, collecte 28, commerce 24, diamant 25, dossier 12, investissement 20, justice 24, mission 31, perle 25, protection 12, recrutement 39\nles règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-08-03"
     },
     {
       "id": "0881",
@@ -5714,11 +5717,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 trapèzes\n\n-6 rectangles\n\n-12 petits triangles\n\n-8 grands triangles\n\n-36 carrés\n\n-2 blocs spinner\n\n-2 blocs LED-light\n\n-Guide d'accompagnement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0191",
@@ -6117,10 +6119,11 @@
         "Développement social"
       ],
       "contenu": "- 308 Cartes\n\n- 37 Jetons",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-06-08"
+      "date_acquisition": "2026-06-08",
+      "date_retour_prevue": "2026-08-03"
     },
     {
       "id": "1021",
@@ -6650,12 +6653,11 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 77 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 63 cartes “Joke”\n\n- 15 cartes “Dis la joke”\n\n- 1 carte règles",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-03",
-      "date_retour_prevue": "2026-05-07"
+      "date_acquisition": "2026-02-03"
     },
     {
       "id": "0958",
@@ -6810,11 +6812,10 @@
         "Développement du langage"
       ],
       "contenu": "110 cartes\n7 chevalets\n7 chiffonnettes\n3 crayons à encre sèche\nfeuillet de règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-21",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2026-04-21"
     },
     {
       "id": "0714",
@@ -8495,11 +8496,10 @@
         "Développement social"
       ],
       "contenu": "17 Jetons Moppe (Manque 3 jetons )\n54 Cartes Mets \n18 Cartes commande\n1 Feuille de règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-09",
-      "date_retour_prevue": "2026-05-07"
+      "date_acquisition": "2025-01-09"
     },
     {
       "id": "0785",
@@ -9315,10 +9315,11 @@
         "Développement cognitif"
       ],
       "contenu": "55 cartes\n \nrègles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-19"
+      "date_acquisition": "2024-11-19",
+      "date_retour_prevue": "2026-08-03"
     },
     {
       "id": "1012",
@@ -10726,11 +10727,10 @@
         "Développement physique"
       ],
       "contenu": "- Monture ; 5 pieds vert, 5 tubes noir,1 filet\n- 3 ballons\n- 1 sac de transport\n- Instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0702",
