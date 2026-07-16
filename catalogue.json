@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-15T07:44:12.888Z",
-  "total": 1090,
-  "disponibles": 955,
+  "derniere_mise_a_jour": "2026-07-16T07:49:10.081Z",
+  "total": 1095,
+  "disponibles": 963,
   "jouets": [
     {
       "id": "0085",
@@ -143,11 +143,10 @@
         "Développement social"
       ],
       "contenu": "-100 cartes Sujet\n-48 cartes Point\n-48 cartes joueur\n-Règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-23",
-      "date_retour_prevue": "2026-08-03"
+      "date_acquisition": "2025-07-23"
     },
     {
       "id": "0462",
@@ -1198,11 +1197,10 @@
         "Développement mémoire"
       ],
       "contenu": "a faire",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-02-12",
-      "date_retour_prevue": "2026-05-17"
+      "date_acquisition": "2025-02-12"
     },
     {
       "id": "0060",
@@ -1334,11 +1332,10 @@
         "Développement du langage"
       ],
       "contenu": "- 4 planches de jeu\n\n- 1 grande tasse\n\n-1 plaque à biscuits\n\n- 1 panier de pique-nique\n\n- 30 cartes de chocolat chaud\n\n- 30 cartes de s,mores\n\n- 18 noix\n\n- 18 pièces de s,mores\n\n- 8 morceraux de tasse\n\n- 2 dés\n\n- 60 guimauves\n\n- 1 sablier\n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-07-05"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0620",
@@ -2943,6 +2940,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-04-21"
+    },
+    {
+      "id": "1105",
+      "nom": "Clac! Clac!",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 36 disques magnétiques\n\n- 1 dé symbole\n\n- 1 dé couleur",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-15"
     },
     {
       "id": "0257",
@@ -4645,6 +4654,18 @@
       "date_acquisition": "2024-01-17"
     },
     {
+      "id": "1107",
+      "nom": "Dominion jeu de base + extension",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "Jeu de base \n- 130 cartes trésor: 60 cuivre, 40 argent, 30 or\n\n- 48 cartes victoire: 24 domaine, 12 duché, 12 province\n\n- 30 cartes malédiction\n\n- 262 cartes royaume: 10 par chaque royaume et 12 jardin\n\n- 26 cartes aléatoire \n\n- 4 cartes vide\n\n- Règles du jeu\n\nL'extension\n- 130 cartes trésor: 60 cuivre, 40 argent, 30 or\n\n- 258 cartes royaume: 10 par royaume et 12 de duke, Great hall, Harem, Nobles\n\n- 26 cartes aléatoire \n\n- 7 cartes vide\n\n- 1 carte déchet",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-15"
+    },
+    {
       "id": "0737",
       "nom": "domino train mexicain",
       "categories": [
@@ -4754,6 +4775,19 @@
       "date_acquisition": "2026-04-21"
     },
     {
+      "id": "1104",
+      "nom": "Duos multiples",
+      "categories": [
+        "Développement mémoire",
+        "Développement social"
+      ],
+      "contenu": "- 6 fiches d'identification\n\n- 6 supports à carte\n\n- 18 épingles\n\n- 1 sablier\n\n- 1 bloc-notes\n\n- feuilles de pointage\n\n- 1 crayon\n\n- 320 cartes épreuve → 40 cartes par épreuves",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-15"
+    },
+    {
       "id": "0880",
       "nom": "Duz blocs de construction",
       "categories": [
@@ -4858,10 +4892,11 @@
         "Développement social"
       ],
       "contenu": "- 2 jeux (1 normal/noir, 1 junior/blanc)\n\n- Normal: 125 cartes → 15 rose, 15 mauve, 20 rouge, 25 bleu foncé, 20 jaune, 15 vert, 15 bleu pâle\n\n- Junior: 125 cartes → 35 rose, 20 mauve, 10 rouge, 20 bleu foncé, 10 jaune, 15 vert, 15 bleu pâle\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-09"
+      "date_acquisition": "2026-07-09",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0661",
@@ -5222,10 +5257,11 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu\n\n- 1 Buzzer\n\n- 396 cartes → 258 cartes Énoncés, 138 cartes Appel à tous",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-09"
+      "date_acquisition": "2026-07-09",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "1006",
@@ -5439,11 +5475,10 @@
         "Développement social"
       ],
       "contenu": "- maison\n\n- 3 bébés\n\n- 1 cheval à bascule jaune\n\n- 1 table à manger verte à 3 places\n\n- 1 lit mauve\n\n- 1 parc\n\n- 1 Biberon\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-07-27"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "0865",
@@ -5782,10 +5817,11 @@
         "Développement social"
       ],
       "contenu": "4 barres constructions (2 rouge 2 vertes)\n\n6 gobelets bleus\n\n6 gobelets oranges\n\n1 carnet pour les règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "1036",
@@ -6124,11 +6160,10 @@
         "Développement social"
       ],
       "contenu": "- 308 Cartes\n\n- 37 Jetons",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-08",
-      "date_retour_prevue": "2026-08-03"
+      "date_acquisition": "2026-06-08"
     },
     {
       "id": "1021",
@@ -6137,10 +6172,11 @@
         "Développement social"
       ],
       "contenu": "- 300 cartes de chansons Rock\n\n- 37 jetons Hitster",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-19"
+      "date_acquisition": "2026-04-19",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0052",
@@ -6187,11 +6223,10 @@
         "Développement social"
       ],
       "contenu": "Base de jeu\n4 hippos\n14 billes \nRègle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-11",
-      "date_retour_prevue": "2026-07-27"
+      "date_acquisition": "2026-06-11"
     },
     {
       "id": "0983",
@@ -6725,6 +6760,18 @@
       "date_acquisition": "2024-02-01"
     },
     {
+      "id": "1103",
+      "nom": "Juduku",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 400 cartes jeu de base\n\n- 80 cartes spéciales/bonus (69 cartes jaunes, 10 cartes vides, 1 cartes Instagram)",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-15"
+    },
+    {
       "id": "0592",
       "nom": "Julia jeu magnétique",
       "categories": [
@@ -7203,12 +7250,11 @@
       "categories": [
         "Développement du langage"
       ],
-      "contenu": "- 6 cartes de mots\n\n- 7 sacs contenant : 16 lettres, 3X18 lettres, 2X19 lettres, 2X cartons vierges",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 6 cartes de mots\n- 7 sacs contenant : 16 lettres, 3X18 lettres, 2X19 lettres, 2X cartons vierges",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-05"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0112",
@@ -8452,11 +8498,10 @@
         "Développement social"
       ],
       "contenu": "50 cartes\n1 sablier\n1 règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-07-16"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0748",
@@ -8502,10 +8547,11 @@
         "Développement social"
       ],
       "contenu": "17 Jetons Moppe (Manque 3 jetons )\n54 Cartes Mets \n18 Cartes commande\n1 Feuille de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-01-09"
+      "date_acquisition": "2025-01-09",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0785",
@@ -9057,10 +9103,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-2 spatules\n\n-2 assiettes\n\n-2 beurres\n\n-10 crêpes\n\n-10 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-03"
+      "date_acquisition": "2024-02-03",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0992",
@@ -10147,6 +10194,18 @@
       "date_acquisition": "2024-01-16"
     },
     {
+      "id": "1106",
+      "nom": "Puzzle Géant",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "6 Puzzles\n- 1 Puzzle Girafe 9 morceaux\n\n- 1 Puzzle Hippopotame 9 morceaux\n\n- 1 Puzzle Lion 6 morceaux\n\n- 1 Puzzle Crocodile 6 morceaux\n\n- 1 Puzzle Singe 4 morceaux\n\n- 1 Puzzle Toucan 4 morceaux\n\n5 pièces d'animaux (Girafe, Hippopotame, Lion, Crocodile, Singe)",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-15"
+    },
+    {
       "id": "0720",
       "nom": "puzzle lenticulaire: le roi lion",
       "categories": [
@@ -10890,10 +10949,11 @@
         "Développement social"
       ],
       "contenu": "-90 cartes\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0687",
@@ -11070,11 +11130,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-07-16"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0534",
@@ -11157,11 +11216,10 @@
         "Développement social"
       ],
       "contenu": "- 28 parcelles + 2 parcelles panda ,28 sections de Bambou vert, 26 sections de Bambou jaune, 24 sections de Bambou rose,\n\n- 19 irrigations , 9 aménagements + 3 extras grises\n\n- 46 cartes objectif, 4 plateaux individuels, \n8 jetons actions, 1 dé météo, 1 figurine Panda, 1 figurine Jardinier.\n1 livret de règles.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-15",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2026-04-15"
     },
     {
       "id": "0165",
@@ -11254,11 +11312,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu\n- 6 pions\n- 1 dé\n- 32 cartes destination\n- 8 cartes taxi\n- 7 barrières rouges\n- 5 cônes orange\n- 12 jetons sens unique",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-24",
-      "date_retour_prevue": "2026-05-31"
+      "date_acquisition": "2024-10-24"
     },
     {
       "id": "0154",
@@ -11425,10 +11482,11 @@
         "Développement social"
       ],
       "contenu": "-55 cartes\n\n-1 bombe noire\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-08-05"
     },
     {
       "id": "0870",
@@ -11733,6 +11791,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-13"
+    },
+    {
+      "id": "0767",
+      "nom": "tricycle",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-01-07",
+      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0376",
@@ -13048,19 +13119,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-03-18"
-    },
-    {
-      "id": "0767",
-      "nom": "xxxx",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2026-01-07",
-      "date_retour_prevue": "2026-06-24"
     },
     {
       "id": "0390",
