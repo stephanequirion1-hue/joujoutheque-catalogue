@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-16T07:49:10.081Z",
+  "derniere_mise_a_jour": "2026-07-17T07:46:43.267Z",
   "total": 1095,
-  "disponibles": 963,
+  "disponibles": 965,
   "jouets": [
     {
       "id": "0085",
@@ -251,10 +251,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 12 oeufs avec formes (24 morceaux)\n- 1 autobus",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-11"
+      "date_acquisition": "2026-02-11",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0093",
@@ -385,11 +386,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 base,1 bras, 1 crochet bleu, 1 anneau\n-2 plates-formes\n-4 bâtons blancs MANQUE 2 BATON SE JOUE PAREIL\n-7 bâtons\n-24 boules blanches\n-14 boules couleurs\n-Règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-03",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-02-03"
     },
     {
       "id": "0003",
@@ -398,11 +398,10 @@
         "Développement cognitif"
       ],
       "contenu": "-3 camions\n\n-10 pièces\n\n-1 livret\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-07-27"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0734",
@@ -799,10 +798,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 serviette\n- 1 grenouille\n- 1 brosse\n- 1 fantôme\n- 50 cartes\n- 1 baignoire\n- instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-08"
+      "date_acquisition": "2025-04-08",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0757",
@@ -2706,11 +2706,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 4 blocs : 1 vert, 1 rouge, 1 bleu, 1 orange.\n\n- 3 tours : 1 petite, 1 moyenne, 1 longue.\n\n- 1 règle du jeu\n\n- 1 cahier de défi",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-20"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0598",
@@ -5062,10 +5061,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 sac de transport\n\n- 4 sac de sable\n\n- 6 Pickett ( il en reste seulement 2) 11 septembre 2025 CD\n\n- 4pickett en U\n\n- 1 ballon de volley\n\n- 2 pieds\n\n- 14 tiges de différente longueur\n\n- instruction de montage (instruction manquantes, 12 sept 2025)\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-17"
+      "date_acquisition": "2025-06-17",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0649",
@@ -5330,11 +5330,10 @@
         "Développement physique"
       ],
       "contenu": "-15 jetons bleus\n\n- 12 jetons rouges\n\n- 13 jetons jaunes\n\n- 13 jetons verts\n\n- 1 plateau troué transparent\n\n- 8 cartes modèles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0743",
@@ -6037,10 +6036,11 @@
         "Développement social"
       ],
       "contenu": "- 1 planche de jeu\n\n- 91 cartes\n\n- 6 balles en bois\n\n- 3 marqueurs de ressources\n\n- 1 sac de tissus\n\n- 1 porte carte\n\n- règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-15"
+      "date_acquisition": "2026-04-15",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0293",
@@ -6391,10 +6391,11 @@
         "Développement motricité fine"
       ],
       "contenu": "54 morceaux de bois",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-13"
+      "date_acquisition": "2025-03-13",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0677",
@@ -6403,11 +6404,10 @@
         "Développement physique"
       ],
       "contenu": "-2 échelles\n-4 pattes + 4 boutons à boulon\n-6 ensemble de 2 balles avec corde (3 jaunes et 3 rouges)\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-11",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-06-11"
     },
     {
       "id": "0820",
@@ -6585,11 +6585,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 planche de jeu\n\n-1 marteau\n\n-4 images recto-verso\n\n-8 pièces jaunes\n\n-8 pièces vertes\n\n-8 pièces bleues\n\n-7 pièces rouges",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-05-26"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0589",
@@ -7045,10 +7044,11 @@
         "Développement motricité fine"
       ],
       "contenu": "les instructions\n20 cartes de monstre\n14 carte de carton, 2 de chaque sort",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0200",
@@ -8875,10 +8875,11 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-09"
+      "date_acquisition": "2025-12-09",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0741",
@@ -10417,11 +10418,10 @@
         "Développement cognitif"
       ],
       "contenu": "-78 tuiles images\n-2 maisons en 3D (Les deux toits étaient collés ensemble..)\n-1 sac tissu\n-1 surface de jeu\n-1 pion jaune\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0533",
@@ -11179,11 +11179,10 @@
         "Développement social"
       ],
       "contenu": "64 carte\nrèglement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-27",
-      "date_retour_prevue": "2026-05-28"
+      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0864",
@@ -11445,10 +11444,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-08-06"
     },
     {
       "id": "0928",
@@ -11519,11 +11519,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 sablier\n- 1 sac de rangement\n- un carnet de résultats\n- Règle de jeu \n- 220 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-05-28"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0316",
@@ -11762,11 +11761,10 @@
         "Développement physique"
       ],
       "contenu": "Trampoline",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-14",
-      "date_retour_prevue": "2026-07-07"
+      "date_acquisition": "2024-12-14"
     },
     {
       "id": "0526",
