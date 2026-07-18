@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-17T07:46:43.267Z",
+  "derniere_mise_a_jour": "2026-07-18T07:21:06.606Z",
   "total": 1095,
-  "disponibles": 965,
+  "disponibles": 961,
   "jouets": [
     {
       "id": "0085",
@@ -1125,10 +1125,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 90 cartes de jeu\n- 24 pièces de cerveau",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-08-07"
     },
     {
       "id": "0482",
@@ -3898,10 +3899,11 @@
         "Développement du langage"
       ],
       "contenu": "Casque de pompier\nVeste de pompier avec radio cousu dessus\npentalon de pompier",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-10"
+      "date_acquisition": "2024-10-10",
+      "date_retour_prevue": "2026-08-07"
     },
     {
       "id": "0391",
@@ -7456,10 +7458,11 @@
         "Développement cognitif"
       ],
       "contenu": "-64 cartes\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-08-07"
     },
     {
       "id": "0954",
@@ -8420,18 +8423,6 @@
       "date_acquisition": "2025-01-09"
     },
     {
-      "id": "0771",
-      "nom": "micro-onde",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "1 micro- onde blanc",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2026-02-23"
-    },
-    {
       "id": "1058",
       "nom": "mighty blocks",
       "categories": [
@@ -9008,10 +8999,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces \n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde\n-Pince attachée",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-07-16"
+      "date_acquisition": "2024-07-16",
+      "date_retour_prevue": "2026-08-07"
     },
     {
       "id": "0188",
@@ -13105,6 +13097,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-11"
+    },
+    {
+      "id": "0771",
+      "nom": "xxxx",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "1 micro- onde blanc",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-02-23"
     },
     {
       "id": "0986",
