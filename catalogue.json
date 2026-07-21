@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-07-20T08:30:03.273Z",
+  "derniere_mise_a_jour": "2026-07-21T08:00:47.612Z",
   "total": 1095,
   "disponibles": 961,
   "jouets": [
@@ -2603,18 +2603,6 @@
       "date_acquisition": "2025-08-23"
     },
     {
-      "id": "0484",
-      "nom": "Chariot BBQ",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 1 chariot avec bbq",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-04-01"
-    },
-    {
       "id": "0848",
       "nom": "Chariot BBQ # 2 ( accessoires dans l'armoire, sac # 0848 )",
       "categories": [
@@ -2625,6 +2613,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-26"
+    },
+    {
+      "id": "0484",
+      "nom": "Chariot BBQ (Accessoire 0484)",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 chariot avec bbq",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "1054",
@@ -4414,11 +4414,11 @@
     },
     {
       "id": "0307",
-      "nom": "Cuisinière + Accessoires ( dans l'armoire bac de plastic # 0307",
+      "nom": "Cuisinière et micro-onde + Accessoires ( dans l'armoire bac de plastic # 0307",
       "categories": [
         "Développement social"
       ],
-      "contenu": "cuisinière 1 panier vert, 1 plateau vert, 1 robot mélangeur avec bol bleu et 2 batteurs jaunes,1 bol rouge,1 poêle,1 rouleau à pâte en bois.2 cuillères en bois, 1 fouet de métal, (1 tamis en métal, 1 cuillère troué en métal et un support en métal), 2 œufs, 1 gâteau(6 part 2 chandelles) 1 verre rose, 1 passoire rose,1 eau,2 cônes plus boules de crème glacé, 2 bagel,2 citron,2 poulet,2 croissant,3 raisins,3 bananes,3 fourchettes,4 cuillères,1 couteau, 1 cuillère à crème glacer, 1 cornichon,1 piments fort,1 pain hot dog, 1 biscuit, 1 grosse tomate, 2 cup cake + 1 crémage,  carottes coupé, 1 mais, 1 assiette, 2 beignes, 1 fruit roll,1 grille-pain,1ketshup.",
+      "contenu": "cuisinière,  poêle bleu (avec couvercle),  plat au four ver (avec couvercle), poêle jaune, micro-onde, ensemble de 3 ustensiles en métal, 5 Assiettes (1 bleu, 2 rouge, 2 jaune), 2 Tasses (1 bleu, 1 jaune), 1 Verre rose, 1 Tasse à mesurer, 1 Passoire rose, 3 fourchettes (2 jaune, 1 bleu), 1 couteau jaune, 1 cuillère jaune, 1 cuillère à crème glacé\n- Lots de nourriture: 2 Ailes de poulet, 2 Bananes, 2 beignes rose, 1 Biscuit, 1 Bouteille d’eau, 1 Brownie, 1 Carotte, 2 Citron, 2 Cornets + 2 crème glacé, 1 Cornichon, 1 Croquette de poulet, 2 Frites, 2 Hot dog, 1 Ketchup, 2 Muffins + glaçage, 2 Oeufs, 1 Pancake, 1 Piment, 1 Pomme, 1 Raisin, 1 Tomate",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -5577,18 +5577,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-06"
-    },
-    {
-      "id": "0020",
-      "nom": "Fresh Fruit",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "fruits en 2 morceaux\n1 banane,1 kiwi,1 orange,1 citron,1 poire,1 pomme,1 couteau",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0442",
@@ -9592,11 +9580,10 @@
         "Développement physique"
       ],
       "contenu": "- 60 cartes images\n\n- 2 cartes de présentation",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-04-16"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0031",
@@ -9617,11 +9604,10 @@
         "Développement du langage"
       ],
       "contenu": "-60 images (7 sections)\n\n-1 gros dé mou\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-20",
-      "date_retour_prevue": "2026-04-16"
+      "date_acquisition": "2024-01-20"
     },
     {
       "id": "0115",
@@ -9888,10 +9874,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 2 cibles\n- 4 poches pingpong\n- 12 disques\n- 1 règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-08-10"
     },
     {
       "id": "0825",
@@ -10290,10 +10277,11 @@
         "Développement physique"
       ],
       "contenu": "-1 caisse en bois\n-12 quilles numérotées\n-1 quille lanceur\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-11"
+      "date_acquisition": "2025-06-11",
+      "date_retour_prevue": "2026-08-10"
     },
     {
       "id": "1097",
@@ -12941,6 +12929,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-18"
+    },
+    {
+      "id": "0020",
+      "nom": "XXXX",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "fruits en 2 morceaux\n1 banane,1 kiwi,1 orange,1 citron,1 poire,1 pomme,1 couteau",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0299",
