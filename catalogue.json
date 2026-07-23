@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-22T08:01:02.383Z",
+  "derniere_mise_a_jour": "2026-07-23T08:04:10.407Z",
   "total": 1095,
-  "disponibles": 961,
+  "disponibles": 955,
   "jouets": [
     {
       "id": "0085",
@@ -1222,10 +1222,11 @@
         "Développement social"
       ],
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0512",
@@ -1357,10 +1358,11 @@
         "Développement social"
       ],
       "contenu": "- 4 Pions\n\n- 1 Plateau de jeu\n\n- 1 Tourniquet\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-09"
+      "date_acquisition": "2026-07-09",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0599",
@@ -3141,10 +3143,11 @@
         "Développement social"
       ],
       "contenu": "- 24 cartes personnage ( + 2 Le Bourreau et Le Justicier du jeu 2 )\n\n- 6 cartes aide au jeu\n\n- 54 jetons  ( 25 argents et 6 or )\n\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-23"
+      "date_acquisition": "2026-03-23",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "1026",
@@ -4286,10 +4289,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu\n\n*Clôture brisée",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0063",
@@ -4322,10 +4326,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0554",
@@ -4431,11 +4436,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 24 jetons\n- Règlements\n- Plateau",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-30",
-      "date_retour_prevue": "2026-06-26"
+      "date_acquisition": "2025-12-30"
     },
     {
       "id": "0829",
@@ -4709,10 +4713,11 @@
         "Développement social"
       ],
       "contenu": "50 jetons bleu\n50 jetons rouges\n1 planche de jeu\n1 jeu de 54 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-22"
+      "date_acquisition": "2026-05-22",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0766",
@@ -8588,11 +8593,10 @@
         "Développement social"
       ],
       "contenu": "2 dés, 11 pions, 13 hôtels, 34 maisons, 28 cartes villes, 16 cartes chance, 16 cartes Community, 48 X 20$\n40 X 10$\n40 X 5$\n23 X 500$\n65 X 1$\n23 X 100$\n23 X 50$",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-02",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2025-05-02"
     },
     {
       "id": "0405",
@@ -10180,10 +10184,11 @@
         "Développement motricité fine"
       ],
       "contenu": "6 Puzzles\n- 1 Puzzle Girafe 9 morceaux\n\n- 1 Puzzle Hippopotame 9 morceaux\n\n- 1 Puzzle Lion 6 morceaux\n\n- 1 Puzzle Crocodile 6 morceaux\n\n- 1 Puzzle Singe 4 morceaux\n\n- 1 Puzzle Toucan 4 morceaux\n\n5 pièces d'animaux (Girafe, Hippopotame, Lion, Crocodile, Singe)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-15"
+      "date_acquisition": "2026-07-15",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0720",
@@ -10470,11 +10475,10 @@
         "Développement social"
       ],
       "contenu": "- 150 billets\n- 2 dés\n- 11 jetons bonus\n- 7 jetons départage\n- 1 livret de règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-06-26"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "0059",
@@ -10917,10 +10921,11 @@
         "Développement social"
       ],
       "contenu": "55 cartes\n\ninstructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0220",
@@ -11062,10 +11067,11 @@
         "Développement social"
       ],
       "contenu": "120 cartes\n10 verres\n5 balles\n4 dés\n2 baguettes\n1 corde\n1 bandeau pour les yeux¸\n1 sablier (30 sec)¸\n1 marqueur, 1 tableau de scores effaçable",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0210",
@@ -11315,11 +11321,10 @@
         "Développement motricité fine"
       ],
       "contenu": "10 vis bleues\n\n10 vis rouges\n\n10 vis jaunes\n\n10 vis vertes\n\n4 équerres rouges\n\n12 écrous jaunes\n\n6 rondelles rouges\n\n2 longues barres bleues\n\n2 courtes barres rouges\n\n2 L vertes\n\n1 rectangle jaune\n\n2 triangles jaunes\n\n2 carrés verts\n\n1 clé grise\n\n1 clé bleue\n\n2 tournevis\n\n1 livre de modèles\n\n1 plateau rouge\n\n1 couvercle troué gris",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-07-21"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0807",
@@ -12019,10 +12024,11 @@
         "Développement social"
       ],
       "contenu": "- 1 plateau de jeu\n- 4 dinos rouges\n- 4 dinos jaunes\n- 4 dinos bleus \n- 4 dinos verts\n- 1 dino noir\n- 2 dés blancs\n- 1 dé noir\n- 1 règlements du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-08-12"
     },
     {
       "id": "0344",
