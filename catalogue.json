@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-23T08:04:10.407Z",
+  "derniere_mise_a_jour": "2026-07-24T08:00:43.305Z",
   "total": 1095,
-  "disponibles": 955,
+  "disponibles": 958,
   "jouets": [
     {
       "id": "0085",
@@ -992,11 +992,10 @@
         "Développement cognitif"
       ],
       "contenu": "-21 pièces rouges\n-21 pièces bleus\n-21 pièces jaunes\n-21 pièces vertes\n-1 plateau\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-28"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "1033",
@@ -4411,11 +4410,10 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau\n1 grosse carotte 2 pièces\n18 petits shopkins\n1 petit pop-sicle rose",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-15",
-      "date_retour_prevue": "2026-07-16"
+      "date_acquisition": "2026-05-15"
     },
     {
       "id": "0307",
@@ -4923,11 +4921,10 @@
         "Développement physique"
       ],
       "contenu": "- 2 bâtons de hockey\n- 2 balles\n- 1 rondelle\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-07-28"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0646",
@@ -5227,11 +5224,10 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-08-03"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0991",
@@ -5349,10 +5345,11 @@
         "Développement motricité fine"
       ],
       "contenu": "56 cartes\nrègle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "0032",
@@ -5725,11 +5722,10 @@
         "Développement social"
       ],
       "contenu": "-1 garage Fisher Price / Little People",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0746",
@@ -6555,11 +6551,10 @@
         "Développement physique"
       ],
       "contenu": "-2 bases en bois avec un trou\n-10 poches (5 bleues - 5 beiges à motif)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-07-28"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0784",
@@ -6822,10 +6817,11 @@
         "Développement physique"
       ],
       "contenu": "- 70 cartes\n\n- 1 Totem\n\n- 2 Livrets de règles\n\n- 1 sac de transport",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "0364",
@@ -7573,10 +7569,11 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n240 wagon ( 45 couleur: bleu, rouge, vert, jaune, et noir)\n142 cartes illustrées:\n110 cartes wagon:\n110 cartes 110 cartes wagon: ( 12 de chaque type: violet, blanc, bleu, jaune, orange, noir, rouge et vert et 14 locomotive multi color)\n30 cartes destination\nune carte de résumé, \nune carte ‘’chemin le plus long'\n5 marqueur de score ( 1 pour chaque joueur: bleu, rouge vert, jaune et noir)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-31"
+      "date_acquisition": "2025-07-31",
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "0365",
@@ -9357,7 +9354,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2024-11-19",
-      "date_retour_prevue": "2026-08-03"
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "1012",
@@ -10800,11 +10797,10 @@
         "Développement mémoire"
       ],
       "contenu": "- 30 cartes illustrées\n- Guide à l'intention des parents.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0422",
@@ -11080,10 +11076,11 @@
         "Développement social"
       ],
       "contenu": "-108 cartes\n\n- Règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-30"
+      "date_acquisition": "2024-01-30",
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "0640",
@@ -11177,10 +11174,11 @@
         "Développement social"
       ],
       "contenu": "- 120 cartes combat\n- 12 cartes sélection\n- 12 plateaux Combattant\n- 40 cubes de puissance ( violets)\n- 6 marqueurs de points ( verts)\n- 4 marqueurs spéciaux ( jaunes)\n- 1 jeton Shérif, \n1 jeton Golem, \n1 jeton Serpent, 2 jetons Concentration, 5 jetons Flamme, 11 jetons Intrigue\n \n- 1 guides des Combattants et Livret des règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-08-13"
     },
     {
       "id": "1047",
@@ -11782,11 +11780,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-07",
-      "date_retour_prevue": "2026-06-24"
+      "date_acquisition": "2026-01-07"
     },
     {
       "id": "0376",
