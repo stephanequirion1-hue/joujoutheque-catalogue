@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-28T08:07:30.643Z",
+  "derniere_mise_a_jour": "2026-07-29T08:11:48.201Z",
   "total": 1095,
-  "disponibles": 964,
+  "disponibles": 966,
   "jouets": [
     {
       "id": "0085",
@@ -2632,11 +2632,10 @@
         "Développement social"
       ],
       "contenu": "1 livret recettes,  1 livret instructions\n12 livres d'ingrédients, 24 cartes divinatoires , 4 sac\n4 bouteilles , 4 tuiles , 20 rubis , 1 dé bonus , 1 flammes , 8 gouttes , 4 marqueurs de points , 4 jetons rats \n3 jetons réserve, 219 jetons d'ingrédients, 1 plateau pour marquer les points, 4 chaudrons (tableau des joueurs )",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-18",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2026-05-18"
     },
     {
       "id": "0213",
@@ -6060,11 +6059,10 @@
         "Développement social"
       ],
       "contenu": "- 54 cartes ingrédient\n- 10 cartes chili\n- 18 cartes recette\n- 24 jetons à lancer\n- 42 billets Yens\n- 1 plateau de jeu 4 morceaux\n- 2 X instructions\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2025-12-09"
     },
     {
       "id": "1070",
@@ -6085,11 +6083,10 @@
         "Développement social"
       ],
       "contenu": "- le Jeu principale: 65.00,$:13 Norse Gods 13 Greek Gods, 24 cartes Norse Panthéon, 24 cartes Greek Panthéon, 2 marqueurs (1 mont Olympus et 1 Asgard) 3 jetons marqueurs de points., 2 jetons santé, 100 anneaux de 6 couleurs différentes  1 tapis de jeu,  instruction\n- extension *Bloodied :15.25$ 12 cartes Norse Bloodied, 12 cartes Greek Bloodied 1 instructions\n- extension Valkyrie & Médusa : 25.40$ 1 carte et 1 figurine Valkyrie, 1 carte et 1 figurine Médusa\n- extension Égyptien: 117.12 $ 12 figurines, 24 cartes \n- NB: tout les extension sont inclus dans la boite du jeu principale",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-24",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2025-11-24"
     },
     {
       "id": "0006",
@@ -8125,11 +8122,10 @@
         "Développement social"
       ],
       "contenu": "24 tuiles centre commerciale\n4 pions héros; jaune, vert, mauve, orange\n9 tuiles actions 5 double-face pour 2 à 8 joueur\n7 tuiles action pour 1 joueur\n1 sablier\n1 pion ‘’fais quelque chose!'' → rouge\n1 tuile vole\nrèglement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-02",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2025-08-02"
     },
     {
       "id": "0461",
@@ -10528,10 +10524,11 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu x4 (Français, Anglais, Allemand, Néerlandais)\n\n- 17 dés → 12 dés Héros (3 vert, 3 bleu, 3 brun, 3 blanc), 5 dés Sorcier (noir)\n\n- 47 cartes Sortilège → 8 confusion (gris/blanc), 7 Invocation (bleu), 7 Dracologie (rouge), 6 Dissipation (mauve), 6 Malédiction (noir/blanc), 7 Damnation (jaune), 6 Régression (vert)\n\n- 29 cartes Épreuve (brun/noir)\n\n- 8 cartes Parchemin (vert/bleu)\n\n- 10 cartes Coffre/Équipement (bleu/mauve)\n\n- 1 Plateau de jeu\n\n- 1 pion Dragon\n\n- 4 Tuiles Personnage\n\n- 4 Jetons Joueur\n\n- 1 Tuile Dragon\n\n- 3 Jetons Trophée\n\n- 1 Jeton Pièce d'or\n\n- 8 Jetons Âme (bleu/mauve)\n\n- 6 Jetons Vie (vert)\n\n- 4 Tuiles Faculté",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-01"
+      "date_acquisition": "2025-12-01",
+      "date_retour_prevue": "2026-08-18"
     },
     {
       "id": "0545",
@@ -12249,10 +12246,11 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu\n\n- 36 cartes\n\n- 24 dés",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-09"
+      "date_acquisition": "2026-07-09",
+      "date_retour_prevue": "2026-08-18"
     },
     {
       "id": "1075",
