@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-07-29T08:11:48.201Z",
+  "derniere_mise_a_jour": "2026-07-30T08:00:24.873Z",
   "total": 1095,
   "disponibles": 966,
   "jouets": [
@@ -276,10 +276,11 @@
         "Développement social"
       ],
       "contenu": "- 1 avion\n- 4 personnages Fisher Price\nAccessoires dans l'armoire blanche sac # 0170",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-08-19"
     },
     {
       "id": "0930",
@@ -1598,11 +1599,10 @@
         "Développement motricité fine"
       ],
       "contenu": "25 puzzles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0769",
@@ -3897,11 +3897,10 @@
         "Développement du langage"
       ],
       "contenu": "Casque de pompier\nVeste de pompier avec radio cousu dessus\npentalon de pompier",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-10",
-      "date_retour_prevue": "2026-08-07"
+      "date_acquisition": "2024-10-10"
     },
     {
       "id": "0391",
@@ -6824,10 +6823,11 @@
         "Développement affectif"
       ],
       "contenu": "- Plateau tournant\n- Éléphant à roues\n- Singe à roues",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-08-19"
     },
     {
       "id": "0428",
@@ -8763,10 +8763,11 @@
         "Développement motricité fine"
       ],
       "contenu": "12 triangle rouge, 26 carré rouge\n12 triangle blanc, 26 carré blanc\n12 triangle bleu, 26 carré bleu\n12 triangle orange, 26 carré orange\n12 triangle vert, 26 carré vert\n12 triangle jaune, 26 carré jaune\n12 triangle noir, 25 carré noir\n3 carte de dessin recto-verso\n1 bac bleu, 1 grille blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-13"
+      "date_acquisition": "2025-07-13",
+      "date_retour_prevue": "2026-08-19"
     },
     {
       "id": "0207",
@@ -8980,11 +8981,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-Planche de jeu\n-12 cartes avec 10 pièces \n(Coeur, cube de glace, cellulaire, papillon, nuage, grenouille, os, canard, pot, corde\n-Pince attachée",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-16",
-      "date_retour_prevue": "2026-08-07"
+      "date_acquisition": "2024-07-16"
     },
     {
       "id": "0188",
