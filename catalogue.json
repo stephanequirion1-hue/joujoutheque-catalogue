@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-07-31T08:24:19.226Z",
-  "total": 1095,
-  "disponibles": 970,
+  "derniere_mise_a_jour": "2026-08-01T07:54:35.671Z",
+  "total": 1098,
+  "disponibles": 971,
   "jouets": [
     {
       "id": "0085",
@@ -678,10 +678,11 @@
         "Développement social"
       ],
       "contenu": "- Bateau Pat Patrouille\n\n- 6 personnages : Marcus, Chase, Ruben, Zuma, Rocky, Everest\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-26"
+      "date_acquisition": "2026-01-26",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0963",
@@ -932,10 +933,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- environ 335 pièces\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-16"
+      "date_acquisition": "2025-12-16",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0775",
@@ -1294,11 +1296,10 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-03",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-11-03"
     },
     {
       "id": "0608",
@@ -2410,6 +2411,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-06"
+    },
+    {
+      "id": "1108",
+      "nom": "Casse-Tête Lion 1000 morceaux",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "Casse-Tête de Lion 1000 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-31"
     },
     {
       "id": "0744",
@@ -5533,11 +5546,10 @@
         "Développement physique"
       ],
       "contenu": "45 tiges\n27 pièces jaunes/oranges",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-04-09",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-04-09"
     },
     {
       "id": "0315",
@@ -7673,11 +7685,10 @@
         "Développement cognitif"
       ],
       "contenu": "1 étoile(avec 3 aimant)\n1 corde a linge\n2 support en bois\n12 long filament muni d'un anneau métallique\n20 long filament sans anneau métallique\n18 petit filament\n1 plateau de jeu\nrèglement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-15",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2025-08-15"
     },
     {
       "id": "1073",
@@ -7999,10 +8010,11 @@
         "Développement affectif"
       ],
       "contenu": "- Lot de 2 poupées\n\n- 2 suces\n\n- 2 bouchons pour la tête",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-13"
+      "date_acquisition": "2026-05-13",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0155",
@@ -8747,10 +8759,11 @@
         "Développement du langage"
       ],
       "contenu": "règle\n12 pion\n110 carte\n12 carte plastifier",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-19"
+      "date_acquisition": "2025-07-19",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0787",
@@ -9001,10 +9014,11 @@
         "Développement cognitif"
       ],
       "contenu": "11 petit bonhomme de neige\n1 plateau de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-15"
+      "date_acquisition": "2025-08-15",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0363",
@@ -9496,10 +9510,11 @@
         "Développement du langage"
       ],
       "contenu": "-1 canne à pêche\n\n-1 planche de jeu\n\n-6 planches à poissons\n\n-4 poissons de chaque couleurs\n(Mauve, Mauve foncé, Rose, Fushia, Vert pâle, Vert, Bleu foncé, Bleu pâle, Turquoise, Orange foncé, Orange, Jaune)\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0054",
@@ -9813,11 +9828,10 @@
         "Développement physique"
       ],
       "contenu": "1 planche avec 4 roulettes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0700",
@@ -10115,6 +10129,18 @@
       "date_acquisition": "2025-01-09"
     },
     {
+      "id": "1110",
+      "nom": "Puzzle dinosaure 35 morceaux",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "Puzzle dinosaure 35 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-31"
+    },
+    {
       "id": "0159",
       "nom": "Puzzle Duo",
       "categories": [
@@ -10174,6 +10200,18 @@
       "photo": null,
       "date_acquisition": "2026-07-15",
       "date_retour_prevue": "2026-08-12"
+    },
+    {
+      "id": "1109",
+      "nom": "Puzzle jungle 35 morceaux",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "Puzzle jungle 35 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-07-31"
     },
     {
       "id": "0720",
@@ -10255,10 +10293,11 @@
         "Développement social"
       ],
       "contenu": "- 1 Plateau de jeu\n- 4 portes fermées\n- 1 Habillage de coffre\n- 1 Dé\n- 1 Plateau  chat\n- 4 Pions joueur\n- 1 Pion fantôme\n- 5 Socles pour les pions\n- 9 Jetons Nourriture\n- 4 Jetons clé\n- 1 Jeton Anneau\n- 10 portraits de suspects\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-16"
+      "date_acquisition": "2024-10-16",
+      "date_retour_prevue": "2026-08-21"
     },
     {
       "id": "0676",
@@ -11125,11 +11164,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 grande table eau usagé\n-1 petite table eau avec un petit module de jeu sur le dessus amovible\n-1 sceau, 1 arrosoir, 1 rateau, 1 pelle, 3 moules (hyppocampe, baleine, pieuvre), 1 pieuvre orange, 1 pelle/sceau",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0206",
