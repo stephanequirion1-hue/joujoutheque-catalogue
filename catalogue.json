@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-03T08:52:29.984Z",
-  "total": 1098,
-  "disponibles": 971,
+  "derniere_mise_a_jour": "2026-08-04T08:11:08.560Z",
+  "total": 1099,
+  "disponibles": 976,
   "jouets": [
     {
       "id": "0085",
@@ -812,11 +812,10 @@
         "Développement physique"
       ],
       "contenu": "18 billes\n20 blocs jaune\n50 blocs rouge\n2 figuries\n8 blocs gris\n1 tournevis\n1 murs de bataille\n1 manuelle d'installation",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-11",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0047",
@@ -4768,11 +4767,10 @@
         "Développement cognitif"
       ],
       "contenu": "Tableau à dessiner \n1 Crayon \n1 Livre",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-09",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-01-09"
     },
     {
       "id": "1028",
@@ -5667,10 +5665,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 Règle du jeu\n- 54 cartes d'affaires\n-  6 aides du jeu\n- 6 socles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-08-24"
     },
     {
       "id": "0740",
@@ -5850,10 +5849,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 grille pain\n\n-2 tranche de pain\n\n-4 carré de beurre \n\n-1 beurrier\n\n-1 couteau\n\n-Règles du jeu (Tranche de pain)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-08-24"
     },
     {
       "id": "0437",
@@ -6032,11 +6032,10 @@
         "Développement social"
       ],
       "contenu": "- 1 planche de jeu\n\n- 91 cartes\n\n- 6 balles en bois\n\n- 3 marqueurs de ressources\n\n- 1 sac de tissus\n\n- 1 porte carte\n\n- règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-15",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2026-04-15"
     },
     {
       "id": "0293",
@@ -6386,11 +6385,10 @@
         "Développement motricité fine"
       ],
       "contenu": "54 morceaux de bois",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-13",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-03-13"
     },
     {
       "id": "0677",
@@ -6399,10 +6397,11 @@
         "Développement physique"
       ],
       "contenu": "-2 échelles\n-4 pattes + 4 boutons à boulon\n-6 ensemble de 2 balles avec corde (3 jaunes et 3 rouges)\n-Règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-11"
+      "date_acquisition": "2025-06-11",
+      "date_retour_prevue": "2026-08-24"
     },
     {
       "id": "0820",
@@ -6626,7 +6625,7 @@
       "categories": [
         "Développement physique"
       ],
-      "contenu": "- 6 quilles Spiderman\n- 6 quilles tortue ninja\n- 2 balles",
+      "contenu": "- 6 quilles Spiderman\n\n- 6 quilles tortue ninja\n\n- 2 balles",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -7004,10 +7003,11 @@
         "Développement cognitif"
       ],
       "contenu": "Complet\n100 cartes\n12 jetons\nrègles de jeux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-04"
+      "date_acquisition": "2025-03-04",
+      "date_retour_prevue": "2026-08-24"
     },
     {
       "id": "0481",
@@ -7114,11 +7114,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu avec fromage géants\n\n-3 échelles\n\n-17 morceaux de fromage\n\n-1 chat\n\n-4 souris (mauve, bleue, verte, orange)\n\n-1 dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0229",
@@ -8133,10 +8132,23 @@
         "Développement social"
       ],
       "contenu": "24 tuiles centre commerciale\n4 pions héros; jaune, vert, mauve, orange\n9 tuiles actions 5 double-face pour 2 à 8 joueur\n7 tuiles action pour 1 joueur\n1 sablier\n1 pion ‘’fais quelque chose!'' → rouge\n1 tuile vole\nrèglement",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2025-08-02",
+      "date_retour_prevue": "2026-08-24"
+    },
+    {
+      "id": "1111",
+      "nom": "magnetic sticks",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "12 longues tiges: 3 rouge, 3 vert, 3 bleu, 3 pêche\n26 courtes tiges: 10 vert. 10 bleu, 6 corail\n8 courbé: 4 jaune, 2 bleu, 2 magenta\n19 boules:  5 magenta, 8 bleu, 6 vert\n3 feuilles de model",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-02"
+      "date_acquisition": "2026-08-03"
     },
     {
       "id": "0461",
@@ -9778,11 +9790,10 @@
         "Développement du langage"
       ],
       "contenu": "-9 morceaux casse-tête (Planche de jeu)\n\n-4 pions Personnages\n\n-90 cartes questions \n(15 brunes, 15 oranges, 15 vertes, 15 rouges, 15 bleues, 15 jaunes)\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-07-10"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0121",
@@ -10036,11 +10047,10 @@
         "Développement social"
       ],
       "contenu": "1 chaise haute en bois\n1 poupée\n1salopette bleu, 1 chapeau, 1 chandail blanc et gris, 1 bavoir blanc et gris,\n1 matelas bleu, 1 verre avec bec bleu ,1 suce rose\n \nAccessoires dans l'armoire Blanche",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-20",
-      "date_retour_prevue": "2026-07-21"
+      "date_acquisition": "2024-01-20"
     },
     {
       "id": "0439",
@@ -11453,11 +11463,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0928",
@@ -11648,11 +11657,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 tête de girafe\n\n-1 support\n\n-6 anneaux (Verte foncée, bleu foncée, rouge, orange, verte pâle, bleu pâle)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-07-14"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0131",
