@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-04T08:11:08.560Z",
-  "total": 1099,
-  "disponibles": 976,
+  "derniere_mise_a_jour": "2026-08-05T08:09:32.307Z",
+  "total": 1100,
+  "disponibles": 981,
   "jouets": [
     {
       "id": "0085",
@@ -363,11 +363,10 @@
         "Développement social"
       ],
       "contenu": "- chaise haute rose et banc d'auto rose et bleu en plastique,1 poupée.\n \nun ensemble :  pantalon orange, camisole rose fleurie à bordure rose, chapeau rose et orange\n.\n1 bavoir flamant rose\n\n- 1 culotte blanche, \n1 camisole blanche avec petite fleur et bordure rose et blanc\n\n- 1 biberon,\n1 robe fleuri Blanche/ Rouge,\n1 pantalon rose avec gilet manche rose,\n1 robe de chambre",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-29",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2025-05-29"
     },
     {
       "id": "1081",
@@ -4888,12 +4887,11 @@
       "categories": [
         "Développement cognitif"
       ],
-      "contenu": "-199 cartes énigmes\n-1 bloc-notes\n-1 sablier\n-1 crayon\n-Règlements boite",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "-198 cartes énigmes\n-1 bloc-notes\n-1 sablier\n-1 crayon\n-Règlements boite",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-08",
-      "date_retour_prevue": "2026-07-21"
+      "date_acquisition": "2025-05-08"
     },
     {
       "id": "1096",
@@ -5812,11 +5810,10 @@
         "Développement social"
       ],
       "contenu": "4 barres constructions (2 rouge 2 vertes)\n\n6 gobelets bleus\n\n6 gobelets oranges\n\n1 carnet pour les règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-08-05"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "1036",
@@ -7126,10 +7123,11 @@
         "Développement cognitif"
       ],
       "contenu": "- A compléter",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-08-25"
     },
     {
       "id": "1005",
@@ -8016,6 +8014,19 @@
       "date_retour_prevue": "2026-08-21"
     },
     {
+      "id": "1112",
+      "nom": "Loto : La maison",
+      "categories": [
+        "Développement mémoire",
+        "Développement motricité fine"
+      ],
+      "contenu": "5 plateaux \n30 pions",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-08-04"
+    },
+    {
       "id": "0155",
       "nom": "Loto de la ferme",
       "categories": [
@@ -8771,11 +8782,10 @@
         "Développement du langage"
       ],
       "contenu": "règle\n12 pion\n110 carte\n12 carte plastifier",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-19",
-      "date_retour_prevue": "2026-08-21"
+      "date_acquisition": "2025-07-19"
     },
     {
       "id": "0787",
@@ -8869,11 +8879,10 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-12-09"
     },
     {
       "id": "0741",
@@ -10967,11 +10976,10 @@
         "Développement social"
       ],
       "contenu": "-90 cartes\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-08-05"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0687",
@@ -12031,10 +12039,11 @@
         "Développement physique"
       ],
       "contenu": "un tourniquet + buse\nun tapis\ninstructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-08"
+      "date_acquisition": "2025-07-08",
+      "date_retour_prevue": "2026-08-25"
     },
     {
       "id": "0082",
