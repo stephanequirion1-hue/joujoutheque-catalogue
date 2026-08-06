@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-05T08:09:32.307Z",
-  "total": 1100,
-  "disponibles": 981,
+  "derniere_mise_a_jour": "2026-08-06T08:08:31.606Z",
+  "total": 1102,
+  "disponibles": 983,
   "jouets": [
     {
       "id": "0085",
@@ -3009,6 +3009,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-02-12"
+    },
+    {
+      "id": "1114",
+      "nom": "Clue Jr",
+      "categories": [
+        "Développement mémoire",
+        "Développement social"
+      ],
+      "contenu": "1 plateau de jeu\n6 pions de personnage\n6 pions mobilier\n7 supports blancs\n7 supports jaunes \n1 bloc-notes de détective\n1 dé\nrègle du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-08-05"
     },
     {
       "id": "0936",
@@ -6747,6 +6760,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-01"
+    },
+    {
+      "id": "1113",
+      "nom": "Jour de paye",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "54 cartes Mail\n36 cartes Action\n36 cartes Marché\n5 cartes Loterie\n6 pions\n2 dés\n41 billet de 100$\n18 billets de 500$\n39 billets de 1000$\n18 billets de 5000$ \n15 billets de 10 000$\nRègles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-08-05"
     },
     {
       "id": "1103",
