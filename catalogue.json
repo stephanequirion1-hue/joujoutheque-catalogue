@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-06T08:08:31.606Z",
+  "derniere_mise_a_jour": "2026-08-07T06:54:56.930Z",
   "total": 1102,
-  "disponibles": 983,
+  "disponibles": 986,
   "jouets": [
     {
       "id": "0085",
@@ -290,11 +290,10 @@
         "Développement physique"
       ],
       "contenu": "avion",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-02",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2026-01-02"
     },
     {
       "id": "0578",
@@ -738,10 +737,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 batte de baseball\n- 2 balles de plastique\n- 1 support de plastique",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0750",
@@ -798,11 +798,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 serviette\n- 1 grenouille\n- 1 brosse\n- 1 fantôme\n- 50 cartes\n- 1 baignoire\n- instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-08",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-04-08"
     },
     {
       "id": "0757",
@@ -1064,10 +1063,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "1009",
@@ -1332,10 +1332,11 @@
         "Développement du langage"
       ],
       "contenu": "- 4 planches de jeu\n\n- 1 grande tasse\n\n-1 plaque à biscuits\n\n- 1 panier de pique-nique\n\n- 30 cartes de chocolat chaud\n\n- 30 cartes de s,mores\n\n- 18 noix\n\n- 18 pièces de s,mores\n\n- 8 morceraux de tasse\n\n- 2 dés\n\n- 60 guimauves\n\n- 1 sablier\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0620",
@@ -1381,10 +1382,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 6 balles\n\n- 1 coffre au trésor\n\n- 1 inscription règles du jeu\n\n- 1 clé pour ouvrir les portes\n\n- 83 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0580",
@@ -1454,11 +1456,10 @@
         "Développement du langage"
       ],
       "contenu": "- 52 cartes lettres d'alphabet et chiffres et petites phrases\nJeu usagé, quelques cartes abimées",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-21",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-11-21"
     },
     {
       "id": "0136",
@@ -1479,11 +1480,10 @@
         "Développement du langage"
       ],
       "contenu": "- 52 cartes séparées en 2\n\nJeu usagé, quelques cartes abimées",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-21",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2024-11-21"
     },
     {
       "id": "0368",
@@ -5179,11 +5179,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 gros contenant M. Patate avec ses accessoires\n(1 casquette verte, 1 nez, 1 yeux, 1 bouche, 2 oreilles)\n-2 grosse patates et accessoires\n(2 bottes-pantalons bleues, 1 cheveu blond, 1 casquette verte, 1 casquette verte fleur, 2 yeux, 4 oreilles, 2 lunettes, 1 moustache, 2 bouches, 4 mains, 2 nez)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "1051",
@@ -5872,11 +5871,10 @@
         "Développement physique"
       ],
       "contenu": "1 grosse auto rouge, batteries ne fonctionnent pas",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-19",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2024-12-19"
     },
     {
       "id": "0329",
@@ -7062,11 +7060,10 @@
         "Développement motricité fine"
       ],
       "contenu": "les instructions\n20 cartes de monstre\n14 carte de carton, 2 de chaque sort",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-11",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0200",
@@ -7111,11 +7108,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 40 cartes pirates\n\n- 1 île aux pirates\n\n- 10 îles au trésor\n\n- 4 cachettes\n\n- règlement recto verso",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-23",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2026-03-23"
     },
     {
       "id": "0728",
@@ -7449,10 +7445,11 @@
         "Développement cognitif"
       ],
       "contenu": "-4 planches de jeu \"Casse-tête\"\n\n-35 images (Manque 1 chat)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0214",
@@ -7657,11 +7654,10 @@
         "Développement cognitif"
       ],
       "contenu": "4 plateaux de jeu\n4 fiches bleus\n4 fiches verts\n4 fiches rouges\n4 fiches jaunes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-05-28",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-05-28"
     },
     {
       "id": "0761",
@@ -7948,10 +7944,11 @@
         "Développement social"
       ],
       "contenu": "- 88 Cartes Sketchs vertes et rouges\n\n- 11 Cartes concept Jaunes\n\n- 1 Carte censurée/fin noire\n\n- 4 plateaux d'équipes\n\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0448",
@@ -8107,11 +8104,10 @@
         "Développement cognitif"
       ],
       "contenu": "-80 tuiles de trèfles\n\n-4 plateaux\n\n-2 Règles du jeu : mode solo et 2-4 joueurs",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0423",
@@ -8687,10 +8683,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 porte carte\n\n-48 cartes Bambini (bleues)\n\n-48 cartes Moderato (jaunes)\n\n-48 cartes fortissimo (rouges)\n\n-42 jetons M.Gelato\n\n-4 ensembles de jetons (16X4= 64 jetons)\n\n-1 chevalet (bleu)\n\n-4 cachettes( voitures Gelato)\n\n-Règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0039",
@@ -9617,11 +9614,10 @@
         "Développement du langage"
       ],
       "contenu": "-4 plateaux de jeu (Jaune, vert, mauve, bleu)\n\n-9 morceaux Verts\n\n-9 morceaux Jaunes\n\n-9 morceaux Bleus\n\n-9 morceaux Mauves\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0189",
@@ -9824,10 +9820,11 @@
         "Développement du langage"
       ],
       "contenu": "-9 morceaux casse-tête (Planche de jeu)\n\n-4 pions Personnages\n\n-90 cartes questions \n(15 brunes, 15 oranges, 15 vertes, 15 rouges, 15 bleues, 15 jaunes)\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-18"
+      "date_acquisition": "2024-01-18",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0121",
@@ -9836,10 +9833,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 liste de problèmes\n\n-4 personnages\n\n-1 dé\n\n-9 pièces de casse-tête\n\n-45 cartes d'été\n\n-45 cartes d'hiver\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0193",
@@ -9995,11 +9993,10 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0792",
@@ -10940,8 +10937,8 @@
         "Développement motricité fine"
       ],
       "contenu": "-3 mauve\n-3 orange\n-3 rouge\n-3 vertes\n-1 animal\n-Règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2024-07-16"
     },
@@ -11412,10 +11409,11 @@
         "Développement motricité fine"
       ],
       "contenu": "Téléphone à promener avec la corde",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-17"
+      "date_acquisition": "2025-04-17",
+      "date_retour_prevue": "2026-08-27"
     },
     {
       "id": "0096",
@@ -11508,11 +11506,10 @@
         "Développement social"
       ],
       "contenu": "- 231 cartes français/anglais\n- 8 crayons de plomb\n- Bloc-Notes\n- Bloc-notes de pointage\n- instructions français/anglais",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-30",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2025-12-30"
     },
     {
       "id": "0066",
@@ -12174,11 +12171,10 @@
         "Développement physique"
       ],
       "contenu": "1 vélo d'équilibre en bois",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-09-28",
-      "date_retour_prevue": "2026-05-19"
+      "date_acquisition": "2025-09-28"
     },
     {
       "id": "0666",
