@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-07T06:54:56.930Z",
+  "derniere_mise_a_jour": "2026-08-08T06:27:38.590Z",
   "total": 1102,
-  "disponibles": 986,
+  "disponibles": 987,
   "jouets": [
     {
       "id": "0085",
@@ -1294,10 +1294,11 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-03"
+      "date_acquisition": "2025-11-03",
+      "date_retour_prevue": "2026-08-28"
     },
     {
       "id": "0608",
@@ -1306,11 +1307,10 @@
         "Développement affectif"
       ],
       "contenu": "Camion remorque",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-07-07"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0905",
@@ -3885,11 +3885,10 @@
         "Développement affectif"
       ],
       "contenu": "1 onepiece policier\n1 veste pare-balle\n1 casque",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0898",
@@ -7690,11 +7689,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 30 morceaux - manque chaussure blanche.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-07-07"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0822",
@@ -8841,10 +8839,11 @@
         "Développement physique"
       ],
       "contenu": "1 moto",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-10"
+      "date_acquisition": "2025-11-10",
+      "date_retour_prevue": "2026-08-28"
     },
     {
       "id": "0320",
