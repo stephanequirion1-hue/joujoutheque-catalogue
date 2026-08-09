@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-08T06:27:38.590Z",
+  "derniere_mise_a_jour": "2026-08-09T06:32:37.812Z",
   "total": 1102,
-  "disponibles": 987,
+  "disponibles": 985,
   "jouets": [
     {
       "id": "0085",
@@ -1076,10 +1076,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-08-29"
     },
     {
       "id": "0050",
@@ -8150,10 +8151,11 @@
         "Développement mémoire"
       ],
       "contenu": "298 cartes\n1 minuterie \n1 présentoir a bascule",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-04"
+      "date_acquisition": "2025-03-04",
+      "date_retour_prevue": "2026-08-29"
     },
     {
       "id": "0818",
