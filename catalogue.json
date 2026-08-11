@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-10T07:00:28.876Z",
-  "total": 1102,
-  "disponibles": 985,
+  "derniere_mise_a_jour": "2026-08-11T06:40:12.168Z",
+  "total": 1103,
+  "disponibles": 986,
   "jouets": [
     {
       "id": "0085",
@@ -543,10 +543,11 @@
         "Développement physique"
       ],
       "contenu": "ballon siffleur bleu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-22"
+      "date_acquisition": "2025-07-22",
+      "date_retour_prevue": "2026-08-31"
     },
     {
       "id": "0801",
@@ -627,11 +628,10 @@
         "Développement cognitif"
       ],
       "contenu": "42 cartes\n \nrègles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-19",
-      "date_retour_prevue": "2026-07-05"
+      "date_acquisition": "2024-11-19"
     },
     {
       "id": "0371",
@@ -6949,12 +6949,11 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "-5 formes géométriques\n\n-1 tête de giraffe\n\n-10 verres\n\n-2 chaudières",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "-5 formes géométriques\n-1 tête de giraffe\n-10 verres\n-1 chaudières",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-07-28"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0045",
@@ -6963,8 +6962,8 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dessus mauve\n-1 dessous bleu\n-6 verres assemblables (rose, orange, jaune, vert foncé, vert pâle, bleu)\n-1 boule orange",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2024-01-26"
     },
@@ -7450,6 +7449,18 @@
       "photo": null,
       "date_acquisition": "2024-01-18",
       "date_retour_prevue": "2026-08-27"
+    },
+    {
+      "id": "1115",
+      "nom": "Le petit chaperon rouge",
+      "categories": [
+        "Développement mémoire"
+      ],
+      "contenu": "- 3 maisons \n\n- 2 pions\n\n- 13 cases/tuiles sentier\n\n- 26 tuiles\n\n- règlement",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-08-10"
     },
     {
       "id": "0214",
@@ -9627,10 +9638,11 @@
         "Développement physique"
       ],
       "contenu": "- 60 cartes images\n\n- 2 cartes de présentation",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-08-31"
     },
     {
       "id": "0031",
@@ -9921,11 +9933,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 2 cibles\n- 4 poches pingpong\n- 12 disques\n- 1 règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-08-10"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0825",
@@ -10107,7 +10118,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-07-05"
+      "date_retour_prevue": "2026-08-31"
     },
     {
       "id": "0915",
@@ -10348,11 +10359,10 @@
         "Développement physique"
       ],
       "contenu": "-1 caisse en bois\n-12 quilles numérotées\n-1 quille lanceur\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-11",
-      "date_retour_prevue": "2026-08-10"
+      "date_acquisition": "2025-06-11"
     },
     {
       "id": "1097",
@@ -10638,10 +10648,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 90 dés        1 règle de jeu\n- 4 plateaux joueur\n- 12 cartes motif de vitrail\n- 12 cartes outil\n- 15 cartes objectif\n- 1 sac de dés\n- 1 piste de manches \n- 4 jetons 50\n- 24 jetons Faveur",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-08-31"
     },
     {
       "id": "0631",
@@ -11845,10 +11856,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 tricyle avec panier avant, panier arrière, poignée, repose pieds, cache soleil",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-07"
+      "date_acquisition": "2026-01-07",
+      "date_retour_prevue": "2026-08-31"
     },
     {
       "id": "0376",
@@ -12196,11 +12208,10 @@
         "Développement physique"
       ],
       "contenu": "- Un vélo vert flash et bleu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "1061",
