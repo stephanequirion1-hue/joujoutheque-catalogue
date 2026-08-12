@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-11T06:40:12.168Z",
+  "derniere_mise_a_jour": "2026-08-12T07:00:39.673Z",
   "total": 1103,
-  "disponibles": 986,
+  "disponibles": 990,
   "jouets": [
     {
       "id": "0085",
@@ -676,11 +676,10 @@
         "Développement social"
       ],
       "contenu": "- Bateau Pat Patrouille\n\n- 6 personnages : Marcus, Chase, Ruben, Zuma, Rocky, Everest\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-26",
-      "date_retour_prevue": "2026-08-21"
+      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0963",
@@ -1320,11 +1319,10 @@
         "Développement social"
       ],
       "contenu": "- 1 camion vert",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-07-16"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0180",
@@ -3442,10 +3440,11 @@
         "Développement social"
       ],
       "contenu": "- un costume \n- un masque demi visage rigide",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-06"
+      "date_acquisition": "2025-09-06",
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "1087",
@@ -3538,10 +3537,11 @@
         "Développement social"
       ],
       "contenu": "-1 Costume/pyjama vert forêt",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "0336",
@@ -4345,11 +4345,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0554",
@@ -4425,11 +4424,11 @@
     },
     {
       "id": "1052",
-      "nom": "cuisine shopkins",
+      "nom": "cuisine shopkins (cuisinière et frigo)",
       "categories": [
         "Développement social"
       ],
-      "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau\n1 grosse carotte 2 pièces\n18 petits shopkins\n1 petit pop-sicle rose",
+      "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau et 1 cuillière\n4 Gros shopkins\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -5810,10 +5809,11 @@
         "Développement cognitif"
       ],
       "contenu": "-Un globe avec avec avion interractif\n\n \n\n*Nécessite des piles incluses 4 fois AA",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "0233",
@@ -6260,11 +6260,10 @@
         "Développement social"
       ],
       "contenu": "-1 bâton de pluie vert\n\n-1 guitare rouge\n\n-1 castagnette orange\n\n-1 tambourin bleu\n\n-1 oeuf maracas jaune",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-08-17"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0568",
@@ -6840,11 +6839,10 @@
         "Développement physique"
       ],
       "contenu": "- 70 cartes\n\n- 1 Totem\n\n- 2 Livrets de règles\n\n- 1 sac de transport",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-08-13"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0364",
@@ -7351,7 +7349,8 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-29"
+      "date_acquisition": "2024-01-29",
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "0494",
@@ -8039,11 +8038,10 @@
         "Développement affectif"
       ],
       "contenu": "- Lot de 2 poupées\n\n- 2 suces\n\n- 2 bouchons pour la tête",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-13",
-      "date_retour_prevue": "2026-08-21"
+      "date_acquisition": "2026-05-13"
     },
     {
       "id": "1112",
@@ -8188,10 +8186,11 @@
         "Développement motricité fine"
       ],
       "contenu": "12 longues tiges: 3 rouge, 3 vert, 3 bleu, 3 pêche\n26 courtes tiges: 10 vert. 10 bleu, 6 corail\n8 courbé: 4 jaune, 2 bleu, 2 magenta\n19 boules:  5 magenta, 8 bleu, 6 vert\n3 feuilles de model",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-08-03"
+      "date_acquisition": "2026-08-03",
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "0461",
@@ -10081,7 +10080,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-01-13",
-      "date_retour_prevue": "2026-08-17"
+      "date_retour_prevue": "2026-09-01"
     },
     {
       "id": "0256",
@@ -11252,11 +11251,10 @@
         "Développement social"
       ],
       "contenu": "- 120 cartes combat\n- 12 cartes sélection\n- 12 plateaux Combattant\n- 40 cubes de puissance ( violets)\n- 6 marqueurs de points ( verts)\n- 4 marqueurs spéciaux ( jaunes)\n- 1 jeton Shérif, \n1 jeton Golem, \n1 jeton Serpent, 2 jetons Concentration, 5 jetons Flamme, 11 jetons Intrigue\n \n- 1 guides des Combattants et Livret des règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-08-13"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "1047",
@@ -12099,11 +12097,10 @@
         "Développement social"
       ],
       "contenu": "- 1 plateau de jeu\n- 4 dinos rouges\n- 4 dinos jaunes\n- 4 dinos bleus \n- 4 dinos verts\n- 1 dino noir\n- 2 dés blancs\n- 1 dé noir\n- 1 règlements du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0344",
