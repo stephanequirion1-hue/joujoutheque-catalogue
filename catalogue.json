@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-08-12T07:00:39.673Z",
+  "derniere_mise_a_jour": "2026-08-13T07:04:39.908Z",
   "total": 1103,
   "disponibles": 990,
   "jouets": [
@@ -736,11 +736,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 batte de baseball\n- 2 balles de plastique\n- 1 support de plastique",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-08-27"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0750",
@@ -3982,10 +3981,11 @@
         "Développement social"
       ],
       "contenu": "1 robe",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-28"
+      "date_acquisition": "2025-11-28",
+      "date_retour_prevue": "2026-09-02"
     },
     {
       "id": "0143",
@@ -4428,7 +4428,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "1 cuisinière\n1 chaudron avec couvercle\n1 couteau et 1 cuillière\n4 Gros shopkins\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
+      "contenu": "1 cuisinière\n1 frigo\n1 chaudron avec couvercle\n1 couteau et 1 cuillère\n4 Gros shopkins\n2 glaçons\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
