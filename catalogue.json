@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-13T07:04:39.908Z",
+  "derniere_mise_a_jour": "2026-08-14T07:02:14.165Z",
   "total": 1103,
-  "disponibles": 990,
+  "disponibles": 996,
   "jouets": [
     {
       "id": "0085",
@@ -1922,11 +1922,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 casse tête de 1000 morceaux avec bateaux",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-13",
-      "date_retour_prevue": "2026-08-04"
+      "date_acquisition": "2025-03-13"
     },
     {
       "id": "0760",
@@ -3161,11 +3160,10 @@
         "Développement social"
       ],
       "contenu": "- 24 cartes personnage ( + 2 Le Bourreau et Le Justicier du jeu 2 )\n\n- 6 cartes aide au jeu\n\n- 54 jetons  ( 25 argents et 6 or )\n\n- règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-23",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2026-03-23"
     },
     {
       "id": "1026",
@@ -4729,11 +4727,10 @@
         "Développement social"
       ],
       "contenu": "50 jetons bleu\n50 jetons rouges\n1 planche de jeu\n1 jeu de 54 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-22",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2026-05-22"
     },
     {
       "id": "0766",
@@ -5687,11 +5684,10 @@
         "Développement social"
       ],
       "contenu": "un plateau de jeu (le quartier)\n10 cartes personnages \n6 pions \n3 dés\ndes billets de banque ( 49 de 100$ 49 de 500$ 49 de 1000$ 25 de 5000$ 27 de 10 000$)\n372 carte a jouer: Automobile 18, Aventure70, banque 24, boxe 20, collecte 28, commerce 24, diamant 25, dossier 12, investissement 20, justice 24, mission 31, perle 25, protection 12, recrutement 39\nles règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-08-03"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0881",
@@ -7603,11 +7599,10 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n240 wagon ( 45 couleur: bleu, rouge, vert, jaune, et noir)\n142 cartes illustrées:\n110 cartes wagon:\n110 cartes 110 cartes wagon: ( 12 de chaque type: violet, blanc, bleu, jaune, orange, noir, rouge et vert et 14 locomotive multi color)\n30 cartes destination\nune carte de résumé, \nune carte ‘’chemin le plus long'\n5 marqueur de score ( 1 pour chaque joueur: bleu, rouge vert, jaune et noir)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-31",
-      "date_retour_prevue": "2026-08-13"
+      "date_acquisition": "2025-07-31"
     },
     {
       "id": "0365",
@@ -7801,18 +7796,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-08-01"
-    },
-    {
-      "id": "0819",
-      "nom": "little people",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "1 lion\n1 phoque\n1 gorille\n1 tours",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-08-13"
     },
     {
       "id": "0882",
@@ -11733,11 +11716,10 @@
         "Développement social"
       ],
       "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 , Claw.\n\n- Accessoires dans l'armoire blanche sac # 0947",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-26",
-      "date_retour_prevue": "2026-07-03"
+      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0588",
@@ -13137,6 +13119,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "0819",
+      "nom": "xxxx",
+      "categories": [
+        "Développement cognitif"
+      ],
+      "contenu": "1 lion\n1 phoque\n1 gorille\n1 tours",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-08-13"
     },
     {
       "id": "0564",
