@@ -1,6 +1,6 @@
 {
-  "derniere_mise_a_jour": "2026-08-14T07:02:14.165Z",
-  "total": 1103,
+  "derniere_mise_a_jour": "2026-08-15T06:14:46.203Z",
+  "total": 1105,
   "disponibles": 996,
   "jouets": [
     {
@@ -1207,7 +1207,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune",
+      "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune (perdu)",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -1249,6 +1249,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-21"
+    },
+    {
+      "id": "1116",
+      "nom": "Camion + Avion water rescue",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 camion + trailer \n\n- 1 avion",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-08-14",
+      "date_retour_prevue": "2026-09-04"
     },
     {
       "id": "0604",
@@ -3015,10 +3028,11 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n6 pions de personnage\n6 pions mobilier\n7 supports blancs\n7 supports jaunes \n1 bloc-notes de détective\n1 dé\nrègle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-08-05"
+      "date_acquisition": "2026-08-05",
+      "date_retour_prevue": "2026-09-04"
     },
     {
       "id": "0936",
@@ -11744,6 +11758,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-17"
+    },
+    {
+      "id": "1117",
+      "nom": "Tracteur John Deere + accessoire 1117",
+      "categories": [
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "Tracteur John Deere avec 6 vis qui font tenir les roues, le capo et le top\nSac d'accessoire 1117 dans l'armoire\n- Drill avec embout tournevis étoile et plat\nBesoin de pile",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-08-14"
     },
     {
       "id": "0150",
