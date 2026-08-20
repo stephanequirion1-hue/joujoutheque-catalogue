@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-08-19T06:19:20.847Z",
+  "derniere_mise_a_jour": "2026-08-20T06:20:45.901Z",
   "total": 1105,
-  "disponibles": 1000,
+  "disponibles": 997,
   "jouets": [
     {
       "id": "0085",
@@ -94,10 +94,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 décodeur\n\n-1 filtre rouge\n\n-1 bloc-notes et 4 crayons\n\n-2 dés de 1 à 6 \n\n-2 dés de 7 à 12\n\n-1 planche de jeu\n\n-1 fiche suspects\n\n-54 jetons Agents | 9 jetons Interpol | 40 jetons Mire | 40 jetons Ordinateur Central\n\n-1 carnet de mission\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0172",
@@ -215,10 +216,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 assiette\n\n- 1 coupe pizza\n\n- 1 spatule\n\n- 6 morceaux de pizza\n\n- 14 tranches de peppéroni\n\n- 14 morceaux de poivrons\n\n- 12 tranches de champignons",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-25"
+      "date_acquisition": "2025-04-25",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0271",
@@ -277,11 +279,10 @@
         "Développement social"
       ],
       "contenu": "- 1 avion\n- 4 personnages Fisher Price\nAccessoires dans l'armoire blanche sac # 0170",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-08-19"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0930",
@@ -4439,10 +4440,11 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 frigo\n1 chaudron avec couvercle\n1 couteau et 1 cuillère\n4 Gros shopkins\n2 glaçons\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-15"
+      "date_acquisition": "2026-05-15",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0307",
@@ -5247,10 +5249,11 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0991",
@@ -6144,10 +6147,11 @@
         "Développement social"
       ],
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "statut": "En réparation",
+      "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-03-02"
+      "date_acquisition": "2024-03-02",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "1041",
@@ -9705,10 +9709,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 plateau de jeu en 10 morceaux\n\n- 24 jetons-combattants: \n(6 jaunes, 6 verts, 6 roses, 6 bleus)\n\n-4 tuiles-châteaux\n\n-12 tuiles-forteresses\n\n-Guide d'accompagnement / Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0163",
@@ -10605,11 +10610,10 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu x4 (Français, Anglais, Allemand, Néerlandais)\n\n- 17 dés → 12 dés Héros (3 vert, 3 bleu, 3 brun, 3 blanc), 5 dés Sorcier (noir)\n\n- 47 cartes Sortilège → 8 confusion (gris/blanc), 7 Invocation (bleu), 7 Dracologie (rouge), 6 Dissipation (mauve), 6 Malédiction (noir/blanc), 7 Damnation (jaune), 6 Régression (vert)\n\n- 29 cartes Épreuve (brun/noir)\n\n- 8 cartes Parchemin (vert/bleu)\n\n- 10 cartes Coffre/Équipement (bleu/mauve)\n\n- 1 Plateau de jeu\n\n- 1 pion Dragon\n\n- 4 Tuiles Personnage\n\n- 4 Jetons Joueur\n\n- 1 Tuile Dragon\n\n- 3 Jetons Trophée\n\n- 1 Jeton Pièce d'or\n\n- 8 Jetons Âme (bleu/mauve)\n\n- 6 Jetons Vie (vert)\n\n- 4 Tuiles Faculté",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-08-18"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0545",
@@ -11352,10 +11356,11 @@
         "Développement social"
       ],
       "contenu": "- Plateau de jeu\n\n- 34 cartes client\n\n- 64 cartes sort\n\n- 5 cartes aides du jeu\n\n- 25 cubes titre de propriété de 5 couleurs\n\n- 25 marqueurs score de 5 couleurs\n\n- 4 figurines notable\n\n- 45 pièces de monnaie\n\n- 36 tuiles clients,18 tuiles faveur royal,15 jetons privilège,12 jetons guilde,1 jeton Roy,1 jeton Reine,Livre de règle\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-30"
+      "date_acquisition": "2025-12-30",
+      "date_retour_prevue": "2026-09-09"
     },
     {
       "id": "0360",
@@ -12332,11 +12337,10 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu\n\n- 36 cartes\n\n- 24 dés",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-09",
-      "date_retour_prevue": "2026-08-18"
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "1075",
