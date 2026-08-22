@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-08-21T06:20:39.588Z",
+  "derniere_mise_a_jour": "2026-08-22T06:15:50.294Z",
   "total": 1105,
   "disponibles": 998,
   "jouets": [
@@ -581,10 +581,11 @@
         "Développement affectif"
       ],
       "contenu": "2 barbie bleu\n1 barbie rose\n1 tutu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-17"
+      "date_acquisition": "2025-07-17",
+      "date_retour_prevue": "2026-09-11"
     },
     {
       "id": "0793",
@@ -954,10 +955,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 14 cartes numérotées\n- 36 cartes indices\n- 11 cartes construction\n- 15 blocs en bois\n- 46 jetons points\n- 1 jeton premier joueur\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-08"
+      "date_acquisition": "2025-04-08",
+      "date_retour_prevue": "2026-09-11"
     },
     {
       "id": "0325",
@@ -5214,10 +5216,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 30 cartes\n\n- 10 objets\n\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-31"
+      "date_acquisition": "2026-03-31",
+      "date_retour_prevue": "2026-09-11"
     },
     {
       "id": "0941",
@@ -5686,11 +5689,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 Règle du jeu\n- 54 cartes d'affaires\n-  6 aides du jeu\n- 6 socles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-08-24"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0740",
@@ -7031,11 +7033,10 @@
         "Développement cognitif"
       ],
       "contenu": "Complet\n100 cartes\n12 jetons\nrègles de jeux",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-04",
-      "date_retour_prevue": "2026-08-24"
+      "date_acquisition": "2025-03-04"
     },
     {
       "id": "0481",
@@ -8172,11 +8173,10 @@
         "Développement social"
       ],
       "contenu": "24 tuiles centre commerciale\n4 pions héros; jaune, vert, mauve, orange\n9 tuiles actions 5 double-face pour 2 à 8 joueur\n7 tuiles action pour 1 joueur\n1 sablier\n1 pion ‘’fais quelque chose!'' → rouge\n1 tuile vole\nrèglement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-02",
-      "date_retour_prevue": "2026-08-24"
+      "date_acquisition": "2025-08-02"
     },
     {
       "id": "1111",
