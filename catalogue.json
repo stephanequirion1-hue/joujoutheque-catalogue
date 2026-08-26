@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-08-25T06:20:40.823Z",
+  "derniere_mise_a_jour": "2026-08-26T06:22:26.300Z",
   "total": 1105,
   "disponibles": 1003,
   "jouets": [
@@ -9668,10 +9668,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu Tiroir\n\n-1 guide de rangement\n\n-5 bobettes bleues poissons\n\n-4 bobettes vertes\n\n-4 bobettes étoiles\n\n-4 bobettes jaunes\n\n-4 bobettes picos\n\n-4 bobettes bleues\n\n-4 bobettes roses\n\n-4 bobettes carreautées\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-09-15"
     },
     {
       "id": "0126",
@@ -9765,10 +9766,11 @@
         "Développement du langage"
       ],
       "contenu": "-1 plateau de jeu (7 morceaux de casse-tête)\n\n-70 cartes questions \"Pourquoi\"\n\n-14 cartes Personnages-coupables\n\n-4 pions détectives\n\n-1 dé\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-09-15"
     },
     {
       "id": "0072",
@@ -10108,11 +10110,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-08-31"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0915",
@@ -10638,11 +10639,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 90 dés        1 règle de jeu\n- 4 plateaux joueur\n- 12 cartes motif de vitrail\n- 12 cartes outil\n- 15 cartes objectif\n- 1 sac de dés\n- 1 piste de manches \n- 4 jetons 50\n- 24 jetons Faveur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-08-31"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0631",
