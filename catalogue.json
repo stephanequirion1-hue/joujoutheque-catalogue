@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-08-27T16:52:20.425Z",
+  "derniere_mise_a_jour": "2026-08-28T17:44:14.299Z",
   "total": 1105,
   "disponibles": 1003,
   "jouets": [
@@ -248,16 +248,15 @@
     },
     {
       "id": "0768",
-      "nom": "Autobus de cocos",
+      "nom": "Autobus de cocos (eggxpress)",
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "- 12 oeufs avec formes (24 morceaux)\n- 1 autobus",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "- 12 oeufs avec formes (24 morceaux)\n\n- 1 autobus\n\n \nNote: Même article que 0587. À fusionner, un code à effacer sur le jouet.",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-11",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2026-02-11"
     },
     {
       "id": "0093",
@@ -4885,11 +4884,11 @@
     },
     {
       "id": "0587",
-      "nom": "Eggxpress",
+      "nom": "Eggxpress (autobus de cocos)",
       "categories": [
         "Développement cognitif"
       ],
-      "contenu": "1 boite d'œufs en forme d'autobus\n12 œufs/formes 4 blanc, 4 beige,4 brun",
+      "contenu": "1 boite d'œufs en forme d'autobus\n12 œufs/formes 4 blanc, 4 beige,4 brun\n \nNote: Même article que 0768. À fusionner, un code à effacer sur le jouet.",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -6598,10 +6597,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 planche de jeu\n\n-1 marteau\n\n-4 images recto-verso\n\n-8 pièces jaunes\n\n-8 pièces vertes\n\n-8 pièces bleues\n\n-7 pièces rouges",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-09-17"
     },
     {
       "id": "0589",
