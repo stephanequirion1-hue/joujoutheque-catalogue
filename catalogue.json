@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-01T10:33:24.254Z",
+  "derniere_mise_a_jour": "2026-09-02T09:59:25.993Z",
   "total": 1105,
-  "disponibles": 1003,
+  "disponibles": 1008,
   "jouets": [
     {
       "id": "0085",
@@ -3452,11 +3452,10 @@
         "Développement social"
       ],
       "contenu": "- un costume \n- un masque demi visage rigide",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-09-06",
-      "date_retour_prevue": "2026-09-01"
+      "date_acquisition": "2025-09-06"
     },
     {
       "id": "1087",
@@ -3549,11 +3548,10 @@
         "Développement social"
       ],
       "contenu": "-1 Costume/pyjama vert forêt",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-09-01"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0336",
@@ -5821,11 +5819,10 @@
         "Développement cognitif"
       ],
       "contenu": "-Un globe avec avec avion interractif\n\n \n\n*Nécessite des piles incluses 4 fois AA",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-09-01"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0233",
@@ -7357,11 +7354,10 @@
         "Développement physique"
       ],
       "contenu": "-1 Grand lapin gris sauteur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-29",
-      "date_retour_prevue": "2026-09-01"
+      "date_acquisition": "2024-01-29"
     },
     {
       "id": "0494",
@@ -10073,11 +10069,10 @@
         "Développement social"
       ],
       "contenu": "- 1 poupée\n- 1 pousette rose et blanche en plastique\n- 1 paire de soulier,1 pyjamas bleu, 1 bavette bleu, 1 collier avec médaille argent, 1 chapeau bleu.\n- 1 couche, 1 paire de lunette, 1 suce bleu, 1 biberon bleu,\n- 1 salopette jeans avec t-shirt et chapeau\n- 1 jean\n- 1 pyjamas à carreaux rouge",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-13",
-      "date_retour_prevue": "2026-09-01"
+      "date_acquisition": "2026-01-13"
     },
     {
       "id": "0256",
