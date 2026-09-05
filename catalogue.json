@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-04T10:07:05.682Z",
-  "total": 1034,
-  "disponibles": 939,
+  "derniere_mise_a_jour": "2026-09-05T09:29:41.142Z",
+  "total": 1041,
+  "disponibles": 945,
   "jouets": [
     {
       "id": "0085",
@@ -868,10 +868,11 @@
         "Développement du langage"
       ],
       "contenu": "- 93 jetons\n\n- 9 plateaux\n\n- 26 cartes lettres",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0273",
@@ -1759,6 +1760,18 @@
       "date_acquisition": "2024-07-26"
     },
     {
+      "id": "1122",
+      "nom": "Casse-Tête 100 morceaux complet",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "100 morceaux compté et complet",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
+    },
+    {
       "id": "1004",
       "nom": "casse-tête 100 morceaux, le système solaire",
       "categories": [
@@ -1973,6 +1986,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-08"
+    },
+    {
+      "id": "1124",
+      "nom": "Casse-Tête 24 morceaux",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "24 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
     },
     {
       "id": "0475",
@@ -2431,6 +2456,19 @@
       "date_acquisition": "2026-07-31"
     },
     {
+      "id": "1120",
+      "nom": "casse-tête LOL 48 morcaux",
+      "categories": [
+        "Développement cognitif",
+        "Développement motricité fine"
+      ],
+      "contenu": "48 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
+    },
+    {
       "id": "0744",
       "nom": "casse-tête macaron",
       "categories": [
@@ -2465,6 +2503,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-02-06"
+    },
+    {
+      "id": "1121",
+      "nom": "Casse-Tête Pat patrouille 24 morceaux",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "- 24 morceaux",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
     },
     {
       "id": "0931",
@@ -3990,11 +4040,10 @@
         "Développement social"
       ],
       "contenu": "1 robe",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-09-02"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0143",
@@ -4075,11 +4124,10 @@
         "Développement social"
       ],
       "contenu": "costume de sirère avec bandeau étoile",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "0615",
@@ -4488,10 +4536,11 @@
         "Développement physique"
       ],
       "contenu": "-4 fléchettes\n-2 anneaux verts\n-1 sac noir\n-1 instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-15"
+      "date_acquisition": "2025-06-15",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0987",
@@ -4935,10 +4984,11 @@
         "Développement physique"
       ],
       "contenu": "- 4 raquettes\n- 3 moineaux\n- 1 filet : filet, 1 corde de tension et 4 piquet\n- 6 poteau\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0645",
@@ -5969,6 +6019,19 @@
       "date_acquisition": "2026-04-21"
     },
     {
+      "id": "1119",
+      "nom": "Hape Escargot à promener",
+      "categories": [
+        "Développement physique",
+        "Développement motricité fine"
+      ],
+      "contenu": "- corps de l'escargot\n\n- Coquille amovible\n\n- 3 blocs de bois, un cylindre rouge, 1 triangle bleu, 1 cube jaune.",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
+    },
+    {
       "id": "0378",
       "nom": "Happy family",
       "categories": [
@@ -6205,11 +6268,10 @@
         "Développement motricité fine"
       ],
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-15",
-      "date_retour_prevue": "2026-06-08"
+      "date_acquisition": "2025-12-15"
     },
     {
       "id": "0712",
@@ -7502,8 +7564,7 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-02",
-      "date_retour_prevue": "2026-07-30"
+      "date_acquisition": "2026-02-02"
     },
     {
       "id": "0670",
@@ -7946,11 +8007,10 @@
         "Développement social"
       ],
       "contenu": "- 88 Cartes Sketchs vertes et rouges\n\n- 11 Cartes concept Jaunes\n\n- 1 Carte censurée/fin noire\n\n- 4 plateaux d'équipes\n\n- instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-08-27"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0448",
@@ -8011,6 +8071,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-27"
+    },
+    {
+      "id": "1123",
+      "nom": "Lot de 4 Casse-Tête de princesse disney",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "50 morceaux dans chaque casse-tête",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
     },
     {
       "id": "0703",
@@ -9994,10 +10066,11 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0792",
@@ -10102,10 +10175,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0915",
@@ -11147,10 +11221,11 @@
         "Développement physique"
       ],
       "contenu": "- base/coffret de rangement\n\n- 2 raquettes\n\n- Balle de tennis\n\n- 1 mât ajustable (4 section) avec 3 embouts d'assemblages\n\n- mode d'emploi\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-09-25"
     },
     {
       "id": "0069",
@@ -11400,11 +11475,10 @@
         "Développement motricité fine"
       ],
       "contenu": "Téléphone à promener avec la corde",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-17",
-      "date_retour_prevue": "2026-08-27"
+      "date_acquisition": "2025-04-17"
     },
     {
       "id": "0096",
@@ -12217,6 +12291,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-25"
+    },
+    {
+      "id": "1118",
+      "nom": "Verti Go",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "1 boite de rangement\n1 couvercle avec carte de départ\n32 cartes",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-04"
     },
     {
       "id": "0994",
