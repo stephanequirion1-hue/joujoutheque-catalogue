@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-07T10:46:59.172Z",
-  "total": 1041,
-  "disponibles": 945,
+  "derniere_mise_a_jour": "2026-09-08T10:07:39.610Z",
+  "total": 1042,
+  "disponibles": 946,
   "jouets": [
     {
       "id": "0085",
@@ -184,6 +184,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-01-09"
+    },
+    {
+      "id": "1125",
+      "nom": "Antidote",
+      "categories": [
+        "Développement du langage",
+        "Développement social"
+      ],
+      "contenu": "- 2 cartes capitaine\n\n- 100 cartes question\n\n- instruction et 3 feuilles de pointage plastifié\n\n- 1 feutre à encre sèche\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-07"
     },
     {
       "id": "0605",
