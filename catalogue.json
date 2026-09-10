@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-09T10:09:43.785Z",
+  "derniere_mise_a_jour": "2026-09-10T10:05:15.848Z",
   "total": 1042,
-  "disponibles": 946,
+  "disponibles": 945,
   "jouets": [
     {
       "id": "0085",
@@ -967,11 +967,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 14 cartes numérotées\n- 36 cartes indices\n- 11 cartes construction\n- 15 blocs en bois\n- 46 jetons points\n- 1 jeton premier joueur\n- règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-08",
-      "date_retour_prevue": "2026-09-11"
+      "date_acquisition": "2025-04-08"
     },
     {
       "id": "0325",
@@ -1270,11 +1269,10 @@
         "Développement social"
       ],
       "contenu": "- 1 camion + trailer \n\n- 1 avion",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-08-14",
-      "date_retour_prevue": "2026-09-04"
+      "date_acquisition": "2026-08-14"
     },
     {
       "id": "0604",
@@ -1344,10 +1342,11 @@
         "Développement social"
       ],
       "contenu": "- 1 camion vert",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-01"
+      "date_acquisition": "2025-12-01",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0180",
@@ -5275,11 +5274,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 30 cartes\n\n- 10 objets\n\n- instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-09-11"
+      "date_acquisition": "2026-03-31"
     },
     {
       "id": "0941",
@@ -5312,11 +5310,10 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0991",
@@ -6885,10 +6882,11 @@
         "Développement social"
       ],
       "contenu": "- 1 plateau de jeu\n\n- 1 dôme décodeur\n\n- 100 cartes défi\n\n- 4 pions rhino\n\n- 20 jetons santé\n\n- 2 dés classiques\n\n- 4 dés défi\n\n- 1 sablier\n\n- instruction et feuille de réponse possible ( indices à l'endos)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-25"
+      "date_acquisition": "2025-04-25",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0084",
@@ -7174,10 +7172,11 @@
         "Développement mémoire"
       ],
       "contenu": "- 40 Cartes pirates\n- 1 ile ( plateau)\n- 10 cartes rondes\n- 4 cachettes\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-02"
+      "date_acquisition": "2024-10-02",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0990",
@@ -10718,10 +10717,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 90 dés        1 règle de jeu\n- 4 plateaux joueur\n- 12 cartes motif de vitrail\n- 12 cartes outil\n- 15 cartes objectif\n- 1 sac de dés\n- 1 piste de manches \n- 4 jetons 50\n- 24 jetons Faveur",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0631",
@@ -11427,11 +11427,10 @@
         "Développement social"
       ],
       "contenu": "- Plateau de jeu\n\n- 34 cartes client\n\n- 64 cartes sort\n\n- 5 cartes aides du jeu\n\n- 25 cubes titre de propriété de 5 couleurs\n\n- 25 marqueurs score de 5 couleurs\n\n- 4 figurines notable\n\n- 45 pièces de monnaie\n\n- 36 tuiles clients,18 tuiles faveur royal,15 jetons privilège,12 jetons guilde,1 jeton Roy,1 jeton Reine,Livre de règle\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-30",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2025-12-30"
     },
     {
       "id": "0360",
@@ -11512,10 +11511,11 @@
         "Développement social"
       ],
       "contenu": "1 sablier\n1 dé\n8 crayon effacable noir\n8 carnet de dessin, rouge, orange, vert, noir, bleu, blanc, rose, jaune\n8 truc pour essuyer noir\n154 carte",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-23"
+      "date_acquisition": "2025-07-23",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0403",
@@ -11548,10 +11548,11 @@
         "Développement social"
       ],
       "contenu": "- 1 livret de règles\n\n- 1 plateau de jeu \n\n- 5 plateaux individuels\n\n- 17 cartes Corporation\n\n- 208 cartes Projet\n\n- 8 cartes Aide de jeu\n\n- 202 cubes Ressources (45 or, 30 argent, 127 bronze)\n\n- 200 cubes Joueur (40 de chaque couleurs)\n\n- 3 marqueurs pour le plateau (3 cubes blanc)\n\n- 9 tuiles Océan\n\n- 60 tuiles Cité/Forêt\n\n- 11 tuiles Spéciales\n\n- 1 marqueur premier joueur",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-07"
+      "date_acquisition": "2026-07-07",
+      "date_retour_prevue": "2026-09-30"
     },
     {
       "id": "0582",
