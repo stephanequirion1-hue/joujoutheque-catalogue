@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-10T10:05:15.848Z",
-  "total": 1042,
-  "disponibles": 945,
+  "derniere_mise_a_jour": "2026-09-11T10:02:47.751Z",
+  "total": 1028,
+  "disponibles": 943,
   "jouets": [
     {
       "id": "0085",
@@ -556,8 +556,8 @@
         "Développement physique"
       ],
       "contenu": "ballon siffleur bleu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-22"
     },
@@ -930,11 +930,10 @@
         "Développement motricité fine"
       ],
       "contenu": "225 morceaux\nUne feuille d'instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-22",
-      "date_retour_prevue": "2026-09-10"
+      "date_acquisition": "2026-01-22"
     },
     {
       "id": "0919",
@@ -2252,18 +2251,6 @@
       "date_acquisition": "2024-07-13"
     },
     {
-      "id": "0161",
-      "nom": "Casse-tête chiffres et lettres",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "À REMPLACER",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
-    },
-    {
       "id": "0940",
       "nom": "Casse-tête Classic Christmas Collection",
       "categories": [
@@ -2686,18 +2673,6 @@
       "date_acquisition": "2025-08-23"
     },
     {
-      "id": "0848",
-      "nom": "Chariot BBQ # 2 ( accessoires dans l'armoire, sac # 0848 )",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "1 chariot \n- 3 bretzels, 3 tomates, 1 pizza, 3 boulettes, 2 pain hamburger, 2 fromages,2 ketchup, frites, 2 laitue, 1 moutarde, 2 taco, 1 croquette de poulet, 1 assiette, 1 verre orange, 1 couteau, 1 fourchette. 1 limonade, 1 saucisse. \n \nAccessoires dans l'armoire Blanche sac # 0848\nmanque un ketchup",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-09-26"
-    },
-    {
       "id": "0484",
       "nom": "Chariot BBQ (Accessoire 0484)",
       "categories": [
@@ -3116,18 +3091,6 @@
       "contenu": "44 Cartes",
       "statut": "Disponible",
       "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-01-09"
-    },
-    {
-      "id": "0521",
-      "nom": "CLUEDO",
-      "categories": [
-        "Développement mémoire"
-      ],
-      "contenu": "1 Carte crime\n12 Cartes indice (-1 manque salle à manger)\n4x12 séries de cartes dossier de l`affaire \n2 Cartes de rappel des règles \n6 Cartes de profil de personnage\n1 Boîtier",
-      "statut": "Emprunté",
-      "disponible": false,
       "photo": null,
       "date_acquisition": "2025-01-09"
     },
@@ -4390,8 +4353,8 @@
         "Développement social"
       ],
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-02"
     },
@@ -4431,18 +4394,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-04"
-    },
-    {
-      "id": "0156",
-      "nom": "Cube d'activité",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "-1 cube en bois avec diverses activités sur 5 façades",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0283",
@@ -4613,6 +4564,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-03-23"
+    },
+    {
+      "id": "1131",
+      "nom": "Destins",
+      "categories": [
+        "Développement mémoire",
+        "Développement social"
+      ],
+      "contenu": "- planche de jeu avec les 3 montagnes, 1 pont et 7 édifices\n\n- 1 tourniquet\n\n- 1 paquet d'argent : environ 45 X chaque : 5 000, 10,000 20 000, 50.000, 100.000, \n\n- environ 20 feuillet de prêt bancaire\n\n- environ 30 feuillet d'augmentation de salaire\n\n- 6 pions voitures\n\n- 52 chevilles de “personnes” roses et bleues.\n\n- 25 tuiles Destin\n\n- 24 jeton “tourne pour gagner”\n\n- 5 jetons spéciaux\n\n- 1 bande “Tourne pour gagner”\n\n- 1 plateau noir\n\n- 1 règles du jeu et 1 historique du jeu\n\n- JEU appartenant à Marie-Eve",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
     },
     {
       "id": "0065",
@@ -4881,18 +4845,6 @@
       "date_acquisition": "2026-07-15"
     },
     {
-      "id": "0880",
-      "nom": "Duz blocs de construction",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "- 540 pieces\n- 1 instruction\n-",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-11-25"
-    },
-    {
       "id": "0927",
       "nom": "Dynamite",
       "categories": [
@@ -5069,8 +5021,8 @@
         "Développement physique"
       ],
       "contenu": "- 1 support pour balle\n\n- 1 batte en mousse\n\n- 3 balles de base-ball en mousse",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2025-06-05"
     },
@@ -5787,18 +5739,6 @@
       "date_retour_prevue": "2026-07-03"
     },
     {
-      "id": "0236",
-      "nom": "Garage fisher price 2 ( voitures hotweels dans l'armoire sac # 0236",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-1 garage Fisher Price \n- 4 hot wheels : 1 grise,1 jaune fluo, 1 bleu et jaune,1 rouge, \n\n- 1 autobus\n\n- 1 camion bleu\n\n- voitures dans l'armoire, sac # 0236",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-24"
-    },
-    {
       "id": "0254",
       "nom": "Garage little people",
       "categories": [
@@ -5906,18 +5846,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-04"
-    },
-    {
-      "id": "0272",
-      "nom": "Grid Stones",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "-1 planche de jeu\n\n-52 cartes dans une boîte\n\n-35 jetons (Pierres) dans un sac plastique\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0104",
@@ -6943,11 +6871,10 @@
         "Développement mémoire"
       ],
       "contenu": "- 4 planches de jeu\n\n- 24 pitons - Manque 1 mouton",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-09-10"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "1023",
@@ -7040,8 +6967,8 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dessus mauve\n-1 dessous bleu\n-6 verres assemblables (rose, orange, jaune, vert foncé, vert pâle, bleu)\n-1 boule orange",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-26"
     },
@@ -7152,18 +7079,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-17"
-    },
-    {
-      "id": "0343",
-      "nom": "La chasse aux monstres",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 20 cartes monstre\n\n- 10 tuiles jouet\n\n- 2 tuiles pour chasseurs expert\n\n- 3 tuiles de progression\n\n- 1 boîte placard\n\n1 livret de règles",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2024-09-11"
     },
     {
       "id": "0347",
@@ -7637,18 +7552,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-03"
-    },
-    {
-      "id": "0114",
-      "nom": "l'école des monstres",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- 4 monstres\n\n- i dé\n\n- 9 morceaux de casse-tête\n\n- 40 cartes vertes\n\n- 40 cartes rouges\n\n- 1 règles du jeu\n\n- 6 cartes de félicitations",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0398",
@@ -8473,18 +8376,6 @@
       "date_acquisition": "2024-12-18"
     },
     {
-      "id": "0570",
-      "nom": "mémoire Reine des Neiges",
-      "categories": [
-        "Développement mémoire"
-      ],
-      "contenu": "64 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
-      "photo": null,
-      "date_acquisition": "2025-03-11"
-    },
-    {
       "id": "0730",
       "nom": "mémoire tonic",
       "categories": [
@@ -8509,6 +8400,18 @@
       "date_acquisition": "2026-04-07"
     },
     {
+      "id": "1129",
+      "nom": "Mesozooic",
+      "categories": [
+        "Développement cognitif"
+      ],
+      "contenu": "- 110 cartes\n\n- 1 sablier\n\n- 2 feuilles de pointages plastifié\n\n- 1 crayon à encre sèche\n\n- les règles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
+    },
+    {
       "id": "0876",
       "nom": "Meurtre tout inclus",
       "categories": [
@@ -8519,18 +8422,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-20"
-    },
-    {
-      "id": "0980",
-      "nom": "Mickey mouse",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- Quatre mickey mouse \n- Une paire de sandales verte\n- Une robe rose\n- Un casque blanc et rose \n- Un bureau avec miroir  bleu",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-03-01"
     },
     {
       "id": "0505",
@@ -8615,6 +8506,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-05-27"
+    },
+    {
+      "id": "1130",
+      "nom": "mini divercity",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 12 jeton\n\n- 107 cartes\n\n- 1 livre de règlements\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
     },
     {
       "id": "0748",
@@ -8772,30 +8675,6 @@
       "photo": null,
       "date_acquisition": "2024-01-16",
       "date_retour_prevue": "2026-08-27"
-    },
-    {
-      "id": "0039",
-      "nom": "monsieur patate",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "1X grosse patate, 1X petite patate, 2X yeux noirs,1 X face de chien, 1X face de chien, 1 X paire d'oreille 1X pattes de chat, 1 X paire de bras blanc\n1 X langue rose, 1X bouche rouge, 1X paire de souliers rouges, 1 X bouche dents, 1X chapeau mauve, 1X moustache brune, 1X nez rose, 1 X sacoche rouge.",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
-    },
-    {
-      "id": "0386",
-      "nom": "monsieur patate",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "2 X grosses patates, 1Xpetite patate, souliers verts, souliers bleus, 2 X chapeaux noirs, 1 X pattes de chien, sacoche, 1 X paire de bras rouges, 1 X paires de bras blancs. 1 X face de chien, yeux mauves, yeux bleu, bouche, langue, nez rose, 1 moustache noire.",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-05-02"
     },
     {
       "id": "0973",
@@ -9244,18 +9123,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-04"
-    },
-    {
-      "id": "0902",
-      "nom": "Panier d'épicerie",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "- 1 panier d'épicerie",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0796",
@@ -10169,18 +10036,6 @@
       "date_acquisition": "2024-01-20"
     },
     {
-      "id": "0439",
-      "nom": "poussette Rose",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "Poussette rose",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-01-08"
-    },
-    {
       "id": "0073",
       "nom": "Prépare ton hamburgeur",
       "categories": [
@@ -10543,6 +10398,20 @@
       "date_acquisition": "2025-03-04"
     },
     {
+      "id": "1126",
+      "nom": "Recto Verso",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "36 cartes recto verso\ninstructions",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
+    },
+    {
       "id": "0090",
       "nom": "Réponds-moi en images!",
       "categories": [
@@ -10567,18 +10436,6 @@
       "date_acquisition": "2025-01-29"
     },
     {
-      "id": "0409",
-      "nom": "Risk",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "- Planche de jeu\n- 5 armée avec chacune 40 troupes (petits pions)\n- 12 cavaleries (moyens pions)\n- 5 dés\n- 8 artilleries (grands pions)\n- 43 cartes\n- 2 cartes de références\n- Les règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-12-18"
-    },
-    {
       "id": "0879",
       "nom": "Risk",
       "categories": [
@@ -10589,18 +10446,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-11-25"
-    },
-    {
-      "id": "0103",
-      "nom": "Rocking ring stacker",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "6 anneaux empilables (rouge, bleu, transparent, orange, vert, jaune)",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0190",
@@ -10784,6 +10629,20 @@
       "date_acquisition": "2025-06-15"
     },
     {
+      "id": "1128",
+      "nom": "Scrabble up-words",
+      "categories": [
+        "Développement motricité fine",
+        "Développement du langage",
+        "Développement social"
+      ],
+      "contenu": "- 1 planche de jeu\n\n- 100 tuiles\n\n- 4 support à tuiles\n\n- règlements\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
+    },
+    {
       "id": "0518",
       "nom": "scrable",
       "categories": [
@@ -10964,6 +10823,19 @@
       "date_acquisition": "2024-12-18"
     },
     {
+      "id": "1127",
+      "nom": "Sons & Rimes",
+      "categories": [
+        "Développement mémoire",
+        "Développement du langage"
+      ],
+      "contenu": "- 10 cartes sons modèles\n\n- 4 caches\n\n- 58 carte sons et cartes rimes\n\n- 1 carte Mistigri",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-10"
+    },
+    {
       "id": "0993",
       "nom": "Sortilèges Mont-à - Mots",
       "categories": [
@@ -11018,8 +10890,8 @@
         "Développement motricité fine"
       ],
       "contenu": "-3 mauve\n-3 orange\n-3 rouge\n-3 vertes\n-1 animal\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-16"
     },
@@ -11349,18 +11221,6 @@
       "date_acquisition": "2026-04-15"
     },
     {
-      "id": "0165",
-      "nom": "Tapis d'activité",
-      "categories": [
-        "Développement social"
-      ],
-      "contenu": "-1 soleil\n\n-1 étoile\n\n-3 anneaux de bois\n\n-1 ours hochet en bois\n\n-1 bonhomme \n\nTOUS fixés au tapis",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-26"
-    },
-    {
       "id": "0304",
       "nom": "Tapis d'activité",
       "categories": [
@@ -11395,18 +11255,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-30"
-    },
-    {
-      "id": "0057",
-      "nom": "Tapis mousse marelle",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "- Tapis de mousse des chiffres 1 à 10\n\n-4 ronds en mousse",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-02-02"
     },
     {
       "id": "1072",
@@ -11999,18 +11847,6 @@
         "Développement physique"
       ],
       "contenu": "-1 lion dont le siège se lève pour devenir un trotteur",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2024-01-29"
-    },
-    {
-      "id": "0105",
-      "nom": "Trotteur Train",
-      "categories": [
-        "Développement physique"
-      ],
-      "contenu": "-1 train avec siège qui s'ouvre pour rangement",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
