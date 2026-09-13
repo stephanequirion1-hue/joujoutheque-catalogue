@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-12T09:38:51.528Z",
+  "derniere_mise_a_jour": "2026-09-13T10:39:57.116Z",
   "total": 1028,
-  "disponibles": 941,
+  "disponibles": 937,
   "jouets": [
     {
       "id": "0085",
@@ -1268,10 +1268,11 @@
         "Développement social"
       ],
       "contenu": "- 1 camion + trailer \n\n- 1 avion",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-08-14"
+      "date_acquisition": "2026-08-14",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0604",
@@ -2365,10 +2366,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 X 24 morceaux\n- 3 X 12 morceaux\n- 1 X 16 morceaux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0328",
@@ -3014,10 +3016,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-Clé d'auto sonore de marque Battat\n \n*Inclus 2 piles AAA",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0348",
@@ -3546,8 +3549,8 @@
         "Développement social"
       ],
       "contenu": "- 1 Jupe, 1 robe\n\n- 1 queue de diable\n\n- 1 serre tête de diable",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2025-01-09"
     },
@@ -5732,11 +5735,10 @@
         "Développement social"
       ],
       "contenu": "-1 grand garage fisher price\n- 4 grosse voiture : 1 jaune, 1 verte, 1 pompier, 1 police",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-07-03"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0254",
@@ -7137,11 +7139,10 @@
         "Développement cognitif"
       ],
       "contenu": "- A compléter",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-08-25"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "1005",
@@ -7222,10 +7223,11 @@
         "Développement cognitif"
       ],
       "contenu": "-4 planches Labo-dortoir\n\n-1 lavoir des monstres\n\n-3 dés\n\n-1 contenant de 120 céréales\n\n-1 contenant supplémentaire de 140 céréales\n\n-90 jetons\n\n-20 monstres\n\n-60 cartes de jeu\n\n-8 supports à cartes\n\n-Règles du jeu (français et anglais)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0489",
@@ -7596,10 +7598,11 @@
         "Développement affectif"
       ],
       "contenu": "- 1 plateau de jeu\n- 80 chariots (blancs noires mauves oranges) + 8 extras\n- 72 cartes\n- 33 tickets\n- 1 carte jackpot\n- 4 cartes bonus\n- Règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0557",
@@ -7668,10 +7671,11 @@
         "Développement du langage"
       ],
       "contenu": "-27 jetons feuilles\n\n-53 jetons noix\n\n-21 cartes \"Apprentis écureuils\"\n\n-21 cartes \"Écureuils aguerris\"\n\n-1 tableau correcteur\n\n-Règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0421",
@@ -7704,11 +7708,10 @@
         "Développement social"
       ],
       "contenu": "4 pions chenille\n1 plateau\n38 cartes\n20 pièces de casse-tête\nrègle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-12",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2026-06-12"
     },
     {
       "id": "0834",
@@ -8055,11 +8058,10 @@
         "Développement cognitif"
       ],
       "contenu": "5 Plateaux de jeux \n54 Cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-09",
-      "date_retour_prevue": "2026-07-29"
+      "date_acquisition": "2025-01-09"
     },
     {
       "id": "0723",
@@ -8755,10 +8757,11 @@
         "Développement motricité fine"
       ],
       "contenu": "Manque un morceau se joue pareil\n18 pièces",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0797",
@@ -10283,10 +10286,11 @@
         "Développement physique"
       ],
       "contenu": "-1 caisse en bois\n-12 quilles numérotées\n-1 quille lanceur\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-11"
+      "date_acquisition": "2025-06-11",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "1097",
@@ -11095,10 +11099,11 @@
         "Développement social"
       ],
       "contenu": "-108 cartes\n\n- Règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-30"
+      "date_acquisition": "2024-01-30",
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0640",
@@ -11132,11 +11137,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0534",
@@ -11993,11 +11997,10 @@
         "Développement physique"
       ],
       "contenu": "un tourniquet + buse\nun tapis\ninstructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-08",
-      "date_retour_prevue": "2026-08-25"
+      "date_acquisition": "2025-07-08"
     },
     {
       "id": "0082",
@@ -12288,7 +12291,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-05-07",
-      "date_retour_prevue": "2026-07-29"
+      "date_retour_prevue": "2026-10-03"
     },
     {
       "id": "0390",
