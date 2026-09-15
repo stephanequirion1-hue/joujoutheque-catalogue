@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-14T11:00:15.287Z",
+  "derniere_mise_a_jour": "2026-09-15T10:30:35.248Z",
   "total": 1028,
-  "disponibles": 937,
+  "disponibles": 936,
   "jouets": [
     {
       "id": "0085",
@@ -2536,10 +2536,11 @@
         "Développement motricité fine"
       ],
       "contenu": "550 puzzle\npostcard collection",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-10-05"
     },
     {
       "id": "0349",
@@ -4684,10 +4685,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 9 pilules recto verso\n\n- 1 plateau pilulier\n\n- 2 tuiles seringue ( tête et piston)\n\n- 15 cartes Produits (5 par couleurs/produit)\n\n- 1 cœur du patient (coussin péteur)\n\n- 1 plateau corps du patient\n\n- 18 cartes électrode (couleur peau)\n\n- 1 tableau pharma recto verso\n\n- 10 cartes charge du défibrillateur (vert)\n\n- 25 cartes téléphone/ charge du défibrillateur (rouge/vert)\n\n- 1 plateau de suture (avec un fil, une aiguille et une bobine)\n\n- 1 loupe\n\n- 4 pinces\n\n- 2 tuiles scanner\n\n- 24 cartes instrument\n\n- 12 cartes patient\n\n- 18 cartes épreuve instrument (gris)\n\n- 8 cartes épreuve injection (mauve)\n\n- 10 cartes épreuves radiographie (orange)\n\n- 10 cartes épreuves examen (bleu foncé)\n\n- 10 cartes épreuve prescription (rose)\n\n- 10 cartes épreuve suture (vert)\n\n- 10 cartes électrode (bleu pâle)\n\n- 8 cartes épreuve scanneur (jaune)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-01"
+      "date_acquisition": "2025-12-01",
+      "date_retour_prevue": "2026-10-05"
     },
     {
       "id": "0275",
@@ -6147,11 +6149,10 @@
         "Développement social"
       ],
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-03-02",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2024-03-02"
     },
     {
       "id": "1041",
@@ -9556,10 +9557,11 @@
         "Développement du langage"
       ],
       "contenu": "-3 jeux de 54 cartes\n\n-Guide d'accompagnement / Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-10-05"
     },
     {
       "id": "0122",
@@ -9653,11 +9655,10 @@
         "Développement cognitif"
       ],
       "contenu": "-1 plateau de jeu en 10 morceaux\n\n- 24 jetons-combattants: \n(6 jaunes, 6 verts, 6 roses, 6 bleus)\n\n-4 tuiles-châteaux\n\n-12 tuiles-forteresses\n\n-Guide d'accompagnement / Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0163",
@@ -9801,11 +9802,10 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu (9 morceaux de casse-tête)\n\n-11 jetons \"Singe\"\n\n-1 jeton \"Gardien\"\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-07",
-      "date_retour_prevue": "2026-07-03"
+      "date_acquisition": "2024-02-07"
     },
     {
       "id": "0167",
@@ -11185,10 +11185,11 @@
         "Développement social"
       ],
       "contenu": "64 carte\nrèglement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-10-05"
     },
     {
       "id": "0864",
