@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-17T10:29:24.519Z",
-  "total": 1028,
-  "disponibles": 936,
+  "derniere_mise_a_jour": "2026-09-18T10:05:39.249Z",
+  "total": 1029,
+  "disponibles": 940,
   "jouets": [
     {
       "id": "0085",
@@ -411,10 +411,11 @@
         "Développement cognitif"
       ],
       "contenu": "-3 camions\n\n-10 pièces\n\n-1 livret\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0734",
@@ -4331,10 +4332,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0182",
@@ -4380,11 +4382,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 dé couleur\n\n-1 dé chiffre\n\n-1 tête d'écureuil\n\n-30 noisettes en bois\n(6 bleus, 6 jaunes, 6 mauves, 6 oranges, 6 vertes)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-09-23"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0554",
@@ -4600,11 +4601,10 @@
         "Développement social"
       ],
       "contenu": "35 cartes expédition\n1 plateau de jeu\n16 cartes décision\n100 pierres précieuses\n5 tuiles Entrée de grotte\n8 pions\n8 coffres\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-20",
-      "date_retour_prevue": "2026-09-07"
+      "date_acquisition": "2026-05-20"
     },
     {
       "id": "0379",
@@ -6478,8 +6478,7 @@
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-09-11",
-      "date_retour_prevue": "2026-09-23"
+      "date_acquisition": "2024-09-11"
     },
     {
       "id": "0414",
@@ -7127,11 +7126,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu avec fromage géants\n\n-3 échelles\n\n-17 morceaux de fromage\n\n-1 chat\n\n-4 souris (mauve, bleue, verte, orange)\n\n-1 dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-09-07"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0229",
@@ -7273,11 +7271,10 @@
         "Développement affectif"
       ],
       "contenu": "- 8 pièces de casse-tête\n\n- 4 vaisseaux\n\n- 1 règles du jeu\n\n- 8 cartes émotions\n\n- 1  carte aide mémoire des émotions\n\n- 80 cartes de situations /émotions\n\n- 1 Dé",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-09-23"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0226",
@@ -7466,11 +7463,10 @@
         "Développement cognitif"
       ],
       "contenu": "-1 plateau de jeu\n\n-5 tuiles de jeu avec fleur\n\n-2 figurines\n\n-3 sapins\n\n-1 maison\n\n-1 livret de 48 défis\n\n-1 bande dessinée\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0261",
@@ -8722,10 +8718,11 @@
         "Développement social"
       ],
       "contenu": "- 4 plateaux de jeu\n\n- 1 dé\n\n- 4 drapeaux ronds\n\n- 4 drapeaux carrés\n\n- 10 ronds légumes\n\n- 10 ronds vêtements\n\n- 10 ronds musique\n\n- 10 ronds  fruits\n\n- 10 carrés cuisine\n\n- 10 carrés toilette\n\n- 10 carrés mer\n\n- 10 carrés transports",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-02"
+      "date_acquisition": "2024-02-02",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0227",
@@ -8746,10 +8743,11 @@
         "Développement mémoire"
       ],
       "contenu": "-règlements\n- 40 jetons\n- 4 planches de jeu\n- 1 roulette\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-03-27"
+      "date_acquisition": "2025-03-27",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0415",
@@ -8904,11 +8902,10 @@
         "Développement du langage"
       ],
       "contenu": "-108 pastilles\n\n-1 dé\n\n-1 tapis de jeu\n\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-09-23"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0202",
@@ -9050,10 +9047,11 @@
         "Développement du langage"
       ],
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0375",
@@ -9411,10 +9409,11 @@
         "Développement affectif"
       ],
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-27"
+      "date_acquisition": "2024-01-27",
+      "date_retour_prevue": "2026-10-08"
     },
     {
       "id": "0125",
@@ -9618,11 +9617,10 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu Tiroir\n\n-1 guide de rangement\n\n-5 bobettes bleues poissons\n\n-4 bobettes vertes\n\n-4 bobettes étoiles\n\n-4 bobettes jaunes\n\n-4 bobettes picos\n\n-4 bobettes bleues\n\n-4 bobettes roses\n\n-4 bobettes carreautées\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-20",
-      "date_retour_prevue": "2026-09-15"
+      "date_acquisition": "2024-01-20"
     },
     {
       "id": "0126",
@@ -9715,11 +9713,10 @@
         "Développement du langage"
       ],
       "contenu": "-1 plateau de jeu (7 morceaux de casse-tête)\n\n-70 cartes questions \"Pourquoi\"\n\n-14 cartes Personnages-coupables\n\n-4 pions détectives\n\n-1 dé\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-20",
-      "date_retour_prevue": "2026-09-15"
+      "date_acquisition": "2024-01-20"
     },
     {
       "id": "0072",
@@ -9765,11 +9762,10 @@
         "Développement du langage"
       ],
       "contenu": "-10 paquets de 6 cartes (Classées par couleur)\n\n-2 cartes flèche\n\n-1 carte coeur\n\n-1 planche de jeu\n\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-06-21"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0110",
@@ -12268,6 +12264,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-07-09"
+    },
+    {
+      "id": "1132",
+      "nom": "When i dream",
+      "categories": [
+        "Développement mémoire",
+        "Développement du langage"
+      ],
+      "contenu": "11 cartes esprit du rêve\n110 cartes Rêve\n104 jetons - point\n1 lit + tête de lit\n 1 plateau\n1 masque\n1 sablier\n1 livret de règles",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-17"
     },
     {
       "id": "1075",
