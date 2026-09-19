@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-18T10:05:39.249Z",
+  "derniere_mise_a_jour": "2026-09-19T09:46:53.148Z",
   "total": 1029,
-  "disponibles": 940,
+  "disponibles": 939,
   "jouets": [
     {
       "id": "0085",
@@ -5773,10 +5773,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 trapèzes\n\n-6 rectangles\n\n-12 petits triangles\n\n-8 grands triangles\n\n-36 carrés\n\n-2 blocs spinner\n\n-2 blocs LED-light\n\n-Guide d'accompagnement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-10-09"
     },
     {
       "id": "0191",
@@ -9846,11 +9847,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 plasma car\n- * Livret d'assemblage et clé hexagonale dans notre armoire *",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-06-20"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0476",
@@ -11083,10 +11083,11 @@
         "Développement social"
       ],
       "contenu": "120 cartes\n10 verres\n5 balles\n4 dés\n2 baguettes\n1 corde\n1 bandeau pour les yeux¸\n1 sablier (30 sec)¸\n1 marqueur, 1 tableau de scores effaçable",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-10-09"
     },
     {
       "id": "0210",
