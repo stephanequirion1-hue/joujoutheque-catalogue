@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-20T10:08:39.325Z",
+  "derniere_mise_a_jour": "2026-09-21T11:09:51.841Z",
   "total": 1029,
-  "disponibles": 939,
+  "disponibles": 936,
   "jouets": [
     {
       "id": "0085",
@@ -5737,10 +5737,11 @@
         "Développement social"
       ],
       "contenu": "-1 grand garage fisher price\n- 4 grosse voiture : 1 jaune, 1 verte, 1 pompier, 1 police",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-10-11"
     },
     {
       "id": "0254",
@@ -5810,11 +5811,10 @@
         "Développement cognitif"
       ],
       "contenu": "36 Tuiles de jeu\n\n \n\n1 Livret de jeu\n\n \n\n1 Autocorrecteur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-09-07"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0255",
@@ -6210,10 +6210,11 @@
         "Développement motricité fine"
       ],
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-10-11"
     },
     {
       "id": "0712",
@@ -7718,11 +7719,10 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n4 figurines héros, \n4 oeuf de dragons, \n4 fiches de héros\n1 dé de placement\n5 dé combat héros\n4 dé de combat monstre\n81 pièces d'or\n14 jetons blessure\n4 jetons pouvoir spécial\n204 carte\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-25",
-      "date_retour_prevue": "2026-08-31"
+      "date_acquisition": "2025-08-25"
     },
     {
       "id": "0098",
@@ -8574,10 +8574,11 @@
         "Développement physique"
       ],
       "contenu": "8 chaise verte\n8 chaise rouge\n8 chaise bleu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-10-11"
     },
     {
       "id": "0516",
@@ -10453,10 +10454,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-2 éléments de forteresse pliables\n\n-4 créneaux de forteresse\n\n-1 tour\n\n-4 escaliers\n\n-1 case d'arrivée\n\n-1 dé\n\n-4 pions (figurines de jeu \"fantômes\")\n\n-3 boules\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-10-11"
     },
     {
       "id": "0863",
@@ -10998,10 +11000,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 station avec sac de frappe\n- 1 paire de gants de boxe\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-10-11"
     },
     {
       "id": "1020",
