@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-21T11:09:51.841Z",
+  "derniere_mise_a_jour": "2026-09-22T10:23:36.969Z",
   "total": 1029,
-  "disponibles": 936,
+  "disponibles": 931,
   "jouets": [
     {
       "id": "0085",
@@ -229,11 +229,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 assiette\n\n- 1 coupe pizza\n\n- 1 spatule\n\n- 6 morceaux de pizza\n\n- 14 tranches de peppéroni\n\n- 14 morceaux de poivrons\n\n- 12 tranches de champignons",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-25",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2025-04-25"
     },
     {
       "id": "0271",
@@ -690,10 +689,11 @@
         "Développement social"
       ],
       "contenu": "- Bateau Pat Patrouille\n\n- 6 personnages : Marcus, Chase, Ruben, Zuma, Rocky, Everest\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-26"
+      "date_acquisition": "2026-01-26",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0963",
@@ -2778,10 +2778,11 @@
         "Développement affectif"
       ],
       "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-08"
+      "date_acquisition": "2025-05-08",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0102",
@@ -3031,10 +3032,11 @@
         "Développement social"
       ],
       "contenu": "- 1 Plateau\n\n- 1 Coffre\n\n- 1 Pion\n\n- 1 Château\n\n- 6 Tours\n\n- 3 Buissons\n\n- 21 Clefs\n\n- 42 Cristaux\n\n- 3 Dés\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-02"
+      "date_acquisition": "2024-10-02",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0071",
@@ -4454,11 +4456,10 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 frigo\n1 chaudron avec couvercle\n1 couteau et 1 cuillère\n4 Gros shopkins\n2 glaçons\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-15",
-      "date_retour_prevue": "2026-09-09"
+      "date_acquisition": "2026-05-15"
     },
     {
       "id": "0307",
@@ -5811,10 +5812,11 @@
         "Développement cognitif"
       ],
       "contenu": "36 Tuiles de jeu\n\n \n\n1 Livret de jeu\n\n \n\n1 Autocorrecteur",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0255",
@@ -8868,10 +8870,11 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-09"
+      "date_acquisition": "2025-12-09",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0741",
@@ -9848,10 +9851,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 plasma car\n- * Livret d'assemblage et clé hexagonale dans notre armoire *",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-05"
+      "date_acquisition": "2025-06-05",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0476",
@@ -11354,10 +11358,11 @@
         "Développement social"
       ],
       "contenu": "- 1 Téléphone à roulettes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-10-12"
     },
     {
       "id": "0803",
