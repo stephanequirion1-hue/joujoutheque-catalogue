@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-25T10:36:33.678Z",
+  "derniere_mise_a_jour": "2026-09-26T10:20:05.101Z",
   "total": 1029,
-  "disponibles": 931,
+  "disponibles": 929,
   "jouets": [
     {
       "id": "0085",
@@ -6152,10 +6152,11 @@
         "Développement social"
       ],
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-03-02"
+      "date_acquisition": "2024-03-02",
+      "date_retour_prevue": "2026-10-16"
     },
     {
       "id": "1041",
@@ -11274,10 +11275,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 plateau\n36 bâtonnets\n4 élément de décor\n2 règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-06-12"
+      "date_acquisition": "2026-06-12",
+      "date_retour_prevue": "2026-10-16"
     },
     {
       "id": "0929",
