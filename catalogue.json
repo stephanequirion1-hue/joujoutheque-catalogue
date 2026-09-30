@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-09-29T11:37:14.051Z",
-  "total": 1029,
-  "disponibles": 929,
+  "derniere_mise_a_jour": "2026-09-30T11:24:57.725Z",
+  "total": 1030,
+  "disponibles": 930,
   "jouets": [
     {
       "id": "0085",
@@ -333,11 +333,11 @@
     },
     {
       "id": "0764",
-      "nom": "Avion patpatrouille",
+      "nom": "Avion patpatrouille Accessoires dans l'armoire blanche",
       "categories": [
         "Développement social"
       ],
-      "contenu": "- Avion pat patrouille",
+      "contenu": "- Avion pat patrouille\n\n- personnages : Marcus, Chasse, Ruben et Stella \n\n- accessoires dans l'armoire blanche, sac 0764",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -7836,6 +7836,18 @@
       "date_acquisition": "2026-02-02"
     },
     {
+      "id": "0945",
+      "nom": "livre",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "- 1 livre",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-01-26"
+    },
+    {
       "id": "0262",
       "nom": "Livre Géant Intéractif",
       "categories": [
@@ -7894,18 +7906,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-24"
-    },
-    {
-      "id": "0945",
-      "nom": "Livre Tie my shoes",
-      "categories": [
-        "Développement motricité fine"
-      ],
-      "contenu": "- 1 livre",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0729",
@@ -8827,6 +8827,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-07-16"
+    },
+    {
+      "id": "1133",
+      "nom": "Mouse Trap",
+      "categories": [
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "Planchette de jeu\n4 souris\n2 balles ( billes)\n1 élastique\n1 dé\n25 pièces et Accessoires du ``Bidule`` \n40 pointes de fromages\nplan de construction et les Règles du jeu",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-09-29"
     },
     {
       "id": "0173",
@@ -11666,7 +11679,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 , Claw.\n\n- Accessoires dans l'armoire blanche sac # 0947",
+      "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 \n\n- 2 avions Marcus\n\n- 1 camion de pompier Marcus\n\n- Accessoires dans l'armoire blanche sac # 0947",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
