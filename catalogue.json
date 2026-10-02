@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-01T11:52:04.630Z",
-  "total": 1030,
-  "disponibles": 938,
+  "derniere_mise_a_jour": "2026-10-02T11:24:21.415Z",
+  "total": 1032,
+  "disponibles": 939,
   "jouets": [
     {
       "id": "0085",
@@ -4147,10 +4147,11 @@
         "Développement affectif"
       ],
       "contenu": "- 1 one pièce Spiderman\n\n- 2 masques\n\n- 1 paire de gants\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-10-22"
     },
     {
       "id": "0887",
@@ -5105,11 +5106,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 sac de transport\n\n- 4 sac de sable\n\n- 6 Pickett ( il en reste seulement 2) 11 septembre 2025 CD\n\n- 4pickett en U\n\n- 1 ballon de volley\n\n- 2 pieds\n\n- 14 tiges de différente longueur\n\n- instruction de montage (instruction manquantes, 12 sept 2025)\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-17",
-      "date_retour_prevue": "2026-08-06"
+      "date_acquisition": "2025-06-17"
     },
     {
       "id": "0649",
@@ -5503,10 +5503,11 @@
         "Développement social"
       ],
       "contenu": "- 290 cartes sujet\n\n- 10 carte préférence (2 séries numérotées de 1 à 5)\n\n- 1 carnet de score",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-20"
+      "date_acquisition": "2025-11-20",
+      "date_retour_prevue": "2026-10-22"
     },
     {
       "id": "0854",
@@ -6414,11 +6415,10 @@
         "Développement physique"
       ],
       "contenu": "-2 échelles\n-4 pattes + 4 boutons à boulon\n-6 ensemble de 2 balles avec corde (3 jaunes et 3 rouges)\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-11",
-      "date_retour_prevue": "2026-08-24"
+      "date_acquisition": "2025-06-11"
     },
     {
       "id": "0820",
@@ -7045,6 +7045,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-01"
+    },
+    {
+      "id": "1134",
+      "nom": "La boîte à énigmes Junior",
+      "categories": [
+        "Développement mémoire",
+        "Développement du langage",
+        "Développement social"
+      ],
+      "contenu": "- 78 cartes\n\n- 1 livret règles et solutions\n\n- 1 sablier",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-01"
     },
     {
       "id": "0424",
@@ -8605,6 +8619,21 @@
       "date_acquisition": "2024-02-07"
     },
     {
+      "id": "1135",
+      "nom": "Mondo",
+      "categories": [
+        "Développement cognitif",
+        "Développement mémoire",
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "- 4 Plateaux Mondo\n\n- 136 tuiles Paysage\n\n- 1 Jeton volcan\n\n- 4 Jeton Bonus\n\n- 5 tuiles Modificateur\n\n- 12 tuiles Objectif supplémentaire\n\n- 1 Bloc de score\n\n- ( le minuteur n'est pas inclus dans la boite)",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-01"
+    },
+    {
       "id": "0055",
       "nom": "Monkeying Around",
       "categories": [
@@ -10055,10 +10084,11 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-10-22"
     },
     {
       "id": "0915",
@@ -11024,7 +11054,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige",
+      "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige \n1 chien Robot",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
