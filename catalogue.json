@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-02T11:24:21.415Z",
-  "total": 1032,
-  "disponibles": 939,
+  "derniere_mise_a_jour": "2026-10-03T10:41:36.000Z",
+  "total": 1033,
+  "disponibles": 941,
   "jouets": [
     {
       "id": "0085",
@@ -276,11 +276,10 @@
         "Développement cognitif"
       ],
       "contenu": "-8 fraises\n\n-8 bananes\n\n-8 pommes vertes\n\n-8 oranges\n\n-8 raisins\n\n-2 pinces\n\n-1 présentoir avec affiche\n\n-1 roulette fléchée",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-08-20"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0170",
@@ -1449,11 +1448,10 @@
         "Développement physique"
       ],
       "contenu": "carte du monde + crayon",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-07",
-      "date_retour_prevue": "2026-08-20"
+      "date_acquisition": "2026-05-07"
     },
     {
       "id": "0562",
@@ -2942,10 +2940,11 @@
         "Développement mémoire"
       ],
       "contenu": "16 chocolat\n1 dé sous bulle\ninstructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-10-23"
     },
     {
       "id": "0478",
@@ -7568,6 +7567,21 @@
       "date_acquisition": "2024-02-03"
     },
     {
+      "id": "1136",
+      "nom": "Learning Ressources ( Anglais)",
+      "categories": [
+        "Développement cognitif",
+        "Développement mémoire",
+        "Développement motricité fine",
+        "Développement du langage"
+      ],
+      "contenu": "- 17 personnages\n\n- 12 boutons\n\n- 1 pince\n\n- 1 ciseau\n\n- 2 cartes en forme de maison\n\n- 1 guide parents\n\n- 1 cahier d'exercices\n\n- 26 lettres et lacet, 24 cartes chiffres( manque 2,3,4,7)\n\n- 2 dés",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-02"
+    },
+    {
       "id": "0398",
       "nom": "Légo à assembler",
       "categories": [
@@ -8323,11 +8337,10 @@
         "Développement cognitif"
       ],
       "contenu": "1 planche planète, 4 pions avec supports, 48 cartes Vaisseau, 20 cartes Planètes, 30 cartes fusée, 40 jetons de calcul,\n2 bandelettes de calcul, 2 fusées, 1 dé, 3 pastille comète, Aide-mémoire, Règles du jeu, manque 2",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-08",
-      "date_retour_prevue": "2026-06-18"
+      "date_acquisition": "2025-01-08"
     },
     {
       "id": "1076",
@@ -9988,10 +10001,11 @@
         "Développement physique"
       ],
       "contenu": "- 6 épées Bleues\n\n- 6 épées vertes\n\n- 6 épées jaunes\n\n- 6 épées rouges\n\n- 1 tonneau\n\n- 1 pirate",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-10-23"
     },
     {
       "id": "0792",
