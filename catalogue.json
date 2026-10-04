@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-03T10:41:36.000Z",
+  "derniere_mise_a_jour": "2026-10-04T11:21:43.096Z",
   "total": 1033,
-  "disponibles": 941,
+  "disponibles": 944,
   "jouets": [
     {
       "id": "0085",
@@ -264,10 +264,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 12 oeufs avec formes (24 morceaux)\n\n- 1 autobus\n\n \nNote: Même article que 0587. À fusionner, un code à effacer sur le jouet.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-11"
+      "date_acquisition": "2026-02-11",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0093",
@@ -481,10 +482,11 @@
         "Développement physique"
       ],
       "contenu": "ballon basket",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-10"
+      "date_acquisition": "2026-07-10",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0654",
@@ -1313,11 +1315,10 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-03",
-      "date_retour_prevue": "2026-08-28"
+      "date_acquisition": "2025-11-03"
     },
     {
       "id": "0608",
@@ -1338,11 +1339,10 @@
         "Développement social"
       ],
       "contenu": "- 1 camion vert",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-09-30"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0180",
@@ -2518,10 +2518,11 @@
         "Développement motricité fine"
       ],
       "contenu": "36 morceaux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-09"
+      "date_acquisition": "2026-01-09",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0742",
@@ -3038,10 +3039,11 @@
         "Développement du langage"
       ],
       "contenu": "-12 pièces\n\n-8 cartes\n\n-1 planche de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0535",
@@ -4414,10 +4416,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- cube interactif\n- 13 blocs ( disponible dans l'armoire bénévole)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-28"
+      "date_acquisition": "2025-09-28",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "1084",
@@ -4498,11 +4501,10 @@
         "Développement physique"
       ],
       "contenu": "-4 fléchettes\n-2 anneaux verts\n-1 sac noir\n-1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-15",
-      "date_retour_prevue": "2026-09-25"
+      "date_acquisition": "2025-06-15"
     },
     {
       "id": "0987",
@@ -4947,11 +4949,10 @@
         "Développement physique"
       ],
       "contenu": "- 4 raquettes\n- 3 moineaux\n- 1 filet : filet, 1 corde de tension et 4 piquet\n- 6 poteau\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-09-25"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0645",
@@ -5746,10 +5747,11 @@
         "Développement social"
       ],
       "contenu": "-1 garage Fisher Price / Little People",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0746",
@@ -6208,11 +6210,10 @@
         "Développement motricité fine"
       ],
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-15",
-      "date_retour_prevue": "2026-10-11"
+      "date_acquisition": "2025-12-15"
     },
     {
       "id": "0712",
@@ -7054,10 +7055,11 @@
         "Développement social"
       ],
       "contenu": "- 78 cartes\n\n- 1 livret règles et solutions\n\n- 1 sablier",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-01"
+      "date_acquisition": "2026-10-01",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0424",
@@ -7102,11 +7104,10 @@
         "Développement mémoire"
       ],
       "contenu": "- 40 Cartes pirates\n- 1 ile ( plateau)\n- 10 cartes rondes\n- 4 cachettes\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-02",
-      "date_retour_prevue": "2026-09-30"
+      "date_acquisition": "2024-10-02"
     },
     {
       "id": "0990",
@@ -7235,11 +7236,10 @@
         "Développement cognitif"
       ],
       "contenu": "-4 planches Labo-dortoir\n\n-1 lavoir des monstres\n\n-3 dés\n\n-1 contenant de 120 céréales\n\n-1 contenant supplémentaire de 140 céréales\n\n-90 jetons\n\n-20 monstres\n\n-60 cartes de jeu\n\n-8 supports à cartes\n\n-Règles du jeu (français et anglais)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0489",
@@ -7697,11 +7697,10 @@
         "Développement du langage"
       ],
       "contenu": "-27 jetons feuilles\n\n-53 jetons noix\n\n-21 cartes \"Apprentis écureuils\"\n\n-21 cartes \"Écureuils aguerris\"\n\n-1 tableau correcteur\n\n-Règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0421",
@@ -8601,11 +8600,10 @@
         "Développement physique"
       ],
       "contenu": "8 chaise verte\n8 chaise rouge\n8 chaise bleu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-11",
-      "date_retour_prevue": "2026-10-11"
+      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0516",
@@ -8848,11 +8846,10 @@
         "Développement physique"
       ],
       "contenu": "1 moto",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-10",
-      "date_retour_prevue": "2026-08-28"
+      "date_acquisition": "2025-11-10"
     },
     {
       "id": "0320",
@@ -11056,11 +11053,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 station avec sac de frappe\n- 1 paire de gants de boxe\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-10-11"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "1020",
@@ -11168,11 +11164,10 @@
         "Développement physique"
       ],
       "contenu": "- base/coffret de rangement\n\n- 2 raquettes\n\n- Balle de tennis\n\n- 1 mât ajustable (4 section) avec 3 embouts d'assemblages\n\n- mode d'emploi\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-09-25"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0069",
@@ -11717,10 +11712,11 @@
         "Développement social"
       ],
       "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 \n\n- 2 avions Marcus\n\n- 1 camion de pompier Marcus\n\n- Accessoires dans l'armoire blanche sac # 0947",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-26"
+      "date_acquisition": "2026-01-26",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0588",
@@ -11754,10 +11750,11 @@
         "Développement social"
       ],
       "contenu": "Tracteur John Deere avec 6 vis qui font tenir les roues, le capo et le top\nSac d'accessoire 1117 dans l'armoire\n- Drill avec embout tournevis étoile et plat\nBesoin de pile",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-08-14"
+      "date_acquisition": "2026-08-14",
+      "date_retour_prevue": "2026-10-24"
     },
     {
       "id": "0150",
