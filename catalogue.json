@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-10-04T11:21:43.096Z",
+  "derniere_mise_a_jour": "2026-10-05T12:44:20.007Z",
   "total": 1033,
   "disponibles": 944,
   "jouets": [
@@ -1574,18 +1574,6 @@
       "date_acquisition": "2025-04-25"
     },
     {
-      "id": "0597",
-      "nom": "Casse tête 24 morceaux ToyStory",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "- 24 morceaux toystory",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-04-25"
-    },
-    {
       "id": "1003",
       "nom": "casse- Tête 30 morceaux",
       "categories": [
@@ -3089,6 +3077,18 @@
         "Développement cognitif"
       ],
       "contenu": "44 Cartes",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2025-01-09"
+    },
+    {
+      "id": "0521",
+      "nom": "CLUEDO",
+      "categories": [
+        "Développement mémoire"
+      ],
+      "contenu": "1 Carte crime\n12 Cartes indice (-1 manque salle à manger)\n4x12 séries de cartes dossier de l`affaire \n2 Cartes de rappel des règles \n6 Cartes de profil de personnage\n1 Boîtier",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -8008,7 +8008,7 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "lot de 3 casse-tête 24 morceaux chaque",
+      "contenu": "lot de 2 casse-tête 24 morceaux chaque",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
