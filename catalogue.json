@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-05T12:44:20.007Z",
+  "derniere_mise_a_jour": "2026-10-06T12:15:21.649Z",
   "total": 1033,
-  "disponibles": 944,
+  "disponibles": 939,
   "jouets": [
     {
       "id": "0085",
@@ -301,10 +301,11 @@
         "Développement physique"
       ],
       "contenu": "avion",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-02"
+      "date_acquisition": "2026-01-02",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0578",
@@ -1025,10 +1026,11 @@
         "Développement social"
       ],
       "contenu": "- plateau de jeu\n\n- écran\n\n- 100 cartes jeu (50 par paquet)\n\n- 8 cartes bluffer (4 par couleurs)\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0953",
@@ -1204,7 +1206,7 @@
       "categories": [
         "Développement mémoire"
       ],
-      "contenu": "a faire",
+      "contenu": "- 4 planches de jeu\n\n- 36 cartes",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -2519,11 +2521,10 @@
         "Développement motricité fine"
       ],
       "contenu": "550 puzzle\npostcard collection",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-10-05"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0349",
@@ -2567,9 +2568,9 @@
       "categories": [
         "Développement motricité fine"
       ],
-      "contenu": "30 tuiles de terrain, foret 6, pré 6, champs 6, colline 5, montagne 5, désert 2\n6 piece de cadre avec 9 port\n95 carte de ressources (19 chaque type)\nbois, laine blé, argile, minerai\n25 carte développement, chevalier 14, progrès 6, point de victoire 5 \n4 fiche de couts de constructions, 2 fiche spécial route de commerciale et armée puissante 2 sabots, 6 boites de rangement pour figurine, 16 ville 20 colonie 60 route, 2 dées rouge et jaune 1 pions voleurs, 2 pions menhir, 84 lettre de change, 14 jetons catan 1 fiche guildes 1 plateau de jeu réversible 19 jetons pousse pousse",
-      "statut": "Disponible",
-      "disponible": true,
+      "contenu": "30 tuiles de terrain, foret 6, pré 6, champs 6, colline 5, montagne 5, désert 2\n6 piece de cadre avec 9 port\n95 carte de ressources (19 chaque type)\nbois, laine blé, argile, minerai\n25 carte développement, chevalier 14, progrès 6, point de victoire 5 \n4 fiche de couts de constructions, 2 fiche spécial route de commerciale et armée puissante 2 sabots, 6 boites de rangement pour figurine, 16 ville 20 colonie 60 route, 2 dées rouge et jaune 1 pions voleurs, 2 pions menhir, 84 lettre de change, 14 jetons catan 1 fiche guildes 1 plateau de jeu réversible 19 jetons pousse pousse \n \nREMISÉ (extensions manquantes)",
+      "statut": "Remisé",
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2025-07-17"
     },
@@ -3763,10 +3764,11 @@
         "Développement social"
       ],
       "contenu": "- Un costume de lion",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-28"
+      "date_acquisition": "2025-11-28",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0890",
@@ -3944,10 +3946,11 @@
         "Développement social"
       ],
       "contenu": "-1 chandail à zip pompier\n-1 pantalon noir",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0350",
@@ -4016,10 +4019,11 @@
         "Développement social"
       ],
       "contenu": "1 robe",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-28"
+      "date_acquisition": "2025-11-28",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0143",
@@ -4682,11 +4686,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 9 pilules recto verso\n\n- 1 plateau pilulier\n\n- 2 tuiles seringue ( tête et piston)\n\n- 15 cartes Produits (5 par couleurs/produit)\n\n- 1 cœur du patient (coussin péteur)\n\n- 1 plateau corps du patient\n\n- 18 cartes électrode (couleur peau)\n\n- 1 tableau pharma recto verso\n\n- 10 cartes charge du défibrillateur (vert)\n\n- 25 cartes téléphone/ charge du défibrillateur (rouge/vert)\n\n- 1 plateau de suture (avec un fil, une aiguille et une bobine)\n\n- 1 loupe\n\n- 4 pinces\n\n- 2 tuiles scanner\n\n- 24 cartes instrument\n\n- 12 cartes patient\n\n- 18 cartes épreuve instrument (gris)\n\n- 8 cartes épreuve injection (mauve)\n\n- 10 cartes épreuves radiographie (orange)\n\n- 10 cartes épreuves examen (bleu foncé)\n\n- 10 cartes épreuve prescription (rose)\n\n- 10 cartes épreuve suture (vert)\n\n- 10 cartes électrode (bleu pâle)\n\n- 8 cartes épreuve scanneur (jaune)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-01",
-      "date_retour_prevue": "2026-10-05"
+      "date_acquisition": "2025-12-01"
     },
     {
       "id": "0275",
@@ -4940,7 +4943,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-07-09",
-      "date_retour_prevue": "2026-08-05"
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0661",
@@ -5298,11 +5301,10 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu\n\n- 1 Buzzer\n\n- 396 cartes → 258 cartes Énoncés, 138 cartes Appel à tous",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-09",
-      "date_retour_prevue": "2026-08-05"
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "1006",
@@ -6788,10 +6790,11 @@
         "Développement social"
       ],
       "contenu": "- 400 cartes jeu de base\n\n- 80 cartes spéciales/bonus (69 cartes jaunes, 10 cartes vides, 1 cartes Instagram)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-15"
+      "date_acquisition": "2026-07-15",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0592",
@@ -6812,11 +6815,10 @@
         "Développement social"
       ],
       "contenu": "- 1 plateau de jeu\n\n- 1 dôme décodeur\n\n- 100 cartes défi\n\n- 4 pions rhino\n\n- 20 jetons santé\n\n- 2 dés classiques\n\n- 4 dés défi\n\n- 1 sablier\n\n- instruction et feuille de réponse possible ( indices à l'endos)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-25",
-      "date_retour_prevue": "2026-09-30"
+      "date_acquisition": "2025-04-25"
     },
     {
       "id": "0084",
@@ -7080,10 +7082,11 @@
         "Développement motricité fine"
       ],
       "contenu": "les instructions\n20 cartes de monstre\n14 carte de carton, 2 de chaque sort",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0200",
@@ -7513,10 +7516,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 carte aiguille avec flèche et base\n- 25 ``pierres sécuritaires'' en mouse colorée\n- 27 cartes de défi\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0100",
@@ -7997,10 +8001,11 @@
         "Développement social"
       ],
       "contenu": "300 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-08-15"
+      "date_acquisition": "2025-08-15",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0465",
@@ -8871,10 +8876,11 @@
         "Développement social"
       ],
       "contenu": "Planchette de jeu\n4 souris\n2 balles ( billes)\n1 élastique\n1 dé\n25 pièces et Accessoires du ``Bidule`` \n40 pointes de fromages\nplan de construction et les Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-09-29"
+      "date_acquisition": "2026-09-29",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0173",
@@ -9611,11 +9617,10 @@
         "Développement du langage"
       ],
       "contenu": "-3 jeux de 54 cartes\n\n-Guide d'accompagnement / Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-10-05"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0122",
@@ -9853,10 +9858,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu (9 morceaux de casse-tête)\n\n-11 jetons \"Singe\"\n\n-1 jeton \"Gardien\"\n\n-1 dé \n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-07"
+      "date_acquisition": "2024-02-07",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0167",
@@ -10944,11 +10950,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-3 mauve\n-3 orange\n-3 rouge\n-3 vertes\n-1 animal\n-Règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-16",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2024-07-16"
     },
     {
       "id": "0981",
@@ -11089,11 +11094,10 @@
         "Développement physique"
       ],
       "contenu": "5 poteaux métal longs, 2 poteaux avec bouchon longs, 4 petits poteaux courbés, 1 boite de 3 craies, 2 pieds, 3 balles de tennis , 2 raquettes tennis adulte, 2 raquettes tennis enfants, instructions, 1 filet, 1 sac",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0846",
@@ -11188,10 +11192,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0534",
@@ -11236,11 +11241,10 @@
         "Développement social"
       ],
       "contenu": "64 carte\nrèglement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-27",
-      "date_retour_prevue": "2026-10-05"
+      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0864",
@@ -11394,10 +11398,11 @@
         "Développement motricité fine"
       ],
       "contenu": "Téléphone à promener avec la corde",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-17"
+      "date_acquisition": "2025-04-17",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "0096",
@@ -11455,11 +11460,10 @@
         "Développement social"
       ],
       "contenu": "- 1 livret de règles\n\n- 1 plateau de jeu \n\n- 5 plateaux individuels\n\n- 17 cartes Corporation\n\n- 208 cartes Projet\n\n- 8 cartes Aide de jeu\n\n- 202 cubes Ressources (45 or, 30 argent, 127 bronze)\n\n- 200 cubes Joueur (40 de chaque couleurs)\n\n- 3 marqueurs pour le plateau (3 cubes blanc)\n\n- 9 tuiles Océan\n\n- 60 tuiles Cité/Forêt\n\n- 11 tuiles Spéciales\n\n- 1 marqueur premier joueur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-07",
-      "date_retour_prevue": "2026-09-30"
+      "date_acquisition": "2026-07-07"
     },
     {
       "id": "0582",
@@ -12306,10 +12310,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 36 cartes de jeux\n- 24 dés\n- 2 cartes d'instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-10-26"
     },
     {
       "id": "1100",
@@ -12427,11 +12432,10 @@
         "Développement social"
       ],
       "contenu": "- 88 jetons\n- 4 planches de jeu\n- 5 dés animaux\n- 1 gobelet\n- règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-04-30",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2024-04-30"
     },
     {
       "id": "0259",
