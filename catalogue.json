@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-06T12:15:21.649Z",
-  "total": 1033,
-  "disponibles": 939,
+  "derniere_mise_a_jour": "2026-10-07T12:06:31.483Z",
+  "total": 1034,
+  "disponibles": 943,
   "jouets": [
     {
       "id": "0085",
@@ -159,6 +159,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-03-27"
+    },
+    {
+      "id": "1136",
+      "nom": "All Ready for Preschool",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "- 17 personnages\n\n- 12 boutons\n\n- 1 pince\n\n- 1 ciseau\n\n- 2 cartes en forme de maison\n\n- 1 guide parents\n\n- 1 cahier d'exercices\n\n- 26 lettres et lacet, 24 cartes chiffres( manque 2,3,4,7)\n\n- 2 dés",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-02"
     },
     {
       "id": "0225",
@@ -1111,10 +1123,11 @@
         "Développement cognitif"
       ],
       "contenu": "48 cartes de jeu\n\n1 carte d'instruction\n\n1 dé\n\n \n\nN.B: instruction non plastifié mais en carton très solide",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-10-27"
     },
     {
       "id": "1074",
@@ -1231,11 +1244,10 @@
         "Développement social"
       ],
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "0512",
@@ -1377,11 +1389,10 @@
         "Développement social"
       ],
       "contenu": "- 4 Pions\n\n- 1 Plateau de jeu\n\n- 1 Tourniquet\n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-09",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "0599",
@@ -3404,10 +3415,11 @@
         "Développement cognitif"
       ],
       "contenu": "1 chapeau\n2 gants\n1 costume canard",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-10-27"
     },
     {
       "id": "0885",
@@ -4347,11 +4359,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau colline\n\n-18 cartes \"1 bond\"\n\n-12 cartes \"2 bonds\"\n\n-6 cartes \"3 bonds\"\n\n-4 pions mauves\n\n-4 pions roses\n\n-4 pions bleus\n\n-4 pions jaunes\n\n-Règles du jeu\n\n*Clôture brisée",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0063",
@@ -5024,11 +5035,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 support pour balle\n\n- 1 batte en mousse\n\n- 3 balles de base-ball en mousse",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0826",
@@ -5712,10 +5722,11 @@
         "Développement social"
       ],
       "contenu": "un plateau de jeu (le quartier)\n10 cartes personnages \n6 pions \n3 dés\ndes billets de banque ( 49 de 100$ 49 de 500$ 49 de 1000$ 25 de 5000$ 27 de 10 000$)\n372 carte a jouer: Automobile 18, Aventure70, banque 24, boxe 20, collecte 28, commerce 24, diamant 25, dossier 12, investissement 20, justice 24, mission 31, perle 25, protection 12, recrutement 39\nles règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-10"
+      "date_acquisition": "2025-07-10",
+      "date_retour_prevue": "2026-10-27"
     },
     {
       "id": "0881",
@@ -6645,9 +6656,9 @@
       "categories": [
         "Développement physique"
       ],
-      "contenu": "- 6 quilles Spiderman\n\n- 6 quilles tortue ninja\n\n- 2 balles",
-      "statut": "Disponible",
-      "disponible": true,
+      "contenu": "- 6 quilles Spiderman\n\n- 6 quilles tortue ninja\n\n- 2 balles (MANQUANTES)",
+      "statut": "En réparation",
+      "disponible": false,
       "photo": null,
       "date_acquisition": "2026-02-06"
     },
@@ -7569,21 +7580,6 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-03"
-    },
-    {
-      "id": "1136",
-      "nom": "Learning Ressources ( Anglais)",
-      "categories": [
-        "Développement cognitif",
-        "Développement mémoire",
-        "Développement motricité fine",
-        "Développement du langage"
-      ],
-      "contenu": "- 17 personnages\n\n- 12 boutons\n\n- 1 pince\n\n- 1 ciseau\n\n- 2 cartes en forme de maison\n\n- 1 guide parents\n\n- 1 cahier d'exercices\n\n- 26 lettres et lacet, 24 cartes chiffres( manque 2,3,4,7)\n\n- 2 dés",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2026-10-02"
     },
     {
       "id": "0398",
@@ -9046,7 +9042,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "-Plateau de jeu\n-45 cartes (5 chacune, sauf 6 de la carte 1)\n-16 pions (4 de chaque, vert/bleu/orange/rose)\n-Règlements",
+      "contenu": "-Plateau de jeu\n-45 cartes (5 chacune, sauf 6 de la carte 1)\n-16 pions (4 de chaque, vert/bleu/orange/rose)\n-Règlements (MANQUANTS)",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -9108,11 +9104,10 @@
         "Développement du langage"
       ],
       "contenu": "50 cartes devinette de 10 couleurs différents\n\n50 jetons jouet (rectangulaires)\n\n4 cartes coffre à jouets\n\nfeuille de règlement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0375",
@@ -9470,11 +9465,10 @@
         "Développement affectif"
       ],
       "contenu": "10 jetons émotions\n\n8 pièces de casse-tête reversible\n\n15 cartes jaunes\n\n15 cartes bleues\n\n15 cartes rouges\n\n15 cartes vertes\n\n1 règles de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-27",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2024-01-27"
     },
     {
       "id": "0125",
@@ -10234,11 +10228,10 @@
         "Développement motricité fine"
       ],
       "contenu": "6 Puzzles\n- 1 Puzzle Girafe 9 morceaux\n\n- 1 Puzzle Hippopotame 9 morceaux\n\n- 1 Puzzle Lion 6 morceaux\n\n- 1 Puzzle Crocodile 6 morceaux\n\n- 1 Puzzle Singe 4 morceaux\n\n- 1 Puzzle Toucan 4 morceaux\n\n5 pièces d'animaux (Girafe, Hippopotame, Lion, Crocodile, Singe)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-15",
-      "date_retour_prevue": "2026-08-12"
+      "date_acquisition": "2026-07-15"
     },
     {
       "id": "1109",
@@ -11155,11 +11148,10 @@
         "Développement social"
       ],
       "contenu": "-108 cartes\n\n- Règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-30",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2024-01-30"
     },
     {
       "id": "0640",
@@ -11277,10 +11269,11 @@
         "Développement social"
       ],
       "contenu": "- 28 parcelles + 2 parcelles panda ,28 sections de Bambou vert, 26 sections de Bambou jaune, 24 sections de Bambou rose,\n\n- 19 irrigations , 9 aménagements + 3 extras grises\n\n- 46 cartes objectif, 4 plateaux individuels, \n8 jetons actions, 1 dé météo, 1 figurine Panda, 1 figurine Jardinier.\n1 livret de règles.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-15"
+      "date_acquisition": "2026-04-15",
+      "date_retour_prevue": "2026-10-27"
     },
     {
       "id": "0304",
@@ -11533,11 +11526,10 @@
         "Développement social"
       ],
       "contenu": "- Règle du jeu\n- - 100 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-10-02"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "0988",
@@ -12276,6 +12268,19 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-08"
+    },
+    {
+      "id": "1137",
+      "nom": "Vtech basket et soccer",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "jeu vtech \nballon de soccer",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-10-06",
+      "date_retour_prevue": "2026-10-27"
     },
     {
       "id": "0443",
