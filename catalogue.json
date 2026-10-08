@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-10-07T12:06:31.483Z",
+  "derniere_mise_a_jour": "2026-10-08T12:16:41.467Z",
   "total": 1034,
   "disponibles": 943,
   "jouets": [
@@ -422,11 +422,10 @@
         "Développement cognitif"
       ],
       "contenu": "-3 camions\n\n-10 pièces\n\n-1 livret\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0734",
@@ -2869,10 +2868,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 livre\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-08"
+      "date_acquisition": "2025-09-08",
+      "date_retour_prevue": "2026-10-28"
     },
     {
       "id": "0914",
@@ -2978,10 +2978,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 60 cartes défis avec solutions\n- 3 cartes Légende\n- 1 plaque de jeu\n- 1 pièces de départ + une d'arrivé\n- 16 pièces ( 1 aiguillage, 2 ligne droite, 5 angle, 2 en T, 1 pont, 1 angle double, 1 blocage ) \n- 2 carnets d'instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-10-28"
     },
     {
       "id": "1031",
@@ -8785,11 +8786,10 @@
         "Développement mémoire"
       ],
       "contenu": "-règlements\n- 40 jetons\n- 4 planches de jeu\n- 1 roulette\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-03-27",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2025-03-27"
     },
     {
       "id": "0415",
