@@ -1,6 +1,6 @@
 {
-  "derniere_mise_a_jour": "2026-10-08T12:16:41.467Z",
-  "total": 1034,
+  "derniere_mise_a_jour": "2026-10-09T12:07:46.606Z",
+  "total": 1035,
   "disponibles": 943,
   "jouets": [
     {
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "0483",
-      "nom": "caisse enregistreuse",
+      "nom": "caisse enregistreuse ( accessoires dans l'armoire blanche)",
       "categories": [
         "Développement social"
       ],
@@ -2518,11 +2518,10 @@
         "Développement motricité fine"
       ],
       "contenu": "36 morceaux",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-09",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2026-01-09"
     },
     {
       "id": "0742",
@@ -3326,6 +3325,18 @@
       "date_acquisition": "2025-10-06"
     },
     {
+      "id": "1139",
+      "nom": "Costume : Abeille",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "1 costume d'abeille seule",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-08"
+    },
+    {
       "id": "1086",
       "nom": "Costume : Abeille",
       "categories": [
@@ -3493,6 +3504,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "1138",
+      "nom": "Costume : Chat Noir",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "1 costume noir de chat",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-08"
     },
     {
       "id": "1087",
@@ -4214,10 +4237,11 @@
         "Développement social"
       ],
       "contenu": "un chapeau, une robe",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-10-29"
     },
     {
       "id": "1044",
@@ -4402,18 +4426,6 @@
       "date_acquisition": "2024-01-18"
     },
     {
-      "id": "0554",
-      "nom": "Crystal Growing",
-      "categories": [
-        "Développement cognitif"
-      ],
-      "contenu": "3 sacs rock\n5 crystal growing\n3 bâtons\n4 contenants\n6 petits contenants",
-      "statut": "Disponible",
-      "disponible": true,
-      "photo": null,
-      "date_acquisition": "2025-03-04"
-    },
-    {
       "id": "0283",
       "nom": "Cube d'activité",
       "categories": [
@@ -4432,11 +4444,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- cube interactif\n- 13 blocs ( disponible dans l'armoire bénévole)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-09-28",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2025-09-28"
     },
     {
       "id": "1084",
@@ -4614,10 +4625,11 @@
         "Développement social"
       ],
       "contenu": "35 cartes expédition\n1 plateau de jeu\n16 cartes décision\n100 pierres précieuses\n5 tuiles Entrée de grotte\n8 pions\n8 coffres\nrègles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-20"
+      "date_acquisition": "2026-05-20",
+      "date_retour_prevue": "2026-10-29"
     },
     {
       "id": "0379",
@@ -5276,10 +5288,11 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-06"
+      "date_acquisition": "2026-02-06",
+      "date_retour_prevue": "2026-10-29"
     },
     {
       "id": "0991",
@@ -6030,11 +6043,10 @@
         "Développement social"
       ],
       "contenu": "-6 bandeaux\n-16 badge de scone\n-1 sablier\n-69 cartes illustrées\n-3 cartes de questions\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0223",
@@ -8434,10 +8446,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 110 cartes\n\n- 1 sablier\n\n- 2 feuilles de pointages plastifié\n\n- 1 crayon à encre sèche\n\n- les règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-09-10"
+      "date_acquisition": "2026-09-10",
+      "date_retour_prevue": "2026-10-29"
     },
     {
       "id": "0876",
@@ -9901,11 +9914,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 plasma car\n- * Livret d'assemblage et clé hexagonale dans notre armoire *",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-05",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2025-06-05"
     },
     {
       "id": "0476",
@@ -10967,10 +10979,11 @@
         "Développement social"
       ],
       "contenu": "40 jetons \n - 7 blancs, 7 bleus, 7 rouges, 7 verts, 7 noirs, 5 jaunes\n90 cartes\n- 40 niveau 1, 30 niveau 2, 20 niveau 3\n10 tuiles Nobles\n1 marqueur diamant\n2 livrets de règles (français et anglais)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-30"
+      "date_acquisition": "2026-04-30",
+      "date_retour_prevue": "2026-10-29"
     },
     {
       "id": "0216",
