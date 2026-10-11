@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-10T11:25:19.805Z",
-  "total": 1035,
-  "disponibles": 943,
+  "derniere_mise_a_jour": "2026-10-11T11:38:50.413Z",
+  "total": 1051,
+  "disponibles": 956,
   "jouets": [
     {
       "id": "0085",
@@ -3397,6 +3397,16 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "1152",
+      "nom": "Costume : Avengers",
+      "categories": [],
+      "contenu": "- Costume\n\n- masque",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
       "id": "1088",
       "nom": "Costume : Batman",
       "categories": [
@@ -3451,7 +3461,7 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 1 cape or et noir\n- 1 chapeau\n- 1 paire de gants",
+      "contenu": "- 1 cape or et noir\n\n- 1 paire de gants",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -3643,7 +3653,7 @@
       "categories": [
         "Développement du langage"
       ],
-      "contenu": "Un costume à fermeture éclair (one piece) de dragon vert taille 4-5 ans environ",
+      "contenu": "- Un costume à fermeture éclair (one piece) de dragon vert taille 4-5 ans environ\n\n- Chapeau",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -3831,6 +3841,17 @@
       "date_acquisition": "2024-07-19"
     },
     {
+      "id": "1140",
+      "nom": "Costume : Mario Bross",
+      "categories": [],
+      "contenu": "- costume\n\n- gants blanc\n\n- chapeau rouge\n\n- moustache sur bâtonnet",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-10-10",
+      "date_retour_prevue": "2026-10-31"
+    },
+    {
       "id": "0789",
       "nom": "Costume : masque de plume rouge et noir",
       "categories": [
@@ -3913,6 +3934,16 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-26"
+    },
+    {
+      "id": "1141",
+      "nom": "Costume : Pirate",
+      "categories": [],
+      "contenu": "- 1 veste\n\n- 1 Chapeau\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
     },
     {
       "id": "0331",
@@ -4074,6 +4105,26 @@
       "date_acquisition": "2024-01-22"
     },
     {
+      "id": "1147",
+      "nom": "Costume : Robe de sorcière",
+      "categories": [],
+      "contenu": "- Robe\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1151",
+      "nom": "Costume : Robe de sorcière",
+      "categories": [],
+      "contenu": "- 1 robe\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
       "id": "0884",
       "nom": "Costume : Robe fleurie",
       "categories": [
@@ -4151,7 +4202,7 @@
       "categories": [
         "Développement affectif"
       ],
-      "contenu": "1 sorcière noire et gris froissé\n- 1 robe et 1 cape",
+      "contenu": "1 sorcière noire et gris froissé\n- 1 robe \n\n-  1 cape\n\n-  1 ceinture\n\n- 1 collier pantagram",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -4219,6 +4270,17 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "1145",
+      "nom": "Costume : Transformeurs, BumbleBee",
+      "categories": [],
+      "contenu": "- Costume\n\n- Masque\n\n-",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-10-10",
+      "date_retour_prevue": "2026-10-31"
+    },
+    {
       "id": "0619",
       "nom": "Costume : Woody Toys story",
       "categories": [
@@ -4254,6 +4316,96 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-05-10"
+    },
+    {
+      "id": "1146",
+      "nom": "Costume: Bateau de pirate",
+      "categories": [],
+      "contenu": "- costume",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1144",
+      "nom": "Costume: Citrouille",
+      "categories": [],
+      "contenu": "- costume\n\n- chapeau\n\n- foulard\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1153",
+      "nom": "Costume: Dragon",
+      "categories": [],
+      "contenu": "- costume",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1155",
+      "nom": "Costume: Fée d'eau",
+      "categories": [],
+      "contenu": "- Costume\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1154",
+      "nom": "Costume: Ninja",
+      "categories": [],
+      "contenu": "- Costume 2 pieces",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1143",
+      "nom": "Costume: Papillon",
+      "categories": [],
+      "contenu": "- Costume",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1148",
+      "nom": "Costume: Robe Anna",
+      "categories": [],
+      "contenu": "- Robe",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1149",
+      "nom": "Costume: Robe de sorcière",
+      "categories": [],
+      "contenu": "- Robe",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1150",
+      "nom": "Costume: Tigre",
+      "categories": [],
+      "contenu": "- Costume",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
     },
     {
       "id": "0841",
@@ -5687,11 +5839,10 @@
         "Développement social"
       ],
       "contenu": "-4 quadrants de plateau\n-1 tuile ressources\n-12 inserts\n-4 plateaux joueur\n-2 bacs à ressources\n-12 ouvriers\n-60 pions fromage\n-36 cartes commande\n-36 pions Bâtiment\n-36 pions Bétail\n-36 pions Fruit\n-32 tuiles Bâtiment\n-6 pions Client\n-8 pions avec chiffres\n-1 carnet de score (2 feuilles plastifiées)\n-1 guide (16 pages)\n-crayon dry erase",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-21",
-      "date_retour_prevue": "2026-07-23"
+      "date_acquisition": "2026-05-21"
     },
     {
       "id": "0246",
@@ -5898,10 +6049,11 @@
         "Développement physique"
       ],
       "contenu": "1 grosse auto rouge, batteries ne fonctionnent pas",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-19"
+      "date_acquisition": "2024-12-19",
+      "date_retour_prevue": "2026-10-31"
     },
     {
       "id": "0329",
@@ -6236,10 +6388,11 @@
         "Développement motricité fine"
       ],
       "contenu": "12 bananes\n2 dés\n1 singe\n1 base",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-15"
+      "date_acquisition": "2025-12-15",
+      "date_retour_prevue": "2026-10-31"
     },
     {
       "id": "0712",
@@ -6875,10 +7028,11 @@
         "Développement physique"
       ],
       "contenu": "- 70 cartes\n\n- 1 Totem\n\n- 2 Livrets de règles\n\n- 1 sac de transport",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-10"
+      "date_acquisition": "2025-06-10",
+      "date_retour_prevue": "2026-10-31"
     },
     {
       "id": "0364",
@@ -8811,11 +8965,10 @@
         "Développement motricité fine"
       ],
       "contenu": "Manque un morceau se joue pareil\n18 pièces",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-18",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2024-12-18"
     },
     {
       "id": "0797",
@@ -8951,6 +9104,16 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-07-10"
+    },
+    {
+      "id": "1142",
+      "nom": "Ninja",
+      "categories": [],
+      "contenu": "- Gilet\n\n- Pantalon",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
     },
     {
       "id": "0524",
@@ -10348,11 +10511,10 @@
         "Développement physique"
       ],
       "contenu": "-1 caisse en bois\n-12 quilles numérotées\n-1 quille lanceur\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-11",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2025-06-11"
     },
     {
       "id": "1097",
@@ -11392,10 +11554,11 @@
         "Développement affectif"
       ],
       "contenu": "téléphone a chiffre",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-25"
+      "date_acquisition": "2025-07-25",
+      "date_retour_prevue": "2026-10-31"
     },
     {
       "id": "0579",
