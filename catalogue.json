@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-12T13:35:24.451Z",
+  "derniere_mise_a_jour": "2026-10-13T12:59:17.871Z",
   "total": 1051,
-  "disponibles": 956,
+  "disponibles": 959,
   "jouets": [
     {
       "id": "0085",
@@ -1328,10 +1328,11 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-03"
+      "date_acquisition": "2025-11-03",
+      "date_retour_prevue": "2026-11-02"
     },
     {
       "id": "0608",
@@ -4777,11 +4778,10 @@
         "Développement social"
       ],
       "contenu": "35 cartes expédition\n1 plateau de jeu\n16 cartes décision\n100 pierres précieuses\n5 tuiles Entrée de grotte\n8 pions\n8 coffres\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-20",
-      "date_retour_prevue": "2026-10-29"
+      "date_acquisition": "2026-05-20"
     },
     {
       "id": "0379",
@@ -6049,11 +6049,10 @@
         "Développement physique"
       ],
       "contenu": "1 grosse auto rouge, batteries ne fonctionnent pas",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-19",
-      "date_retour_prevue": "2026-10-31"
+      "date_acquisition": "2024-12-19"
     },
     {
       "id": "0329",
@@ -8600,11 +8599,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 110 cartes\n\n- 1 sablier\n\n- 2 feuilles de pointages plastifié\n\n- 1 crayon à encre sèche\n\n- les règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-09-10",
-      "date_retour_prevue": "2026-10-29"
+      "date_acquisition": "2026-09-10"
     },
     {
       "id": "0876",
@@ -9689,11 +9687,10 @@
         "Développement du langage"
       ],
       "contenu": "-1 carte aide-mémoire\n\n-12 cartes bleues \"Aliments\"\n\n-12 cartes oranges \"Animaux\"\n\n-12 cartes vertes \"Objets de la maison\"\n\n-12 cartes mauves \"Moyens de transport\"\n\n-12 cartes jaunes \"Vêtements\"\n\n-5 dés (orange, bleu, vert, mauve, jaune)\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-22",
-      "date_retour_prevue": "2026-07-31"
+      "date_acquisition": "2024-01-22"
     },
     {
       "id": "0184",
@@ -11554,11 +11551,10 @@
         "Développement affectif"
       ],
       "contenu": "téléphone a chiffre",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-25",
-      "date_retour_prevue": "2026-10-31"
+      "date_acquisition": "2025-07-25"
     },
     {
       "id": "0579",
@@ -12007,10 +12003,11 @@
         "Développement social"
       ],
       "contenu": "- 5 Voiture :1 grise,1 verte,1 mauve et jaune,1 rouge,1 bleu, rouge et blanc\n \n- Accessoires dans l'armoire blanche, sac # 0972",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-13"
+      "date_acquisition": "2026-02-13",
+      "date_retour_prevue": "2026-11-02"
     },
     {
       "id": "0767",
