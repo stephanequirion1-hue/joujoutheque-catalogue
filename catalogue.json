@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-14T10:39:49.334Z",
-  "total": 1051,
-  "disponibles": 959,
+  "derniere_mise_a_jour": "2026-10-15T10:23:33.881Z",
+  "total": 1053,
+  "disponibles": 961,
   "jouets": [
     {
       "id": "0085",
@@ -3138,11 +3138,10 @@
         "Développement cognitif"
       ],
       "contenu": "-8 tuiles équipe bleue\n-8 tuiles équipe rouge\n-1 tuile EXTRA\n-7 tuiles Neutre\n-1 tuiles Assassin\n-200 cartes Nom de Code\n-40 cartes CLÉ\n-1 support de carte CLÉ\n-1 livret de règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-07-16",
-      "date_retour_prevue": "2026-07-16"
+      "date_acquisition": "2024-07-16"
     },
     {
       "id": "0034",
@@ -4524,11 +4523,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0182",
@@ -8902,10 +8900,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 2 jetons (dinos)\n- 1 dé\n- 120 questions (60 cartes)\n- 18 pierres\n- 2 rives \n- Instruction + règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-11-04"
     },
     {
       "id": "0917",
@@ -8926,11 +8925,10 @@
         "Développement social"
       ],
       "contenu": "- 4 plateaux de jeu\n\n- 1 dé\n\n- 4 drapeaux ronds\n\n- 4 drapeaux carrés\n\n- 10 ronds légumes\n\n- 10 ronds vêtements\n\n- 10 ronds musique\n\n- 10 ronds  fruits\n\n- 10 carrés cuisine\n\n- 10 carrés toilette\n\n- 10 carrés mer\n\n- 10 carrés transports",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-02",
-      "date_retour_prevue": "2026-10-08"
+      "date_acquisition": "2024-02-02"
     },
     {
       "id": "0227",
@@ -9615,10 +9613,11 @@
         "Développement affectif"
       ],
       "contenu": "-7 cartes Miroir\n\n-7 cartes Mensonges\n\n-7 cartes Poubelle\n\n-25 cartes Société\n\n-25 cartes Relations\n\n-25 cartes Avenir\n\n-25 cartes Souvenirs\n\n-25 cartes Identité\n\n-Guide d'accompagnement /  Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-11-04"
     },
     {
       "id": "0300",
@@ -9844,10 +9843,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu Tiroir\n\n-1 guide de rangement\n\n-5 bobettes bleues poissons\n\n-4 bobettes vertes\n\n-4 bobettes étoiles\n\n-4 bobettes jaunes\n\n-4 bobettes picos\n\n-4 bobettes bleues\n\n-4 bobettes roses\n\n-4 bobettes carreautées\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-11-04"
     },
     {
       "id": "0126",
@@ -11655,6 +11655,19 @@
       "date_acquisition": "2025-04-01"
     },
     {
+      "id": "1156",
+      "nom": "The Game Extrême",
+      "categories": [
+        "Développement cognitif",
+        "Développement social"
+      ],
+      "contenu": "- 102 cartes\n\n- instructions",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-14"
+    },
+    {
       "id": "0928",
       "nom": "The game of things",
       "categories": [
@@ -12008,6 +12021,20 @@
       "photo": null,
       "date_acquisition": "2026-02-13",
       "date_retour_prevue": "2026-11-02"
+    },
+    {
+      "id": "1157",
+      "nom": "Très Futé",
+      "categories": [
+        "Développement cognitif",
+        "Développement mémoire",
+        "Développement social"
+      ],
+      "contenu": "- 6 dés\n\n- 1 bloc notes\n\n- 4 crayons feutres\n\n- instructions",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-14"
     },
     {
       "id": "0767",
