@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-15T10:23:33.881Z",
-  "total": 1053,
-  "disponibles": 961,
+  "derniere_mise_a_jour": "2026-10-16T10:11:03.250Z",
+  "total": 1054,
+  "disponibles": 957,
   "jouets": [
     {
       "id": "0085",
@@ -1037,11 +1037,10 @@
         "Développement social"
       ],
       "contenu": "- plateau de jeu\n\n- écran\n\n- 100 cartes jeu (50 par paquet)\n\n- 8 cartes bluffer (4 par couleurs)\n\n- 10 pions en bois\n\n- 5 jetons\n\n- bloc de feuilles et règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0953",
@@ -2681,6 +2680,19 @@
       "date_acquisition": "2025-04-01"
     },
     {
+      "id": "1158",
+      "nom": "Chariot d'épicerie",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "1 chariot",
+      "statut": "Emprunté",
+      "disponible": false,
+      "photo": null,
+      "date_acquisition": "2026-10-15",
+      "date_retour_prevue": "2026-11-05"
+    },
+    {
       "id": "1054",
       "nom": "Charlatans",
       "categories": [
@@ -3401,10 +3413,11 @@
       "nom": "Costume : Avengers",
       "categories": [],
       "contenu": "- Costume\n\n- masque",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-10"
+      "date_acquisition": "2026-10-10",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "1088",
@@ -4001,10 +4014,11 @@
         "Développement social"
       ],
       "contenu": "- 1 robe\n\n- 1 paire de menotte\n\n- 1 casquette de police\n\n- 2 insigne de police\n\n- 1 ceinture\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-28"
+      "date_acquisition": "2025-11-28",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "0162",
@@ -4215,10 +4229,11 @@
         "Développement social"
       ],
       "contenu": "-  1 costume, petit, \n\n- 1 masque\n\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-28"
+      "date_acquisition": "2025-11-28",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "1090",
@@ -4523,10 +4538,11 @@
         "Développement motricité fine"
       ],
       "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-27"
+      "date_acquisition": "2026-05-27",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "0182",
@@ -6144,10 +6160,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- corps de l'escargot\n\n- Coquille amovible\n\n- 3 blocs de bois, un cylindre rouge, 1 triangle bleu, 1 cube jaune.",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-09-04"
+      "date_acquisition": "2026-09-04",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "0378",
@@ -9251,11 +9268,10 @@
         "Développement cognitif"
       ],
       "contenu": "11 petit bonhomme de neige\n1 plateau de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-08-15",
-      "date_retour_prevue": "2026-08-21"
+      "date_acquisition": "2025-08-15"
     },
     {
       "id": "0363",
@@ -9734,11 +9750,10 @@
         "Développement du langage"
       ],
       "contenu": "-1 canne à pêche\n\n-1 planche de jeu\n\n-6 planches à poissons\n\n-4 poissons de chaque couleurs\n(Mauve, Mauve foncé, Rose, Fushia, Vert pâle, Vert, Bleu foncé, Bleu pâle, Turquoise, Orange foncé, Orange, Jaune)\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-18",
-      "date_retour_prevue": "2026-08-21"
+      "date_acquisition": "2024-01-18"
     },
     {
       "id": "0054",
@@ -9928,10 +9943,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 5 jetons chaussettes\n\n- 5 jetons bananes\n\n- 5 jetons escargots\n\n- 5 jetons cuisses de grenouilles\n\n- 5 jetons araignées\n\n- 10 jetons yeux\n\n- 10 jetons dents\n\n- 10 jetons fromages\n\n- 10 jetons champignons\n\n- 20 cartes serpents\n\n- 20 cartes hiboux\n\n- 20 cartes sorcières\n\n- 20 cartes chauves-souris\n\n- 9 cartons bruns pour tenir le jeu\n\n- 1 planche chaudron\n\n- 1 planche bouillon vert\n\n- 1 plateau à ingrédients\n\n- 1 livre de recettes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-22"
+      "date_acquisition": "2024-02-22",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "0166",
@@ -11649,10 +11665,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-11-05"
     },
     {
       "id": "1156",
@@ -11931,11 +11948,10 @@
         "Développement social"
       ],
       "contenu": "Tracteur John Deere avec 6 vis qui font tenir les roues, le capo et le top\nSac d'accessoire 1117 dans l'armoire\n- Drill avec embout tournevis étoile et plat\nBesoin de pile",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-08-14",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2026-08-14"
     },
     {
       "id": "0150",
@@ -12140,10 +12156,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette rose\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-06-06"
+      "date_acquisition": "2025-06-06",
+      "date_retour_prevue": "2026-07-23"
     },
     {
       "id": "0495",
