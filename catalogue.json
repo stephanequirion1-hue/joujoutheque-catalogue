@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-17T09:44:57.523Z",
+  "derniere_mise_a_jour": "2026-10-18T09:58:13.929Z",
   "total": 1054,
-  "disponibles": 957,
+  "disponibles": 952,
   "jouets": [
     {
       "id": "0085",
@@ -833,10 +833,11 @@
         "Développement physique"
       ],
       "contenu": "18 billes\n20 blocs jaune\n50 blocs rouge\n2 figuries\n8 blocs gris\n1 tournevis\n1 murs de bataille\n1 manuelle d'installation",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-11-07"
     },
     {
       "id": "0047",
@@ -1097,10 +1098,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-09"
+      "date_acquisition": "2026-04-09",
+      "date_retour_prevue": "2026-11-07"
     },
     {
       "id": "0050",
@@ -4647,10 +4649,11 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 frigo\n1 chaudron avec couvercle\n1 couteau et 1 cuillère\n4 Gros shopkins\n2 glaçons\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-15"
+      "date_acquisition": "2026-05-15",
+      "date_retour_prevue": "2026-11-07"
     },
     {
       "id": "0307",
@@ -4768,10 +4771,11 @@
         "Développement social"
       ],
       "contenu": "- planche de jeu avec les 3 montagnes, 1 pont et 7 édifices\n\n- 1 tourniquet\n\n- 1 paquet d'argent : environ 45 X chaque : 5 000, 10,000 20 000, 50.000, 100.000, \n\n- environ 20 feuillet de prêt bancaire\n\n- environ 30 feuillet d'augmentation de salaire\n\n- 6 pions voitures\n\n- 52 chevilles de “personnes” roses et bleues.\n\n- 25 tuiles Destin\n\n- 24 jeton “tourne pour gagner”\n\n- 5 jetons spéciaux\n\n- 1 bande “Tourne pour gagner”\n\n- 1 plateau noir\n\n- 1 règles du jeu et 1 historique du jeu\n\n- JEU appartenant à Marie-Eve",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-09-10"
+      "date_acquisition": "2026-09-10",
+      "date_retour_prevue": "2026-11-07"
     },
     {
       "id": "0065",
@@ -11531,10 +11535,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu\n- 6 pions\n- 1 dé\n- 32 cartes destination\n- 8 cartes taxi\n- 7 barrières rouges\n- 5 cônes orange\n- 12 jetons sens unique",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-24"
+      "date_acquisition": "2024-10-24",
+      "date_retour_prevue": "2026-11-07"
     },
     {
       "id": "0154",
