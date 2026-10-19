@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-18T09:58:13.929Z",
+  "derniere_mise_a_jour": "2026-10-19T11:19:20.089Z",
   "total": 1054,
-  "disponibles": 952,
+  "disponibles": 949,
   "jouets": [
     {
       "id": "0085",
@@ -3669,10 +3669,11 @@
         "Développement du langage"
       ],
       "contenu": "- Un costume à fermeture éclair (one piece) de dragon vert taille 4-5 ans environ\n\n- Chapeau",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-07"
+      "date_acquisition": "2024-11-07",
+      "date_retour_prevue": "2026-11-08"
     },
     {
       "id": "0856",
@@ -4359,10 +4360,11 @@
       "nom": "Costume: Dragon",
       "categories": [],
       "contenu": "- costume",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-10"
+      "date_acquisition": "2026-10-10",
+      "date_retour_prevue": "2026-11-08"
     },
     {
       "id": "1155",
@@ -12052,10 +12054,11 @@
         "Développement social"
       ],
       "contenu": "- 6 dés\n\n- 1 bloc notes\n\n- 4 crayons feutres\n\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-14"
+      "date_acquisition": "2026-10-14",
+      "date_retour_prevue": "2026-11-08"
     },
     {
       "id": "0767",
