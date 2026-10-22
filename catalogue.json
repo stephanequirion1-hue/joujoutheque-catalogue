@@ -1,5 +1,5 @@
 {
-  "derniere_mise_a_jour": "2026-10-21T10:38:52.118Z",
+  "derniere_mise_a_jour": "2026-10-22T10:42:01.986Z",
   "total": 1054,
   "disponibles": 949,
   "jouets": [
@@ -5533,10 +5533,11 @@
         "Développement affectif"
       ],
       "contenu": "210 cartes\n1 sablier\n1 bloc notes\n1 fiche de règlements \n1 crayon de plomb",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-11-11"
     },
     {
       "id": "0718",
@@ -6347,11 +6348,10 @@
         "Développement social"
       ],
       "contenu": "-Base de jeu\n\n-4 hippos\n\n-20 billes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-03-02",
-      "date_retour_prevue": "2026-10-16"
+      "date_acquisition": "2024-03-02"
     },
     {
       "id": "1041",
@@ -7641,10 +7641,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu\n\n-24 \"Murs\"\n\n-24 jetons\n\n-1 sac en toile\n\n-1 dé\n\n-4 figurines (rouge, bleu, vert, jaune)\n\n-4 billes \"Métallique\"\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-03-01"
+      "date_acquisition": "2024-03-01",
+      "date_retour_prevue": "2026-11-11"
     },
     {
       "id": "0142",
@@ -11512,11 +11513,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 plateau\n36 bâtonnets\n4 élément de décor\n2 règle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-12",
-      "date_retour_prevue": "2026-10-16"
+      "date_acquisition": "2026-06-12"
     },
     {
       "id": "0929",
@@ -11612,10 +11612,11 @@
         "Développement social"
       ],
       "contenu": "1 sablier\n1 dé\n8 crayon effacable noir (4 rouges en ce moment 30-09-2026 SCP)\n8 carnet de dessin, rouge, orange, vert, noir, bleu, blanc, rose, jaune\n8 truc pour essuyer noir (6 en ce moment 30-09-2026 SCP)\n154 carte",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-23"
+      "date_acquisition": "2025-07-23",
+      "date_retour_prevue": "2026-11-11"
     },
     {
       "id": "0403",
@@ -11672,11 +11673,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-01",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2025-04-01"
     },
     {
       "id": "1156",
