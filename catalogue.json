@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-22T10:42:01.986Z",
-  "total": 1054,
-  "disponibles": 949,
+  "derniere_mise_a_jour": "2026-10-23T10:34:09.068Z",
+  "total": 1062,
+  "disponibles": 960,
   "jouets": [
     {
       "id": "0085",
@@ -3415,11 +3415,23 @@
       "nom": "Costume : Avengers",
       "categories": [],
       "contenu": "- Costume\n\n- masque",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-10"
+    },
+    {
+      "id": "1159",
+      "nom": "Costume : Batman",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- soute\n\n- 1 paires de gants\n\n- 1 cape\n\n-",
       "statut": "Emprunté",
       "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-10",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2026-10-22",
+      "date_retour_prevue": "2026-11-12"
     },
     {
       "id": "1088",
@@ -3432,6 +3444,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2026-07-06"
+    },
+    {
+      "id": "1162",
+      "nom": "Costume : BumbleBee",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- 1 costume Bumblebee",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
     },
     {
       "id": "1091",
@@ -3712,6 +3738,20 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "1165",
+      "nom": "Costume : Hulk",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- costume 1 piece\n\n- 1 paire de gants",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
+    },
+    {
       "id": "1089",
       "nom": "Costume : Hulk",
       "categories": [
@@ -3734,6 +3774,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-09-06"
+    },
+    {
+      "id": "1166",
+      "nom": "Costume : Ironman",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- costume 1 pièce",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
     },
     {
       "id": "1092",
@@ -3904,6 +3958,20 @@
       "date_acquisition": "2024-07-26"
     },
     {
+      "id": "1160",
+      "nom": "Costume : Monstre Rose",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- 1 costume",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
+    },
+    {
       "id": "0886",
       "nom": "Costume : Ninja",
       "categories": [
@@ -4017,11 +4085,10 @@
         "Développement social"
       ],
       "contenu": "- 1 robe\n\n- 1 paire de menotte\n\n- 1 casquette de police\n\n- 2 insigne de police\n\n- 1 ceinture\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0162",
@@ -4073,6 +4140,20 @@
       "date_acquisition": "2025-05-08"
     },
     {
+      "id": "1163",
+      "nom": "Costume : Princesse Bonbon",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "1 robe",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
+    },
+    {
       "id": "0612",
       "nom": "Costume : princesse renaissance",
       "categories": [
@@ -4120,6 +4201,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-22"
+    },
+    {
+      "id": "1164",
+      "nom": "Costume : Robe de Pirate",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- 1 robe",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-22"
     },
     {
       "id": "1147",
@@ -4226,17 +4321,30 @@
       "date_acquisition": "2025-05-10"
     },
     {
+      "id": "1161",
+      "nom": "Costume : Spider man",
+      "categories": [
+        "Développement cognitif",
+        "Développement social",
+        "Développement affectif"
+      ],
+      "contenu": "- 1 costume 1 pièce",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-21"
+    },
+    {
       "id": "0895",
       "nom": "Costume : Spiderman",
       "categories": [
         "Développement social"
       ],
       "contenu": "-  1 costume, petit, \n\n- 1 masque\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "1090",
@@ -6167,11 +6275,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- corps de l'escargot\n\n- Coquille amovible\n\n- 3 blocs de bois, un cylindre rouge, 1 triangle bleu, 1 cube jaune.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-09-04",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2026-09-04"
     },
     {
       "id": "0378",
@@ -9215,10 +9322,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-Grosse Oball avec petite boule hochet à l'intérieur\n-Un manche pour \"promener\" la Oball",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-11-12"
     },
     {
       "id": "0296",
@@ -11574,10 +11682,11 @@
         "Développement affectif"
       ],
       "contenu": "téléphone a chiffre",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-25"
+      "date_acquisition": "2025-07-25",
+      "date_retour_prevue": "2026-11-12"
     },
     {
       "id": "0579",
@@ -12151,11 +12260,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette noir",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-07-23"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0657",
@@ -12164,11 +12272,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette rose\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-07-23"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0495",
