@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-24T09:51:47.554Z",
+  "derniere_mise_a_jour": "2026-10-25T10:12:17.504Z",
   "total": 1062,
-  "disponibles": 960,
+  "disponibles": 959,
   "jouets": [
     {
       "id": "0085",
@@ -1244,10 +1244,11 @@
         "Développement social"
       ],
       "contenu": "- 1 caisse enregistreuse\n\n- 3 pièces de monnaies ( 0.10 - 0.50 - 0.25 )\n\n- 7 argents de papier\n\n- 1 carte de crédit\n\n- 4 légumes,1 panier, 1 clef, 6 billets  (Martin Messier)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-11-14"
     },
     {
       "id": "0512",
@@ -2785,11 +2786,10 @@
         "Développement affectif"
       ],
       "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-08",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2025-05-08"
     },
     {
       "id": "0102",
@@ -3041,11 +3041,10 @@
         "Développement social"
       ],
       "contenu": "- 1 Plateau\n\n- 1 Coffre\n\n- 1 Pion\n\n- 1 Château\n\n- 6 Tours\n\n- 3 Buissons\n\n- 21 Clefs\n\n- 42 Cristaux\n\n- 3 Dés\n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-02",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2024-10-02"
     },
     {
       "id": "0071",
@@ -7362,11 +7361,10 @@
         "Développement social"
       ],
       "contenu": "- 78 cartes\n\n- 1 livret règles et solutions\n\n- 1 sablier",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-10-01",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2026-10-01"
     },
     {
       "id": "0424",
@@ -7992,10 +7990,11 @@
         "Développement du langage"
       ],
       "contenu": "-27 jetons feuilles\n\n-53 jetons noix\n\n-21 cartes \"Apprentis écureuils\"\n\n-21 cartes \"Écureuils aguerris\"\n\n-1 tableau correcteur\n\n-Règlements",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-11-14"
     },
     {
       "id": "0421",
@@ -9007,10 +9006,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 porte carte\n\n-48 cartes Bambini (bleues)\n\n-48 cartes Moderato (jaunes)\n\n-48 cartes fortissimo (rouges)\n\n-42 jetons M.Gelato\n\n-4 ensembles de jetons (16X4= 64 jetons)\n\n-1 chevalet (bleu)\n\n-4 cachettes( voitures Gelato)\n\n-Règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-11-14"
     },
     {
       "id": "0973",
@@ -10930,10 +10930,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 plan de jeu turquoise\n- 1 iceberg \n- 1 drapeau\n- 25 pingouins ( 1 en supplémentaire)\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-28"
+      "date_acquisition": "2025-05-28",
+      "date_retour_prevue": "2026-11-14"
     },
     {
       "id": "0804",
