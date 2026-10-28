@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-10-27T11:06:16.710Z",
-  "total": 1063,
-  "disponibles": 958,
+  "derniere_mise_a_jour": "2026-10-28T11:42:04.386Z",
+  "total": 1065,
+  "disponibles": 960,
   "jouets": [
     {
       "id": "0085",
@@ -5296,6 +5296,31 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-02-02"
+    },
+    {
+      "id": "1168",
+      "nom": "Ensemble de bloc de construction, sur place seulement",
+      "categories": [
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "Ensemble de 6 boites, \n6 différente shop\nSUR PLACE SEULEMENT",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-27"
+    },
+    {
+      "id": "1169",
+      "nom": "Ensemble de bloc de construction, sur place seulement",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "Ensemble de 10 boites de boites de construction,\nInsectes\nSUR PLACE SEULEMENT",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-10-27"
     },
     {
       "id": "0710",
