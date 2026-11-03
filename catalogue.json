@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-02T13:54:28.606Z",
+  "derniere_mise_a_jour": "2026-11-03T13:03:07.635Z",
   "total": 1065,
-  "disponibles": 963,
+  "disponibles": 966,
   "jouets": [
     {
       "id": "0085",
@@ -676,11 +676,10 @@
         "Développement social"
       ],
       "contenu": "36 Cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-01-09",
-      "date_retour_prevue": "2026-11-19"
+      "date_acquisition": "2025-01-09"
     },
     {
       "id": "0866",
@@ -4095,11 +4094,10 @@
         "Développement social"
       ],
       "contenu": "-1 chandail à zip pompier\n-1 pantalon noir",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0350",
@@ -4182,11 +4180,10 @@
         "Développement social"
       ],
       "contenu": "1 robe",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0143",
@@ -6085,11 +6082,10 @@
         "Développement social"
       ],
       "contenu": "-1 garage Fisher Price / Little People",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0746",
@@ -6933,11 +6929,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 planche de jeu\n\n-1 marteau\n\n-4 images recto-verso\n\n-8 pièces jaunes\n\n-8 pièces vertes\n\n-8 pièces bleues\n\n-7 pièces rouges",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-09-17"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "0589",
@@ -10505,10 +10500,11 @@
         "Développement motricité fine"
       ],
       "contenu": "Puzzle dinosaure 35 morceaux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-07-31"
+      "date_acquisition": "2026-07-31",
+      "date_retour_prevue": "2026-11-23"
     },
     {
       "id": "0159",
@@ -12160,10 +12156,11 @@
         "Développement physique"
       ],
       "contenu": "Trampoline",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-14"
+      "date_acquisition": "2024-12-14",
+      "date_retour_prevue": "2026-11-23"
     },
     {
       "id": "0526",
