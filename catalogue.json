@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-03T13:03:07.635Z",
+  "derniere_mise_a_jour": "2026-11-04T13:18:36.627Z",
   "total": 1065,
-  "disponibles": 966,
+  "disponibles": 969,
   "jouets": [
     {
       "id": "0085",
@@ -2362,11 +2362,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 X 24 morceaux\n- 3 X 12 morceaux\n- 1 X 16 morceaux",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-25",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2026-02-25"
     },
     {
       "id": "0328",
@@ -4069,11 +4068,10 @@
         "Développement affectif"
       ],
       "contenu": "1 onepiece policier\n1 veste pare-balle\n1 casque",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-10-21"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0898",
@@ -6713,10 +6711,11 @@
         "Développement affectif"
       ],
       "contenu": "-7 flacons (15 pompons chaque)\n-105 pompons\n-1 miroir et 1 roulette\n-14 cartes Émotion\n-10 cartes Yoga\n-1 visage magnétique et 35 aimants\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-11-24"
     },
     {
       "id": "0312",
@@ -7799,11 +7798,10 @@
         "Développement mémoire"
       ],
       "contenu": "- 3 maisons \n\n- 2 pions\n\n- 13 cases/tuiles sentier\n\n- 26 tuiles\n\n- règlement",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-08-10",
-      "date_retour_prevue": "2026-10-21"
+      "date_acquisition": "2026-08-10"
     },
     {
       "id": "0214",
@@ -8623,11 +8621,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 52 cartes\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-16",
-      "date_retour_prevue": "2026-10-21"
+      "date_acquisition": "2025-12-16"
     },
     {
       "id": "0920",
