@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-06T13:17:05.227Z",
+  "derniere_mise_a_jour": "2026-11-07T11:57:05.936Z",
   "total": 1064,
-  "disponibles": 970,
+  "disponibles": 965,
   "jouets": [
     {
       "id": "0085",
@@ -1073,10 +1073,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-26"
+      "date_acquisition": "2024-01-26",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "1009",
@@ -1328,10 +1329,11 @@
         "Développement affectif"
       ],
       "contenu": "Camion remorque",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0905",
@@ -3861,11 +3863,10 @@
         "Développement social"
       ],
       "contenu": "- Un costume de lion",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0890",
@@ -6518,10 +6519,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- pièces chiffre de 1 -5\n\n- 1 hibou",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0909",
@@ -6580,10 +6582,11 @@
         "Développement mémoire"
       ],
       "contenu": "-1 planche en bois (Tapis) \n\n-1 morceau de bois vert (Lit)\n\n-1 oreiller bleu (Carré de tissus)\n\n-1 doudou rouge (Rectangle de tissus)\n\n-1 dé\n\n-1 chat \n\n-34 cartes photos\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0144",
@@ -7109,11 +7112,10 @@
         "Développement social"
       ],
       "contenu": "- 400 cartes jeu de base\n\n- 80 cartes spéciales/bonus (69 cartes jaunes, 10 cartes vides, 1 cartes Instagram)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-15",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2026-07-15"
     },
     {
       "id": "0592",
@@ -7834,11 +7836,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 carte aiguille avec flèche et base\n- 25 ``pierres sécuritaires'' en mouse colorée\n- 27 cartes de défi\n- instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-10",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2025-06-10"
     },
     {
       "id": "0100",
@@ -7931,11 +7932,10 @@
         "Développement affectif"
       ],
       "contenu": "- 1 plateau de jeu\n- 80 chariots (blancs noires mauves oranges) + 8 extras\n- 72 cartes\n- 33 tickets\n- 1 carte jackpot\n- 4 cartes bonus\n- Règlements",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-24",
-      "date_retour_prevue": "2026-10-03"
+      "date_acquisition": "2024-10-24"
     },
     {
       "id": "0557",
@@ -9057,10 +9057,11 @@
         "Développement du langage"
       ],
       "contenu": "- 1 Personnage\n\n- 1 Dé\n\n- 1 Balle de neige\n\n- 1 Planche de jeu\n\n- 40 Cartes association\n\n- 40 Cartes Catégorie\n\n- 40 Cartes son et rime\n\n- 1 Feuille de règlement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-16"
+      "date_acquisition": "2025-12-16",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0139",
@@ -9117,10 +9118,11 @@
         "Développement du langage"
       ],
       "contenu": "règle\n12 pion\n110 carte\n12 carte plastifier",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-19"
+      "date_acquisition": "2025-07-19",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0787",
@@ -9178,11 +9180,10 @@
         "Développement social"
       ],
       "contenu": "Planchette de jeu\n4 souris\n2 balles ( billes)\n1 élastique\n1 dé\n25 pièces et Accessoires du ``Bidule`` \n40 pointes de fromages\nplan de construction et les Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-09-29",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2026-09-29"
     },
     {
       "id": "0173",
@@ -10871,10 +10872,11 @@
         "Développement cognitif"
       ],
       "contenu": "-40 cartes\n\n-12 voitures\n\n-4 camions\n\n-Grille de jeu\n\n-Sac de voyage\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0843",
@@ -11576,10 +11578,11 @@
         "Développement social"
       ],
       "contenu": "2 LIVRETS DE RÈGLES, \n12 CARTES SOLAIRES ET 12 CARTES LUNAIRES\n3 JETONS RAPPEL ET 3 JETONS BONUS \n10 ÉTUIS CHAPITRE CONTENANT CHACUN 4 HORLOGES ET 1 FEUILLE DE RÈGLES (NUMÉROTÉ EN CHIFFRE ROMAIN)\n1 AIGUILLE \n1 ÉTUI REGRET (VIDE)\n1 ÉTUI RENAISSANCE ( 1 HORLOGE RENAISSANCE, 1 AIGUILLE DE SECONDES ET 6 JETONS)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-11"
+      "date_acquisition": "2026-05-11",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "1016",
@@ -11710,11 +11713,10 @@
         "Développement motricité fine"
       ],
       "contenu": "Téléphone à promener avec la corde",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-04-17",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2025-04-17"
     },
     {
       "id": "0096",
@@ -12213,10 +12215,11 @@
         "Développement social"
       ],
       "contenu": "- Règle du jeu Français anglais\n- -\n- 36 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-11-18"
+      "date_acquisition": "2025-11-18",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "1053",
@@ -12467,10 +12470,11 @@
         "Développement social"
       ],
       "contenu": "- 3 Jeux : Jeu num.1 : 60 cartes de jeu+ 10 cartes tutoriel\n \nJeu num. 2 : 60 cartes de jeu\n \nJeu num. 3 : 60 cartes de jeu.\n \n \n- 1 feuillet \n \n- 1 carnet\n \n- 1 instruction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-03"
+      "date_acquisition": "2026-02-03",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0324",
@@ -12820,10 +12824,11 @@
         "Développement cognitif"
       ],
       "contenu": "1 plateau\n\n1 Livret de règlement\n\n13 enveloppes\n\n4 pions cadenas\n\n1 dé zombie\n\n8 pions zombie\n\n4 pions héros\n\n8 supports",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-02-20"
+      "date_acquisition": "2024-02-20",
+      "date_retour_prevue": "2026-11-27"
     },
     {
       "id": "0179",
