@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-07T11:57:05.936Z",
+  "derniere_mise_a_jour": "2026-11-08T12:15:25.110Z",
   "total": 1064,
-  "disponibles": 965,
+  "disponibles": 963,
   "jouets": [
     {
       "id": "0085",
@@ -276,11 +276,10 @@
         "Développement motricité fine"
       ],
       "contenu": "- 12 oeufs avec formes (24 morceaux)\n\n- 1 autobus\n\n \nNote: Même article que 0587. À fusionner, un code à effacer sur le jouet.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-11",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2026-02-11"
     },
     {
       "id": "0093",
@@ -301,10 +300,11 @@
         "Développement social"
       ],
       "contenu": "- 1 avion\n- 4 personnages Fisher Price\nAccessoires dans l'armoire blanche sac # 0170",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-12"
+      "date_acquisition": "2024-01-12",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0930",
@@ -820,11 +820,10 @@
         "Développement physique"
       ],
       "contenu": "18 billes\n20 blocs jaune\n50 blocs rouge\n2 figuries\n8 blocs gris\n1 tournevis\n1 murs de bataille\n1 manuelle d'installation",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-11",
-      "date_retour_prevue": "2026-11-07"
+      "date_acquisition": "2025-07-11"
     },
     {
       "id": "0047",
@@ -1304,10 +1303,11 @@
         "Développement social"
       ],
       "contenu": "- 44 morceaux de bois\n\n- accessoires dans l'armoire, sac # 0926",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-12-18"
+      "date_acquisition": "2025-12-18",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0867",
@@ -3036,11 +3036,10 @@
         "Développement du langage"
       ],
       "contenu": "-12 pièces\n\n-8 cartes\n\n-1 planche de jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0535",
@@ -3062,10 +3061,11 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n6 pions de personnage\n6 pions mobilier\n7 supports blancs\n7 supports jaunes \n1 bloc-notes de détective\n1 dé\nrègle du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-08-05"
+      "date_acquisition": "2026-08-05",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0936",
@@ -6031,11 +6031,10 @@
         "Développement social"
       ],
       "contenu": "un plateau de jeu (le quartier)\n10 cartes personnages \n6 pions \n3 dés\ndes billets de banque ( 49 de 100$ 49 de 500$ 49 de 1000$ 25 de 5000$ 27 de 10 000$)\n372 carte a jouer: Automobile 18, Aventure70, banque 24, boxe 20, collecte 28, commerce 24, diamant 25, dossier 12, investissement 20, justice 24, mission 31, perle 25, protection 12, recrutement 39\nles règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-10",
-      "date_retour_prevue": "2026-10-27"
+      "date_acquisition": "2025-07-10"
     },
     {
       "id": "0881",
@@ -6619,10 +6618,11 @@
         "Développement social"
       ],
       "contenu": "-120 pastilles\n\n-1 tapis de jeu\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "1025",
@@ -7245,10 +7245,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-Base\n-2 tubes\n-28 bâtonnets \n-32 billes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-13"
+      "date_acquisition": "2024-01-13",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0429",
@@ -10399,10 +10400,11 @@
         "Développement social"
       ],
       "contenu": "1 chaise haute en bois\n1 poupée\n1salopette bleu, 1 chapeau, 1 chandail blanc et gris, 1 bavoir blanc et gris,\n1 matelas bleu, 1 verre avec bec bleu ,1 suce rose\n \nAccessoires dans l'armoire Blanche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-20"
+      "date_acquisition": "2024-01-20",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0073",
@@ -10885,10 +10887,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 12 voitures\n- 4 camions\n- 1 grille d'embouteillage\n- 60 cartes défis",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-09-08"
+      "date_acquisition": "2025-09-08",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0903",
@@ -11289,7 +11292,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-04-30",
-      "date_retour_prevue": "2026-10-29"
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0216",
@@ -11595,7 +11598,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-04-15",
-      "date_retour_prevue": "2026-10-27"
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0304",
@@ -11945,10 +11948,11 @@
         "Développement physique"
       ],
       "contenu": "- 1 plateau de jeu\n\n- 1cadran avec 1 aiguille géante\n\n- 11 rouleaux en mousse\n\n- 11 cartes actions\n\n- 12 cartes trophée\n\n- Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-31"
+      "date_acquisition": "2026-03-31",
+      "date_retour_prevue": "2026-11-28"
     },
     {
       "id": "0937",
@@ -12040,12 +12044,11 @@
       "categories": [
         "Développement social"
       ],
-      "contenu": "-  Tour de Pat Patrouille\n\n- 5 personnages ; Maire Humdinger, Marcus, Chase X 2 \n\n- 2 avions Marcus\n\n- 1 camion de pompier Marcus\n\n- Accessoires dans l'armoire blanche sac # 0947",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "-  Tour de Pat Patrouille\n\n- 4 personnages ; Maire Humdinger, Marcus, Chase X 2 \n\n- 2 avions Marcus\n\n- 1 camion de pompier Marcus\n\n- Accessoires dans l'armoire blanche sac # 0947",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-26",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0588",
@@ -12627,11 +12630,10 @@
         "Développement physique"
       ],
       "contenu": "jeu vtech \nballon de soccer",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-10-06",
-      "date_retour_prevue": "2026-10-27"
+      "date_acquisition": "2026-10-06"
     },
     {
       "id": "0443",
