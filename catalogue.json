@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-10T13:48:47.304Z",
+  "derniere_mise_a_jour": "2026-11-11T12:59:37.631Z",
   "total": 1064,
-  "disponibles": 963,
+  "disponibles": 968,
   "jouets": [
     {
       "id": "0085",
@@ -493,11 +493,10 @@
         "Développement physique"
       ],
       "contenu": "ballon basket",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-10",
-      "date_retour_prevue": "2026-10-24"
+      "date_acquisition": "2026-07-10"
     },
     {
       "id": "0654",
@@ -5548,10 +5547,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 30 cartes\n\n- 10 objets\n\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-31"
+      "date_acquisition": "2026-03-31",
+      "date_retour_prevue": "2026-12-01"
     },
     {
       "id": "0941",
@@ -5657,11 +5657,10 @@
         "Développement affectif"
       ],
       "contenu": "210 cartes\n1 sablier\n1 bloc notes\n1 fiche de règlements \n1 crayon de plomb",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-11-11"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0718",
@@ -6336,11 +6335,10 @@
         "Développement social"
       ],
       "contenu": "-6 bandeaux\n-16 badge de scone\n-1 sablier\n-69 cartes illustrées\n-3 cartes de questions\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0223",
@@ -7764,11 +7762,10 @@
         "Développement cognitif"
       ],
       "contenu": "-1 planche de jeu\n\n-24 \"Murs\"\n\n-24 jetons\n\n-1 sac en toile\n\n-1 dé\n\n-4 figurines (rouge, bleu, vert, jaune)\n\n-4 billes \"Métallique\"\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-03-01",
-      "date_retour_prevue": "2026-11-11"
+      "date_acquisition": "2024-03-01"
     },
     {
       "id": "0142",
@@ -9008,10 +9005,11 @@
         "Développement social"
       ],
       "contenu": "- 1 planche de jeu\n- 4 pions et 4 supports\n- 24 lettres rouges\n- 24 lettres bleus\n- 24 lettres verts\n- 24 lettres jaunes\n- 52 cartes facteur\n- 1 dé\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-11-20"
+      "date_acquisition": "2024-11-20",
+      "date_retour_prevue": "2026-12-01"
     },
     {
       "id": "0251",
@@ -11507,11 +11505,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 table de billard\n2 bâtons\n1 triangle\n16 boules\nrègles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-10-26"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0534",
@@ -11741,11 +11738,10 @@
         "Développement social"
       ],
       "contenu": "1 sablier\n1 dé\n8 crayon effacable noir (4 rouges en ce moment 30-09-2026 SCP)\n8 carnet de dessin, rouge, orange, vert, noir, bleu, blanc, rose, jaune\n8 truc pour essuyer noir (6 en ce moment 30-09-2026 SCP)\n154 carte",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-23",
-      "date_retour_prevue": "2026-11-11"
+      "date_acquisition": "2025-07-23"
     },
     {
       "id": "0403",
@@ -12222,7 +12218,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-11-27"
+      "date_retour_prevue": "2026-12-01"
     },
     {
       "id": "1053",
@@ -12656,11 +12652,10 @@
         "Développement social"
       ],
       "contenu": "- Règles du jeu\n\n- 72 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-07-09",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2026-07-09"
     },
     {
       "id": "0778",
