@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-12T14:01:04.844Z",
-  "total": 1064,
-  "disponibles": 968,
+  "derniere_mise_a_jour": "2026-11-13T13:28:03.772Z",
+  "total": 1065,
+  "disponibles": 962,
   "jouets": [
     {
       "id": "0085",
@@ -118,10 +118,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 28 pièces",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-12-18"
+      "date_acquisition": "2024-12-18",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0816",
@@ -313,10 +314,11 @@
         "Développement physique"
       ],
       "contenu": "avion",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-01-02"
+      "date_acquisition": "2026-01-02",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0578",
@@ -1449,10 +1451,11 @@
         "Développement physique"
       ],
       "contenu": "carte du monde + crayon",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-07"
+      "date_acquisition": "2026-05-07",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0562",
@@ -2578,10 +2581,11 @@
         "Développement social"
       ],
       "contenu": "- 16 colonies portuaires (4x4)\n\n- 36 unités (4x9)\n\n- 12 bateaux (4x3)\n\n- 8 colons (4x2)\n\n- 12 marqueurs (4x3)\n\n- 4 bateaux pirates (4x1)\n\n- 6 bancs de poissons\n\n- 24 sacs d'épices\n\n- 76 pièces d'or (40x1, 36x3)\n\n- Pièces de cadre → 1x : A1, A2, C1, C2, D1, D2, E, F, G           2x : B1, B2, B3\n\n- 6 tuiles Rivière d'or \n\n- 6 tuiles Banc de poissons\n\n- 6 tuiles Village d'épices\n\n- 8 tuiles et 6 jetons vert en dessous\n\n- 8 tuiles et 6 jetons orange en dessous\n\n- 6 jetons repaire de pirates \n\n- 3 fiches Mission\n\n- 3 fiches Point de Victoire (PV)\n\n- 4 fiches Coûts de construction",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-31"
+      "date_acquisition": "2026-03-31",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0684",
@@ -3035,10 +3039,11 @@
         "Développement du langage"
       ],
       "contenu": "-12 pièces\n\n-8 cartes\n\n-1 planche de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-16"
+      "date_acquisition": "2024-01-16",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0535",
@@ -3495,11 +3500,10 @@
         "Développement social"
       ],
       "contenu": "Cape noir avec dragon rouge",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-06-23",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2026-06-23"
     },
     {
       "id": "0613",
@@ -4005,11 +4009,10 @@
       "nom": "Costume : Pirate",
       "categories": [],
       "contenu": "- 1 veste\n\n- 1 Chapeau\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-10-10",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2026-10-10"
     },
     {
       "id": "0331",
@@ -4054,10 +4057,11 @@
         "Développement affectif"
       ],
       "contenu": "1 onepiece policier\n1 veste pare-balle\n1 casque",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-10"
+      "date_acquisition": "2025-05-10",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0898",
@@ -4128,11 +4132,10 @@
         "Développement affectif"
       ],
       "contenu": "1 robe",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-10-22",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2026-10-22"
     },
     {
       "id": "0612",
@@ -4641,11 +4644,10 @@
         "Développement motricité fine"
       ],
       "contenu": "1 dé de couleur\n1 dé de chiffre\n1 tête d'écureuil\n30 noisettes en bois",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-27",
-      "date_retour_prevue": "2026-11-05"
+      "date_acquisition": "2026-05-27"
     },
     {
       "id": "0182",
@@ -4739,10 +4741,11 @@
         "Développement social"
       ],
       "contenu": "- 48 cartes\n- 12 cubes\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-23"
+      "date_acquisition": "2026-02-23",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "1052",
@@ -5222,10 +5225,11 @@
         "Développement cognitif"
       ],
       "contenu": "-198 cartes énigmes\n-1 bloc-notes\n-1 sablier\n-1 crayon\n-Règlements boite",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-08"
+      "date_acquisition": "2025-05-08",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "1096",
@@ -6054,11 +6058,10 @@
         "Développement social"
       ],
       "contenu": "-1 grand garage fisher price\n- 4 grosse voiture : 1 jaune, 1 verte, 1 pompier, 1 police",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-24",
-      "date_retour_prevue": "2026-10-11"
+      "date_acquisition": "2024-01-24"
     },
     {
       "id": "0254",
@@ -6182,6 +6185,18 @@
       "photo": null,
       "date_acquisition": "2024-01-24",
       "date_retour_prevue": "2026-08-24"
+    },
+    {
+      "id": "1170",
+      "nom": "Gros Ballon Bleu exercice",
+      "categories": [
+        "Développement physique"
+      ],
+      "contenu": "1 gros ballon d'exercice",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-12"
     },
     {
       "id": "0437",
@@ -7798,10 +7813,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 plateau de jeu\n\n-5 tuiles de jeu avec fleur\n\n-2 figurines\n\n-3 sapins\n\n-1 maison\n\n-1 livret de 48 défis\n\n-1 bande dessinée\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0261",
@@ -8906,10 +8922,11 @@
         "Développement physique"
       ],
       "contenu": "8 chaise verte\n8 chaise rouge\n8 chaise bleu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-07-11"
+      "date_acquisition": "2025-07-11",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0516",
@@ -10075,7 +10092,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2024-02-22",
-      "date_retour_prevue": "2026-11-05"
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0166",
@@ -10460,10 +10477,11 @@
         "Développement cognitif"
       ],
       "contenu": "24 Puzzles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-01-09"
+      "date_acquisition": "2025-01-09",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0506",
@@ -10823,11 +10841,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-2 éléments de forteresse pliables\n\n-4 créneaux de forteresse\n\n-1 tour\n\n-4 escaliers\n\n-1 case d'arrivée\n\n-1 dé\n\n-4 pions (figurines de jeu \"fantômes\")\n\n-3 boules\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-13",
-      "date_retour_prevue": "2026-10-11"
+      "date_acquisition": "2024-01-13"
     },
     {
       "id": "0863",
@@ -11323,10 +11340,11 @@
         "Développement social"
       ],
       "contenu": "-90 cartes\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0687",
@@ -11383,11 +11401,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-station spatiale\n-capsule spatiale\n-Rover-1\nSAC:\n-3 personnages\n-un sac a dos\n-une trottinette spatiale\n-une tige \n1 chien Robot",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-16",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2026-04-16"
     },
     {
       "id": "0563",
@@ -11908,10 +11925,11 @@
         "Développement social"
       ],
       "contenu": "6 plateaux de ville ( grille 4X4 )\n           126 bâtiments ,90 cubes de ressources en bois ( bois ,blé, brique, verre, pierre. )\n            25 cartes Bâtiment, 15 cartes Monument, 15 cartes Ressource.\n           1 marqueur  Maître Bâtisseur ( marteau),1 bloc de score et 1 livret de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-15"
+      "date_acquisition": "2026-04-15",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0715",
@@ -12178,10 +12196,11 @@
         "Développement social"
       ],
       "contenu": "- 6 dés\n\n- 1 bloc notes\n\n- 4 crayons feutres\n\n- instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-10-14"
+      "date_acquisition": "2026-10-14",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0767",
@@ -12275,11 +12294,10 @@
         "Développement physique"
       ],
       "contenu": "- 1 trottinette noir",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-06-06",
-      "date_retour_prevue": "2026-11-26"
+      "date_acquisition": "2025-06-06"
     },
     {
       "id": "0657",
@@ -12713,10 +12731,11 @@
         "Développement social"
       ],
       "contenu": "35 panier en bois ( 7 X chaque couleurs)\n56 Champignons en bois ( 14 X Chaque variétés) \n1 jeton premier joueur\n4 plateaux Coin à champignons\n16 cartes d'information\nlivret d'instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-07"
+      "date_acquisition": "2026-05-07",
+      "date_retour_prevue": "2026-12-03"
     },
     {
       "id": "0390",
