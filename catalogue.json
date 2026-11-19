@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-18T14:37:06.903Z",
-  "total": 1065,
-  "disponibles": 962,
+  "derniere_mise_a_jour": "2026-11-19T14:44:03.201Z",
+  "total": 1066,
+  "disponibles": 964,
   "jouets": [
     {
       "id": "0085",
@@ -1317,11 +1317,10 @@
         "Développement social"
       ],
       "contenu": "camion pat patrouille + accessoire : 57.60\ncamion pompier + figurine Marcus : 12.99\n- 2 Quad, 1 Ryder\n\n- 1 figurine Marcus avec Camion pompier\n\n- 3 petites figurine : Everest ,Marcus, Rubble \n\nAccessoires ranger armoire sac # 0867",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-03",
-      "date_retour_prevue": "2026-11-02"
+      "date_acquisition": "2025-11-03"
     },
     {
       "id": "0608",
@@ -2773,7 +2772,7 @@
       "categories": [
         "Développement affectif"
       ],
-      "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pic au bout\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach)\n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
+      "contenu": "-1 Bateau Bowser avec 5 hélices et 1 pointe jaune au bout (manques 3 hélices et la pointe jaune )\n-4 petites figurines (Donkey Kong, Yoshi, Mario, Peach) \n-5 grosses figurines (Mario, Bowser, Toad, Toadette, princesse Rosalina) Sac de figurine dans l'armoire blanche sac # 0598\n-1 baton avec drapeau Mario\n-1 Château Peach\n-1 Château Bowser\nnote: manque petit mario va regarder chez-elle\nJessica Grondin.",
       "statut": "Disponible",
       "disponible": true,
       "photo": null,
@@ -5588,11 +5587,10 @@
         "Développement social"
       ],
       "contenu": "- 64 cartes action\n- 21 disque de déplacement\n- 6 personnages\n- 1 plateau\n- 1 guide et 1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-06",
-      "date_retour_prevue": "2026-10-29"
+      "date_acquisition": "2026-02-06"
     },
     {
       "id": "0991",
@@ -6975,6 +6973,20 @@
       "date_acquisition": "2025-04-17"
     },
     {
+      "id": "1171",
+      "nom": "Jeux de quilles",
+      "categories": [
+        "Développement physique",
+        "Développement motricité fine",
+        "Développement social"
+      ],
+      "contenu": "- 10 Quilles\n\n- 1 balle de bowling rouge",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-18"
+    },
+    {
       "id": "0964",
       "nom": "Jeux de quilles",
       "categories": [
@@ -7441,10 +7453,11 @@
         "Développement mémoire"
       ],
       "contenu": "- 40 Cartes pirates\n- 1 ile ( plateau)\n- 10 cartes rondes\n- 4 cachettes\n-",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-10-02"
+      "date_acquisition": "2024-10-02",
+      "date_retour_prevue": "2026-12-09"
     },
     {
       "id": "0990",
@@ -12176,16 +12189,15 @@
     },
     {
       "id": "0972",
-      "nom": "Transporteur Monster Truck Hot Wheels (Accessoires dans l'armoire, sac #0972)",
+      "nom": "Transporteur Monster Truck Hot Wheels",
       "categories": [
         "Développement social"
       ],
-      "contenu": "- 5 Voiture :1 grise,1 verte,1 mauve et jaune,1 rouge,1 bleu, rouge et blanc\n \n- Accessoires dans l'armoire blanche, sac # 0972",
-      "statut": "Emprunté",
-      "disponible": false,
+      "contenu": "-  Aucun accessoires",
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-13",
-      "date_retour_prevue": "2026-11-02"
+      "date_acquisition": "2026-02-13"
     },
     {
       "id": "1157",
@@ -12584,10 +12596,11 @@
         "Développement du langage"
       ],
       "contenu": "- 6 planches images\n\n- 6 liste de mots\n\n- cartes ; 20 bleus, 20 vertes, 20 rouge, 20 oranges, 19 mauves, 19 brunes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-03-24"
+      "date_acquisition": "2026-03-24",
+      "date_retour_prevue": "2026-12-09"
     },
     {
       "id": "0522",
