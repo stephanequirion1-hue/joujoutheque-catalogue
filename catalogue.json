@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-19T14:44:03.201Z",
+  "derniere_mise_a_jour": "2026-11-20T14:25:20.084Z",
   "total": 1066,
-  "disponibles": 964,
+  "disponibles": 963,
   "jouets": [
     {
       "id": "0085",
@@ -2689,10 +2689,11 @@
         "Développement social"
       ],
       "contenu": "1 livret recettes,  1 livret instructions\n12 livres d'ingrédients, 24 cartes divinatoires , 4 sac\n4 bouteilles , 4 tuiles , 20 rubis , 1 dé bonus , 1 flammes , 8 gouttes , 4 marqueurs de points , 4 jetons rats \n3 jetons réserve, 219 jetons d'ingrédients, 1 plateau pour marquer les points, 4 chaudrons (tableau des joueurs )",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-18"
+      "date_acquisition": "2026-05-18",
+      "date_retour_prevue": "2026-12-10"
     },
     {
       "id": "0213",
