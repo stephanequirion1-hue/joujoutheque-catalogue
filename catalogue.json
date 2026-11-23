@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-22T13:38:43.928Z",
+  "derniere_mise_a_jour": "2026-11-23T16:33:06.196Z",
   "total": 1066,
-  "disponibles": 963,
+  "disponibles": 970,
   "jouets": [
     {
       "id": "0085",
@@ -301,11 +301,10 @@
         "Développement social"
       ],
       "contenu": "- 1 avion\n- 4 personnages Fisher Price\nAccessoires dans l'armoire blanche sac # 0170",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-11-28"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0930",
@@ -857,10 +856,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 5 planches de jeu\n- 26 cartes\n- 50 jetons\n- règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-05-22"
+      "date_acquisition": "2025-05-22",
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "0844",
@@ -1086,11 +1086,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu,4 planchettes joueur.1 planchette billetterie,2 planchettes cocktail\n\n- 1 carte-code,92 cartes,4 sucettes glacé,32 jetons fruits, 12 jetons numéros, 35 coupons, 1 support à carte, \n\n- 4 pions, 1 dé, \n\n- Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-09",
-      "date_retour_prevue": "2026-11-07"
+      "date_acquisition": "2026-04-09"
     },
     {
       "id": "0050",
@@ -3234,11 +3233,10 @@
         "Développement cognitif"
       ],
       "contenu": "-110 cartes\n\n-4 fiches d'aides de jeu\n\n-1 plateau\n\n-10 cubes verts\n\n-8 cubes rouges\n\n-8 cubes jaunes\n\n-8 cubes noirs\n\n-8 cubes bleus\n\n-1 bol\n\n-4 pions exclamation et 1 pion interrogation\n\n-Règles du jeu\n- 12 ampoules doubles\n- 27 ampoules simples",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0177",
@@ -4754,11 +4752,10 @@
         "Développement social"
       ],
       "contenu": "1 cuisinière\n1 frigo\n1 chaudron avec couvercle\n1 couteau et 1 cuillère\n4 Gros shopkins\n2 glaçons\n17 petits shopkins\n1 tasse à mesurer\n1 petit pop-sicle rose",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-15",
-      "date_retour_prevue": "2026-11-07"
+      "date_acquisition": "2026-05-15"
     },
     {
       "id": "0307",
@@ -5828,11 +5825,10 @@
         "Développement social"
       ],
       "contenu": "- 290 cartes sujet\n\n- 10 carte préférence (2 séries numérotées de 1 à 5)\n\n- 1 carnet de score",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-20",
-      "date_retour_prevue": "2026-10-22"
+      "date_acquisition": "2025-11-20"
     },
     {
       "id": "0854",
@@ -6130,11 +6126,10 @@
         "Développement cognitif"
       ],
       "contenu": "36 Tuiles de jeu\n\n \n\n1 Livret de jeu\n\n \n\n1 Autocorrecteur",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0255",
@@ -6349,10 +6344,11 @@
         "Développement social"
       ],
       "contenu": "-6 bandeaux\n-16 badge de scone\n-1 sablier\n-69 cartes illustrées\n-3 cartes de questions\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "0223",
@@ -6373,11 +6369,10 @@
         "Développement du langage"
       ],
       "contenu": "- 100 cartes \"hein?\"\n\n- 11 cartes “paquet promotionnel”\n\n- 4 cartes joueur\n\n- 17 carte plastifier\n\n- crayon effaçable\n\n- 1 sablier\n\n- 48 jetons\n\n- 1 carte aide jeu\n\n- règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-12",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2025-07-12"
     },
     {
       "id": "1018",
@@ -9258,11 +9253,10 @@
         "Développement social"
       ],
       "contenu": "- 18 cartes Fantôme personnage\n- 18 cartes Fantôme Lieu\n- 18 cartes Fantôme objet\n- 84 cartes vision\n- 6 jetons coupable\n- 6 jetons fantôme\n- 3 jetons corbeau\n- 6 pions intuition\n- 36 jetons clairvoyance\n- 18 cartes medium personnage\n- 6 jetons niveau clairvoyance\n- 18 cartes medium lieu\n- 18 cartes medium objet\n- 6 étuis\n- 3 plateaux progression\n- 1 plateau horloge\n- 1 sablier\n- 1 piste clairvoyance et plateau progression final\n- 1 paravent 2X instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-12-09",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2025-12-09"
     },
     {
       "id": "0741",
@@ -9403,10 +9397,11 @@
         "Développement cognitif"
       ],
       "contenu": "-1 coffre-fort\n-6 jetons \"Fil\"\n-6 enveloppes\n-144 questions\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "0824",
@@ -10152,10 +10147,11 @@
         "Développement du langage"
       ],
       "contenu": "-6 personnages\n\n-9 morceaux de casse-tête\n\n-1 dé visages\n\n-20 cartes bleues \"Où?\"\n\n-20 cartes rouges \"Avec quoi?\"\n\n-20 cartes jaunes \"Qui?\"\n\n-20 cartes mauves \"Quand?\"\n\n-Règles du jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-22"
+      "date_acquisition": "2024-01-22",
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "0127",
@@ -10442,11 +10438,10 @@
         "Développement social"
       ],
       "contenu": "-1 plateau de jeu\n\n-4 cornichons\n\n-4 laitues\n\n-4 tomates\n\n-4 oignions\n\n-4 fromages\n\n-4 boulettes de viande\n\n-4 ketchups\n\n-4 moutardes\n\n-1 dé\n\n-4 pions (jaune,vert,bleu,rouge)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-16",
-      "date_retour_prevue": "2026-10-22"
+      "date_acquisition": "2024-01-16"
     },
     {
       "id": "0915",
@@ -11596,11 +11591,10 @@
         "Développement social"
       ],
       "contenu": "- 120 cartes combat\n- 12 cartes sélection\n- 12 plateaux Combattant\n- 40 cubes de puissance ( violets)\n- 6 marqueurs de points ( verts)\n- 4 marqueurs spéciaux ( jaunes)\n- 1 jeton Shérif, \n1 jeton Golem, \n1 jeton Serpent, 2 jetons Concentration, 5 jetons Flamme, 11 jetons Intrigue\n \n- 1 guides des Combattants et Livret des règles",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "1047",
@@ -11622,11 +11616,10 @@
         "Développement social"
       ],
       "contenu": "- 28 parcelles + 2 parcelles panda ,28 sections de Bambou vert, 26 sections de Bambou jaune, 24 sections de Bambou rose,\n\n- 19 irrigations , 9 aménagements + 3 extras grises\n\n- 46 cartes objectif, 4 plateaux individuels, \n8 jetons actions, 1 dé météo, 1 figurine Panda, 1 figurine Jardinier.\n1 livret de règles.",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-04-15",
-      "date_retour_prevue": "2026-11-28"
+      "date_acquisition": "2026-04-15"
     },
     {
       "id": "0304",
@@ -11695,11 +11688,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 1 plateau de jeu\n- 6 pions\n- 1 dé\n- 32 cartes destination\n- 8 cartes taxi\n- 7 barrières rouges\n- 5 cônes orange\n- 12 jetons sens unique",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-10-24",
-      "date_retour_prevue": "2026-11-07"
+      "date_acquisition": "2024-10-24"
     },
     {
       "id": "0154",
@@ -11829,10 +11821,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 100 pièces de tétris :\n       - 25 rouges\n       - 25 bleus\n       - 25 verts\n        - 25 jaunes\n\n- 1dé\n- 1 tour de jeu\n- 2 pieds pour la tour",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-04-01"
+      "date_acquisition": "2025-04-01",
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "1156",
@@ -12431,7 +12424,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2025-07-08",
-      "date_retour_prevue": "2026-11-16"
+      "date_retour_prevue": "2026-12-13"
     },
     {
       "id": "0082",
