@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-23T16:33:06.196Z",
-  "total": 1066,
-  "disponibles": 970,
+  "derniere_mise_a_jour": "2026-11-24T16:31:27.585Z",
+  "total": 1068,
+  "disponibles": 971,
   "jouets": [
     {
       "id": "0085",
@@ -921,6 +921,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-10-24"
+    },
+    {
+      "id": "1173",
+      "nom": "Bloc Lego",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "185 blocs",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-24"
     },
     {
       "id": "0944",
@@ -2761,10 +2773,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 4 blocs : 1 vert, 1 rouge, 1 bleu, 1 orange.\n\n- 3 tours : 1 petite, 1 moyenne, 1 longue.\n\n- 1 règle du jeu\n\n- 1 cahier de défi",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-15"
     },
     {
       "id": "0598",
@@ -5174,10 +5187,11 @@
         "Développement motricité fine"
       ],
       "contenu": "- 1 crayon à encre effaçable\n- 40 cartes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-02"
+      "date_acquisition": "2026-02-02",
+      "date_retour_prevue": "2026-12-15"
     },
     {
       "id": "0132",
@@ -7670,6 +7684,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-12-30"
+    },
+    {
+      "id": "1172",
+      "nom": "Labyrinthe Master",
+      "categories": [
+        "Développement cognitif",
+        "Développement motricité fine",
+        "Développement affectif"
+      ],
+      "contenu": "Édition vintage de 1991\n \n- 1 plateau de jeu\n\n- 15 baguettes magiques\n\n- 21 cartes( jetons) magique\n\n- 21 cartes recettes\n\n- 34 cartes Labyrinthe\n\n- 1 règle de jeu\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-23"
     },
     {
       "id": "0373",
@@ -12163,11 +12191,10 @@
         "Développement physique"
       ],
       "contenu": "Trampoline",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-12-14",
-      "date_retour_prevue": "2026-11-23"
+      "date_acquisition": "2024-12-14"
     },
     {
       "id": "0526",
