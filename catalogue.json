@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-24T16:31:27.585Z",
-  "total": 1068,
-  "disponibles": 971,
+  "derniere_mise_a_jour": "2026-11-25T16:11:33.188Z",
+  "total": 1072,
+  "disponibles": 976,
   "jouets": [
     {
       "id": "0085",
@@ -46,10 +46,11 @@
         "Développement social"
       ],
       "contenu": "67 tuiles\n15 jetons mauvais oeil\n9 saphirs\n1 pochette de rangement",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-02-27"
+      "date_acquisition": "2025-02-27",
+      "date_retour_prevue": "2026-12-16"
     },
     {
       "id": "0995",
@@ -6134,6 +6135,18 @@
       "date_acquisition": "2025-07-17"
     },
     {
+      "id": "1176",
+      "nom": "Gigi ! le jeu qui rit",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 1 plateau de jeu de 2 morceaux\n\n- 24 petites cartes bleu, Gigi\n\n- 72 cartes Gigi\n\n- 6 Emogigis \n\n- Règles du jeu\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-24"
+    },
+    {
       "id": "0208",
       "nom": "Girafe tordue",
       "categories": [
@@ -6957,6 +6970,18 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2025-04-25"
+    },
+    {
+      "id": "1175",
+      "nom": "Jeu Magnetic Max et Ruby",
+      "categories": [
+        "Développement motricité fine"
+      ],
+      "contenu": "- 49 pièces magnetic\n\n-",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-24"
     },
     {
       "id": "0952",
@@ -7903,6 +7928,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-01-12"
+    },
+    {
+      "id": "1177",
+      "nom": "Le trésor du Pirate Boom",
+      "categories": [
+        "Développement cognitif",
+        "Développement mémoire",
+        "Développement social"
+      ],
+      "contenu": "- 65 cartes\n\n- 3 dés\n\n- Trésor : 10 pièces de monnaies, 23 pierres de verres, 72 petite pierres en plastique\n\n- instructions",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-25"
     },
     {
       "id": "0779",
@@ -9171,11 +9210,10 @@
         "Développement du langage"
       ],
       "contenu": "règle\n12 pion\n110 carte\n12 carte plastifier",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-19",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2025-07-19"
     },
     {
       "id": "0787",
@@ -10890,10 +10928,11 @@
         "Développement social"
       ],
       "contenu": "- 150 billets\n- 2 dés\n- 11 jetons bonus\n- 7 jetons départage\n- 1 livret de règles",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2025-10-06"
+      "date_acquisition": "2025-10-06",
+      "date_retour_prevue": "2026-12-16"
     },
     {
       "id": "0059",
@@ -10926,11 +10965,10 @@
         "Développement cognitif"
       ],
       "contenu": "-40 cartes\n\n-12 voitures\n\n-4 camions\n\n-Grille de jeu\n\n-Sac de voyage\n\n-Règles du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-17",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2024-01-17"
     },
     {
       "id": "0843",
@@ -11183,10 +11221,11 @@
         "Développement cognitif"
       ],
       "contenu": "150 cartes de jeu\nfeuilles de pointages + 8 feuilles plastifiée\n1 crayon à encre sèche",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-21"
+      "date_acquisition": "2026-04-21",
+      "date_retour_prevue": "2026-12-16"
     },
     {
       "id": "0244",
@@ -11517,6 +11556,18 @@
       "date_retour_prevue": "2026-10-09"
     },
     {
+      "id": "1174",
+      "nom": "Sur la route",
+      "categories": [
+        "Développement social"
+      ],
+      "contenu": "- 43 cartes d'activités",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-24"
+    },
+    {
       "id": "0210",
       "nom": "Sushi go!",
       "categories": [
@@ -11631,11 +11682,10 @@
         "Développement social"
       ],
       "contenu": "2 LIVRETS DE RÈGLES, \n12 CARTES SOLAIRES ET 12 CARTES LUNAIRES\n3 JETONS RAPPEL ET 3 JETONS BONUS \n10 ÉTUIS CHAPITRE CONTENANT CHACUN 4 HORLOGES ET 1 FEUILLE DE RÈGLES (NUMÉROTÉ EN CHIFFRE ROMAIN)\n1 AIGUILLE \n1 ÉTUI REGRET (VIDE)\n1 ÉTUI RENAISSANCE ( 1 HORLOGE RENAISSANCE, 1 AIGUILLE DE SECONDES ET 6 JETONS)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-05-11",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2026-05-11"
     },
     {
       "id": "1016",
@@ -12520,11 +12570,10 @@
         "Développement social"
       ],
       "contenu": "- 3 Jeux : Jeu num.1 : 60 cartes de jeu+ 10 cartes tutoriel\n \nJeu num. 2 : 60 cartes de jeu\n \nJeu num. 3 : 60 cartes de jeu.\n \n \n- 1 feuillet \n \n- 1 carnet\n \n- 1 instruction",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-02-03",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2026-02-03"
     },
     {
       "id": "0324",
@@ -12716,10 +12765,11 @@
         "Développement cognitif"
       ],
       "contenu": "- 36 cartes de jeux\n- 24 dés\n- 2 cartes d'instructions",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-02-25"
+      "date_acquisition": "2026-02-25",
+      "date_retour_prevue": "2026-12-16"
     },
     {
       "id": "1100",
@@ -12874,11 +12924,10 @@
         "Développement cognitif"
       ],
       "contenu": "1 plateau\n\n1 Livret de règlement\n\n13 enveloppes\n\n4 pions cadenas\n\n1 dé zombie\n\n8 pions zombie\n\n4 pions héros\n\n8 supports",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-20",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2024-02-20"
     },
     {
       "id": "0179",
