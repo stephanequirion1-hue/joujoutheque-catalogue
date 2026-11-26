@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-25T16:11:33.188Z",
-  "total": 1072,
-  "disponibles": 976,
+  "derniere_mise_a_jour": "2026-11-26T15:51:11.710Z",
+  "total": 1073,
+  "disponibles": 977,
   "jouets": [
     {
       "id": "0085",
@@ -7456,6 +7456,20 @@
       "disponible": true,
       "photo": null,
       "date_acquisition": "2024-12-18"
+    },
+    {
+      "id": "1178",
+      "nom": "La boite de Jeux des Monsieur Madame",
+      "categories": [
+        "Développement mémoire",
+        "Développement du langage",
+        "Développement social"
+      ],
+      "contenu": "- 91 cartes personnages\n\n- 1 livre\n\n- 1 plateau de jeu\n\n- 1 roue",
+      "statut": "Disponible",
+      "disponible": true,
+      "photo": null,
+      "date_acquisition": "2026-11-25"
     },
     {
       "id": "0780",
