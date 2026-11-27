@@ -1,7 +1,7 @@
 {
-  "derniere_mise_a_jour": "2026-11-26T15:51:11.710Z",
+  "derniere_mise_a_jour": "2026-11-27T15:39:37.725Z",
   "total": 1073,
-  "disponibles": 977,
+  "disponibles": 985,
   "jouets": [
     {
       "id": "0085",
@@ -375,10 +375,11 @@
         "Développement social"
       ],
       "contenu": "100 Tuiles en résine\n4 Plateaux de joueurs\n9 Fabrique\n4 Marqueurs de score\n1 Marqueur de premier joueur\n1 Sac en lin\n1 Règle de jeu",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-04-21"
+      "date_acquisition": "2026-04-21",
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0634",
@@ -688,11 +689,10 @@
         "Développement social"
       ],
       "contenu": "- Bateau Pat Patrouille\n\n- 6 personnages : Marcus, Chase, Ruben, Zuma, Rocky, Everest\n\n- Accessoires dans l'armoire blanche",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-01-26",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2026-01-26"
     },
     {
       "id": "0963",
@@ -1086,11 +1086,10 @@
         "Développement motricité fine"
       ],
       "contenu": "-4 balles (bleue, verte, rouge, orange)\n-1 marteau\n-1 plateau rouge\n-1 grande structure\n(jeu changé 20-12-2025 racheté par Jade Quirion car perdu une balle)",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-26",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2024-01-26"
     },
     {
       "id": "1009",
@@ -1231,10 +1230,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-1 caisse enregistreuse en bois avec tiroir caisse\n-3 pièces de monnaie (rouge, vert, bleu)\n-1 carte de crédit jaune (perdu)",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0483",
@@ -1341,11 +1341,10 @@
         "Développement affectif"
       ],
       "contenu": "Camion remorque",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-11-27"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0905",
@@ -2207,10 +2206,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-300 morceaux",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-17"
+      "date_acquisition": "2024-01-17",
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0238",
@@ -3078,11 +3078,10 @@
         "Développement social"
       ],
       "contenu": "1 plateau de jeu\n6 pions de personnage\n6 pions mobilier\n7 supports blancs\n7 supports jaunes \n1 bloc-notes de détective\n1 dé\nrègle du jeu",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-08-05",
-      "date_retour_prevue": "2026-11-28"
+      "date_acquisition": "2026-08-05"
     },
     {
       "id": "0936",
@@ -3584,11 +3583,10 @@
         "Développement social"
       ],
       "contenu": "Costume de chat Brun et Blanc",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-28",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2025-11-28"
     },
     {
       "id": "0345",
@@ -4360,11 +4358,10 @@
         "Développement affectif"
       ],
       "contenu": "- 1 one pièce Spiderman\n\n- 2 masques\n\n- 1 paire de gants\n\n-",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-05-10",
-      "date_retour_prevue": "2026-10-22"
+      "date_acquisition": "2025-05-10"
     },
     {
       "id": "0887",
@@ -4420,11 +4417,10 @@
         "Développement social"
       ],
       "contenu": "un chapeau, une robe",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-10-06",
-      "date_retour_prevue": "2026-10-29"
+      "date_acquisition": "2025-10-06"
     },
     {
       "id": "1044",
@@ -5563,11 +5559,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 30 cartes\n\n- 10 objets\n\n- instructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2026-03-31",
-      "date_retour_prevue": "2026-12-01"
+      "date_acquisition": "2026-03-31"
     },
     {
       "id": "0941",
@@ -7342,10 +7337,11 @@
         "Développement motricité fine"
       ],
       "contenu": "-5 formes géométriques\n-1 tête de giraffe\n-10 verres\n-1 chaudières",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2024-01-24"
+      "date_acquisition": "2024-01-24",
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0045",
@@ -9116,7 +9112,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2024-11-20",
-      "date_retour_prevue": "2026-12-01"
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0251",
@@ -10177,11 +10173,10 @@
         "Développement cognitif"
       ],
       "contenu": "- 5 jetons chaussettes\n\n- 5 jetons bananes\n\n- 5 jetons escargots\n\n- 5 jetons cuisses de grenouilles\n\n- 5 jetons araignées\n\n- 10 jetons yeux\n\n- 10 jetons dents\n\n- 10 jetons fromages\n\n- 10 jetons champignons\n\n- 20 cartes serpents\n\n- 20 cartes hiboux\n\n- 20 cartes sorcières\n\n- 20 cartes chauves-souris\n\n- 9 cartons bruns pour tenir le jeu\n\n- 1 planche chaudron\n\n- 1 planche bouillon vert\n\n- 1 plateau à ingrédients\n\n- 1 livre de recettes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-02-22",
-      "date_retour_prevue": "2026-12-03"
+      "date_acquisition": "2024-02-22"
     },
     {
       "id": "0166",
@@ -10384,11 +10379,10 @@
         "Développement social"
       ],
       "contenu": "- 3 Decks complets du JCC pokémon de 60 cartes chacun\n- 2 Guides d'apprentissage\n- 1 Livret de règles\n- 1 Grande pièce métallisée\n- 1 lot de marqueurs de dégâts : 4X100, 12X50, 28X10",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-11-13",
-      "date_retour_prevue": "2026-11-16"
+      "date_acquisition": "2024-11-13"
     },
     {
       "id": "0040",
@@ -11397,7 +11391,7 @@
       "disponible": false,
       "photo": null,
       "date_acquisition": "2026-04-30",
-      "date_retour_prevue": "2026-11-28"
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "0216",
@@ -11840,11 +11834,10 @@
         "Développement social"
       ],
       "contenu": "- 1 Téléphone à roulettes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2024-01-12",
-      "date_retour_prevue": "2026-10-12"
+      "date_acquisition": "2024-01-12"
     },
     {
       "id": "0803",
@@ -12330,11 +12323,10 @@
         "Développement social"
       ],
       "contenu": "- Règle du jeu Français anglais\n- -\n- 36 cartes",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-11-18",
-      "date_retour_prevue": "2026-12-01"
+      "date_acquisition": "2025-11-18"
     },
     {
       "id": "1053",
@@ -12343,10 +12335,11 @@
         "Développement social"
       ],
       "contenu": "1x règlements\n1 sac de 56 triominos\n4 plaquettes",
-      "statut": "Disponible",
-      "disponible": true,
+      "statut": "Emprunté",
+      "disponible": false,
       "photo": null,
-      "date_acquisition": "2026-05-18"
+      "date_acquisition": "2026-05-18",
+      "date_retour_prevue": "2026-12-17"
     },
     {
       "id": "1032",
@@ -12511,11 +12504,10 @@
         "Développement physique"
       ],
       "contenu": "un tourniquet + buse\nun tapis\ninstructions",
-      "statut": "Emprunté",
-      "disponible": false,
+      "statut": "Disponible",
+      "disponible": true,
       "photo": null,
-      "date_acquisition": "2025-07-08",
-      "date_retour_prevue": "2026-12-13"
+      "date_acquisition": "2025-07-08"
     },
     {
       "id": "0082",
